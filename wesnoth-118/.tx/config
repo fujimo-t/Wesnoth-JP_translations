@@ -1,0 +1,293 @@
+[main]
+host = https://app.transifex.com
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth]
+file_filter            = wesnoth/<lang>.po
+source_file            = wesnoth/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-anl]
+file_filter            = wesnoth-anl/<lang>.po
+source_file            = wesnoth-anl/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-anl.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-did]
+file_filter            = wesnoth-did/<lang>.po
+source_file            = wesnoth-did/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-did.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-dm]
+file_filter            = wesnoth-dm/<lang>.po
+source_file            = wesnoth-dm/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-dm.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-dw]
+file_filter            = wesnoth-dw/<lang>.po
+source_file            = wesnoth-dw/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-dw.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-editor]
+file_filter            = wesnoth-editor/<lang>.po
+source_file            = wesnoth-editor/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-editor.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-ei]
+file_filter            = wesnoth-ei/<lang>.po
+source_file            = wesnoth-ei/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-ei.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-help]
+file_filter            = wesnoth-help/<lang>.po
+source_file            = wesnoth-help/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-help.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-httt]
+file_filter            = wesnoth-httt/<lang>.po
+source_file            = wesnoth-httt/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-httt.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-l]
+file_filter            = wesnoth-l/<lang>.po
+source_file            = wesnoth-l/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-l.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-lib]
+file_filter            = wesnoth-lib/<lang>.po
+source_file            = wesnoth-lib/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-lib.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-low]
+file_filter            = wesnoth-low/<lang>.po
+source_file            = wesnoth-low/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-low.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-manpages]
+file_filter            = wesnoth-manpages/<lang>.po
+source_file            = wesnoth-manpages/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-manpages.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-manual]
+file_filter            = wesnoth-manual/<lang>.po
+source_file            = wesnoth-manual/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-manual.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-multiplayer]
+file_filter            = wesnoth-multiplayer/<lang>.po
+source_file            = wesnoth-multiplayer/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-multiplayer.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-nr]
+file_filter            = wesnoth-nr/<lang>.po
+source_file            = wesnoth-nr/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-nr.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-sof]
+file_filter            = wesnoth-sof/<lang>.po
+source_file            = wesnoth-sof/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-sof.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-sota]
+file_filter            = wesnoth-sota/<lang>.po
+source_file            = wesnoth-sota/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-sota.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-sotbe]
+file_filter            = wesnoth-sotbe/<lang>.po
+source_file            = wesnoth-sotbe/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-sotbe.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-tb]
+file_filter            = wesnoth-tb/<lang>.po
+source_file            = wesnoth-tb/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-tb.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-thot]
+file_filter            = wesnoth-thot/<lang>.po
+source_file            = wesnoth-thot/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-thot.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-tools]
+file_filter            = wesnoth-tools/<lang>.po
+source_file            = wesnoth-tools/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-tools.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-trow]
+file_filter            = wesnoth-trow/<lang>.po
+source_file            = wesnoth-trow/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-trow.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-tsg]
+file_filter            = wesnoth-tsg/<lang>.po
+source_file            = wesnoth-tsg/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-tsg.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-tutorial]
+file_filter            = wesnoth-tutorial/<lang>.po
+source_file            = wesnoth-tutorial/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-tutorial.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-units]
+file_filter            = wesnoth-units/<lang>.po
+source_file            = wesnoth-units/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-units.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-utbs]
+file_filter            = wesnoth-utbs/<lang>.po
+source_file            = wesnoth-utbs/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-utbs.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-wc]
+file_filter            = wesnoth-wc/<lang>.po
+source_file            = wesnoth-wc/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-wc.pot
+replace_edited_strings = false
+keep_translations      = false
+
+[o:wesnoth-jp:p:wesnoth-118:r:wesnoth-wof]
+file_filter            = wesnoth-wof/<lang>.po
+source_file            = wesnoth-wof/en.po
+source_lang            = en
+type                   = PO
+minimum_perc           = 0
+resource_name          = wesnoth-wof.pot
+replace_edited_strings = false
+keep_translations      = false
+
