@@ -123,7 +123,7 @@ msgid ""
 msgstr ""
 "やがて、その日が訪れた。黒魔術師がその地に棲みつき、召喚術に用いる生け贄を物色し始めたのだ。\n"
 "\n"
-"スケルトンやゾンビが現れ、家畜を殺し、畑に火を放った。奴らはおぞましい所業を犯しては、身の毛もよだつ声で魔術師 Mordak の名前を叫び、その恐ろしさを讃えて、服従を迫った。男も女も夜を恐れ、子供達は明るい昼間でさえも怯えるようになった。しかし、頼るべき領主は遠く、馬を使っても一日はかかるほどの距離があり、助けを求めに送り出された使者達は、誰一人戻ることがなかった。"
+"スケルトンやゾンビが現れ、家畜を殺し、畑に火を放った。奴らはおぞましい所業を犯しては、身の毛もよだつ声で魔術師 Mordak の名前を叫び、その恐ろしさを讃えて、服従を迫った。男も女も夜を恐れ、子供達は明るい昼間でさえも怯えるようになった。しかし、頼るべき領主は遠く、馬を使っても１日はかかるほどの距離があり、助けを求めに送り出された使者達は、誰一人戻ることがなかった。"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:63
@@ -149,7 +149,7 @@ msgid ""
 " in dire need. Baran sent out that call."
 msgstr ""
 "一方、Baran には Arvith という名の兄がいた。弟同様、外の世界で身を立てようと Maghre "
-"を後にした彼は、やがて傭兵となり、隊商の護衛を請け負う騎馬小隊の隊長を務めるまでになっていた。幸いなことに、かつてこの２人はある取り決めをしていた。窮地に陥った時には、交易の狼煙を使って別な信号を送ろうと。Baran"
+"を後にした彼は、やがて傭兵となり、隊商の護衛を請け負う騎馬小隊の隊長を務めるまでになっていた。幸いなことに、かつてこの兄弟はある取り決めをしていた。窮地に陥った時には、交易の狼煙を使って別な信号を送ろうと。Baran"
 " はその合図を送った。"
 
 #. [part]
@@ -308,7 +308,7 @@ msgid ""
 "He is somewhere due north of here, I would say not more than two days’ ride."
 msgstr ""
 "私は、Mordak "
-"の汚らわしい手が大地や大気の隠された流れに触れているのを感じられます。奴はここの真北のどこか、馬で二日以上はかからない所にいる筈です。"
+"の汚らわしい手が大地や大気の隠された流れに触れているのを感じられます。奴はここの真北のどこか、馬で２日以上はかからない所にいる筈です。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:222
@@ -326,7 +326,7 @@ msgid ""
 "hand, I the left... aye, brother?"
 msgstr ""
 "私は優秀な斥候を何人か選抜し、それに木こりを加えた手勢を率いて隠密行動を取ります。兄さんが派手に暴れ回って奴の手下どもを殺している間、私は隙を突いて直接"
-" Mordak を狙い、魔法で奴を仕留めようと思います。兄さんが右手だとすれば、私が左手・・・そうでしょう、兄さん？"
+" Mordak を狙い、魔法で奴を仕留めようと思います。兄さんが右手で私が左手・・・そうでしょう、兄さん？"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:232
@@ -637,7 +637,7 @@ msgid ""
 "safely locked away in our master’s dungeons by now."
 msgstr ""
 "ハハ！ "
-"お前達は私を捕えたが、それは何の役にも立たぬだろう。私が手勢の半分を付けてお前の大事な大事な魔術師の弟を北へ送って既に一日。今ごろは確実に我が主の地下牢に幽閉されているだろう。"
+"お前達は私を捕えたが、それは何の役にも立たぬだろう。私が手勢の半分を付けてお前の大事な大事な魔術師の弟を北へ送って既に１日。今ごろは確実に我が主の地下牢に幽閉されているだろう。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:561
@@ -693,7 +693,7 @@ msgid ""
 " guards are $first_password_$first_password and "
 "$second_password_$second_password|."
 msgstr ""
-"馬で北東に三日の所にある、さびれた城の中にいる。見張りの合言葉は $first_password_$first_password と "
+"馬で北東に３日の所にある、さびれた城の中にいる。見張りの合言葉は $first_password_$first_password と "
 "$second_password_$second_password| だ。"
 
 #. [message]: speaker=Arvith
@@ -998,19 +998,19 @@ msgstr "間違いだ！死ね！"
 msgid ""
 "Haha! We not kill people for long time. Weapon wants blood. We now kill "
 "humans!"
-msgstr "ハッハッ！ 俺たちは長い間人間を殺していない。武器が血を欲しがっている。今こそ俺たちは人間を殺す！！"
+msgstr "ハッハッ！ ずいぶん長く人間を殺してねぇよなぁ。武器が血を欲しがってるぜ。さあ、人間どもを殺すぞ！"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:500
 msgid ""
 "My sword-arm shall have a say in who will do the dying. Come on, men, let’s "
 "kill some orcs."
-msgstr "誰が死ぬことになるかは私の剣を持つ腕が決める。さあ、者ども、オークどもを殺すぞ。"
+msgstr "誰が死ぬかはこの剣を持つ腕が決める。さあ、者ども、オークの奴らを殺すぞ。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:512
 msgid "One less braggart orc in the world."
-msgstr "この世界にはほら吹きオークもいるのだ。"
+msgstr "自惚れたオークがこの世界から１匹減ったな。"
 
 #. [message]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:520
@@ -1087,7 +1087,7 @@ msgstr "貴様の手にかかろうが Tairach だろうが、死には変わり
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:705
 msgid "‘Tairach’? Who or what is Tairach?"
-msgstr "「Tairach」？Tairach とは何だ、それは物か人か？"
+msgstr "Tairach？ Tairach とは何だ？ あるいは人名か？"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:710
@@ -1265,11 +1265,11 @@ msgstr ""
 "Wesnoth 暦 363 年 5 月 27 日\n"
 "Maghre の Baran の記録より引用\n"
 "\n"
-"にもかかわらず、今、私はしばしば Toen Caric のことを思い出して、気が楽になっている。我々はオークに対して大損害なく抵抗することができたのだ。Arvith 考案によるはさみつけ攻撃が勝敗を決定付けた。その時、私は無謀にも仲間から離れて突進してしまった。私はオークの将軍を負傷させ戦場から退散させたが、その代償は実に大きかった。私が指揮していた仲間達は私が彼らと共にいたなら命を落とさずに済んだだろう。\n"
+"今は落ち着いているが、Toen Caric のことがしばしば頭をよぎる。我々は大きな損害を出すことなくオークを撃退できるはずだった —— 私がいなければ、兄の立案した挟撃作戦は確実に成功していただろう。軽率にも、私は部下を置き去りにして単身突出してしまった —— 敵の将軍を負傷させ、戦場から離脱させたが、その代償は利益をはるかに上回った。仮に私が配下の者たちの元に留まっていれば、彼らは生き残ることができたかも知れない。\n"
 "\n"
-"私はなんとかして Arvith に彼らの死の責任をなすりつけてしまった。私が犯した失敗はもう決して取り消すことができない。しかし、時間がいろいろなことを癒してくれたのではないだろうか？そのように私は思っている。我々はあの村へ再び兄弟として戻るのだ。\n"
+"彼らの死を気に病み続ける兄を責めることなど出来やしないし、自分が犯した過ちを無かったことに出来ようはずもないが、時間が解決してくれることもあるのだろう。私たちは再び兄弟として村に戻るのだ。\n"
 "\n"
-"しかし、依然として私は不安な状態にある。私は・・・この地下牢に閉じ込められたままでは命が残り少ないような何か予感がする、これは何か現実の前触れなのだろうか？"
+"だが、依然として懸念が残っている。この不吉な予感・・・この感覚は地下牢に幽閉されていた時の名残なのか、あるいは本当に何かの予兆なのか。"
 
 #. [side]: type=Orcish Warlord, id=Tairach
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:87
@@ -1280,7 +1280,7 @@ msgstr "Tairach"
 #. [side]: type=Longbowman, id=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:116
 msgid "Reeve Hoban"
-msgstr "顧問官 Hoban "
+msgstr "地方官 Hoban "
 
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:139
@@ -1299,14 +1299,14 @@ msgstr "接近するユニットに対応するため、高い移動力のユニ
 msgid ""
 "There. The village is just across those hills, and already I see men coming "
 "to greet us!"
-msgstr "あそこだ。お前の村はこの丘を超えたところだ。そして、すでに俺たちを歓迎するために男達が来るのが見える。"
+msgstr "もうすぐだな。あの丘を越えたらもう村だ。俺たちを歓迎する群衆がもう見えるぞ！"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:176
 msgid ""
 "No, they are fleeing from something. We must find out what is happening over"
 " there!"
-msgstr "いや、彼らは何かから逃げている。俺たちはあそこで何が起っているのか調査しなければならないぞ！"
+msgstr "いえ、彼らは何かから逃げています。向こうで何が起っているのかを調べなければなりません！"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:181
@@ -1316,7 +1316,7 @@ msgstr "お前達！ 武器を構えろ！"
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:186
 msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
-msgstr "あそこに行って、顧問官の Hoban と話すべきだ。 たぶん彼はここで何が起きているか知っているだろう。"
+msgstr "地方官の Hoban を見つけましょう。彼ならここで何が起きているかを知っているかもしれません。"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:201
@@ -1351,7 +1351,7 @@ msgstr "私達が始めたものを終わらせましょう、兄さん。"
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:231
 msgid "Aye. I’ll be the right arm, and you’ll be the left. Let’s go!"
-msgstr "そうだな、私は右腕でお前は左腕となることができる。さあ行こう！"
+msgstr "うむ。私が右腕ならお前は左腕だ。さあ行くぞ！"
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:250
@@ -1361,21 +1361,22 @@ msgstr "戻って来てくれたとはありがたい。"
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:255
 msgid "No gladder than I am to be here. But what has happened to Maghre?"
-msgstr "ここに居られるより嬉しいことは無い。しかし、Maghre に何があったのだ？"
+msgstr "ここに居られるより嬉しいことはありません。しかし、Maghre に何があったのです？"
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:260
 msgid ""
 "Soon after you departed we were beset by orcs. With half the men of Maghre "
 "gone, we could not stop them."
-msgstr "あなたが出発したすぐ後、私達はオークに包囲されました。Maghre の男たちの半数がいなくなったので、私達は奴らを止められませんでした。"
+msgstr ""
+"あなたが出発してすぐに、オークに包囲されたのです。Maghre の男たちの半数があなたに付いて行ったので、私達は奴らを阻止することができませんでした。"
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:265
 msgid ""
 "The orcish warlord aims to enslave us. We will not be able to hold out for "
 "much longer."
-msgstr "オークの将軍は私たちを奴隷にするのが目的です。 私達はもうこれ以上長くはもたないでしょう。"
+msgstr "オークの将軍は私たちを奴隷にしようとしています。 私達はあまり長くは持ちそうにありません。"
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:270
@@ -1383,30 +1384,29 @@ msgid ""
 "Have a care, his men are fell fighters and have killed many. Very few remain"
 " who can bear arms, but I will send them to aid you in battle."
 msgstr ""
-"注意して下さい。 奴の兵士達は凶暴な戦士で、多くの者を殺しました。 "
-"武器を手に出来る者はほんのわずかしか残っていませんが、戦闘であなた達を助けるために彼等を送りましょう。"
+"気を付けて下さい。 奴の兵士達は凶暴で、既に大勢が殺されています。 武装できる者はほんのわずかしか残っていませんが、戦闘支援のために彼等を送ります。"
 
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:284
 msgid "Slay the Orcish Warlord to free the village"
-msgstr "村を解放するためにオークの将軍を殺害する"
+msgstr "村を解放するためにオークの将軍を討伐する"
 
 #. [objectives]
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:300
 msgid "You can use Reeve Hoban’s keep to recruit or recall additional units."
-msgstr "Reeve Hoban の主塔を用いて追加のユニットを雇用あるいは召還することができます。"
+msgstr "地方官 Hoban の主塔を用いて追加のユニットを雇用あるいは召還することができます。"
 
 #. [message]: speaker=Tairach
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:341
 msgid "Today, you shall pay for disfiguring my face, mage!"
-msgstr "魔術師、今日こそ俺の顔を傷つけたツケを返してもらうぞ！"
+msgstr "魔術師め、今日こそ俺の顔に傷をつけたツケを払ってもらうぞ！"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:346
 msgid ""
 "I have already paid with the lives of my men at Toen Caric. It is time I "
 "righted that mistake and finished this once and for all."
-msgstr "そのために Toen Caric の仲間達の命が犠牲になった。ここでその過ちを正し、全てを終わらせてみせる。"
+msgstr "その代償なら、Toen Caric で仲間達の命を犠牲にしたことで既に支払っている。今こそその過ちを正し、全てを終わらせる時が来たのだ。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:355
@@ -1428,7 +1428,7 @@ msgstr "とても多くのものが破壊されました。オークとアンデ
 msgid ""
 "I must go back to earning my living. But you have my word, little brother; "
 "if you are beset again, I will come."
-msgstr "私は食い扶持を稼ぐ生活に戻らねばならん。だが、約束しよう、我が弟よ。もしまたお前が窮地に陥れば、私は必ず戻ってこよう。"
+msgstr "俺は食い扶持を稼ぐ生活に戻らねばならん。だが、約束しよう、我が弟よ。もしまたお前が窮地に陥れば、私は必ず戻ってこよう。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:384
