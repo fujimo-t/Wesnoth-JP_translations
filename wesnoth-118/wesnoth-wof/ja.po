@@ -2943,7 +2943,7 @@ msgstr ""
 "\n"
 "余は新たな Aquadyne を發見せり。其は此の参姉妹の島の深奥に在り。Haldric が其の精氣を搾取してゐたるエルフの亡靈を滅して後、僅かに参年が過ぎしが、既にして北岸に渦潮が生じたり。其は Alduin の西方にて探究者 Perþ が、怪しき松明に寄りて退去せらるる前に見附けたる渦に酷似す。\n"
 "\n"
-"確かに Aquadyne は大陸全土の弐拾リィグ毎にある可し。全ては探究者 Oþila の予言通りなり。我等は彼女を緑の島に残置す可からざりけり。彼女の働き無かりせば、此の大陸にて人類が対処してゐる物の正体を我等銀の教団が知るまでに、幾世紀もの時を費やすやも知れぬ。精霊の世界は我等が想うより強力なり。\n"
+"確かに Aquadyne は大陸全土の弐拾リィグ毎にある可し。全ては探究者 Oþila の予言通りなり。我等は彼女を緑の島に残置す可からざりけり。彼女の働き無かりせば、此の大陸にて人類が対処してゐる物の正体を我等銀の教団が知るまでに、幾世紀もの時を費やすやも知れぬ。精霊の世界は我等が想ふより強力なり。\n"
 "\n"
 "—— 奇妙なること生じたり。北西の櫓より警告の報を受け、南の島よりは煙が立ち上ってゐる。Rhynnin の遠征隊が襲撃せらるるも、其は蜥蜴のみならざると感ぜらる。余は助けに之く可し。\n"
 "\n"
@@ -5885,7 +5885,7 @@ msgstr "<span size='large'>Resha ！</span>"
 #. his underground realm.
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:768
 msgid "Well, that is it fur me, back doon th’ shute."
-msgstr "へば、これでしめぇだなや。縦穴で降りるべぇ。"
+msgstr "へば、これでしめぇだなや。縦穴でシューっと降りるべぇ。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:788

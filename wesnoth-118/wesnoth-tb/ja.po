@@ -1030,17 +1030,17 @@ msgstr "お前たちは交代要員か？ ということは、もうここを�
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:630
 msgid "Um, yes. Fine. You can go."
-msgstr "うむ、そうだ。よいだろう。行ってよいぞ。"
+msgstr "あー、そうだ。大丈夫だ。行ってよいぞ。"
 
 #. [message]: speaker=Guard2_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:635
 msgid "Um, you’re supposed to give the password."
-msgstr "うむ、お前達は合言葉を伝える事になっているな。"
+msgstr "いや、合言葉を言うことになっているよな。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:640
 msgid "Oh, of course. I had nearly forgotten."
-msgstr "あぁ、もちろんだとも。 もう少しで忘れるところだった。"
+msgstr "あぁ、そうだった。 忘れるところだったよ。"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:643
@@ -1065,7 +1065,7 @@ msgstr "Katklagad!"
 #. [message]: speaker=Guard2_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:665
 msgid "Thanks! Irritating little formality, isn’t it?"
-msgstr "ありがとう！ 少々形式的でいらいらさせたかな？"
+msgstr "ありがとう！ ちょっと堅苦しくてイラつかせちまったかな？"
 
 #. [message]: speaker=Guard2_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:675
@@ -1413,14 +1413,15 @@ msgstr "その代償なら、Toen Caric で仲間達の命を犠牲にしたこ�
 msgid ""
 "It is finished. We’ve defeated him at last. It was good to have you at my "
 "side, Baran."
-msgstr "終わった。ついに我々は奴を倒したのだ。 Baran よ、その瞬間にお前が私の隣にいたことは喜ばしいことであった。"
+msgstr "終わった。ついに我々は奴を倒したのだ。お前が側にいてくれて良かったよ、Baran 。"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:360
 msgid ""
 "So much has been destroyed. It will be difficult to repair all that the orcs"
 " and undead have wrecked. And they could come again."
-msgstr "とても多くのものが破壊されました。オークとアンデッドが破壊した物を復旧するのには苦労するでしょう。そして、奴らはまた来るかもしれません。"
+msgstr ""
+"とても多くのものが破壊されました。オークとアンデッドが破壊したものを全て復旧するのには苦労するでしょう。そして、奴らはまた来るかもしれません。"
 
 #. [message]: speaker=Arvith
 #. "you have my word" is a idiom for promising to do something
@@ -1462,7 +1463,7 @@ msgstr ""
 "\n"
 "Maghre は私が前回見た時よりもかなり良くなっているように見える。Baran は２年の間に数々の奇跡を成し遂げたようだ。村は再建され、周辺の農地も修復されて再入植が進んだ。我が弟の懸念をよそに、村人達がその間に新たな脅威に直面することはなかった。\n"
 "\n"
-"この２年、離れて暮らすことは以前よりも辛かったが、私も弟もそれぞれの使命があり、再会する機会は殆どなかった。しかし、新たな雇い主を伴って仲間と共にこの地方を通過することになったので、私は隊を一時離脱して弟を訪ねることを願い出て、彼から許しを得た。"
+"この２年、離れて暮らすことは以前よりも辛かったが、私も弟もそれぞれの使命があり、再会する機会は殆どなかった。しかし、新たな雇い主に随伴して仲間と共にこの地方を通過することになったので、私は隊を一時離脱して弟を訪ねる許しを得た。"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:27

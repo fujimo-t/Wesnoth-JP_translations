@@ -7,6 +7,7 @@
 # Translators:
 # RatArmy, 2023
 # k konami, 2024
+# h22, 2024
 # 
 #, fuzzy
 msgid ""
@@ -15,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
 "PO-Revision-Date: 2023-12-03 03:44+0000\n"
-"Last-Translator: k konami, 2024\n"
+"Last-Translator: h22, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -4523,12 +4524,12 @@ msgid ""
 "the underworld hinders the flightless, while offering illumination in "
 "darkness to those that may fly above it."
 msgstr ""
-"オアシスの清らかな水は傷ついた者を癒す。黄泉の国の燃えるような霊液は、飛べない者にとっては邪魔だが、その上空を飛べる者へは暗闇の中に光をもたらすのだ。"
+"オアシスの清らかな水は傷ついた者を癒す。地下世界の燃えるような神の血は、飛べぬ者にとっては妨げとなるが、その上を飛べる者にとっては闇を照らす光となるのだ。"
 
 #. [tip]
 #: data/tips.cfg:258
 msgid "<i>― Dominant Gorlack, 3YW</i>"
-msgstr "<i>― 支配者 Gorlack、Wesnoth 暦 3 年</i>"
+msgstr "<i>― 族長 Gorlack 、Wesnoth 暦 3 年</i>"
 
 #. [tip]
 #: data/tips.cfg:261
