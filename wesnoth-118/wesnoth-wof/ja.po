@@ -1,14 +1,15 @@
 # 
 # Translators:
 # h22, 2024
+# RatArmy, 2024
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-21 01:57 UTC\n"
+"POT-Creation-Date: 2024-02-20 02:52 UTC\n"
 "PO-Revision-Date: 2023-12-03 03:44+0000\n"
-"Last-Translator: h22, 2024\n"
+"Last-Translator: RatArmy, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1634,8 +1635,13 @@ msgstr "お前の舌が歯と同じくらい鋭ければな。"
 msgid "Show Advantage"
 msgstr "優位性を表示"
 
+#. [args]
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:371
+msgid "dialog^Advantage"
+msgstr "優位性"
+
 #. [message]: speaker=Vladnir
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:418
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:413
 msgid ""
 "Karron has ascended to the rank of dominant.\n"
 "\n"
@@ -1646,7 +1652,7 @@ msgstr ""
 "新たな飛族は本闘技会の結果を持って族長 Karron に委ねることとする。"
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:426
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:421
 msgid ""
 "This must be a dream.\n"
 "I no longer dwell in the shadow of Gorlack."
@@ -1655,7 +1661,7 @@ msgstr ""
 "これで Gorlack の影に悩まされずにすむ。"
 
 #. [message]: speaker=Vladnir
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:437
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:432
 msgid ""
 "Gorlack has ascended to the rank of dominant.\n"
 "\n"
@@ -1667,13 +1673,13 @@ msgstr ""
 
 #. [message]: speaker=Karron
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:445
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:440
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:81
 msgid "........."
 msgstr "・・・・・・"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:449
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:444
 msgid ""
 "Drakes!\n"
 "\n"
@@ -1698,7 +1704,7 @@ msgstr ""
 "何より最悪なのは —— お前たちの心から恐怖が溢れ出ていることだ！"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:462
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:457
 msgid ""
 "This hope I offer you.\n"
 "There are lands beyond Morogor.\n"
@@ -1717,12 +1723,12 @@ msgstr ""
 "新たな飛族とともに進み、彼の地に我が巣を築くのだ！"
 
 #. [message]: speaker=Vladnir
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:472
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:467
 msgid "So it begins..."
 msgstr "始まるのだな・・・"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:476
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:471
 msgid ""
 "Upon the greatest of all lands my eyrie will stand.\n"
 "\n"
@@ -1733,7 +1739,7 @@ msgstr ""
 "東方の大地に！"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:482
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:477
 msgid ""
 "Await my summons.\n"
 "\n"
@@ -1744,24 +1750,24 @@ msgstr ""
 "それがお前たちの救いとなるだろう！"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:492
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:487
 msgid "For winning by defeating the rival leader, you receive war claws!"
 msgstr "ライバルのリーダーを倒しての勝利により、戦闘用の爪を受領します！"
 
 #. [object]
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:499
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:494
 msgid "War Claws"
 msgstr "戦爪"
 
 #. [object]
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:500
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:495
 msgid ""
 "The finest work of the Morogor forges, these steel claws increase the damage"
 " of the wearer’s melee attack."
 msgstr "Morogor の鍛冶場の最高傑作。この鋼鉄の爪は装着者の近接攻撃のダメージを増加させます。"
 
 #. [effect]
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:504
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:499
 msgid "war claws"
 msgstr "戦爪"
 
@@ -5755,7 +5761,7 @@ msgstr ""
 msgid ""
 "Noo juist whit in th’ fiendish skies ‘boon is that suppose tae mean?! Ah "
 "wull hae ye ken—"
-msgstr "悪魔みでぇな空では、どんな意味だってが？！ おらがおめぇだづに教えでやる ——"
+msgstr "そっだらひでぇ空の上におったら、意味が分がんねってが？！ んだば、おらがおめぇだづに教えでやる ——"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:538
@@ -5783,7 +5789,7 @@ msgid ""
 " Bit thare is na reasoning wi’ dragons. Thay ainlie ken th’ bite o’ oor "
 "axes."
 msgstr ""
-"んだば、そういうことだな、野郎ども。おらが穏やがにやろうとしたのは見でだんべ。んだども、ドラゴンに理屈は通用しね。奴らに分がんのはおらほの斧の切れ味だげだ。"
+"へば、そういうことだな、野郎ども。おらが穏やがにやろうとしたのは見でだんべ。んだども、ドラゴンに理屈は通用しね。奴らに分がんのはおらほの斧の切れ味だげだ。"
 
 #. [message]: speaker=Thurdakor
 #. "What are you waiting for, why are you boys not attacking?!    Wait, maybe
@@ -5796,7 +5802,7 @@ msgid ""
 "\n"
 "A’richt lads, attack!"
 msgstr ""
-"おめぇだづは何を待っでるだ、なして攻撃ばしかげねんだ？！\n"
+"おめぇだづは何を待っでるだ、なして攻撃ばしかけねんだ？！\n"
 "\n"
 "待てよ、ひょっとしたら、命令ば出してねがったが・・・\n"
 "\n"
