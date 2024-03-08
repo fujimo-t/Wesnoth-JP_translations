@@ -1,7 +1,7 @@
 # 
 # Translators:
-# h22, 2024
 # RatArmy, 2024
+# h22, 2024
 # 
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
 "PO-Revision-Date: 2023-12-03 03:44+0000\n"
-"Last-Translator: RatArmy, 2024\n"
+"Last-Translator: h22, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5742,8 +5742,8 @@ msgid ""
 " come spring, wull mak’ fur a stowed oot Knalgan gusher, if ye ken whit ah "
 "mean."
 msgstr ""
-"いぃが、よぉぐ聞げ、ドラゴンども。冬の間中、おめぇだづが凍れだ斜面にアレを垂れ流すのを放っどぐわげにはいがね。春んなっだら、Knalga "
-"の大流入が起ごんだど。おらの言うごどが分がっがどうがは分がらねぇけんど。"
+"いぃが、よぉぐ聞げ、ドラゴンども。冬の間中、おめぇだづが凍れだ斜面にアレを垂れ流すのを放っどぐわげにはいがね。春んなっだら溶けて Knalga "
+"に噴出すんだど。何のごとだか分がるべな。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:523
@@ -5761,7 +5761,7 @@ msgstr ""
 msgid ""
 "Noo juist whit in th’ fiendish skies ‘boon is that suppose tae mean?! Ah "
 "wull hae ye ken—"
-msgstr "そっだらひでぇ空の上におったら、意味が分がんねってが？！ んだば、おらがおめぇだづに教えでやる ——"
+msgstr "空の上なんちゅうあずましくねぇところにおるから、意味が分がんねぇんだな？！ んだば、おめぇだづにも分がるように教えでやる ——"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:538
@@ -5789,7 +5789,7 @@ msgid ""
 " Bit thare is na reasoning wi’ dragons. Thay ainlie ken th’ bite o’ oor "
 "axes."
 msgstr ""
-"へば、そういうことだな、野郎ども。おらが穏やがにやろうとしたのは見でだんべ。んだども、ドラゴンに理屈は通用しね。奴らに分がんのはおらほの斧の切れ味だげだ。"
+"そっだら物言いなら、しがだねぇな。野郎ども、おらが穏やがにやろうとしてたのは見てたんべ。んだども、ドラゴンに理屈は通用しねぇ。奴らに分がんのはおらほの斧の切れ味だげだ。"
 
 #. [message]: speaker=Thurdakor
 #. "What are you waiting for, why are you boys not attacking?!    Wait, maybe
@@ -5844,7 +5844,7 @@ msgstr ""
 #. "Not sure I like the sound of this deal."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:638
 msgid "Nae sure ah like the sound o’ this deal."
-msgstr "その取り引きをおらが気にいるがどうがは分がんねぇな。"
+msgstr "その取り引きをおらが気にいるとは限んねぇな。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:644

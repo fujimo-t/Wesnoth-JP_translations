@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-02-20 02:52 UTC\n"
+"POT-Creation-Date: 2024-03-02 22:44 UTC\n"
 "PO-Revision-Date: 2023-12-03 03:44+0000\n"
 "Last-Translator: RatArmy, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
@@ -1637,62 +1637,62 @@ msgid "Delurin"
 msgstr "Delurin"
 
 #. [message]: speaker=Delurin
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:246
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:245
 msgid ""
 "Maybe we can make a deal! Help us defeat those evil creatures! You may use "
 "our gold reserves to lead us!"
 msgstr "取引しないか？あの邪悪な生き物を倒すのを手伝ってくれ！ 俺たちが蓄えた金を使っていいから、俺たちを引き連れてくれ！"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:256
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:255
 msgid "You receive 100 pieces of gold!"
 msgstr "100 枚の金貨を受け取りました！"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:265
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:264
 msgid ""
 "There are some ancient temples to the southwest; I wonder what might be "
 "inside them!"
 msgstr "南西に古い寺がいくつかあります。その中に何があるのでしょうか！"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:279
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:278
 msgid "The temple seems to be empty."
 msgstr "寺には誰もいないようだ。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:294
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:360
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:293
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:359
 msgid "Looks like there is somebody hidden in the temple."
 msgstr "誰かが寺の中に隠れているようです。"
 
 #. [unit]: id=Moremirmu, type=White Mage
 #. [unit]: id=Moremirmu, type=Mage of Light
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:298
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:297
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:258
 msgid "Moremirmu"
 msgstr "Moremirmu"
 
 #. [effect]
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:314
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:313
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:271
 msgid "holy sword"
 msgstr "聖なる剣"
 
 #. [message]: speaker=Moremirmu
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:334
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:333
 msgid ""
 "I was hiding in this holy place, planning how to defeat the evil undead. Now"
 " with your help, I can destroy them."
 msgstr "私はこの神聖な場所に隠れて、邪悪なアンデッドをいかにして倒すか計画を立てていました。あなたの助けがあれば、彼らを倒せるでしょう。"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:338
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:337
 msgid "Join us, wise one. We welcome your aid!"
 msgstr "我々に加わってください、博識な方。あなたの助けは大歓迎です！"
 
 #. [message]: speaker=Moremirmu
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:342
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:341
 msgid ""
 "If we eradicate the undead blight on these islands, I will surely go with "
 "you. Otherwise, I plan to finish my task here before moving on."
@@ -1700,29 +1700,29 @@ msgstr ""
 "この島々をを荒らしているアンデッドを全滅させる事ができたら、あなたとともに行きましょう。できない時には、先へ進む前にここに残って自分の課題を終わらせる計画を立てます。"
 
 #. [unit]: type=Revenant, id=Xakae
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:366
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:365
 msgid "Xakae"
 msgstr "Xakae"
 
 #. [message]: speaker=Xakae
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:383
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:382
 msgid "Surprise! Searching for magi, and all I get is these foul humans!"
 msgstr "こりゃたまげたぜ！ 魔術師を捜していたら、愚かな人間どもを見つけた！"
 
 #. [message]: speaker=Moremirmu
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:449
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:448
 msgid "Fight on against the undead without me, friends!"
 msgstr "友よ、私がいなくなってもアンデッドと戦い続けてください！"
 
 #. [message]: role=Advisor
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:489
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:488
 msgid ""
 "Thank goodness we have found you, sir! Come aboard quickly, we shall take "
 "you away from this horrible island!"
 msgstr "良かった。閣下を発見できました！ すぐにご搭乗ください。この恐ろしい島から離れましょう！"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:514
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:513
 msgid ""
 "We have wrested control of the island from the evil undead! Now all we have "
 "to do is wait for the ship to arrive, so we can make our way to Elensefar!"
@@ -1730,21 +1730,21 @@ msgstr ""
 "邪悪なアンデッドから島の支配を奪う事ができました！ あとは船の到着を待つだけです。船が到着したら Elensefar を目指す事ができます！"
 
 #. [message]: speaker=Moremirmu
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:527
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:526
 msgid ""
 "Together we have vanquished the foul undead! Come, I will join you on your "
 "noble quest."
 msgstr "私たちは邪悪なアンデッドを一緒に打ち負かす事ができました！ さあ、私はあなたの高貴な冒険に加わります。"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:547
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:546
 msgid ""
 "It’s a shame complete victory could not be ours, but thank goodness I am "
 "rescued! On to Elensefar!"
 msgstr "完全に勝利できなかったのは残念ですが、ありがたい事に救出されました！ Elensefar に向かいましょう！"
 
 #. [message]: speaker=Moremirmu
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:557
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:556
 msgid ""
 "Thank you for your assistance here, brothers. I will stay to continue "
 "resisting the foul undead. May fate be with you in your noble quest, and may"
@@ -1753,7 +1753,7 @@ msgstr ""
 "同志よ、ここでの支援に感謝します。私は邪悪なアンデッドに抵抗し続ける為にここに留まるつもりです。運命の女神があなたの高貴な冒険とともにありますように。そして、いつかまた会う事ができますように！"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:572
+#: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:571
 msgid "You regain your lost troops and $isle_damned_starting_gold gold!"
 msgstr "あなたは、はぐれていた仲間と再会し、 $isle_damned_starting_gold ゴールドも戻ってきました！"
 
