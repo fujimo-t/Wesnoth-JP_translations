@@ -1,0 +1,1418 @@
+term,pos,notes,is_case_sensitive,translation_ja,notes_ja
+A Tale of Two Brothers,noun,,false,二人の兄弟の物語,メインラインキャンペーンの一つ。tb
+AI,noun,,false,AI,人工知能（Artificial Intelligence）のことだが、Wesnoth の用語としては、ゲームの思考ルーチンくらいの意味。
+AI controller,noun,,false,AIコントローラー,コントローラーも参照。
+AI formula,,,false,AI フォーミュラ,フォーミュラも参照。
+AMLA,noun,,false,AMLA,After Maximum Level Advancementの略。最高位後昇進。
+Abhai,noun,,false,Abhai,"異国の王の幽霊。
+「北部の再興」"
+Academy,noun,,false,アカデミー,Alduin島の魔術師アカデミーのことを指す場合が多い。
+Action,,,false,アクション,"(1) アクション。動作。行動。
+(2) トップパネルに表示されているアクションボタン。"
+Actions button,noun,,false,アクションボタン,トップパネルに「行動」と表示されていボタン。
+Add-ons,noun,,false,アドオン,
+Aethen River,noun,,false,Aethen 川,Wesnothの南の国境近くにある川。
+Aethenwood,noun,,false,Aethen の森,"エルフの住む南西の森、またはそこにある都市。
+Aethenwoodの森と訳してある箇所も多いけど、見つけたら直してね。"
+After Maximum Level Advancement,noun,,false,最高位後昇進,AMLAも参照。
+Aiglondur,noun,,false,Aiglondur,"ドワーフ。Hamel 卿の大甥。
+「Thursaganの槌」"
+Aimucasur,noun,,false,Aimucasur,"Alduin島の魔術師アカデミーの初代校長。
+その後、失踪し、「王位継承者」の時代にはリッチになっていた。"
+Alanin,noun,,false,Alanin,"Haldric II世の腹心。
+「炎の笏」"
+Aldar,noun,,false,Aldar,"人間。
+「Wesmere の伝説」"
+Aldril,noun,,false,Aldril,真珠の入り江の面する都市。
+Ambush,noun,,false,伏兵,能力の1つ。森の中では敵に見つからない。
+An Orcish Incursion,noun,,false,オークの襲撃,"メインラインキャンペーンの一つ。
+aoi"
+Angarthing,noun,,false,Angarthing,"ドワーフ。伝承家。
+「Thursaganの槌」"
+Annuvin,noun,,false,Annuvin,地方の名前。かつてはDallbenとDelwynという人間の村があった。
+Arcane,noun,,false,秘術,ダメージ型の一つ。
+Areth's Pass,noun,,false,Arethの道,"恐怖の沼地を通過することができる数少ない道のなかで、最大のもの。
+わざわざ'sで表現されていることや、好む者の少ない危険な地域ということから固有名詞化していないであろうと考え、「の」を残した。"
+Arkan-thoria,noun,,false,Arkan-thoria,"Vrug湖から伸びる川。
+人間はLonglierと呼ぶ。"
+Arvith,noun,,false,Arvith,"兄さん。騎士。
+「２人の兄弟の物語」
+Arne"
+Asheviere,noun,,false,Asheviere,"「王位継承者」の登場人物。
+悪役。
+闇の女王とか、簒奪の女王とか、ひどい言われようだ。"
+Aspirant,noun,,false,志願者,"""Winds of Fate"" で使用されている。
+""Wing"" を指揮し、""contention"" に参加するのに十分な資格を持つドレーク。
+この資格は一連の試練をクリアすることで得られる。
+
+他の訳語の候補としては、「熱望者」「野心家」「候補生」「大志持つ者」「大望抱きし者」「翼隊長」など。"
+Background,noun,,false,サブ,"エディタのパレットのうち、現在使用されていない方。サブとメインのパレットは切り替えることができる。
+なお、当然エディタが関係しない場合もあるので、そのつど訳してください。"
+Backstab,noun,,false,奇襲,特殊武器の一つ。
+Baglur,noun,,false,Baglur,"ドワーフ。
+「炎の笏」"
+Baldras,noun,,false,Baldras,"Dallben の村長
+「自由‎」"
+Barag Gor,noun,,false,Barag Gor,オーク連合の首都。
+Baran,noun,,false,Baran,"弟。魔術師。
+「２人の兄弟の物語」
+Bjarn"
+Barren Plains,noun,,false,不毛の平野,極北の地名。
+Bat,noun,,false,コウモリ,種族の一つ。
+Battle for Wesnoth,noun,,false,Battle for Wesnoth,王位継承者の24章を指す場合は「Wesnoth への戦い」
+Bay of Pearls,noun,,false,真珠の入り江,"地名。
+北のElensefar半島と南西のAlduin島によって大洋から分離されています。
+緑の島からの人間の避難民が1YWにたどり着いた場所です。"
+Berserk,noun,,false,狂戦,特殊武器の一つ。
+Bitok,noun,,false,Bitok,極北の都市
+Bitter Swamp,noun,,false,苦痛の湿地,地名
+Black Forest,noun,,false,黒の森,「南の森」のさらに南にある森。
+Black Marshes,noun,,false,黒い湿地帯,
+Black River,noun,,false,黒の川,「南の森」と「黒の森」の間を流れる川。
+Black-Eye Karun,noun,,false,黒眼のKarun,"オークの族長の1人。
+オーク連合を組織し、Great Hordeのおきてを定めた。
+Kapou'eの父。"
+Blackfire,noun,"December, name of month",false,黒炎,１２月。黒炎の月
+Blackwater,noun,,false,黒水港,
+Blackwater Port,noun,,false,黒水港,真珠の入り江の南にある都市。
+Blade,noun,,false,斬撃,ダメージ型の一つ。
+Bleeding Moon,noun,"February, name of month",false,血月,２月。血月の月
+Block,noun,,false,ブロック,無視リストに追加すること。最近投入された用語なので、無視リスト自体も「ブロックリスト」とかにかわるかも？
+Bonus,noun,,false,ボーナス,臨時収入。ゴールドか経験値を得ること。
+Book of Crelanu,noun,,false,Crelanuの本,"Crelanuの魔法書とも。
+やばい魔法書。"
+Book of Fire and Darkness,noun,,false,炎と暗黒の書,炎のルビーについて書いてある書物。
+BorStep,noun,,false,BorStep,極北の都市
+Brena,noun,,false,Brena,"大槌兵
+「２人の兄弟の物語」"
+Bridge,noun,,false,橋,地形の一つ。基本的に複合地形となる。
+Brightleaf Wood,noun,,false,輝く葉の森,Ka'lianの近くにある。
+Brown Hills,noun,,false,茶色丘陵,"地名。
+グリフォンの山を囲む荒野で、人口が少なく、時として非常に危険な地域です。"
+Brush,noun,,false,ブラシ,エディタで地形を描く際のブラシ
+Burin the Lost,noun,,false,はぐれ者 Burin,"ドワーフ。
+「Wesnothの起源」"
+Cache,noun,,false,キャッシュ,使用頻度の高いデータをメインメモリに蓄えておくこと。
+Camerin,noun,,false,Camerin,"魔術師。
+「北部の再興」"
+Campaigns,noun,,false,キャンペーン,
+Carcyn,noun,,false,Carcyn,"都市名。
+灰色森と大いなる川の間に位置する都市。"
+Cavalier,noun,,false,精鋭竜騎士,
+Cave,noun,,false,洞窟,基本地形の一つ。
+Chantal,noun,,false,Chantal,"Kalenzの孫。
+「Delfadorの回顧録」
+「王位継承者」"
+Chaotic,noun,,false,混沌,アラインメントの一つ。
+Charge,noun,,false,突撃,特殊武器の一つ。
+Chasm,noun,,false,裂け目,地形の一つ。
+Chat message,noun,,false,チャットメッセージ,
+Clan,noun,,false,クラン,Wesnoth東部に住む騎乗の氏族を指す。「氏族」とか日本語に直すと、何を指すか分からなくなるので、「クラン」と訳す。
+Clansmen,noun,,false,クランの一員たち,クランのメンバー。
+Clearwater Port,noun,,false,透水港,緑の島で二番目に大きな街。
+Cleodil,noun,,false,Cleodil,"Kalenzの彼女、のちに妻。
+Crelanuの本の管理をしていた。
+「Wesmere の伝説」"
+Cloaked Figure,noun,,false,覆面の人影,「燃える太陽の下で」
+Coastal Reef,noun,,false,岩礁,基本地形の１つ。
+Command,noun,,false,コマンド,ゲーム中にコマンド欄で実行できるコマンド。もちろん、他の意味で使われていることも多いので注意。
+Commander Aethyr,noun,,false,Aethyr 司令,「Wesnothの起源」
+Configure,verb,,false,設定する,
+Core,noun,,false,コア,"アドオンの種類の一つ。ゲームの中核機能を示している？
+例えばデフォルトの他にフォールバックのコアが存在しており、コアをこれに切り替えるとアドオンが読み込まれなくなる。
+コアのアドオンも作れるらしい。"
+Cores,noun,,false,コア,"アドオンの種類の一つ。ゲームの中核機能を示している？
+例えばデフォルトの他にフォールバックのコアが存在しており、コアをこれに切り替えるとアドオンが読み込まれなくなる。
+コアのアドオンも作れるらしい。"
+Crelanu,noun,,false,Crelanu,"魔術師。
+Haldric I世に仕えていたが、後に対立、追放された。
+「Wesmere の伝説」
+「古代の秘密」"
+Crelanu’s philter,noun,,false,Crelanuの秘薬,やばい薬。
+Custom,,,false,カスタム,改造とか特別注文品とかいう意味。
+Custom Command,noun,,false,カスタムコマンド,customコマンドで指定したコマンドを、カスタムコマンドホットキーから一度に起動できる機能。
+Cylanna,noun,,false,Cylanna,"巫女。
+「死の海」"
+Cynsaun,noun,,false,Cynsaun,戦士の女王（Warrior-Queen）。いくつかのマルチプレイヤーマップの背景設定に登場する。
+Dacyn,noun,,false,Dacyn,「東部侵略」
+Dallben,noun,,false,Dallben,人間の村の名前。
+Dancer’s Green,noun,,false,踊り子の草原,Ka'lianの北西にある。
+Dan’Tonk,noun,,false,Dan’Tonk,Wesnoth最大の都市。
+Dark Adept,noun,,false,暗黒僧,女性の場合は「暗黒尼僧」。
+Dark Lady,noun,,false,闇の淑女,Yechnagothを参照。 utbs
+Darken Volk,noun,,false,Darken Volk,"Malin Kesharの師匠。
+「闇へ堕ちて」"
+Dead Water,noun,,false,死の海,"メインラインキャンペーンの一つ。
+dw"
+Debug,noun,,false,デバッグ,バグを見つけ、取り除くこと。
+Debug Command,noun,,false,デバッグコマンド,デバッグ用のコマンド
+Debug Mode,noun,,false,デバッグモード,開発者向けの機能
+Deeproot,noun,"April, name of month",false,深根,４月。深根の月
+Default,noun,,false,デフォルト,既定値
+Default Era,noun,,false,標準の時代,6つの党派とカリフェイトの有無で構成される。
+Defense Cap,noun,,false,上限回避率,一部のユニットには特定の基本地形において上限回避率が指定されている。複合地形にいる時、片方の基本地形に上限回避率が設定されていれば、もう片方の基本地形での回避率がそれより高くとも上限回避率が回避率の値となる。
+Dela Keshar,noun,,false,Dela Keshar,"Malin Kesharの姉。
+「闇へ堕ちて」"
+Delfador,noun,,false,Delfador,"「偉大なる魔術師」と呼ばれる。
+
+「Delfadorの回顧録」
+「王位継承者」
+「チュートリアル」"
+Delfador the Great,,,false,偉大なる Delfador,Delfadorの通り名。
+Delfador's Memoirs,noun,,false,Delfadorの回顧録,メインラインキャンペーンの一つ。dm
+Delwyn,noun,,false,Delwyn,人間の村の名前。
+Deoran,noun,,false,Deoran,"Haldielの孫。
+「南部防衛隊」の主役。"
+Descent into Darkness,noun,,false,闇へ堕ちて,"メインラインキャンペーンの一つ。did。
+「暗黒への堕落」と訳していた時期もある"
+Desert of Death,noun,,false,死の砂漠,
+Deterministic mode,noun,,false,決定論モード,
+Dominant,noun,,false,族長,"""Winds of Fate"" で使用されている。
+""flight"" のリーダー。
+集団での狩猟の能力を競う厳しい試練と、""contention"" と呼ばれる軍事的統率力を競う試練によって選ばれる。"
+Dorest,noun,,false,Dorest,最も北にある人間の都市。
+Drain,noun,,false,生命吸収,特殊武器の一つ。
+Drake,noun,,false,ドレーク,"種族の一つ。
+標準の時代の党派の一つでもある。"
+Drake Arbiter,noun,,false,ドレークの裁定者,
+Drake Warden,noun,,false,ドレークの長官,
+Drogan,noun,,false,Drogan,"Parthynの町の守備隊の隊長。
+「闇へ堕ちて」"
+Dulatus Hills,noun,,false,Dulatus丘陵,"地名。
+中央大平原と接している、ゆるやかな起伏の続く丘陵地帯です。多くの家畜と農産物が生産されています。"
+Dulcatulos,noun,,false,Dulcatulos,"ドワーフ。
+「Thursaganの槌」"
+Dune Alchemist,noun,,false,デューンの秘術師,"""Alchemist"" は一般的には「錬金術師」だが、デューンの場合は黄金ではなく究極の毒物の生成を目的としているようなので、「秘術師」としてみた。検討の余地あり。"
+Dunefolk,pronoun,,false,デューンフォーク,
+Durstorn,noun,,false,Durstorn,"ドワーフ。
+「炎の笏」"
+Dwarf,noun,,false,ドワーフ,種族の一つ。
+Dwarven Doors,noun,,false,ドワーフの戸口,"ドワーフと人間の街。交易地。
+王位継承者の13章を指す場合は「ドワーフ王国の入り口」"
+Dwarvish Thunderer,noun,,false,ドワーフの銃撃兵（新案: ドワーフの雷撃兵）,「銃」という単語をできるだけ避けたい
+Dwarvish Thunderguard,noun,,false,ドワーフの熟練銃撃兵（新案: ドワーフの雷撃衛兵）,「銃」という単語をできるだけ避けたい
+Earl Lanbec'h,noun,,false,Lanbec'h 伯爵,「黒眼の子‎」
+Eastern Invasion,noun,,false,東部侵略,"メインラインキャンペーンの一つ。
+ei"
+Elandin,noun,,false,Elandin,"エルフ。
+「東部侵略」"
+Eldred,noun,,false,Eldred,"王子。AsheviereとGarard II世の息子。
+「Delfadorの回顧録」。
+「王位継承者」の最初に出てきてすぐDelfadorに討たれた皇子。"
+Elenia,noun,,false,Elenia,"エルフ。
+「北部の再興」"
+Elense,noun,,false,Elense,"Elensefarの別名？
+←どうも、都市の名前がElensefarで、周辺の町（Carcynなど）を含む国の名前は正式にはElense city-stateなのではないだろうか。"
+Elensefar,noun,,false,Elensefar,"騎兵が多く所属する大都市。
+ある時代には独立国家だったり、Wesnothに併合されて都市になってたり。"
+Elensiria,noun,,false,Elensiria,Lintanirの森にあるエルフ族の首都。
+Elilmaldur-Rithrandil,noun,,false,Elilmaldur-Rithrandil,"ウーズ。
+「Wesnothの起源」"
+Eliomir,noun,,false,Eliomir,"エルフ。
+「南部防衛隊」"
+Eloh,noun,,false,Eloh,「燃える太陽の下で」
+Elurin,noun,,false,Elurin,"エルフ。
+「Thursaganの槌」"
+Elvish Avenger,noun,,false,エルフの復讐者,
+Elvish Druid,noun,,false,エルフのドルイド僧,
+Elvish Ranger,noun,,false,エルフのレンジャー,
+Elyssa,noun,,false,Elyssa,「燃える太陽の下で」に登場する唯一の魔術師。
+El’rien,noun,,false,El’rien,北部エルフ族の首長（httt）
+End Turn button,noun,,false,ターン終了ボタン,"右パネルの一番下にあるボタン。
+このボタンを押すと、ターンを終了する。"
+Engineer,noun,,false,技術者,"なぜか東北弁で話す。
+「東部侵略」"
+Eonihar,noun,,false,Eonihar,「Wesmere の伝説」
+Erlornas,noun,,false,Erlornas,"エルフの貴族。
+「オークの襲撃」"
+Eryssa,noun,,false,Eryssa,"エルフの王女。
+「北部の再興」"
+Esanoo,noun,,false,Esanoo,"マーマン。
+「燃える太陽の下で」"
+Estmark Hills,noun,,false,Estmark丘陵,大いなる川の南側、Weldyn川の東側にそびえる広大な丘陵地帯です。Weldyn川に近い最北端の地域は何度もWesnothの人々の入植が行われましたが、しかし王国の管理は脆弱で、山賊行為が横行しています。
+Ethiliel,noun,,false,Ethiliel,"エルフ。
+「南部防衛隊」"
+Event handlers,noun,,false,イベントハンドラ,イベントが発生したときに特定の処理を与えるための記述。
+Expendable leader,pronoun,,false,エクスペンダブルリーダー,
+Expert level,pronoun,,false,達人レベル,
+FFA,noun,,false,,free for allの略。マルチプレイヤーゲームで、チーム戦ではなく各プレイヤーが敵対している場合に用いられる。
+Falcon,noun,,false,隼,種族の一つ。
+Far North,noun,,false,極北,"黒眼の子の舞台。中心山脈よりも北の地域。
+原文の表記にも割とブレがあるので、無理に統一する必要も無い気がする。"
+Farzi,noun,,false,Farzi,極北の都市。
+Father Morvin,noun,,false,Morvin 神父,「北部の再興」
+Feeding,noun,,false,摂食,ユニットが持つ能力の一つ。
+First Strike,noun,,false,先制,特殊武器の一つ。防御時にも先に攻撃を開始する。
+Flar'Tar,noun,,false,Flar'Tar,「黒眼の子‎」
+Flat,noun,,false,平地,地形の一つ。
+fledgling,noun,"A young drake, bipedally mobile yet still unable to fly.
+They have left the hatchery but usually do not roam far beyond the eyrie.",false,若きドレーク,"二足歩行が可能だが、まだ飛ぶことができない若いドレーク。
+孵化場から出たが、通常、巣から遠く離れることはない。
+
+「若きドレーク」と訳しているが、要検討。
+他の候補は「青年ドレーク」「若年ドレーク」「駆け出し」「巣立ちドレーク」など。"
+Fog of War,noun,,false,戦雲（霧）,「戦場の霧」（おそらくクラウゼヴィッツ「戦争論」由来）と訳されることもある。
+Foolish Hero,noun,,false,愚かな勇者,「闇へ堕ちて」
+Ford of Abez,noun,,false,Abezの浅瀬,"大いなる川に存在する浅瀬の1つ。
+大いなる川を船無しで渡ることのできる最も東の地点です。どちらの方向に向かうにせよ、侵略を目的とした軍隊が伝統的に良く使う経路です。"
+Ford of Alyas,noun,,false,Alyas の渡り場,"Ka'lian北西にある。
+Fordは通常浅瀬と訳されるが、マップを見ると浅くないので渡り場という訳を取った。"
+Ford of Tifranur,noun,,false,Tifranur の渡り場,Ka'lian 南東にある。 Fordは通常浅瀬と訳されるが、マップを見ると浅くないので渡り場という訳を取った。
+Fords,noun,,false,川瀬,地形の一つ。
+Foreground,noun,,false,メイン,エディタのパレットのうち、現在使用されている方のこと。サブと切り替えることができる。
+Forest,noun,,false,森,基本地形の一つ。
+Forest of Thelien,noun,,false,Thelienの森,極北にある森。
+Forest of Wesmere,noun,,false,Wesmereの森,北にある森。エルフ族の住処。
+Fort Tahn,noun,,false,Tahn砦,Wesnothの南の国境近くにある砦。
+Frosty Wastes,noun,,false,凍てつく荒野,極北の地名。
+GUI,noun,,false,GUI,Graphical User Interface
+Galdrad,noun,,false,Galdrad,"チュートリアルの教官。
+「王位継承者」にも登場する。"
+Galenor,noun,,false,Galenor,「Wesmere の伝説」
+Galtrid,noun,,false,Galtrid,「Wesmere の伝説」
+Galun,noun,,false,Galun,"ドレークを大陸へと導いた ""dominant"" のドレーク。
+""Wings of Victory（勝利の翼）"" の主人公。"
+Garak,noun,,false,Garak,"護衛兵隊長。
+「燃える太陽の下で」"
+Garard,noun,,false,Garard,"Wesnothの王の名前。
+Garard I世とGarard II世の二人いる。"
+Garard I,noun,,false,Garard I世,「Delfadorの回顧録」
+Garard II,noun,,false,Garard II世,"Garard I世の息子。
+「Delfadorの回顧録」
+「王位継承者」"
+General,noun,,false,将軍,
+Gharlsa,noun,,false,Gharlsa,"オーク。
+「オークの襲撃」"
+Ghost,noun,,false,ゴースト、幽霊、亡霊,ユニット名をあらわす場合はゴースト。それ以外は、状況に応じて使い分ける。
+Glamdrol,noun,,false,Glamdrol,オークの有力部族の首都。
+Glonoin,noun,,false,Glonoin,"ドワーフ。
+「炎の笏」"
+Glyn’s Forest,noun,,false,Glynの森,森。Tathの近くにある。
+Golden Age,noun,,false,黄金時代,"Wesnothが非常に栄えていた時代で、200-350YW頃。
+また、UtBSやその続編では200-350YWではなく単にWesnothが栄えていた時代のことを意味する。"
+Gork,noun,,false,Gork,"オークのシャーマン。
+「黒眼の子‎」"
+Gramdrol,noun,,false,Gramdrol,オークの一部族の首都
+Graur-Tan,noun,,false,Graur-Tan,"オーク。
+「Wesmere の伝説」"
+Great Central Plain,noun,,false,中央大平原,"大きな平原。
+エルフにとってはあまり価値のない土地で、緑の島からやってきたHaldric I世と人間族の定住が認められた。"
+Great Chief,noun,,false,大帝,オークの複数の族長（chieftain）を支配下におく族長をこう呼ぶ。
+Great Chieftain,noun,,false,大帝,
+Great Fall,noun,,false,大いなる滅び,「滅び」を参照
+Great Horde,noun,,false,Great Horde,黒眼のKarunが整備したオーク族のおきて。どの部族の者であろうと、あらゆるオークはGreat Hordeの召集に応じる義務がある。
+Great Mage,noun,,false,大魔術師,
+Great Northern Forest,noun,,false,北部大森林,Lintanirの森も参照。
+Great Southern Desert,noun,,false,南部大砂漠,UtBSの時代、Wesnoth人が打ち上げた第二の太陽 Naia の影響で、大陸南部の森は死滅し、広大な砂漠となった。
+Green Isle,noun,,false,緑の島,Wesnothの初代王、Haldric I世とWesnoth人の故郷の島。
+Green Swamp,noun,,false,緑の沼地,Haldricがドラゴン Shek’kahan を討伐した地。
+Greenwood,noun,,false,緑の森,極北にある森。
+Grey Woods,noun,,false,灰色森,"地名。
+Wesnothの荒野の中心に位置する大きな森で、CarcynとAldrilの間に位置し、幽霊が出ると一般に考えられています。"
+Grog,noun,,false,Grog,"トロル。
+「燃える太陽の下で」"
+Growloff,noun,,false,Growloff,「死の海」
+Grug,noun,,false,Grug,「東部侵略」
+Gryphon,noun,,false,グリフォン,種族の一つ。陸上の捕食者と猛禽類の性質を併せ持つ。
+Gryphon Mountain,noun,,false,グリフォンの山,グリフォンの住む山
+Grüü,noun,,false,Grüü,"トロル。
+「黒眼の子‎」"
+Gwabbo,noun,,false,Gwabbo,「死の海」
+Gweddry,noun,,false,Gweddry,「東部侵略」の主役。
+HP,noun,,false,HP,"(1) ヒットポイント（Hit Point）
+(2) ヒューレット・パッカード（Hewlett-Packard）
+(3) 馬力（Horse Power）
+(4) ホームページ（Home Page）のことだなんて言っているのはどこのどいつだ。"
+Haggid-Dargor,noun,,false,Haggid-Dargor,中心山脈を表すオーク族の言葉。
+Halberdier,noun,,false,ハルバード兵,"槍兵系の訳語の統一感を出すため「兵」で統一。
+ハルバード使い。"
+Haldiel,noun,,false,Haldiel,"忠義の騎兵。
+「王位継承者」"
+Haldric,noun,,false,Haldric,"Wesnoth王国の国王によくある名前。
+Haldric VII世までいる。
+Haldric I世のことを指す場合が多い。"
+Haldric I,noun,,false,Haldric I世,"Wesnoth王国の建国者。
+建国後、年を重ねるごとに性格が悪くなった。
+「Wesnothの起源」"
+Haldric II,noun,,false,Haldric II世,"Haldric I世の息子で２代目国王。
+「炎の笏」
+「Wesmere の伝説」"
+Haldric IV,noun,,false,Haldric IV世,"「闇へ堕ちて」が始まるちょっと前のWesnothの王。
+後継者がいなかったため、死去によりWesnoth王国が分裂した。"
+Haldric VII,noun,,false,Haldric VII世,"「南部防衛隊」の頃のWesnothの王。
+KonradとLi'sarの孫になるのかな。"
+Halo,noun,,false,ヘイロー（Halo）,ユニットのいるヘクス中央に重ねて表示される画像のこと。照明とか暗転能力などの視覚効果に使われる。
+Hamel,noun,,false,Hamel,"Knalgaの君主。
+「北部の再興」
+「Thursaganの槌」"
+Hard level,pronoun,,false,上級レベル,
+Harper,noun,,false,Harper,"Baldrasの姪。
+「自由‎」"
+Healers,noun,,false,ヒーラー,"healer を参照。
+（エルフの呪術師・ドルイド僧・シェード、白魔術師、光の魔術師、聖騎士）"
+Heart Mountains,noun,,false,中心山脈,"Arkan-thoriaの近くにある山脈。
+ドワーフとトロルの住処。
+オークは「Haggid-Dargor」と呼び、領有権を主張している。"
+Heartfangs,noun,,false,山脈の牙,中心山脈の中でも特に険しい山々。
+Heir to the Throne,noun,,false,王位継承者,"メインラインキャンペーンの一つ。
+httt。"
+Helicrom,noun,,false,Helicrom,"闇の貴族
+「自由‎」"
+Hex,noun,,false,ヘクス,六角形のマス。
+Hidel,noun,,false,Hidel,"エルフ。
+Eryssaの守護者。
+「北部の再興」"
+High Council of Archmagi,noun,,false,大魔導高等評議会,Alduin島の魔術アカデミーのことらしい。
+High Elves,noun,,false,ハイエルフ,"極北のあたりに住むエルフ。
+北部エルフ。"
+Hills,noun,,false,丘,基本地形の一つ。
+Holy Water,noun,,false,聖水,アンデッドに良く効くあれ。
+Horse Plains,noun,,false,馬平原,土地名。優秀な馬の産地。クランという人間の氏族が住む。
+Howgarth III,noun,,false,Howgarth III世,北部同盟の護民長。「黒眼の子‎」
+Huraldur,noun,,false,Huraldur,「Wesmere の伝説」
+Ignored List,noun,,false,無視リスト,
+Iliah-Malal,noun,,false,Iliah-Malal,「Delfadorの回顧録」
+Illuminates,noun,,false,照明,ユニットが持つ能力の一つ。
+Impact,noun,,false,打撃,ダメージ型の一つ。
+Impassable,noun,,false,通行不能,地形の一つ。通行できない。
+Inky,noun,,false,Inky,「死の海」
+Intendant,noun,"Advisors and lieutenants of a dominant, usually one of each caste other than its own.",false,副官,"族長の助言者や補佐役で、通常は族長とは異なる ""caste"" から１人ずつ選出される。"
+Intermediate level,pronoun,,false,中級レベル,
+Irdya,noun,,false,Irdya,"Wesnothの世界全体の名前。
+しかしながら、この単語「Irdya」はこの時代には非常にまれにしか使用されず、通常人々は「世界（the world）」とだけ呼ぶか、詩的表現として「広い緑の世界（the wide green world）」と言う。"
+Iron-King Olgor,,,false,鉄の王 Olgor,マルチプレイヤーマップの設定に登場するオーク王。
+Isle of Alduin,noun,,false,Alduin島,Alduinの小島とも。魔術師アカデミーがあり、Wesnoth全土から修行のため魔術師が集まってくる。
+Islefolk,noun,,false,Islefolk,元から緑の島に住んでいた人々。
+Ithelden,noun,,false,Ithelden,"エルフ。
+「南部防衛隊」"
+Jarek,noun,,false,Jarek,"熟練竜騎士。
+援軍。
+「南部防衛隊」"
+Jetto,noun,,false,Jetto,"暗殺者。
+「黒眼の子‎」"
+Kai Krellis,noun,,false,Kai Krellis,"マーフォークの王（Kai）。
+「死の海」の主役。"
+Kaleh,noun,,false,Kaleh,"「燃える太陽の下で」の主役。
+Kalehssar。"
+Kalenz,noun,,false,Kalenz,"エルフの英雄。とある理由でとても長生き。
+「Wesmere の伝説」
+「Delfadorの回顧録」
+「王位継承者」"
+Kapou'e,noun,,false,Kapou'e,「黒眼の子‎」の主役。黒眼のKarunの息子。
+Karrag,noun,,false,Karrag,"ドワーフのルーンマスター。
+「Thursaganの槌」"
+Ka’lian,noun,,false,Ka’lian,"エルフの評議会。
+エルフの最高意思決定機関。"
+Keh Ohn,noun,,false,Keh Ohn,"ドレーク。
+「王位継承者」"
+Keratur,noun,,false,Keratur,「燃える太陽の下で」
+Kerlath,noun,,false,Kerlath,地図外の南部にある州。Kerlath州（Kerlath Province）
+Keshan,noun,,false,Keshan,「死の海」
+Khalifate,noun,,false,カリフェイト,"人間の一族。南の砂漠から来たらしい。
+党派の一つ。"
+Khazg Black-Tusk,noun,,false,黒い牙のKhazg,"オークの族長の1人。
+ドワーフの戸口を壊滅させた。"
+Khrakrahs,noun,,false,Khrakrahs,"ドラゴン。
+Shek’kahanとは兄弟。
+「炎の笏」ではファイアドラゴン
+「東部侵略」ではスケルトンドラゴン"
+Kindlefire,noun,"August, name of month",false,起炎,８月。起炎の月
+King Addroran IX,noun,,false,王 Addroran IX世,"Southbayの国王。
+「Wesnothの起源」"
+King Eldaric IV,noun,,false,王 Eldaric IV世。,"Haldric 王子の父。
+「Wesnothの起源」"
+Kingdom of Wesnoth,noun,,false,Wesnoth王国,Haldric I世が開いた人間族の王国。その後「大陸」での最大勢力となるが「大いなる滅び」で文明もろとも滅びた。
+Kior-Pur,noun,,false,Kior-Pur,"オーク。
+「Wesmere の伝説」"
+Knalga,noun,,false,Knalga,Knalgaの洞窟。ドワーフの住んでいる大洞窟（らしい）
+Knalgan Alliance,noun,,false,ナルガン同盟,"標準の時代の党派の一つ。
+ドワーフと人間の無法者の間に結ばれた同盟。
+地名の翻訳の規則に従えば「Knalga 同盟」とされるところだが、伝統的に「ナルガン同盟」とされている。"
+Konrad,noun,,false,Konrad,"Wesnothの王の名前。
+二人いる。"
+Konrad I,noun,,false,Konrad I世,"Konrad王とも。
+「王位継承者」の主役。
+「チュートリアル」"
+Konrad II,noun,,false,Konrad II世,"Haldric VII世の次のWesnothの王。
+「東部侵略」"
+Krash,noun,,false,Krash,"ドレーク。
+「北部の再興」"
+Krawg,noun,,false,Krawg,"グリフォン。話すことができる。
+「炎の笏」"
+Kuhnar,noun,,false,Kuhnar,"ドワーフ。
+「炎の笏」"
+Lady Dionli,noun,,false,Lady Dionli,"エルフの評議会のメンバー。
+「Wesnothの起源」"
+Lady Jessene,noun,,false,女傑 Jessene,"Wesfolk の王女。
+「Wesnothの起源」"
+Lady Outlaw,noun,,false,無法者の姐御,「Wesnothの起源」
+Lake Vrug,noun,,false,Vrug湖,中心山脈あたりにある湖。
+Landar,noun,,false,Landar,"Kalenzの親友。
+後に対立し、エルフは内戦状態になる。
+「Wesmere の伝説」"
+Language,noun,,false,言語,
+Lawful,noun,,false,秩序,アラインメントの一つ。
+Leadership,noun,,false,統率,能力の1つ。より低レベルのユニットを強化する。
+Legend of Wesmere,noun,,false,Wesmereの伝説,"(1) メインラインキャンペーンの一つ。low
+(2) Kalenzのことを指す場合もある"
+Leollyn,noun,,false,Leollyn,「Delfadorの回顧録」
+Li'sar,noun,,false,Li'sar,"王女。Asheviereの娘。
+のちにWesnothの女王となる。
+「王位継承者」のヒロイン。
+「チュートリアル」"
+Liberty,noun,,false,自由,"メインラインキャンペーンの一つ。
+略称はl（1文字）"
+Lich-Lord,noun,,false,リッチ君主,Wesfolkを支配していたリッチの君主たち。Jevyanが有名。
+Lich-Lord Caror,noun,,false,リッチ君主 Caror,「炎と暗黒の書」の著者。「Wesnothの起源」
+Lich-Lord Jevyan,noun,,false,リッチ君主 Jevyan,「Wesnothの起源」
+Lich-Lord Lenvan,noun,,false,リッチ君主 Lenvan,"炎のルビーの持ち主。
+ Wesfolkを緑の島に連れてきた。
+「Wesnothの起源」"
+Lieutenant,noun,,false,副官,"将軍（General）の副官という意味らしい。
+中尉という意味もあるので、士官である。"
+Liminal,noun,,false,薄明,アラインメントの一つ。
+Linaera,noun,,false,Linaera,"銀魔術師。
+「オークの襲撃」"
+Lintanir,noun,,false,Lintanir,エルフ族の住む森。またはそこにある都市。
+Lintanir Forest,noun,,false,Lintanirの森,
+Lionel,noun,,false,Lionel,"Wesnoth王国の将軍。
+「Delfadorの回顧録」
+「王位継承者」"
+Lmarig,noun,,false,Lmarig,極北の都市
+Lobby,noun,,false,ロビー,マルチプレイヤーのロビー。
+Lomarfel,noun,,false,Lomarfel,"エルフの騎兵。
+「オークの襲撃」"
+Longlier,noun,,false,Longlier,川。Arkan-thoriaと同じ川を指す。人間が使う名称。
+Lord Hamel,noun,,false,Hamel 卿,"Knalgaの君主。
+「北部の再興」「Thursaganの槌」"
+Lord Logalmier,noun,,false,Logalmier 卿,"エルフの評議会のメンバー。
+「Wesnothの起源」"
+Lord Maddock,noun,,false,Maddock卿,"Elensefarの市長。
+「自由‎」"
+Lord Protector,noun,,false,護民長,北部同盟のトップの役職
+Lord Typhon,noun,,false,Typhon 卿,"マーフォークの君主。
+「Wesnothの起源」"
+Loyalist,noun,,false,忠誠軍,"標準の時代に含まれている党派の一つ。
+この党派に属する人間を表す場合は、忠誠者と訳す。"
+Loyalists,noun,,false,忠誠軍,
+Lua,noun,,false,Lua,組み込み用途に特化したスクリプト言語。ポルトガル語で「月」の意味。
+MP,noun,,false,MP,"（１）移動力を表す。
+（２）マルチプレイヤーの略。"
+Magical,noun,,false,魔法,特殊武器の一つ。命中率が70%となる。
+Main Menu,noun,,false,メインメニュー,
+Mal Keshar,noun,,false,Mal Keshar,「闇へ堕ちて」
+Mal M'Brin,noun,,false,Mal M'Brin,"リッチ。
+「南部防衛隊」"
+Mal-Ravanal,noun,,false,Mal-Ravanal,「東部侵略」「死の海」
+Mal-Skraat,noun,,false,Mal-Skraat,「東部侵略」
+Malifor,noun,,false,Malifor,"古代リッチ。
+「北部の再興」"
+Malin Keshar,noun,,false,Malin Keshar,"「闇へ堕ちて」の主人公。
+のちに、Mal-Kesherと名乗る。
+人気があるらしく、いくつかのUMCにも登場する。"
+Marksman,noun,,false,精密,特殊武器の1つ。こちらからの攻撃時には、命中率が60%となる。
+Marth-Tak,noun,,false,Marth-Tak,"北部同盟傘下のオークの族長。
+「Thursaganの槌」"
+Master Perrin,noun,,false,Perrin 学長,"魔術師。
+「Thursaganの槌」"
+Mechanical,noun,,false,機械,"種族の一つ。
+納得が行かないかも知れないけど。
+ユニットの特性の一つでもある。"
+Melmog,noun,,false,Melmog,極北の都市
+Melusand,noun,,false,Melusand,"マーメイド。
+「燃える太陽の下で」"
+Meneldur,noun,,false,Meneldur,Elensefarの指導者で、エルフ。
+Menu button,noun,,false,メニューボタン,トップパネルに「メニュー」と表示されていボタン。
+Mermen Warrior,noun,,false,マーマンの熟練戦士,
+Message,noun,,false,チャットメッセージ,チャットでやり取りするメッセージ。
+Methor,noun,,false,Methor,"Delfadorの師匠。
+「Delfadorの回顧録」"
+Midlands,noun,,false,内陸府,緑の島の地名。
+Minister Edren,noun,,false,Edren 牧師,「Wesnothの起源」
+Minister Hylas,noun,,false,Hylas 牧師,「南部防衛隊」
+Modifications,noun,,false,Mod,"ゲームのデータの追加を行うユーザー製のファイル。
+Add-onも参照。"
+Monogor,noun,,false,Monogor,大洋のはるか西にある多島海。
+Monster,noun,,false,モンスター,"種族の一つ。
+随分と大雑把な分類である。"
+Mordak,noun,,false,Mordak,"黒魔術師。
+「２人の兄弟の物語」"
+Moremirmu,noun,,false,Moremirmu,"白魔術師。
+「王位継承者」"
+Mountains,noun,,false,山,基本地形の一つ。
+Mountains of Dorth,noun,,false,Dorth山脈,極北にある山。
+Mountains of Haag,noun,,false,Haag山脈,極北にある山。
+Mourned Hills,noun,,false,嘆きの丘陵,黒眼の子に登場、LmarigやBorstepにほど近い丘陵地帯
+Moutains,noun,,false,山,地形の一つ。
+Muff Toras,noun,,false,Muff Toras,"暗黒僧。
+「２人の兄弟の物語」"
+Nafga,noun,,false,Nafga,"オークの暗殺者。
+「東部侵略」"
+Naga,noun,,false,ナーガ,種族の一つ。
+Naia,noun,,false,Naia,二つの太陽のうちのひとつ。後から打ち上げたほう。utbs
+Neutral,noun,,false,中立,アラインメントの一つ。
+Nightgaunt,noun,,false,ナイトゴーント,"ゴースト系をカタカナで揃えて、統一感を出すために変更。
+夜鬼。"
+Nightstalk,noun,,false,隠密,ユニットが持つ能力の一つ。
+Nil-Galion,noun,,false,Nil-Galion,"エルフ。
+「２人の兄弟の物語」"
+North Elves,noun,,false,北部エルフ,"High Elves（ハイエルフ）とも。
+北部エルフ族。"
+North-Elves,noun,,false,北部エルフ族,
+Northern Alliance,noun,,false,北部同盟,"北の大地の平和と正義を保証するための組織。
+535 YW　設立。"
+Northern Plains,noun,,false,北部平原,
+Northern Rebirth,noun,,false,北部の再興,"メインラインキャンペーンの一つ。
+nr"
+Northerners,noun,,false,北方部族,"オークを中心とした、北の種族が集まった党派。
+標準の時代の党派の一つ。"
+Northlands,noun,,false,北の大地,北部地域には国家と呼べるものはありません。オーク、ドワーフ、人間の無法者、さらにはエルフまでも含む種々の集団がこの地域に住んでいます。この領域の北と東の境界線は定められておらず、南は大いなる川、西は大洋が境界線となります。
+Novice level,pronoun,,false,初級レベル,
+Null Stone,noun,,false,ナルストーン,瞬間移動の術を無効化できる特殊な石。
+Nym,noun,,false,Nym,"Kalehの幼なじみ。
+Nymphtessa。
+「燃える太陽の下で」"
+Objective,noun,,false,目標,シナリオの目標。
+Objectives pop-up box,noun,,false,シナリオの目標,「シナリオの目標」を表示するポップアップウィンドウのこと。
+Ogre,noun,,false,オーガ,種族の一つ。
+Old Continent,noun,,false,旧大陸,Wesfolkがもともと住んでいた陸地。
+Oldwood Forest,noun,,false,古木の森,緑の島の地名。
+Ollin,noun,,false,Ollin,"農民。
+「Thursaganの槌」"
+Olurf,noun,,false,Olurf,"ドワーフ。
+「Wesmere の伝説」"
+Option,noun,,false,オプション,
+Orcish,adjective,,false,オークの,オーク族の
+Orcish Clannate,noun,,false,オーク連合,Clannateは造語？
+Orcish Warrior,noun,,false,オークの戦士,
+Outlaw,noun,,false,無法者,
+Outlaws,noun,,false,無法者,
+Overlay,noun,,false,オーバーレイ,重ねて表示
+Owaec,noun,,false,Owaec,「東部侵略」
+Palette,noun,,false,パレット,エディタで地形を描く際のパレット。
+Palette Group,noun,,false,パレットグループ,
+Parthyn,,,false,Parthyn,"Wesnoth王国の北のはずれの街。
+Malin Kesharの故郷。
+大いなる川を渡ることができる浅瀬があるので、オークの襲撃を度々受けている。"
+Peasant,noun,,false,農民,
+Pelathsil,noun,,false,Pelathsil,「東部侵略」
+Pelias,noun,,false,Pelias,"人間の騎士。
+「Thursaganの槌」"
+Petrify,noun,,false,石化,特殊武器の一つ。
+Piercing,noun,,false,刺突,ダメージ型の一つ。
+Pikeman,noun,,false,熟練槍兵,
+Pirk,noun,,false,Pirk,"オークのシャーマン。
+「黒眼の子‎」"
+Plague,noun,,false,疫病,特殊武器の一つ。
+Planning Mode,noun,,false,計画モード,事前に移動や攻撃、雇用の計画を練ることができるモード。
+Preferences,noun,,false,設定,
+Preferences menu,noun,,false,設定メニュー,
+Prestim,noun,,false,Prestim,極北の都市。
+Primal Aeon,noun,,false,原始の Aeon,
+Prince Haldric,noun,,false,Haldric 王子,"「Wesnothの起源」の主役。
+Haldric I世も参照。"
+Profile,noun,,false,プロフィール,プロファイルではなくプロフィール。
+Publishing information file,noun,,false,公開情報ファイル,".pbl。
+アドオンを公開する際に必要なファイル。"
+Queen Xeila,noun,,false,女王 Xeila,"ナーガ族の女王。
+「南部防衛隊」"
+Quenoth,noun,,false,Quenoth,砂漠のエルフが住んでいた地名。または砂漠のエルフの種族名。
+Rail,noun,,false,レール,
+Rakshas,noun,,false,Rakshas,"オーク。
+Knalgaに侵攻してきた。
+「北部の再興」"
+Ratheln,noun,,false,Ratheln,"魔術師。
+「Thursaganの槌」"
+Reaper’s Moon,noun,"October, name of month",false,穫月,１０月。穫月の月
+Rebels,noun,,false,反乱軍,エルフを中心とした党派。標準の時代の党派の一つ。「王位継承者」の時代に邪悪な女王Asheviereに反乱を起こしたため、人間からこう呼ばれていた。
+Recorder,noun,,false,記録者,ドレークの歴史編纂者。ドレークの社会においては、生物学的な特徴によらない唯一のカーストで、他のすべてのカーストからリクルートされる。
+Redo,,,false,リドゥ,やり直す。元に戻したものを戻す。
+Regenerates,noun,,false,再生,ユニットが持つ能力の一つ。
+Reglok,noun,,false,Reglok,"Elensefarの盗賊ギルドの頭目。
+「王位継承者」"
+Relana,noun,,false,Relana,"Delwyn の村長。
+「自由‎」"
+Relgorn,noun,,false,Relgorn,"ドワーフの君主。
+Ulrekの息子。
+「王位継承者」
+「Delfadorの回顧録」"
+Reshan'lo,noun,,false,Reshan'lo,ドレークの記録者。Kerath の飛族の記録者であると同時に、螺旋派の記録者の一員でもある。
+Resources,noun,,false,素材集,アドオンの種類の一つ。
+River Bork,noun,,false,Bork川,極北にある川。
+River Listra,noun,,false,Listra川,川の名前。大いなる川の支流。
+River Oumph,noun,,false,Oumph川,極北にある川。
+River Weldyn,noun,,false,Weldyn川,
+Ro'Arthian,noun,,false,Ro'Arthian,"リッチ。
+Ro'Sothianの兄。
+「北部の再興」"
+Ro'Sothian,noun,,false,Ro'Sothian,"リッチ。
+Ro'Arthianの弟。
+「北部の再興」"
+Rod of Justice,noun,,false,裁きの杖,
+Rogrimir,noun,,false,Rogrimir,"ドワーフ。
+「燃える太陽の下で」"
+Rookie level,pronoun,,false,入門レベル,
+Rotharik,noun,,false,Rotharik,"黒魔術師。
+「２人の兄弟の物語」"
+Royal Forest,noun,,false,王家の森,Glynの森の別名。
+Rualsha,noun,,false,Rualsha,"オークの君主。
+「オークの襲撃」"
+Ruby of Fire,noun,,false,炎のルビー,林檎ほどの大きさ。the stoneとも。
+Rugnur,noun,,false,Rugnur,"ドワーフ。
+「炎の笏」"
+SP,noun,,false,SP,シングルプレイヤーの略
+Sagus,noun,,false,Sagus,"Asheviereの父親。
+「Delfadorの回顧録」"
+Sand,noun,,false,砂地,基本地形の一つ。
+Sandy Waste,pronoun,,false,砂の荒れ地,
+Saradoc,noun,,false,Saradoc,Wesnoth最北の前哨基地。
+Saurian,noun,,false,トカゲ,種族の一つ。トカゲ族。
+Scatterseed,noun,"March, name of month",false,蒔種,３月。蒔種の月
+Sceptre of Fire,noun,,false,炎の笏,"(1) Wesnothの王権を象徴する工芸品。炎のルビーも参照。
+(2) メインラインキャンペーンの一つ。sof"
+Screenshot,noun,,false,スクリーンショット,
+Scryer’s Bloom,noun,"May, name of month",false,占華,５月。占華の月
+Search,,,false,検索,
+Sela,noun,,false,Sela,二つの太陽のうちのひとつ。もとからあったほう。utbs
+Sergeant,noun,,false,軍曹,"昔の（近代的ではない）軍隊では、ひとつの部隊（規模はさまざま）の長を、""Sergeant""と呼称したらしい。"
+Sergeant Durstrag,noun,,false,Durstrag軍曹,「燃える太陽の下で」
+Serpent,noun,,false,サーペント,"大蛇。
+サーパント。
+Sea Serpent → シーサーペント。
+Water Serpent → ウォーターサーペント。"
+Shallow Water,noun,,false,浅瀬,基本地形の一つ。
+Shan Taum,noun,,false,Shan Taum,"オーク。
+「黒眼の子‎」"
+Shek’kahan,noun,,false,Shek’kahan,"ドラゴン。
+「Wesnothの起源」"
+Shinsplitters,noun,,false,脚折隊,
+Siddry,noun,,false,Siddry,「死の海」
+Silent Forest,noun,,false,静寂の森,極北にある森。
+Sir Gerrick,noun,,false,Gerrick 卿,「南部防衛隊」
+Sir Kaylan,noun,,false,Kaylan卿,"騎士
+「王位継承者」"
+Sir Ladoc,noun,,false,Ladoc 卿,「Wesnothの起源」
+Sir Ruddry,noun,,false,Ruddry 卿,「Wesnothの起源」
+Siren,noun,,false,セイレーン,"セイレン。
+英語読みだとサイレン。
+マーメイド・セイレン→マーメイドのセイレーン"
+Sisal,noun,,false,Sisal,"エルフ。
+「北部の再興」"
+Sister Thera,noun,,false,シスター Thera,「北部の再興」
+Son of the Black Eye,noun,,false,黒眼の子,"メインラインキャンペーンの一つ。
+sotbe"
+Sound Source Tool,noun,,false,音源ツール,soundsource toolの表記ブレだと思われる。
+Southbay,noun,,false,Southbay,緑の島の最大の国家、あるいは港町。
+Southwest Elven Lands,noun,,false,南西のエルフ王国,南の森（Aethenの森）のエルフは北部のエルフ達とは隔絶されて暮らしており、彼らとも、他の国々とも恒常的な交流はありません。彼らの住む領域は、北東は緑の沼地、南は砂漠、西は大洋によって区切られています。
+Southwood,noun,,false,南の森,森。Aethenの森の南部を指す。エルフはこの名称を使わず、全て「Aethenの森」として扱っている。
+Speak,noun,,false,チャット,デフォルトだとmキーを押すと利用できるチャット機能。
+Spiral Path,noun,,false,螺旋派,ドレークの社会における秘密結社のような組織で、半ば公然化している。マルサス的（人口増加に食料の供給が追い付かなくなることで起きる）最終戦争を回避することに努める。その構成員のほとんどが「記録者」で、通常のドレークよりも豊富な知識を有する。とりあえず「螺旋派」と訳す。
+Staff of An-Usrukhar,noun,,false,An-Usrukharの杖,An-Usrukharは人名。
+Stalrag,noun,,false,Stalrag,"ドワーフ
+「北部の再興」"
+Starting Positions Tool,noun,,false,開始地点ツール,starting toolの表記ブレだと思われる
+Steadfast,noun,,false,装甲,ユニットが持つ能力の一つ。
+Steelclad,noun,,false,装甲歩兵,Dwarvish Steelcladは、ドワーフの装甲歩兵。
+Stillseed,noun,"September, name of month",false,眠種,９月。眠種の月
+Straight Path,noun,,false,伝統派,"""straight path に従う者"" あるいは ""The Straigt Path"" という表現は「永続的な拡張と征服」というドレークの伝統を意味する単語である。
+取りあえず「伝統派」と訳すが、「純粋派」「正統派」「直線派」なども検討に値する。"
+Strikes,noun,,false,回数、攻撃回数、〜回攻撃,武器ごとに設定されている、攻撃回数
+Subjects of the Crown,noun,,false,王位の臣民,Wesnoth王国の国民のこと。
+Submerge,noun,,false,潜水,ユニットが持つ能力の一つ。
+Sulla,noun,,false,Sulla,"マルチプレイヤーマップの解説にて登場する人物。
+女大魔術師。"
+Summit Star,noun,"July, name of month",false,頂星,７月。星頂の月
+Swamp,noun,,false,沼地,基本地形の一つ。
+Swamp of Dread,noun,,false,恐怖の沼地,"地図の南東の角にある沼地。
+ヘルプページに「bog」と書かれていたため、湿地ではなく沼地にしている。"
+Swamp of Esten,noun,,false,Esten沼地,緑の島の地名。
+Swamps of Illuven,noun,,false,Illuvenの湿地帯,地名。恐怖の沼地の一部？
+Swarm,noun,,false,群れ,特殊武器の一つ。
+Swordsman,noun,,false,剣士,
+Tairach,noun,,false,Tairach,"オークの将軍。
+「２人の兄弟の物語」"
+Tallin,noun,,false,Tallin,「北部の再興」の主役。
+Tanstafaal,noun,,false,Tanstafaal,「燃える太陽の下で」
+Tath,noun,,false,Tath,都市名。
+Teleport,noun,,false,瞬間移動,ユニットが持つ能力の一つ。
+Telfar Green,noun,,false,Telfar の草地,
+Terrain Clipboard,noun,,false,地形のクリップボード,
+The Great Chamber,noun,,false,大会議室,北部の再興にて登場したMaliforの洞窟の空間。当初大空洞と訳されていたが、他の部屋を研究室などと施設名で名付けていたことから、大会議室と改めた。
+The Hammer of Thursagan,noun,,false,Thursaganの槌,"メインラインキャンペーンの一つ。
+thot"
+The Rise Of Wesnoth,,,false,Wesnothの起源,"メインラインキャンペーンの一つ。
+trow"
+The South Guard,noun,,false,南部防衛隊,"メインラインキャンペーンの一つ。
+tsg"
+Thhsthss,noun,,false,Thhsthss,"トカゲの神官
+「自由‎」"
+Thorntress,noun,"June, name of month",false,茨女,６月。蔦繁の月
+Thursagan,noun,,false,Thursagan,"ドワーフのルーンマスター。
+Haldric II世の依頼により炎の笏を作ったが、引き渡せぬまま死んでしまった。
+「炎の笏」"
+Time of Day,noun,,false,時刻,時刻サイクル。夜明け、日中（朝）、日中（午後）、夕方、 夜、深夜。
+Time of day indicator,noun,,false,時刻,右パネルの中で、時刻の情報を表示する部分。
+Tirigaz,noun,,false,Tirigaz,極北の都市。
+ToD,noun,,false,時刻,Time of Dayの略。
+Tusk Charge,noun,,false,突進,"""Wings of Victory（勝利の翼）"" でイノシシ系モンスターが使う攻撃。
+牙による突撃なので、「突進」としてみる。
+ちなみにダメージ型は「刺突」。"
+Tusks,noun,,false,突き上げ,"""Wings of Victory（勝利の翼）"" でイノシシ系モンスターが使う攻撃。
+牙を使った斬撃なので、「突き上げ」としてみる。"
+Tutorial,noun,,false,チュートリアル,チュートリアルを一通り行うことで、基本的な操作を学べるようにように作られている。
+Tyegëa,noun,,false,Tyegëa,「死の海」
+Ulrek,noun,,false,Ulrek,"ドワーフ。
+「Delfadorの回顧録」"
+Under the Burning Suns,noun,,false,燃える太陽の下で,"メインラインキャンペーンの一つ。
+utbs"
+Underground,noun,,false,地下,
+Undo,,,false,アンドゥ,取り消し。元に戻す。
+Unit,noun,,false,ユニット,ゲームの駒のこと。
+Units,noun,,false,ユニット,
+Unpoison,noun,,false,解毒,"ユニットが持つ能力の一つ。だったけど削除された。
+使っている所があったらお知らせください。"
+Uradredia,noun,,false,Uradredia,エルフの君主。「Wesmereの伝説」と「王位継承者」に出てくるけど、たぶん別人。でないと、年齢的につじつまが合わない。
+Urza Afalas,noun,,false,Urza Afalas,「南部防衛隊」
+Urza Mathin,noun,,false,Urza Mathin,「南部防衛隊」
+User-maintained content,noun,,false,UMC,ユーザーメイドコンテンツの表記ゆれ？
+Vank,noun,,false,Vank,ドレークの副官。Galun の大陸への巣分かれにおいて、最大の貢献をした。
+Velon,noun,,false,Velon,「Wesmere の伝説」
+Verglas Bloom,noun,"November, name of month",false,氷華,１１月。氷華の月
+Verkon,noun,,false,Verkon,"Galun を輩出した飛族。
+また、その ""dominant"" であるドレークの名前。"
+View,,,false,視点,"リプレイ用語。
+リプレイ再生時には、各プレイヤーの見える範囲の情報のみを映すか、マップ全体を映すかを切り替えることができる。"
+Villager,noun,,false,村人,
+Volas,noun,,false,Volas,"エルフ。
+「東部侵略」"
+Vrag,noun,,false,Vrag,"ゴブリンライダー。
+「黒眼の子‎」"
+Vraurk,noun,,false,Vraurk,"オークのシャーマン。
+「黒眼の子‎」"
+Vulcaniad,noun,,false,火山紀,"Morogor 山で起きる２つの連続する噴火の間の期間で、その長さは一定ではない。ドレークの暦はこれに基づく。WoV の開発者メモによると、""Olympiad"" に類似した造語。とりあえず「火山紀」と訳す。"
+WML,noun,,false,WML,Wesnoth Markup Language
+Water,noun,,false,水域,地形の一つ。浅瀬と深水を含む。
+Ways,noun,,true,掟,"""Winds of Fate"" で用いられている。
+取りあえず「掟」と訳すが、「しきたり」「伝統」「流儀」「道」なども検討に値する。"
+Weapon Special,noun,,false,特殊武器,遅化などの武器に付いている特殊な効果。
+Weldyn,noun,,false,Weldyn,Wesnoth国の首都。
+Wesfolk,noun,,false,Wesfolk,旧大陸から緑の島に渡ってきた人々。炎のルビーを持ってきた。
+Wesfolk war,noun,,false,Wesfolk戦争,WesfolkとIslefolkの戦争。最終的にIslefolkが勝利し、Wesfolkは緑の島の辺境へ追いやられた。
+Wesmere,noun,,false,Wesmere,エルフの評議会、Ka’lianが開かれる場所
+Wesnoth,noun,,false,Wesnoth,
+Wesnothian,noun,,false,Wesnoth人,基本的に人間族のことを指すが、Elensefarの住人や開拓民やアウトローなど、Wesnoth人でない人間もいる。
+Whisper,noun,,false,ささやき,マルチプレイヤーの機能の一つ。特定のユーザーにのみメッセージを送る。
+Whitefire,noun,"January, name of month",false,白炎,１月。白炎の月
+Wild Steppe,noun,,false,野生草原,極北の東に広がる草原
+Wolf,noun,,false,狼,種族の一つ。
+Wood Elves,noun,,false,南の森のエルフ？,ヘルプ中の一箇所でしか使われていない。Aethenの森のエルフを指すようだ。
+XP,noun,,false,XP,経験値。
+YW,noun,,false,YW（Wesnoth 暦〜年）,YWのままでも構わないが、その場合は登場した最初だけ（Wesnoth 暦）を付けて分かりやすくしておくこと。
+Yechnagoth,noun,,false,Yechnagoth,「燃える太陽の下で」
+Zhul,noun,,false,Zhul,「燃える太陽の下で」
+abilities,noun,,false,能力,"ユニットが持つ能力。
+伏兵、潜伏、治療、摂食、回復 +4、回復 +8、照明、統率、隠密、再生、散兵、装甲、潜水、瞬間移動、解毒。"
+ability,noun,,false,能力,"ユニットが持つ能力。
+伏兵、潜伏、治療、摂食、回復 +4、回復 +8、照明、統率、隠密、再生、散兵、装甲、潜水、瞬間移動、解毒。"
+accuracy,noun,,false,命中,
+add-on,noun,,false,アドオン,
+addon,noun,,false,アドオン,add-on の表記ゆれ
+addons,noun,,false,アドオン,
+admin,noun,,false,管理者,システム管理者、サーバー管理者。
+advance,noun,,false,レベルアップ,昇進、クラスチェンジなどと混在していたのでレベルアップに統一
+advancement,noun,,false,レベルアップ,昇進、クラスチェンジなどと混在していたのでレベルアップに統一
+advancements,noun,,false,レベルアップ,
+advances,noun,,false,レベルアップ,昇進、クラスチェンジなどと混在していたのでレベルアップに統一
+advisor,noun,,false,顧問、相談役,"文脈によっては、助言者、参謀、軍師、御伽衆などと訳すべきかもしれない。
+国王のadvisorなら、大臣がふさわしいと思う。"
+afternoon,noun,,false,午後,時刻サイクル
+aged,noun,,false,老化,ユニットの特性の一つ。HP、近接攻撃のダメージ、移動力が減少する。
+alignment,noun,,false,アラインメント,秩序、混沌など
+alignments,noun,,false,アラインメント,秩序、混沌など
+allied,adjective,,false,同盟、同盟軍,"同盟軍と自軍の両方を含む場合や、1人の仲間を表している時もある。
+一応、ヘルプ中や能力の解説では同盟軍に統一してあるが、シナリオ中のセリフとかなら友軍でもいいかも？"
+allies,noun,,false,同盟、同盟軍,"同盟軍と自軍の両方を含む場合や、1人の仲間を表している時もある。
+一応、ヘルプ中や能力の解説では同盟軍に統一してあるが、シナリオ中のセリフとかなら友軍でもいいかも？"
+ally,noun,,false,同盟、同盟軍,"同盟軍と自軍の両方を含む場合や、1人の仲間を表している時もある。
+一応、ヘルプ中や能力の解説では同盟軍に統一してあるが、シナリオ中のセリフとかなら友軍でもいいかも？"
+area,noun,,false,領域,"マップ・シナリオエディタで使用される用語。
+選択ツールで選択する部分とは別物なので注意！そちらは「選択部分」と訳すこと。selection areaなどと書かれている場合はこちらの方なので「選択領域」とする。
+非常に紛らわしいので他の訳語を当てた方がいいかも？"
+areas,noun,,false,領域,"マップ・シナリオエディタで使用される用語。
+
+マップ・シナリオエディタで使用される用語。 選択ツールで選択する部分とは別物なので注意！そちらは「選択部分」と訳すこと。selection areaなどと書かれている場合はこちらの方なので「選択領域」とする。 非常に紛らわしいので他の訳語を当てた方がいいかも？"
+army,noun,,false,軍隊,
+artifact,noun,,false,聖遺物,"本来の意味は「（特に史的価値のある）遺物, 工芸品〘武器用具など〙」。
+
+「Wesnoth の起源」においては「炎のルビー」のことを指す。当初の訳は「アーティファクト」とされていたが、分かりにくいので変更。少し意味が逸れるかもしれないが、雰囲気を出すために「聖遺物」としてみる。
+
+一般的な場合は「工芸品」で良いと思う。"
+attack type,noun,,false,ダメージ型,damage typeと同義なので統一
+attack types,noun,,false,ダメージ型,damage typeと同義なので統一
+auto-save,noun,,false,自動保存,
+auto-saves,noun,,false,自動保存,
+autosave,noun,,false,自動保存,
+autosaves,noun,,false,自動保存,
+bag of bones,noun,,false,骸骨野郎,"「英辞郎」によれば、「〈俗〉骨と皮ばかりの［ガリガリに痩せこけた］人［動物］」という慣用的な表現。恐らく ""bonebag"" や ""bone-bag"" も同様のニュアンスと思われる。
+「骸骨野郎」とでも訳すのが良いかと思う。
+「骨袋」でも雰囲気は伝わるが。"
+ban,noun,,false,バン,マルチプレイヤー時の用語またはコマンド。
+base income,noun,,false,基準収入,"プレイヤーごとに設定されている、基準となる収入。これに村からの収入が加算される。
+収入（income）も参照。"
+base layer,noun,,false,ベースレイヤー,エディタ用語。
+basic terrain,noun,,false,基本地形,地形のタイプの一つ。
+benchmark,,,false,ベンチマーク,
+bookmark,noun,,false,ブックマーク,ファイルブラウザに備わっている、指定したフォルダをブックマークに登録して呼び出せるようにする機能。
+breeder,noun,,false,可産ドレーク,"「可産」は ""breed"" という単語の意味から考案した造語。
+
+他の候補としては「婚嫁ドレーク」「孵卵ドレーク」「繁殖ドレーク」「生殖ドレーク」「牝ドレーク」「娘ドレーク」など。
+
+以下、drakipedia より、breeder の項。
+女性のドレーク。卵の段階から特別な世話が必要になるため、希少な存在である。孵卵期間中は自力で食料を確保することができないため、その数は周囲に存在するそれ以外のドレークの数によっても制限される。次の世代の孵化の後に生殖可能になる。"
+bug,noun,,false,虫、バグ,ブログラムの誤りをあらわす場合はバグと訳す。
+bug reports,noun,,false,バグレポート,バグを特定し、報告すること。
+button,noun,,false,ボタン,GUIの部品のひとつ。
+bzip2,noun,,false,bzip2,データ圧縮をするプログラムのひとつ、またはその圧縮データのフォーマットのこと。拡張子は .bz2。
+caching,,,false,キャッシュ,
+campaign,noun,,false,キャンペーン,複数の連続たシナリオをまとめたもの。
+carryover,noun,,false,引き継ぎ,ゴールドの引き継ぎ
+caste,noun,,false,系統,"ドレークの社会階層。
+「カースト」と訳すか検討中。"
+chat,noun,,false,チャット,
+chat log,noun,,false,チャットログ,
+cheat,,,false,不正、チート,プログラムを不正に改造する行為をあらわす場合は、チートと訳す。
+chief,noun,,false,チーフ、族長、頭（かしら）、隊長、ボス、リーダー,"チーフ、なんだけどそのまま使うと雰囲気が出ない。
+chieftain（族長）の短縮形でもある。"
+chieftain,noun,,false,族長、首長、首領,氏族（clan）の長とか部族（tribe）の長とかいう意味。
+clan,noun,,false,クラン、一族、氏族,"氏族とか血族といった意味らしい。
+部族（tribe）も参照。"
+click,,,false,クリック,マウス操作のひとつ。
+coding,,,false,コーディング,"(1) コードを書くこと。
+(2) 符号化"
+cold,noun,,false,冷気,ダメージ型の一つ。
+command line option,noun,,false,コマンドラインオプション,
+command line options,noun,,false,コマンドラインオプション,
+command mode,noun,,false,コマンドモード,https://www.wesnoth.org/wiki/CommandMode
+commander,noun,,false,指揮官、司令官,リーダー（leader）も参照
+community,noun,,false,コミュニティー、共同体,キャンペーンのストーリー上の小集団を指す場合と、Wesnothのユーザーコミュニティーを指す場合がある。
+computer,noun,,false,コンピューター,コンピュータが操作しているプレイヤーを指す場合は紛らわしいのでAIでいいかも。
+concealment,noun,,false,潜伏,ユニットの能力の一つ。村にいる間、敵からは不可視になる。
+configuration,noun,,false,設定,
+configuration file,noun,,false,設定ファイル,
+controller,noun,,false,コントローラー,"陣営を操作する人、またはAI。
+操作者。"
+council,noun,,false,評議会,評議会と訳されることが多いが種族により形態はさまざま。
+crossbow,noun,,false,クロスボウ,https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%82%A6
+cure,noun,,false,治療,毒の状態異常を取り除く能力。
+cures,noun,,false,治療,ユニットが持つ能力の一つ。
+current,adjective,,false,現在の,カレント
+custom units,noun,,false,カスタムユニット,
+cycle,noun,,false,星紀,ドレークが用いる、詳細不明の天文学的な期間。ドレークの１世代におおよそ相当する。語呂の良さから、とりあえず「星紀」と訳す。
+damage,noun,,false,ダメージ,
+damage type,noun,,false,ダメージ型,刺突とか斬撃、秘術など。
+damage types,noun,,false,ダメージ型,刺突とか斬撃、秘術など。
+dawn,noun,,false,夜明け,
+day,noun,,false,日中,秩序ユニットが強化され、混沌ユニットが弱体化する時刻。当然、ゲーム時刻やアラインメントとは関連の無い普通の英単語の場合もあるので注意。
+daytime,noun,,false,日中,夜明け、朝、昼、午後、夕暮れ
+debug,noun,,false,デバッグ,
+debug domain,noun,,false,デバッグドメイン,
+debug logging,noun,,false,デバッグログ,デバッグ目的に出力するログ。
+debug mode,noun,,false,デバッグモード,"https://wiki.wesnoth.org/DebugMode
+コマンドモード（command mode）も参照のこと"
+deep water,noun,,false,深水,
+defense,noun,,false,回避、回避率,ユニットが攻撃を避けるかどうかの判定。違う意味で使用されていることも多いので注意。
+defensive line,noun,,false,防衛線,
+define,noun,,false,定義,
+defined,noun,,false,定義された,定義済
+delay,noun,,false,ディレイ,"遅延。
+処理の同期を取るために、少し待ち時間を入れること。"
+dextrous,noun,,false,器用,ユニットの特性の一つ。遠隔攻撃のダメージが増える。
+dialog,,,false,ダイアログ,大抵はダイアログボックスのこと。
+dialogue,,,false,会話,
+difficulty,noun,,false,難易度,
+dim,noun,,false,凡愚,
+directory,noun,,false,ディレクトリ,WindowsやMac OSではフォルダと呼び、UNIXではディレクトリと呼ぶ。
+disable,verb,,false,無効化する,無力化する。使用しない。オフにする。
+disabled,verb,,false,無効になった,
+disables,verb,,false,無効化する,
+dismiss,noun,,false,解雇,ユニットの解雇。
+drakes,noun,,false,ドレーク,
+dusk,noun,,false,夕暮れ,時刻サイクル
+eagle,noun,,false,鷲,
+editing modes,noun,,false,エディタモード,
+editor,noun,,false,エディタ,エディターではなくエディタ。だいたいシナリオ・マップエディタを指す。
+editor brushes,noun,,false,エディタブラシ,
+editor clipboard,noun,,false,エディタクリップボード,
+editor palette,noun,,false,エディタパレット,シナリオ・マップエディタで出てくる用語。
+editor toolkit,noun,,false,エディタツールキット,
+editor tools,noun,,false,エディタツール,
+elemental,noun,,false,精霊,
+elf,noun,,false,エルフ,種族。
+ellipse,noun,,false,「楕円」,ユニットの下に描かれる図形のこと。多くは楕円形のため、ellipse という語が使われているが、楕円形でないものもある。そのまま訳すと分かりにくいので、カギ括弧を付ける。適切な意訳が見つかれば、変更もあり得る。
+elves,noun,,false,エルフ,エルフ、エルフ族
+empty slot,noun,,false,空席,
+enable,verb,,false,有効化する,有効にする。使用する。オンにする。
+enabled,verb,,false,有効になった,
+enables,verb,,false,有効化する,"有効にする。
+イネーブルという用語は控えたほうがいいと思う。"
+energy bar,noun,,false,HPバー,ユニットの隣に表示されている体力ゲージ。
+era,noun,,false,時代,
+eras,noun,,false,時代,複数の党派を集めたもので、それぞれの党派どうしを戦わせることを意図して作られています。
+event,noun,,false,イベント,"(1) 出来事。事象。
+(2) キーボードやマウスからの入力や、実行中のプログラムからの処理要求のこと。これをきっかけにしてプログラムを動作させることをイベントドリブンという。"
+experience,noun,,false,経験、経験値,
+experience bar,noun,,false,XPバー,
+experience point,noun,,false,XP（経験値）,必要であれば（経験値）をつけておく。
+eyrie,noun,"A Drake fortress, home to a single flight and containing their primary hatchery and forge.",false,巣,"ドレークの要塞で、１つの飛族が住み、主要な孵化場と鍛治場を含む。
+
+原義は「猛禽類が高所に作る巣」なので、取りあえず「巣」と訳す。"
+faction,noun,,false,党派,"複数のユニットとリーダーユニットを集めたもの。
+忠誠軍、反乱軍、ナルガン同盟など。"
+factions,noun,,false,党派,複数のユニットとリーダーユニットを集めたもの。 忠誠軍、反乱軍、ナルガン同盟など。
+fearless,noun,,false,勇敢,特性の一つ。不利な時間帯の時でも攻撃力が低下しなくなる。
+feral,noun,,false,野生,ユニットの特性の一つ。一部を除く村での回避率の上限が50%に制限される。
+fill tool,noun,,false,塗り潰しツール,マップ・シナリオエディタのツールの1つ
+fire,noun,,false,火炎,ダメージ型の1つ
+first watch,noun,,false,夜,時刻サイクル
+firststrike,noun,,false,先制,
+flaming sword,noun,,false,炎の剣,扱いが難しいらしく、よくその辺に落ちている物騒な武器。
+flight||flights,noun,,false,飛族,"以下の情報を元に考案した造語。
+
+【 Drakipedia より】
+ドレークの集団。Eyrie に住み、猟場を支配する。それぞれの部族は、婚姻特権を有する ""Dominant"" を１人持つ。
+
+【 Wings of Victory（勝利の翼）開発者のメモより】
+詳細不明の、ドレークの社会構成に関する用語。""tribe"" に類似。""fly"" の派生語。"
+fog,noun,,false,霧,Fog of Warと同義。
+folder,noun,,false,フォルダ,"コンピュータで、ハードディスクなどの記憶媒体に記録された複数のファイルを、分類したり整理したりするために、あるまとまりをもたせて収容した場所、または概念。
+ディレクトリ（directory）も参照。"
+formula,noun,,false,フォーミュラ,"wesnothのエンジンで使われている言語 Wesnoth Formula Languageのこと。
+https://wiki.wesnoth.org/Wesnoth_Formula_Language"
+frames per second,noun,,false,フレーム数、FPS,ゲームにおける 1 秒間あたりのフレーム数。
+friend,noun,,false,友人,マルチプレイヤーには他のプレイヤーを友人として登録できる機能がある。
+friendly unit,noun,,false,味方ユニット,同盟軍ユニットと自軍ユニットの両方を意味することが多い。
+friendly units,noun,,false,味方ユニット,
+friends list,noun,,false,友人リスト,
+front line,noun,,false,前線,
+front lines,noun,,false,前線,
+frozen,noun,,false,凍土,
+full screen mode,noun,,false,フルスクリーンモード,対義語はウィンドウモード（windowed mode）
+galloper,noun,,false,「四本脚」,"ドレークが用いる、四本脚で移動する動物を指すための最も簡便な用語。
+取りあえず「四本脚」と訳す。"
+game data directory,noun,,false,ゲームデータディレクトリ,
+ghosts,noun,,false,幽霊,Ghost を参照
+goblin,noun,,false,ゴブリン,"体格に劣るオークたちを示す。
+なのに、なぜかオークとは別種族になっている。"
+gold,noun,,false,ゴールド,金貨ではなくゴールド
+gorer,noun,,false,オオキバイノシシ,"""Wings of Victory（勝利の翼）"" に登場。
+""gore"" は「牙で突く」。
+成熟した ""tusker"" のようなので、「オオキバイノシシ」としてみる。"
+goto-mode,noun,,false,進行モード,
+grassland,noun,,false,草原,"基本地形の１つ。
+複合地形の中にはどうみても草原じゃないものも含まれているが、開けた土地ならこれに分類される"
+great continent,noun,,false,大陸,Wesnothが存在する大陸。
+great ocean,noun,,false,大洋,"大陸の西にある海。
+The Battle for Wesnothの世界には海はひとつしかない。"
+great river,noun,,false,大いなる川,"川の名前。
+Wesnothの世界には大きな川はこれしかない。"
+grid,noun,,false,グリッド、グリッド表示,格子線
+grunt,noun,,false,兵卒,Orcish Grunt：オークの兵卒
+gzip,noun,,false,gzip,データ圧縮をするプログラムのひとつ、またはその圧縮データのフォーマットのこと。拡張子は .gz。RFC 1952。
+halberd,noun,,false,ハルバード,https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%83%90%E3%83%BC%E3%83%89
+hatchling,noun,,false,雛,"""Winds of Fate"" で使用されている。
+
+孵化したばかりのドレークは、大人の人間の３分の２ほどの大きさだが、動きはぎこちなく、無防備である。"
+hawk,noun,,false,鷹,
+heal,noun,,false,回復,
+healer,noun,,false,ヒーラー,場合によっては「回復ユニット」等の補足をする。
+heals,noun,,false,回復,ユニットの持つ能力の一つ。
+healthy,noun,,false,壮健,ユニットの特性の一つ。移動中でも休息の効果を受けられる。
+hero,noun,,false,ヒーロー,勝利条件の説明や「マニュアル」「ヘルプ」等、シナリオの途中で死亡してはならないユニットなどを表すときは「ヒーロー」と訳す。特性などの場合は「英雄」。
+hitpoint,noun,,false,HP,ヒットポイント表記の所も多いけどできればHPにしておく。
+horseman,noun,,false,騎兵,
+hotkey,noun,,false,ホットキー,ショートカットキーやキーボードショートカットと同じ意味。
+hotkeys,noun,,false,ホットキー,
+hotseat,noun,,false,ホットシート,"1台のコンピューター上で相手と交代で操作しながら行うゲーム。
+日本ではあまり使われない言葉なので、必要があれば説明もつけること。"
+human,noun,,false,人間,種族の一つ。人間。
+humans,noun,,false,人間,人間、人間族
+id,noun,,false,ID,"識別子。
+似たようなものとして名前（name）がある。
+名前は翻訳により変化するが、識別子は変化しない。
+名前と識別子はペアになることが多い。"
+idle,noun,,false,待機,マルチプレイ時の「待機状態」に関連する場合はアイドルではなく待機に統一
+idle state,noun,,false,待機状態,
+ignore list,noun,,false,無視リスト,
+ignores list,noun,,false,無視リスト,
+image path string,noun,,false,画像パス文字列,
+income,noun,,false,収入,"基準収入と村からの収入からなる。
+維持費（upkeep）も参照。"
+inspire,noun,,false,感銘,ユニットの能力の1つ。周囲のレベルが同じか下のユニットを強化する。
+intelligent,noun,,false,知的,特性の一つ。必要経験値が減る。
+invisible,noun,,false,不可視,ユニットの状態。潜水、伏兵などが発動するとこの状態になる
+item tool,noun,,false,アイテムツール,マップ・シナリオエディタのツールの1つ
+jamming,noun,,false,ジャミング,
+kai,noun,,false,Kai,"""Dead Water（死の海）"" で使われている。
+マーフォークの「王」を表す称号のようなものか。
+一般名詞として用いられる場合は全て小文字だが、当主の名前の前に付ける場合は先頭が大文字になり、固有名詞化すると思われる。
+この点からも ""king"" に相当すると考えられる。
+一般名詞として用いられている時は「王」と訳しても良さそうだが、マーフォークらしさを出すために、そのまま用いた方が良い場合もあるだろう。
+その場合は先頭を大文字にした方が良さそうに思う。"
+keep,noun,,false,主塔,陣営のリーダーが雇用、召還を行うための場所、地形。動詞のkeepなどと混同しないように。
+kick,noun,,false,キック,マルチプレイヤー時の用語またはコマンド。ゲームからプレイヤーを追い出す。
+label,noun,,false,ラベル,マップ上のヘクスにテキストを表示できる機能。
+label tool,noun,,false,ラベルツール,マップ・シナリオエディタのツールの1つ
+labels,noun,,false,ラベル,
+lava,noun,,false,溶岩,
+layer,noun,,false,レイヤー,
+leader,noun,,false,リーダー,司令官（commander）も参照
+level,noun,,false,レベル,
+load,verb,,false,再開,セーブデータ関連のloadは「再開」。でも違和感ある時は読み込みでも可。
+load map dialog,noun,,false,マップ読み込みダイアログ,
+loads,,,false,再開,
+log domain,noun,,false,ログ領域,ログドメインとも
+log domains,noun,,false,ログ領域,
+log level,noun,,false,ログレベル,error、warning、info、debug、の四段階
+logfile,noun,,false,ログファイル,
+logger,noun,,false,ロガー,"ログ出力。
+ログ出力機能。"
+loremaster,noun,,false,伝承者,ドワーフ族の賢者、伝承家とも呼ばれる
+loyal,noun,,false,忠義,ユニットの特性の一つ。維持費が0になる。
+macros,noun,,false,マクロ,複雑な操作の手順をあらかじめ登録しておき、必要なときに簡単に実行させる機能。
+mage,noun,,false,魔術師,
+mages,noun,,false,魔術師,
+magi,noun,,false,魔術師,"mage とどう違うのか不明。
+辞書的にはゾロアスター教の司祭 magus の複数形らしい。大文字の Magus / Magi は「博士」とか「賢者」などと訳されることがある。高位の mage というイメージかも。"
+magic ministry,noun,,false,魔法大臣,Wesnoth王国の役職
+map,noun,,false,マップ,
+map editor,noun,,false,マップエディタ,本体に組み込まれているので、「in-game map editor」とも言う。
+map generator,noun,,false,マップジェネレーター,
+mask,noun,,false,マスク,
+meat,noun,,false,人肉,"""meat"" は、オークが用いる人間族の蔑称で、オークが人間族を食すことを含意する。訳の候補は「肉」「お肉」「人肉」「獲物」など。とりあえず「人肉」としておく。"
+melee,noun,,false,近接,攻撃の分類
+melee weapon,noun,,false,近接武器,
+merfolk,noun,,false,マーフォーク、海の種族,"種族の一つ。男性はマーマン、女性はマーメイドと呼ばれる。
+マーマン族とは訳さない。"
+mermaid,noun,,false,マーメイド,マーフォークの女性
+merman,noun,,false,マーマン,マーフォークの男性。
+mermen,noun,,false,マーマンたち、マーフォーク,"mermanの複数形
+マーマンだけでなく、マーメイドも含む集団を表す場合はマーフォークと訳する
+マーフォークも参照。"
+minimap,noun,,false,ミニマップ,マップ全体を概観するための縮小された地図。
+mixed terrain,noun,,false,複合地形,地形のタイプの一つ。
+morning,noun,,false,朝,時刻サイクル。
+mouse,noun,,false,マウス,コンピューターの入力装置であるあれ。
+movement,noun,,false,移動,
+movement cost,noun,,false,移動コスト,
+movement point,noun,,false,移動力,
+movement points,noun,,false,移動力,
+multiplayer,noun,,false,マルチプレイヤー,複数人で遊ぶためのゲームモード。
+music,noun,,false,BGM,"設定項目に出てくるmusicはだいたいBGMのことを指している。
+たまに効果音などを含む音楽全般を意味することもあるので注意。"
+nagas,noun,,false,ナーガ,
+nagini,noun,,false,ナギニ、ナーガ,"ユニット名についてはナギニ、種族名についてはナーガ。
+ナーガの女性を表す。"
+named area,noun,,false,名前付き領域,マップ・シナリオエディタで使用される、名前をつけられた領域。
+named areas,noun,,false,名前付き領域,マップ・シナリオエディタで使用される、名前をつけられた領域。
+necromancer,noun,,false,ネクロマンサー、降霊術師、死霊魔術師、死霊使い,ユニット名を表す場合は、「ネクロマンサー」そうでないときは文脈に応じて使い分ける。
+nick,noun,,false,ニックネーム,ニックネームは 20 文字以下で、同じサーバー上では重複できない仕様になっている。
+night,noun,,false,夜間,秩序ユニットが弱体化され、混沌ユニットが強化される時刻。夜と深夜を合わせたもの。当然、ゲーム内時刻やアラインメントとは関係の無い普通の英単語の場合もあるので注意。
+normal,adjective,,false,ノーマル,難易度のNormalの対訳は「普通」ではなく「ノーマル」を充てている。
+oasis,noun,,false,オアシス,地形。村と同様の回復効果がある。
+observer,noun,,false,観戦者,マルチプレイ時にゲームに直接参加せずに、観戦している人。略してobs。
+observers,noun,,false,観戦者,
+ogre,,,false,オーガ,
+opponent,noun,,false,敵、対戦相手,
+opponents,noun,,false,敵、対戦相手,
+orb,noun,,false,宝珠,ユニットのHPバーの上に表示されているアレ。移動可能かどうかや、友軍・敵軍の判別に使う。
+orbs,noun,,false,宝珠,ユニットのHPバーの上に表示されているアレ。移動可能かどうかや、友軍・敵軍の判別に使う。
+orc,noun,,false,オーク,種族
+orcs,noun,,false,オーク,オーク、オーク族
+paint tool,noun,,false,ペイントツール,マップ・シナリオエディタのツールの1つ
+pallete,noun,,false,パレット,たぶんPaletteの間違い？
+parameter,noun,,false,パラメータ,
+parry,noun,,false,回避,
+password,noun,,false,パスワード,
+paste,noun,,false,貼り付け,ペーストではなく貼り付け
+paste tool,noun,,false,貼り付けツール,マップ・シナリオエディタのツールの1つ
+path,noun,,false,パス,ファイルやフォルダの所在を表す文字列。
+petrified,noun,,false,石化,ユニットの状態。石化したユニットは行動できず、ただのオブジェクトのように扱われる。
+pierce,noun,,false,刺突,"ダメージ型の1つ。
+「貫通」から「刺突」に変更。"
+plain text file,noun,,false,プレーンテキストファイル,普通のテキストファイル。メモ帳などのテキストエディタで読み込める。
+player,noun,,false,プレイヤー,最後の長音符（ー）は付ける。
+playlist manager,noun,,false,プレイリストマネージャ,
+poison,noun,,false,毒,特殊武器の一つ。
+preprocess,,,false,前処理,プリプロセス
+preprocessed,,,false,前処理された,"処理された。
+プリプロセスされた。"
+preprocessing,noun,,false,前処理,プリプロセス
+preprocessor,noun,,false,プリプロセッサ,
+publish,verb,,false,公開,
+quick,noun,,false,敏捷,特性の一つ。移動力が増えるが、体力が減る。
+race,noun,,false,種族,エルフ、人間、オークなど
+races,noun,,false,種族,
+range,noun,,false,射程,
+ranged,noun,,false,遠隔,攻撃の分類
+ranged weapon,noun,,false,遠隔武器,
+recall,noun,,false,召還,以前に雇用などで仲間になったユニットを呼び出すこと。
+recalls,noun,,false,召還,
+recruit,noun,,false,雇用,新しいユニットを雇うこと。
+recruits,noun,,false,雇用,
+regeneration,noun,,false,再生,ユニットが持つ能力の一つ。
+registered users,noun,,false,登録ユーザー,"ニックネーム
+パスワード
+メールアドレス（任意）"
+reload,noun,,false,再開,意味はloadとほぼ同じなので統一
+remote scenario,noun,,false,リモートシナリオ,"マルチプレイヤーゲームのリストにおいて、そのゲームのシナリオのハッシュ値がオリジナルのデータと異なっている場合にこれに分類されるっぽい？
+オリジナルのデータの存在しないランダムマップや、world conquestみたいなマップを生成するシナリオが該当する。"
+replay,noun,,false,リプレイ,
+replays,noun,,false,リプレイ,
+resilient,noun,,false,頑強,ユニットの特性の一つ。体力が増える。
+resistance,noun,,false,耐性,
+resistances,noun,,false,耐性,
+resources,noun,,false,リソース,
+resting,noun,,false,休息,ユニットを行動させなかった際の回復。
+right panel,noun,,false,右パネル,画面右側の ミニマップ等が表示されている部分。
+river road,noun,,false,河川道,緑の島の地名。
+road,noun,,false,道,地形の一つ。
+room,noun,,false,部屋,マルチプレイヤー用語。
+rooms file,noun,,false,部屋ファイル,
+rune,noun,,false,ルーン,神秘的な力をもった記号や文字。呪印。
+runemaster,noun,,false,ルーンマスター,
+runesmith,noun,,false,ルーンスミス,より説明的に訳す場合は「ルーンの鍛冶職人」。
+runner,noun,,false,「二本脚」,"二足歩行の動物を指すのにドレークが用いる最も簡便な用語。""Wings of Victory（勝利の翼）"" の冒頭の時点では、ドレークが知る ""runner"" は人間族のみ。
+取りあえず「二本脚」と訳すが、「二足歩行」も検討に値する。"
+saurians,noun,,false,トカゲ,トカゲ、トカゲ族
+save,noun,,false,保存,セーブデータを指していることもある。
+save,verb,,false,保存,
+save file,noun,,false,セーブデータ,
+save game directory,noun,,false,セーブデータディレクトリ,
+saved game,noun,,false,セーブデータ,
+saved games,noun,,false,セーブデータ,
+savefile,noun,,false,セーブデータ,
+savefiles,noun,,false,セーブデータ,
+savegame,noun,,false,セーブデータ,
+scenario,noun,,false,シナリオ,
+scenario id,noun,,false,シナリオ ID,
+scenario objectives,noun,,false,シナリオ目標,
+scenarios,noun,,false,シナリオ,
+screen,noun,,false,スクリーン、画面,
+screen resolution,noun,,false,画面解像度,
+script,noun,,false,スクリプト,
+scriptable benchmarking,noun,,false,スクリプト化可能なベンチマーク,
+scripting,,,false,スクリプティング,スクリプトと訳す場合もある。
+scripting engine,noun,,false,スクリプトエンジン,
+second watch,noun,,false,深夜,時刻サイクル
+select,,,false,選択,
+select tool,noun,,false,選択ツール,マップ・シナリオエディタのツールの1つ
+selection,noun,,false,選択,
+selection tool,noun,,false,選択ツール,select toolの表記ブレだと思われる。
+server,noun,,false,サーバー,最後の長音符（ー）は付ける。
+server command,noun,,false,サーバーコマンド,
+session,noun,,false,セッション,
+setting,noun,,false,設定,
+settings,noun,,false,設定,
+shroud,noun,,false,幕,
+side,,,false,陣営,
+sides,noun,,false,陣営,
+signpost,noun,,false,道しるべ,
+skeleton,noun,,false,スケルトン,アンデッドのユニット。
+skirmisher,noun,,false,散兵,能力の1つ。支配領域（ZOC）を無視する。
+skirmishers,noun,,false,散兵,能力の一つ。
+slow,noun,,false,鈍重,ユニットの特性の一つ。移動力が下がるが、HPが増える。
+slowed,noun,,false,遅化,ユニットの状態。攻撃力と移動力が半分になる。
+slows,noun,,false,遅化,特殊攻撃の一つ。1ターンの間、命中したユニットの攻撃力と移動力を半分にする。
+soldier,noun,,false,兵士、戦士,だいたい、ユニットのこと。
+sound,noun,,false,効果音,
+sounds,noun,,false,効果音,
+soundsource tool,noun,,false,音源ツール,マップ・シナリオエディタのツールの1つ
+special attack,noun,,false,特殊攻撃,攻撃に付いている、生命吸収などの能力。
+special attacks,noun,,false,特殊攻撃,
+specified,verb,,false,指定された,
+specify,verb,,false,指定する,
+starting position,noun,,false,開始地点,シナリオの初ターンにリーダーが配置される位置
+starting tool,noun,,false,開始地点ツール,マップ・シナリオエディタのツールの1つ
+statistics,noun,,false,統計情報,
+status pane,noun,,false,ステータスペイン,ゲーム中のUIの一部で、標準のテーマだと右側のミニマップ等が表示されている部分。
+status table,noun,,false,ステータステーブル,敵と味方の現状を確認することができる。
+storm trident,noun,,false,ストームトライデント,よくそのへんに落ちている物騒な武器。
+straight,adjective,,false,まっすぐな,エディタなどで、地形について。
+strong,noun,,false,強力,ユニットの特性の一つ。近接攻撃のダメージと体力が増える。
+suffix,noun,,false,拡張子,本来の意味は、接尾辞。意訳して拡張子と訳す。
+surrender,verb,,false,降参,
+teaching,noun,,false,指導,ユニットの能力の1つ。
+terrain,noun,,false,地形,
+terrain description,noun,,false,地形情報,
+terrain modifier,noun,,false,地形効果,
+terrain modifiers,noun,,false,地形効果,
+terrain palette,noun,,false,地形パレット,
+contention,noun,,false,闘技会,"""Winds of Fate"" で使用されている。
+""dominant"" になるための、軍事的統率力を競う試練。"
+the Fall,noun,,false,「滅び」,wesnothは第3の太陽を打ち上げに失敗して、wesnothだけでなく多くの文明が失われた。「滅び」はその出来事を指す。
+the Great River,noun,,false,大いなる川,
+the Three Sisters,noun,,false,三姉妹の島,Alduin島の北北西にある三つの島からなる群島です。
+the wide green world,noun,,false,（この）広大な緑の世界,"Idryaのこと。以下Geography of Wesnothより引用。
+Wesnothの王国のある世界には「Irdya」という名前があります。しかし、この名前は主要な地図が作られた時代にはほとんど使われることはありません。人々は単に「世界」（the world）と呼ぶか、詩的な表現を使った場合には「広大な緑の世界」（the wide green world）と呼びます。"
+time limit,noun,,false,持ち時間,マルチプレイヤーにおいて、ターンごとに設けられる時間制限
+time schedule,noun,,false,タイムスケジュール,
+timestamp,noun,,false,時刻,直訳するとタイムスタンプ。
+tip,noun,,false,ヒント,"使う上で、役に立つコツ、豆知識、小技を集めたもの。
+本来の意味は「チップ」。"
+top panel,noun,,false,トップパネル,画面の上部に存在する細長い領域。メニューバー。
+trait,noun,,false,特性,頑強、敏捷、アンデッドなど、ユニットに付加されている特性。
+traits,noun,,false,特性,
+tribe,noun,,false,部族,"部族。民族と訳す場合もあるようだ。
+クラン（clan）よりも大きい単位。"
+trident,noun,,false,トライデント,三叉槍。
+triton,noun,,false,トリトン、トライトン,"Merman Triton：精鋭トライトン
+英語的な発音。
+ → マーマンのトリトン"
+troll,noun,,false,トロル,種族の一つ。
+trolls,noun,,false,トロル,
+troops,noun,,false,ユニット、兵、軍勢,
+turn,noun,,false,ターン,ゲーム進行の単位。
+turn limit,noun,,false,ターン制限,
+turns,noun,,false,ターン,
+tusker,noun,,false,キバイノシシ,"""Wings of Victory（勝利の翼）"" に登場。
+""tusk（牙）"" からの派生語なので、「キバイノシシ」としてみる。"
+tusklet,noun,,false,キバイノシシの子,"""Wings of Victory（勝利の翼）"" に登場。
+""tusk（牙）"" からの派生語で、""young tusker"" とされていることから、「キバイノシシの子」としてみる。"
+type,noun,,false,種類,ユニットの種類を示している場合はこれ。
+undead,noun,,false,アンデッド,"種族の一つ（正確に言うとアンデッドは種族ではないけど）。または、アンデッドが共通して持つ特性。
+標準の時代の党派の一つでもある。"
+unhealable,noun,,false,回復不能,ユニットの状態。村などでも体力が回復できなくなる。
+unit list,noun,,false,ユニット一覧,
+unit tests,noun,,false,ユニットテスト,
+unit tool,noun,,false,ユニットツール,マップ・シナリオエディタのツールの1つ
+unnamed area,noun,,false,無名の領域,
+unsafe lua mode,noun,,false,アンセーフLuaモード,
+unwalkable,noun,,false,歩行不能,
+upkeep,noun,,false,維持費,
+user,noun,,false,ユーザー,最後の長音符（ー）は付ける。
+user configuration directory,noun,,false,ユーザー設定ディレクトリ,"設定ファイルも参照。
+wesnoth --userconfig-path で表示される"
+user data directory,,,false,ユーザーデータディレクトリ,データディレクトリとは別物。wesnoth --userdata-path で表示される。
+user handler,noun,,false,ユーザーハンドラ,
+user-made content,noun,,false,ユーザーメイドコンテンツ,UMCと略されることが良くある
+users,noun,,false,ユーザー,
+vacant slot,noun,,false,空席,マルチプレイヤー時の用語。
+village,noun,,false,村,
+village ownership tool,noun,,false,村の所有権ツール,マップ・シナリオエディタのツールの1つ
+village tool,noun,,false,村ツール,マップ・シナリオエディタのツールの1つ
+villages,noun,,false,村,
+vision,noun,,false,視界,
+warlord,,,false,将軍,"武装集団のリーダー。
+軍閥とか戦国大名のようなイメージ。"
+water,noun,,false,水域、水域（浅瀬、深水）,地形関連の話題で、深水（deep water）と浅瀬（shallow water）をまとめて指す場合の訳。
+weak,noun,,false,非力,ユニットの特性の一つ。HP、近接攻撃力が減る。
+wesnoth client,noun,,false,wesnoth クライアント,wesnothdに接続する側。
+wesnothd,noun,,false,wesnothd,"コマンド名。
+Battle for Wesnoth マルチプレイヤー・ネットワーク・デーモン"
+whiteboard,noun,,false,行動予定,
+widget,noun,,false,ウィジェット,GUIの部品の総称。ウィンドウやテキストボックスなど。
+windowed mode,noun,,false,ウインドウモード,"フルスクリーンモードに対してこう言う。
+ウィンドウ化されたモード。"
+wose,noun,,false,ウーズ,種族名。木のような種族。
+xBRZ,noun,,false,xBRZ,画像拡大のアルゴリズム
+zone of control,noun,,false,支配領域（ZOC）,単にZOCとも。（シミュレーションゲームではよく使われる用語）
+zones of control,noun,,false,支配領域（ZOC）,
+ the Ocean,noun,,false,大洋,
+ unit test,noun,,false,ユニットテスト,"単体テストのこと。テスティングフレームワークを使ったテストを特にこう呼ぶ。
+ゲーム内のユニットとは関係ない。"
+ volunteer,noun,,false,ボランティア、志願兵,文脈によって、意味に違いがある。
+ volunteers ,noun,,false,ボランティア、志願兵,
+Lord Companion ,noun,,false,護民官,北部同盟の役職
+data directory ,noun,,false,データディレクトリ,"ゲームデータディレクトリを参照。
+ユーザーデータディレクトリとは別物。
+wesnoth --data-path で表示される。"
+dwarves ,noun,,false,ドワーフ,ドワーフ、ドワーフ族
+userdata directory ,noun,,false,ユーザーデータディレクトリ,user data directory の表記ゆれ
+wesnoth ,noun,,false,wesnoth,"コマンド名。
+Battle for Wesnoth ターン制ファンタジー戦略ゲーム"
+Winds of Fate,noun,,true,運命の風,メインラインキャンペーンの１つ。wof
+Wing,noun,,false,翼,"""Winds of Fate"" のチーム名に用いられる。
+必要に応じて鉤括弧を使うか。他の訳語の候補としては、「翼隊」。
+
+ドレークの小規模な戦闘集団。
+一般的には、より大きな ""flight"" の別働隊であり、戦争や狩猟で使用される。"
+Gorlack,noun,,true,Gorlack,Winds of Fate の主人公。ドレーク。
+Resha,noun,,true,Resha,"Winds of Fate の主要キャラクター。ドレーク。
+女性らしい。"
+Morogor,noun,,false,Morogor,徐々に沈みゆく多島海で、ドレークの始祖の故郷。
+rogue,noun,,false,はぐれドレーク,"""Winds of Fate"" で用いられている。
+当初「ならず者」を用いたが、形容詞に「（動物が）群れから離れて凶暴な」という意味があり、そのニュアンスを出すために「はぐれドレーク」と訳してみた。ただし、「はぐれ」だと１匹だけのイメージがあるので、要検討。他の候補は「はみ出し者」「異端」など。"
+Windpath,noun,,true,風道,"""Winds of Fate"" で使われている。
+とりあえず「風道」と訳してみるが、「風の道」も良いか。"
+Karron,noun,,true,Karron,"""Winds of Fate"" に登場するドレーク。
+女性らしい。"
+reascension,noun,,false,復興,"""Winds of Fate"" で使用されている。
+とりあえず「復興」と訳す。他の候補は「再興」「復活」「復古」など。
+
+""the Reascension from Exile"" とも呼ばれる。
+Morogor のドレークを流浪から帰還させるというグライダー・カーストの願望。これには ２ つの側面がある。
+第一には、Morogor の多島海から遠く離れた大陸へ物理的に脱出することだが、広大な大洋と地理的知識が十分に受け継がれなかったことにより困難を極めた。
+第二に、遥か西方の「高貴な」ドレークの流浪につながった特性の欠陥を発見し、克服すること。"
+Hunt,noun,,true,狩り,"""Winds of Fate"" で使用されている。
+
+高位のドレイクが招集する、組織化された大規模な狩猟のこと。「 Hunt を Call する」ドレークは、ハンターの安全確保だけでなく、最終目標の設定にも責任を負う。
+
+単独で使用されている場合は「狩り」と訳すが、""Call the Hunt"" は「狩猟開始を宣言する」など、場面に応じて訳し方を変える。"
+Spoken Memories,noun,,true,口承の記憶,ドレークの伝承。
+glider,noun,ドレークのカースト,false,滑空者,"""Winds of Fate"" で使用されている。
+滑空ドレークを含むカーストの一種。"
+skimmer,noun,,false,ざる,"""Winds of Fate"" で使用されている。
+オークが使っている船のこと。
+ドレークは船の知識を持たないので、こう呼んでいると思われる。
+辞書的には「網杓子」だが、分かりにくいので「ざる」としてみる。"
+clasher,noun,,false,粉砕者,ドレークのカースト（系統）の１つ。
+harvest,verb,,false,収獲,"サ行変格活用。
+ドレークが使用する場合は、「収穫」ではなく「収獲」とする。"
+domain,noun,,false,縄張り,"""Winds of Fate"" でドレークが用いる場合は「縄張り」とする。"
+Vladnir,noun,,true,Vladnir,"""Winds of Fate"" に登場。
+主人公の上司のようなドレーク。"
+Greatland,noun,"The drakish word for ""continent"" (along with ""great island"").
+Usually used to refer to the Great Continent to the east of Morogor.",true,大地,"ドレーク語で「大陸」を意味する。
+通常、Morogor の東にある大陸を指す。"
+Elevation,pronoun,,false,エレベーション,
+marker||markers,noun,,false,マーカー,
+Three Sisters,noun,,true,三姉妹の島,
+Alduin,noun,,true,Alduin,
+Arinexis,noun,,true,Arinexis,"""Winds of Fate"" に登場するトカゲ。
+初登場時は女熟練散兵。一人称は「あたい」。"
+Zedrix,noun,,false,Zedrix,"""Winds of Fate"" に登場するトカゲ。
+初登場時は僧侶。性別不明。
+一人称は「俺」にしておく。"
+Oxepotex,noun,,true,Oxepotex,"""Winds of Fate"" に登場するトカゲ。
+初登場時は女散兵。"
+drakekin,noun,,false,ドレーク類,"""Winds of Fate"" でドレークが用いるドラゴンの総称。
+""kin"" は「同類」という意味。
+「ドレークキン」「近ドレーク類」「drakekin」なども候補。"
+Ravan,noun,,false,Ravan,Mal-Ravanal の生前の名前「東部侵略」性別不詳
+Amulet of the Veil,noun,,false,ベールのアミュレット,強い力を秘めたアーティファクト「東部侵略」
+Soradoc,noun,,false,Soradoc,Wesnoth の都市名「東部侵略」
+Estmarks,noun,,false,Estmarks,地名。Estmark Hills のあたりを指すと思われる。翻訳では Estmark と表記した方がいいかもしれない
+Mal-Talar,noun,,false,Mal-Talar,東部侵略の登場人物。割と出番が多い
+Addogin,noun,,false,Addogin,東部侵略の登場人物
+Hahid al-Ali,noun,,false,Hahid al-Ali,東部侵略の登場人物。デューンの薬師
+alswdan,noun,,false,ウルスダーン,東部侵略に登場する薬草。表記は当て字
+gwza-alswdan,noun,,false,グーザ・ウルスダーン,東部侵略に登場する薬草の名前。
+Safyam,noun,,false,Safyam,東部侵略の登場人物
+Hahid,noun,,false,Hahid,東部侵略の登場人物 Hahid al-Ali の略称。
+Ashland,noun,,false,Ashland,東部侵略で登場した地名。デューンフォークの土地と思われる
+Terraent,noun,,false,Terraent,東部侵略の登場人物。聖騎士
+Galdren,noun,,false,Galdren,星読み(seer)。東部侵略に名前だけ登場
+Listra,noun,,false,Listra,地名。Great Riverより北にある場所。東部侵略で登場
+Dolburras,noun,,false,Dolburras,東部侵略の登場人物。ドワーフ
+Yannic,noun,,false,Yannic,東部侵略の登場人物。クラン所属
+Whitefang,noun,,false,Whitefang,オークの氏族の名前。「闇へ堕ちて」と「東部侵略」で登場
+High Advisor,noun,,false,高位相談役,東部侵略の Dacyn の役職名。王に助言を行う立場
+Gaennell,noun,,false,Gaennell,東部侵略の登場人物
+silver order,noun,,false,銀の教団,詳細は不明。とりあえず「銀の教団」と訳しておく。
+craftling,noun,,false,工匠族,"""Winds of Fate"" で使用されている。
+ドワーフを意味する。
+craft は「工芸」、ling は「小さい」「…に属する人」を表す接尾辞。
+「工芸族」「クラフトリング」「craftling」等も候補。"
+caster,noun,,false,鋳工族,"""Winds of Fate"" で使用されている。
+人間族のこと。"
+Achievements,pronoun,,false,実績,
