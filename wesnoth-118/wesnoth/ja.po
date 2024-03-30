@@ -4774,7 +4774,7 @@ msgstr "アドオンマネージャー"
 
 #: src/addon/client.cpp:350
 msgid "Installing add-on <i>$addon_title</i>..."
-msgstr "アドオン <i>$addon_title</I> のインストール中..."
+msgstr "アドオン <i>$addon_title</i> のインストール中..."
 
 #: src/addon/client.cpp:362 src/addon/client.cpp:388
 msgid ""
