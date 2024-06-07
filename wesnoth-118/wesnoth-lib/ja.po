@@ -7,6 +7,7 @@
 # Translators:
 # tamanegi, 2024
 # k konami, 2024
+# h22, 2024
 # RatArmy, 2024
 # 
 #, fuzzy
@@ -14,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-03-02 22:44 UTC\n"
+"POT-Creation-Date: 2024-05-26 02:28 UTC\n"
 "PO-Revision-Date: 2023-12-03 03:44+0000\n"
 "Last-Translator: RatArmy, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
@@ -2182,7 +2183,7 @@ msgstr "アドオンの公開"
 #. [button]: id=single_uninstall
 #. [button]: id=uninstall
 #: data/gui/widget/addon_list.cfg:435 data/gui/window/addon_manager.cfg:622
-#: src/gui/dialogs/addon/manager.cpp:1006
+#: src/gui/dialogs/addon/manager.cpp:1017
 msgid "Uninstall add-on"
 msgstr "アドオンのアンインストール"
 
@@ -2199,9 +2200,10 @@ msgstr "メッセージ待機中"
 #: data/gui/widget/window_default.cfg:106
 #: data/gui/window/achievements_dialog.cfg:306
 #: data/gui/window/attack_predictions.cfg:304 data/gui/window/chat_log.cfg:201
+#: data/gui/window/community_dialog.cfg:176
 #: data/gui/window/end_credits.cfg:145
 #: data/gui/window/game_cache_options.cfg:247
-#: data/gui/window/game_stats.cfg:843 data/gui/window/game_version.cfg:637
+#: data/gui/window/game_stats.cfg:843 data/gui/window/game_version.cfg:649
 #: data/gui/window/gamestate_inspector.cfg:397
 #: data/gui/window/generator_settings.cfg:190
 #: data/gui/window/help_browser.cfg:188
@@ -2271,8 +2273,7 @@ msgstr "パスワードを暗号化して保存する"
 #: data/gui/window/editor_edit_scenario.cfg:287
 #: data/gui/window/editor_edit_side.cfg:469
 #: data/gui/window/file_dialog.cfg:437 data/gui/window/folder_create.cfg:119
-#: data/gui/window/label_settings.cfg:137
-#: data/gui/window/language_selection.cfg:148 data/gui/window/logging.cfg:259
+#: data/gui/window/label_settings.cfg:137 data/gui/window/logging.cfg:259
 #: data/gui/window/migrate_version_selection.cfg:114
 #: data/gui/window/mp_change_control.cfg:203
 #: data/gui/window/mp_faction_select.cfg:381
@@ -2313,7 +2314,7 @@ msgstr "OK"
 #: data/gui/window/file_dialog.cfg:450 data/gui/window/file_progress.cfg:94
 #: data/gui/window/folder_create.cfg:133 data/gui/window/game_load.cfg:651
 #: data/gui/window/game_save.cfg:134 data/gui/window/label_settings.cfg:149
-#: data/gui/window/language_selection.cfg:162 data/gui/window/logging.cfg:269
+#: data/gui/window/language_selection.cfg:305 data/gui/window/logging.cfg:269
 #: data/gui/window/message.cfg:149 data/gui/window/mp_change_control.cfg:216
 #: data/gui/window/mp_connect.cfg:314
 #: data/gui/window/mp_create_game/default_resolution.cfg:460
@@ -2468,7 +2469,7 @@ msgstr "必要なもの："
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=dependencies
 #: data/gui/window/addon_manager.cfg:713
-#: src/gui/dialogs/addon/manager.cpp:1084
+#: src/gui/dialogs/addon/manager.cpp:1097
 msgid "addon_dependencies^None"
 msgstr "なし"
 
@@ -2482,7 +2483,7 @@ msgstr "翻訳："
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=translations
 #: data/gui/window/addon_manager.cfg:748
-#: src/gui/dialogs/addon/manager.cpp:1098
+#: src/gui/dialogs/addon/manager.cpp:1111
 msgid "translations^None"
 msgstr "なし"
 
@@ -2508,8 +2509,8 @@ msgstr "タグ："
 #. [button]: id=language
 #: data/gui/window/addon_manager.cfg:870
 #: data/gui/window/editor_edit_pbl.cfg:257
-#: data/gui/window/language_selection.cfg:41
-#: data/gui/window/title_screen.cfg:491
+#: data/gui/window/language_selection.cfg:227
+#: data/gui/window/title_screen.cfg:492
 msgid "Language"
 msgstr "言語"
 
@@ -2527,7 +2528,7 @@ msgstr "アドオンマネージャー"
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=details_toggle
 #: data/gui/window/addon_manager.cfg:1099
-#: src/gui/dialogs/addon/manager.cpp:540 src/gui/dialogs/addon/manager.cpp:814
+#: src/gui/dialogs/addon/manager.cpp:551 src/gui/dialogs/addon/manager.cpp:825
 msgid "Add-on Details"
 msgstr "アドオンの詳細"
 
@@ -2767,13 +2768,63 @@ msgid "Copy this log to clipboard"
 msgstr "ログをクリップボードにコピーします"
 
 #. [label]
+#. [grid]
+#. On the title screen, this is the button to open the "Community" dialog, a
+#. multi-tab dialog which also includes the “About” info.
+#. Within the “Community” dialog, this chooses a tab with links to various
+#. Wesnoth websites.
+#: data/gui/window/community_dialog.cfg:42
+#: data/gui/window/title_screen.cfg:262
+msgid "Community"
+msgstr "コミュニティ"
+
+#. [button]: id=forums
+#. this is on a button that opens the Wesnoth forums webpage
+#: data/gui/window/community_dialog.cfg:63
+msgid "Forums"
+msgstr "フォーラム"
+
+#. [button]: id=discord
+#. this is on a button that opens the Wesnoth Discord server webpage
+#: data/gui/window/community_dialog.cfg:82
+msgid "Discord"
+msgstr "Discord"
+
+#. [button]: id=irc
+#. this is on a button that opens the Wesnoth IRC webpage. IRC is an acronym
+#. for Internet Relay Chat
+#: data/gui/window/community_dialog.cfg:101
+msgid "IRC"
+msgstr "IRC"
+
+#. [button]: id=steam
+#. this is on a button that opens the Wesnoth Steam forums webpage
+#: data/gui/window/community_dialog.cfg:120
+msgid "Steam"
+msgstr "Steam"
+
+#. [button]: id=reddit
+#. this is on a button that opens the Wesnoth Reddit webpage
+#: data/gui/window/community_dialog.cfg:139
+msgid "Reddit"
+msgstr "Reddit"
+
+#. [button]: id=donate
+#. this is on a button that opens the Wesnoth SPI webpage for sending
+#. donations
+#: data/gui/window/community_dialog.cfg:158
+msgid "Donate"
+msgstr "寄付"
+
+#. [label]
 #: data/gui/window/core_dialog.cfg:44
 msgid "Load Core"
 msgstr "コアの読み込み"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
-#: data/gui/window/core_dialog.cfg:228 src/preferences/display.cpp:119
+#: data/gui/window/core_dialog.cfg:228
+#: data/gui/window/language_selection.cfg:293 src/preferences/display.cpp:119
 msgid "Select"
 msgstr "選択"
 
@@ -2827,7 +2878,7 @@ msgstr "タイムスケジュールの編集"
 #: data/gui/window/screenshot_notification.cfg:120
 #: data/gui/window/tod_new_schedule.cfg:86
 #: src/gui/dialogs/multiplayer/mp_connect.cpp:186
-#: src/gui/dialogs/unit_recall.cpp:324
+#: src/gui/dialogs/unit_recall.cpp:328
 msgid "Name:"
 msgstr "名前："
 
@@ -2893,7 +2944,7 @@ msgstr "時刻の削除"
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/depcheck_confirm_change.cfg:40
-#: src/gui/dialogs/addon/manager.cpp:979 src/gui/dialogs/file_dialog.cpp:306
+#: src/gui/dialogs/addon/manager.cpp:990 src/gui/dialogs/file_dialog.cpp:306
 #: src/gui/dialogs/file_dialog.cpp:732
 msgid "Confirm"
 msgstr "確認"
@@ -3533,7 +3584,7 @@ msgstr "実行トレース"
 #. [button]: id=quit_without_surrender
 #. [grid]
 #: data/gui/window/formula_debugger.cfg:234
-#: data/gui/window/surrender_quit.cfg:99 data/gui/window/title_screen.cfg:263
+#: data/gui/window/surrender_quit.cfg:99 data/gui/window/title_screen.cfg:264
 msgid "Quit"
 msgstr "終了"
 
@@ -3893,6 +3944,13 @@ msgid ""
 "useful debug information"
 msgstr "現在のセッションに紐付けられたログファイルを開きます。このファイルには有用なデバッグ情報が含まれている可能性があります。"
 
+#. [button]: id=run_migrator
+#. button to open the version migration dialog manually to re-migrate add-ons
+#. and the preferences file
+#: data/gui/window/game_version.cfg:635
+msgid "Migrate"
+msgstr "移行"
+
 #. [label]
 #: data/gui/window/gamestate_inspector.cfg:16
 msgid "inspector tree item^•"
@@ -3982,9 +4040,41 @@ msgid "Show or Hide Labels"
 msgstr "ラベルの表示・非表示"
 
 #. [label]
-#: data/gui/window/language_selection.cfg:60
-msgid "Choose your preferred language:"
-msgstr "言語を選択："
+#: data/gui/window/language_selection.cfg:80
+msgid ""
+"<i>The Battle for Wesnoth</i> relies on volunteers for development, "
+"including translation. Translations may drift behind or even become "
+"abandoned."
+msgstr ""
+"<i>The Battle for Wesnoth</i> は、翻訳を含む開発をボランティアに依存しています。翻訳が遅れたり、放置されることもあります。"
+
+#. [label]
+#. Beneath the label widget displaying this text there is a widget displaying
+#. a clickable link to <https://gettext.wesnoth.org/> (which opens in the
+#. user’s browser).
+#: data/gui/window/language_selection.cfg:85
+msgid ""
+"<b>Note:</b> The translation percentages shown apply to the core game "
+"interface and in-game help only. More complete stats, including details for "
+"each campaign, are available at the following page:"
+msgstr ""
+"<b>注：</b>表示されている翻訳パーセンテージは、core game interface "
+"とゲーム内ヘルプのみに適用されます。各キャンペーンの詳細を含む、より完全な統計は以下のページでご覧いただけます："
+
+#. [label]
+#. Beneath the label widget displaying this text there is a widget displaying
+#. a clickable link to the wiki’s WesnothTranslations page (which opens in the
+#. user’s browser).
+#: data/gui/window/language_selection.cfg:142
+msgid ""
+"If you are interested in translating the game yourself, please follow the "
+"link below for more information:"
+msgstr "ご自身でゲームを翻訳することにご興味のある方は、以下のリンクから詳細をご覧ください："
+
+#. [toggle_button]: id=show_all
+#: data/gui/window/language_selection.cfg:276
+msgid "Show in-progress or abandoned translations"
+msgstr "進行中または放置されている翻訳を表示する"
 
 #. [label]: id=status
 #: data/gui/window/loadscreen.cfg:183
@@ -4983,7 +5073,7 @@ msgid "Advanced"
 msgstr "上級"
 
 #. [button]: id=about
-#: data/gui/window/preferences.cfg:419 data/gui/window/title_screen.cfg:470
+#: data/gui/window/preferences.cfg:419 data/gui/window/title_screen.cfg:471
 msgid "Display the game version and build information"
 msgstr "ゲームバージョンとビルド情報を表示する"
 
@@ -5842,21 +5932,26 @@ msgstr "各キャンペーンやシナリオの達成状況を表示します "
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:262
+msgid "Places to talk about Wesnoth"
+msgstr "Wesnoth について語る場所"
+
+#. [grid]
+#: data/gui/window/title_screen.cfg:263
 msgid "Credits"
 msgstr "クレジット"
 
 #. [grid]
-#: data/gui/window/title_screen.cfg:262
+#: data/gui/window/title_screen.cfg:263
 msgid "View the credits"
 msgstr "クレジットを表示します"
 
 #. [grid]
-#: data/gui/window/title_screen.cfg:263
+#: data/gui/window/title_screen.cfg:264
 msgid "Quit the game"
 msgstr "ゲームを終了します"
 
 #. [button]: id=language
-#: data/gui/window/title_screen.cfg:492
+#: data/gui/window/title_screen.cfg:493
 msgid "Change the language"
 msgstr "言語を変更します"
 
@@ -6046,22 +6141,22 @@ msgid "operating_system^<unknown>"
 msgstr "<不明>"
 
 #. TRANSLATORS: translate the part inside <...> only
-#: src/filesystem.cpp:690
+#: src/filesystem.cpp:696
 msgid "--userdata-dir=<relative path that doesn't start with a period>"
 msgstr "--userdata-dir=<ピリオド以外から始まる相対パス>"
 
-#: src/filesystem.cpp:693
+#: src/filesystem.cpp:699
 msgid ""
 "Use an absolute path, or a relative path that starts with a period and a "
 "backslash"
 msgstr "絶対パスまたはピリオドとバックスラッシュから始まる相対パスを使用してください。"
 
 #. TRANSLATORS: translate the part inside <...> only
-#: src/filesystem.cpp:758 src/filesystem.cpp:780
+#: src/filesystem.cpp:764 src/filesystem.cpp:786
 msgid "--userdata-dir=<relative path>"
 msgstr "--userdata-dir=<相対パス>"
 
-#: src/filesystem.cpp:761 src/filesystem.cpp:783
+#: src/filesystem.cpp:767 src/filesystem.cpp:789
 msgid ""
 "Use absolute paths. Relative paths are deprecated because they are "
 "interpreted relative to $HOME"
@@ -6077,7 +6172,7 @@ msgstr "絶対パスを使用してください。$HOME を基準として解釈
 #. other's resources rather than duplicating them. For example,
 #. Swedish (sv) and Danish (da) are such, so Swedish translator could
 #. translate this message as "sv,da", while Danish as "da,sv".
-#: src/filesystem.cpp:1762
+#: src/filesystem.cpp:1768
 msgid "language code for localized resources^en_US"
 msgstr "ja"
 
@@ -6208,7 +6303,7 @@ msgid ""
 "$expected expected)"
 msgstr "グリッド「$grid」の行 $row は異なる列数を持ちます（$found が見つかりました, $expected が期待されます。）"
 
-#: src/gui/dialogs/achievements_dialog.cpp:138
+#: src/gui/dialogs/achievements_dialog.cpp:137
 msgid "Completed"
 msgstr "完了率"
 
@@ -6429,104 +6524,109 @@ msgstr "公開済み、破損"
 msgid "addon_state^Unknown"
 msgstr "不明"
 
-#: src/gui/dialogs/addon/manager.cpp:433
+#: src/gui/dialogs/addon/manager.cpp:444
 msgid "ascending"
 msgstr "昇順"
 
 #. TRANSLATORS: Sorting order of dates, oldest first
-#: src/gui/dialogs/addon/manager.cpp:435
+#: src/gui/dialogs/addon/manager.cpp:446
 msgid "oldest to newest"
 msgstr "古い順"
 
-#: src/gui/dialogs/addon/manager.cpp:438
+#: src/gui/dialogs/addon/manager.cpp:449
 msgid "descending"
 msgstr "降順"
 
 #. TRANSLATORS: Sorting order of dates, newest first
-#: src/gui/dialogs/addon/manager.cpp:440
+#: src/gui/dialogs/addon/manager.cpp:451
 msgid "newest to oldest"
 msgstr "新しい順"
 
-#: src/gui/dialogs/addon/manager.cpp:537
+#: src/gui/dialogs/addon/manager.cpp:548
 msgid "addons^Back to List"
 msgstr "リストに"
 
-#: src/gui/dialogs/addon/manager.cpp:549
+#: src/gui/dialogs/addon/manager.cpp:560
 msgid "An error occurred while downloading the add-ons list from the server."
 msgstr "サーバーからアドオン一覧をダウンロードしている間にエラーが発生しました。"
 
-#: src/gui/dialogs/addon/manager.cpp:587
+#: src/gui/dialogs/addon/manager.cpp:598
 msgid "No Add-ons Available"
 msgstr "アドオンはありません"
 
-#: src/gui/dialogs/addon/manager.cpp:587
+#: src/gui/dialogs/addon/manager.cpp:598
 msgid "There are no add-ons available for download from this server."
 msgstr "このサーバーからダウンロード可能なアドオンはありません。"
 
-#: src/gui/dialogs/addon/manager.cpp:856
+#: src/gui/dialogs/addon/manager.cpp:867
 msgid ""
 "The following add-on appears to have publishing or version control "
 "information stored locally, and will not be removed:"
 msgstr "以下のアドオンは、アドオンの公開情報やバージョン情報をローカルに保存しています。これらのアドオンはアンインストールされません。"
 
-#: src/gui/dialogs/addon/manager.cpp:864
+#: src/gui/dialogs/addon/manager.cpp:875
 msgid "The following add-on could not be deleted properly:"
 msgstr "以下のアドオンを正常に削除できませんでした。"
 
-#: src/gui/dialogs/addon/manager.cpp:918
+#: src/gui/dialogs/addon/manager.cpp:929
 msgid "Warning"
 msgstr "警告"
 
-#: src/gui/dialogs/addon/manager.cpp:919
+#: src/gui/dialogs/addon/manager.cpp:930
 msgid ""
 "The remote version of this add-on is greater or equal to the version being "
 "uploaded. Do you really wish to continue?"
 msgstr "アップロードされるアドオンのバージョンは、リモートにあるアドオンのバージョン以下の値となっています。 それでも続けますか？"
 
-#: src/gui/dialogs/addon/manager.cpp:937
+#: src/gui/dialogs/addon/manager.cpp:948
 msgid "The passphrase attribute cannot be present when forum_auth is used."
 msgstr "forum_auth が使用された場合には passphrase 属性は存在できません。"
 
-#: src/gui/dialogs/addon/manager.cpp:942
+#: src/gui/dialogs/addon/manager.cpp:953
 msgid "Invalid icon path. Make sure the path points to a valid image."
 msgstr "アイコンのパスが無効です。 有効な画像が存在するパスを指定してください。"
 
-#: src/gui/dialogs/addon/manager.cpp:945 src/gui/dialogs/addon/manager.cpp:987
+#: src/gui/dialogs/addon/manager.cpp:956 src/gui/dialogs/addon/manager.cpp:998
 msgid "The server responded with an error:"
 msgstr "サーバーが返したエラー："
 
-#: src/gui/dialogs/addon/manager.cpp:948
+#: src/gui/dialogs/addon/manager.cpp:959
 msgid "The add-on was rejected by the server:"
 msgstr "アドオンはサーバーから拒否されました："
 
-#: src/gui/dialogs/addon/manager.cpp:963 src/gui/dialogs/addon/manager.cpp:990
+#: src/gui/dialogs/addon/manager.cpp:974
+#: src/gui/dialogs/addon/manager.cpp:1001
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:510
 msgid "Response"
 msgstr "応答"
 
-#: src/gui/dialogs/addon/manager.cpp:975
+#: src/gui/dialogs/addon/manager.cpp:986
 msgid ""
 "Deleting '$addon|' will permanently erase its download and upload counts on "
 "the add-ons server. Do you really wish to continue?"
 msgstr "「$addon|」 を削除するとアドオンサーバー上のダウンロード・アップロード回数も完全に消去されます。 続行しますか？"
 
-#: src/gui/dialogs/addon/manager.cpp:1007
+#: src/gui/dialogs/addon/manager.cpp:1018
 msgid "Do you want to uninstall '$addon|'?"
 msgstr "「$addon|」をアンインストールしますか？"
 
 #. TRANSLATORS: Month + day of month + year + 12-hour time, eg 'November 02
 #. 2021, 1:59 PM'. Format for your locale.
-#: src/gui/dialogs/addon/manager.cpp:1038
+#. Format reference:
+#. https://www.boost.org/doc/libs/1_85_0/doc/html/date_time/date_time_io.html#date_time.format_flags
+#: src/gui/dialogs/addon/manager.cpp:1050
 msgid "%B %d %Y, %I:%M %p"
 msgstr "%Y-%m-%d %I:%M %p"
 
 #. TRANSLATORS: Month + day of month + year + 24-hour time, eg 'November 02
 #. 2021, 13:59'. Format for your locale.
-#: src/gui/dialogs/addon/manager.cpp:1040
+#. Format reference:
+#. https://www.boost.org/doc/libs/1_85_0/doc/html/date_time/date_time_io.html#date_time.format_flags
+#: src/gui/dialogs/addon/manager.cpp:1053
 msgid "%B %d %Y, %H:%M"
 msgstr "%Y-%m-%d %H:%M"
 
-#: src/gui/dialogs/addon/manager.cpp:1101
+#: src/gui/dialogs/addon/manager.cpp:1114
 msgid "url^None"
 msgstr "なし"
 
@@ -6574,7 +6674,7 @@ msgid "active_modifications^None"
 msgstr "なし"
 
 #: src/gui/dialogs/chat_log.cpp:398 src/gui/dialogs/game_cache_options.cpp:69
-#: src/gui/dialogs/game_version_dialog.cpp:141
+#: src/gui/dialogs/game_version_dialog.cpp:142
 #: src/gui/dialogs/gamestate_inspector.cpp:418
 #: src/gui/dialogs/lua_interpreter.cpp:475
 #: src/gui/dialogs/screenshot_notification.cpp:70
@@ -6683,15 +6783,15 @@ msgstr "サバイバル"
 msgid "Terraforming"
 msgstr "地形変更"
 
-#: src/gui/dialogs/editor/edit_pbl.cpp:374
+#: src/gui/dialogs/editor/edit_pbl.cpp:378
 msgid "No validation errors"
 msgstr "検証エラーはありません"
 
-#: src/gui/dialogs/editor/edit_pbl.cpp:374
+#: src/gui/dialogs/editor/edit_pbl.cpp:378
 msgid "Success"
 msgstr "成功"
 
-#: src/gui/dialogs/editor/edit_pbl.cpp:404
+#: src/gui/dialogs/editor/edit_pbl.cpp:408
 msgid "Choose an icon"
 msgstr "アイコンの選択"
 
@@ -6885,12 +6985,12 @@ msgstr "いいえ"
 msgid "yes"
 msgstr "はい"
 
-#: src/gui/dialogs/game_version_dialog.cpp:101
-#: src/gui/dialogs/title_screen.cpp:378
+#: src/gui/dialogs/game_version_dialog.cpp:102
+#: src/gui/dialogs/title_screen.cpp:385
 msgid "Version $version"
 msgstr "バージョン $version"
 
-#: src/gui/dialogs/game_version_dialog.cpp:105
+#: src/gui/dialogs/game_version_dialog.cpp:106
 msgid "Running on $os"
 msgstr "$os 上で動作中"
 
@@ -7209,7 +7309,7 @@ msgstr "ゲーム"
 msgid "Waiting for players to choose factions..."
 msgstr "プレイヤーが党派を選択中..."
 
-#: src/gui/dialogs/outro.cpp:48
+#: src/gui/dialogs/outro.cpp:57
 msgid "The End"
 msgstr "The End"
 
@@ -7330,11 +7430,11 @@ msgstr "被"
 msgid "$count|× $name"
 msgstr "$count|× $name"
 
-#: src/gui/dialogs/title_screen.cpp:113 src/hotkey/hotkey_command.cpp:98
+#: src/gui/dialogs/title_screen.cpp:114 src/hotkey/hotkey_command.cpp:98
 msgid "Screenshot"
 msgstr "スクリーンショット"
 
-#: src/gui/dialogs/title_screen.cpp:471 src/hotkey/hotkey_command.cpp:301
+#: src/gui/dialogs/title_screen.cpp:478 src/hotkey/hotkey_command.cpp:301
 msgid "Choose Test Scenario"
 msgstr "テストシナリオを選択"
 
@@ -7352,33 +7452,33 @@ msgstr "計画中のこの時点では、ゴールドが不足しているため
 msgid "This unit cannot be recalled because you do not have enough gold."
 msgstr "ゴールドが不足しているため、このユニットを召還することはできません。"
 
-#: src/gui/dialogs/unit_recall.cpp:323 src/hotkey/hotkey_command.cpp:103
+#: src/gui/dialogs/unit_recall.cpp:327 src/hotkey/hotkey_command.cpp:103
 msgid "Rename Unit"
 msgstr "ユニット名を変更"
 
-#: src/gui/dialogs/unit_recall.cpp:359
+#: src/gui/dialogs/unit_recall.cpp:363
 msgid "This unit is loyal and requires no upkeep."
 msgstr "忠義ユニットには維持費が必要ありません。"
 
-#: src/gui/dialogs/unit_recall.cpp:360 src/gui/dialogs/unit_recall.cpp:365
-#: src/gui/dialogs/unit_recall.cpp:370
+#: src/gui/dialogs/unit_recall.cpp:364 src/gui/dialogs/unit_recall.cpp:369
+#: src/gui/dialogs/unit_recall.cpp:374
 msgid "Do you really want to dismiss him?"
 msgstr "本当に彼を解雇しますか？"
 
-#: src/gui/dialogs/unit_recall.cpp:361 src/gui/dialogs/unit_recall.cpp:366
-#: src/gui/dialogs/unit_recall.cpp:371
+#: src/gui/dialogs/unit_recall.cpp:365 src/gui/dialogs/unit_recall.cpp:370
+#: src/gui/dialogs/unit_recall.cpp:375
 msgid "Do you really want to dismiss her?"
 msgstr "本当に彼女を解雇しますか？"
 
-#: src/gui/dialogs/unit_recall.cpp:364
+#: src/gui/dialogs/unit_recall.cpp:368
 msgid "This unit is an experienced one, having advanced levels."
 msgstr "このユニットは熟練しており、高レベルです。"
 
-#: src/gui/dialogs/unit_recall.cpp:369
+#: src/gui/dialogs/unit_recall.cpp:373
 msgid "This unit is close to advancing a level."
 msgstr "レベルアップが近いユニットです。"
 
-#: src/gui/dialogs/unit_recall.cpp:375
+#: src/gui/dialogs/unit_recall.cpp:379
 msgid "Dismiss Unit"
 msgstr "ユニットの解雇"
 
@@ -7438,18 +7538,18 @@ msgstr "リンクを開きますか？"
 msgid "Copied link!"
 msgstr "リンクをコピーしました！"
 
-#: src/gui/widgets/listbox.cpp:724 src/gui/widgets/multi_page.cpp:220
+#: src/gui/widgets/listbox.cpp:725 src/gui/widgets/multi_page.cpp:220
 msgid ""
 "'list_data' must have the same number of columns as the 'list_definition'."
 msgstr "「 list_data 」には「 list_definition 」と同じ数のcolumnがなければなりません。"
 
-#: src/gui/widgets/listbox.cpp:768 src/gui/widgets/listbox.cpp:811
-#: src/gui/widgets/listbox.cpp:854 src/gui/widgets/scrollbar_panel.cpp:92
+#: src/gui/widgets/listbox.cpp:769 src/gui/widgets/listbox.cpp:812
+#: src/gui/widgets/listbox.cpp:855 src/gui/widgets/scrollbar_panel.cpp:92
 msgid "No list defined."
 msgstr "listが定義されていません。"
 
-#: src/gui/widgets/listbox.cpp:773 src/gui/widgets/listbox.cpp:816
-#: src/gui/widgets/listbox.cpp:859
+#: src/gui/widgets/listbox.cpp:774 src/gui/widgets/listbox.cpp:817
+#: src/gui/widgets/listbox.cpp:860
 msgid "A 'list_definition' should contain one row."
 msgstr "「 list_definition 」には単一のrowを含む必要があります。"
 
@@ -7568,12 +7668,12 @@ msgstr "能力"
 msgid "Linked '$id' group has multiple definitions."
 msgstr "「 $id 」に結び付けられたグループに重複する定義があります。"
 
-#: src/gui/widgets/window.cpp:911
+#: src/gui/widgets/window.cpp:917
 msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
 msgstr "Click dismissには「 click_dismiss 」または「 ok 」ボタンが必要です。"
 
-#: src/gui/widgets/window.cpp:936 src/gui/widgets/window.cpp:973
-#: src/tests/gui/test_gui2.cpp:726
+#: src/gui/widgets/window.cpp:942 src/gui/widgets/window.cpp:979
+#: src/tests/gui/test_gui2.cpp:736
 msgid "Failed to show a dialog, which doesn't fit on the screen."
 msgstr "画面に合わないため、ダイアログの表示に失敗しました。"
 
