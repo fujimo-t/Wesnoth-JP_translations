@@ -174,7 +174,7 @@ msgid ""
 msgstr ""
 "この暗黒の時代に、滑空者系統のドレーク達はその翼の下に馴染みのある風道を感じていた。曲がりくねった運命の風から新たに生み出された道を。見慣れない陸の生き物が"
 " Omarath "
-"島で目撃された。木製のざるのようなものを海に浮かべ、そいつらは水平線の向こう側からこちら側へと渡ってきた。最も強力な翼を持つ者でも、そいつらを追い続ければ、無事に戻って来られなくなる危険性があった。にもかかわらず、古代のグライダー・カーストは、彼らの目指すべき場所について、単なる観念を超えるものを抱いていた。"
+"島で目撃された。木製のザルのようなものを海に浮かべ、そいつらは水平線の向こう側からこちら側へと渡ってきた。最も強力な翼を持つ者でも、そいつらを追い続ければ、無事に戻って来られなくなる危険性があった。にもかかわらず、古代のグライダー・カーストは、彼らの目指すべき場所について、単なる観念を超えるものを抱いていた。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:37
@@ -508,7 +508,7 @@ msgstr ""
 "たぶん我らの「口承の記憶」よりも古い存在だ。\n"
 "\n"
 "「始まりの時代」には、彼らは嵐雲のように大きかった。\n"
-"空の炎のと同じくらい輝いていた。"
+"空の炎と同じくらい輝いていた。"
 
 #. [message]: type=Fire Guardian
 #. This text will appear just slightly too small for the player to read, as if
@@ -538,13 +538,13 @@ msgid ""
 "\n"
 "“ Ward thyselves. The Faerie reached this world. ”"
 msgstr ""
-"世界が冷える前、「語り手」たちはドレークの最初の伝承を俺たちに伝えた。\n"
+"世界が冷える前、「語り手」たちはドレークの最初の伝承を私たちに伝えた。\n"
 "彼らの教えの一部は私らに語り継がれた。\n"
-"今では彼らはささやくことしかできず、静かすぎて聞き取れないが。\n"
+"今では彼らはささやくことしかできず、聞き取ることができないが。\n"
 "\n"
 "彼らが口にした最後の言葉は・・・\n"
 "\n"
-"「汝自身を守れ。精霊がこの世界に到達した。」"
+"「汝自身を守れ。精霊がこの世界に到達した」"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:384
@@ -652,8 +652,8 @@ msgid ""
 "This isle that was before bountiful with game is now laid bare by these infesters."
 msgstr ""
 "Gorath Ohm の裏切りは、迫り来る飛族間戦争の序章に過ぎなかった。\n"
-"間も無くはぐれドレークとなるであろう者達の目が、私たちを見張っている。\n"
-"彼らは弱点を探っているのだ・・・\n"
+"多くの不平分子が目を光らせている。\n"
+"我等の弱みを探っているのだ・・・\n"
 "\n"
 "今もなお、貪欲な陸の生物の侵入が最北の島を脅かしている。\n"
 "以前は獲物が豊富だったこの島が、今や侵入者によって食い荒らされてしまった。"
@@ -775,7 +775,7 @@ msgid ""
 "The wing will hold.\n"
 "I shall lead it myself to see that it does."
 msgstr ""
-"第１の翼は必ず持ち堪える。\n"
+"第１の翼は必ず持ちこたえる。\n"
 "俺自身が率いて、それを証明する。"
 
 #. [part]
@@ -833,7 +833,7 @@ msgid ""
 msgstr ""
 "さもあらん。\n"
 "志願者 Gorlack よ、彼の者を捕虜として尋問するがよい。\n"
-"志願者 Karron よ、お前は第２翼を指揮するのだ。\n"
+"志願者 Karron よ、お前は第２の翼を指揮するのだ。\n"
 "\n"
 "狩猟開始を宣言する。"
 
@@ -906,7 +906,7 @@ msgid ""
 "It seems by our swift approach we have evaded our foe’s notice.\n"
 "They have yet to rally a defense."
 msgstr ""
-"俺たちが迅速に接近したものだから、こちらに気付いていないようだな。\n"
+"私たちが迅速に接近したものだから、こちらに気付いていないようだな。\n"
 "敵はまだ守備を固めていない。"
 
 #. [message]: speaker=Gorlack
@@ -935,7 +935,7 @@ msgid ""
 msgstr ""
 "それをお前の第１目標にしろ、Resha 。\n"
 "\n"
-"捕虜を捕らえたら、海に浮かぶざるをすべて燃やせ。\n"
+"捕虜を捕らえたら、海に浮かぶザルをすべて燃やせ。\n"
 "そうすれば、あの陸の生き物を若いハンターたちの獲物として残しておいてやれる。"
 
 #. [message]: speaker=Grag
@@ -1010,7 +1010,7 @@ msgid ""
 "The hunt has been called.\n"
 "Your prior duty is hereby superseded."
 msgstr ""
-"この島に敵などいない、いるのは獲物だけだ。\n"
+"この島に敵などいない。いるのは獲物だけだ。\n"
 "\n"
 "狩猟開始が宣言されている。\n"
 "お前の任務は今をもって取り消される。"
@@ -1183,7 +1183,7 @@ msgid ""
 "You, with your wing of halfwits, have stayed our reascension for an age longer!"
 msgstr ""
 "俺の捕虜が殺されたぞ、Karron ！\n"
-"間抜けお前たちのせいで、我らの復興はさらに１世代は遅れることになる！"
+"間抜けなお前たちのせいで、我らの復興はさらに１世代は遅れることになる！"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:703
@@ -1200,7 +1200,7 @@ msgid ""
 "Their sea skimmers are perished.\n"
 "Their hope of escape is no more."
 msgstr ""
-"海に浮かぶざるは全滅した。\n"
+"海に浮かぶザルは全滅した。\n"
 "奴らに脱出の希望はもはや無い。"
 
 #. [event]
@@ -1258,7 +1258,7 @@ msgstr "この地に来た目的を述べよ！"
 #. [message]: speaker=Koli
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:778
 msgid "My dominant has sent me to observe the status of this isle."
-msgstr "我が族長はこの島の状況を監視するように命じた。"
+msgstr "我らは族長よりこの島の状況を監視するよう命じられている。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:784
@@ -1269,7 +1269,7 @@ msgid ""
 msgstr ""
 "ほう、柔らかい鱗を探すように指示されたというわけか・・・\n"
 "\n"
-"もう少しだけ近づいてみるがよい、はぐれドレーク！"
+"それ以上近づいてみろよ、はぐれドレーク！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:792
@@ -1287,7 +1287,7 @@ msgid ""
 "\n"
 "Then the needs of our hatchlings will demand the taking of your hunting grounds."
 msgstr ""
-"仮に我が飛族がはぐれドレークであるならば、お前たちは既に知っているはずだろう。\n"
+"仮に我が飛族がはぐれドレークであるならば、お前たちにも周知されているはずだが。\n"
 "お前たちに対して行動を起こす時が来たら、まずは我らの冷酷な意図を警告してやろう。\n"
 "お前たち同胞への最後の名誉ある行為としてな・・・\n"
 "\n"
@@ -1307,7 +1307,7 @@ msgid ""
 msgstr ""
 "そうだ、族長の下に戻れ。\n"
 "この日、この地で見たことを彼女に話すがよい。\n"
-"我らがここの生き物にしたことは、お前たちを待ち受ける運命のほんの一端に過ぎない！"
+"我らがこの島で成したことは、お前たちを待ち受ける運命のほんの一端に過ぎない！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:839
@@ -1475,7 +1475,7 @@ msgid ""
 msgstr ""
 "もし我らの獲物を移入すれば、そこで大繁殖するだろう。\n"
 "\n"
-"闘技会で得る飛族を率いて、俺はその遥かなる大地へと旅立つ。\n"
+"闘技会で得られる飛族を率いて、俺はその遥かなる大地へと旅立つ。\n"
 "そこに巣を造り、他の飛族を救済へと導く道標としよう。"
 
 #. [part]
@@ -1488,7 +1488,7 @@ msgid ""
 msgstr ""
 "Gorlack 、それは Vladnir を破滅へと導くことになる！\n"
 "\n"
-"彼は私たち志願者に自分の縄張りの中に営巣することを望んでいる。\n"
+"彼は私たち志願者に自分の縄張りの中で営巣することを望んでいる。\n"
 "緊密な同盟なしには、Vladnir の飛族ははぐれドレークどもに対抗できない！"
 
 #. [part]
@@ -1513,9 +1513,9 @@ msgid ""
 "\n"
 "I shall win the new flight myself, so that with it the Domain of Vladnir will hold!"
 msgstr ""
-"同盟の義務を果たさぬの者は、闘技会で敗北せねばならない。\n"
+"同盟の義務を果たさぬ者は、闘技会で敗北せねばならない。\n"
 "\n"
-"私自らが新たな飛族を勝ち取り、Vladnir の縄張りを維持しよう！"
+"この私が新たな飛族を勝ち取り、Vladnir の縄張りを維持しよう！"
 
 #. [scenario]: id=03_The_Contention
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:27
@@ -1529,7 +1529,7 @@ msgid ""
 " ranks to become the new dominant. Each aspirant chose carefully three "
 "intendants to aid them."
 msgstr ""
-"そして、闘技会の日が来た。それぞれの系統が新たな族長を目指す志願者を自分たちの系統からひとりずつ選出した。各志願者は自らを補佐する３人の副官を慎重に選んだ。"
+"そして、闘技会の日が来た。それぞれの系統が新たな族長を目指す志願者を自分たちの系統からひとりずつ選出した。各志願者は自らを補佐する３系統の副官を慎重に選んだ。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:43
@@ -1540,7 +1540,7 @@ msgid ""
 "Dominance, in the very heart of Morogor..."
 msgstr ""
 "飛族を統率するためのあらゆる技能が試された。各志願者は、耐久力、戦闘、狩猟の試練を受けた。最後に、Vladnir "
-"の２人の志願者だけが勝ち残り、Morogor の中心部にある「族長の闘技場」で対決することになった・・・"
+"の志願者ふたりだけが勝ち残り、Morogor の中心部にある「族長の闘技場」で対決することになった・・・"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:58
@@ -1623,12 +1623,12 @@ msgid ""
 "You shall learn a pivotal lesson in humility!"
 msgstr ""
 "かつての我が先導者よ、今日は<i>私が</i>お前に教えてやろう。\n"
-"謙虚さという極めて重要な教訓を学ぶのだ！"
+"謙虚さという極めて重要な教訓を学ぶが良い！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:266
 msgid "If just sharp as your tongue were your teeth."
-msgstr "お前の舌が歯と同じくらい鋭ければな。"
+msgstr "お前の歯がその舌と同じくらい鋭ければな。"
 
 #. [set_menu_item]: id=advantage_dialog
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:361
@@ -1841,7 +1841,7 @@ msgid ""
 "<i>May your fire light the way in darkness.</i>"
 msgstr ""
 "多くのことが動き出した。\n"
-"私はその準備に行く・・・\n"
+"私はその準備に向かわねばならない・・・\n"
 "\n"
 "<i>炎が暗き道を照らさんことを。</i>"
 
@@ -1919,7 +1919,7 @@ msgstr ""
 "この島々の遥か彼方には、言い尽くせないほど不可思議な世界がある。\n"
 "「伝説の時代」の後、忘れ去られたものだ。\n"
 "\n"
-"我らの足がそこに、かつて多くの数多の同胞が殺されたその大地に足を降ろす時・・・\n"
+"我らの足がそこに、かつて数多の同胞が殺されたその大地に足を降ろす時・・・\n"
 "我らは細心の注意を払ってことを進めなければならない。\n"
 "良き風道を選び取って。"
 
@@ -1940,7 +1940,7 @@ msgstr ""
 "しかし、恐れは脇に置いておけ。言葉で語れぬほどの強さが我らにはあるのだ。\n"
 "お前が目の当たりにするであろう内なる力が。\n"
 "その力で、荒れ狂う運命の風を切り離す。\n"
-"我ら自身の手になる風道をそれに替えて残すのだ。"
+"そして、我らが自らの翼で作り出す風道をそれに替えて残すのだ。"
 
 #. [scenario]: id=04_Journey
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:5
@@ -2114,7 +2114,7 @@ msgstr "ナーガの侵入者よ、これが最後の警告だ、この海域か
 msgid ""
 "We will ‘de-part’ your fins from you and gulp your fry by the thousands. "
 "Ssssss!"
-msgstr "そのヒレを体から切り「離して」、お前たちの幼魚を片っ端から飲み込んでやる。シュシュシュシュシュ！"
+msgstr "「離れる」のはお前らのヒレだ。その身からヒレを切り離して、お前ら雑魚どもを片っ端から飲み込んでやる。シュシュシュシュシュ！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:237
@@ -2184,7 +2184,7 @@ msgstr ""
 "\n"
 "俺たちはあの海の悪魔どもが隙を見せたら、逃さずに攻撃する。\n"
 "３日目の終わりまでに、すべての村を支配下に置かねばならない。\n"
-"それから一気に、奴らの食料を運び出す、休息していた残りの飛族とともに。"
+"その後、一気に奴らの食料を運び出す、休息していた残りの飛族とともに。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:281
@@ -2267,7 +2267,7 @@ msgid ""
 "I must advise against it."
 msgstr ""
 "それは戦線を広げ過ぎる危険性がある。\n"
-"私は忠告を申し上げねばならない。"
+"謹んで異見をご進言申し上げる。"
 
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:354
@@ -2367,7 +2367,7 @@ msgstr "Razorfin"
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:471
 msgid "(<i>cough</i>) ...rawr"
-msgstr "（<i>せき払い</i>）・・・ウォー（咆哮）"
+msgstr "（<i>ガフッ</i>）・・・ウォォォ"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:528
@@ -2396,7 +2396,7 @@ msgstr "そして、このサンゴ礁を俺たちから取りあげるのか？
 msgid ""
 "We seek a right to respite here for those of our kind traveling past these "
 "isles."
-msgstr "我らはこの島々を通過する同胞が羽を休める権利を求める。"
+msgstr "我らはこの島々を通過する同胞がこの地で羽を休める権利を求める。"
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:554
@@ -2410,7 +2410,7 @@ msgstr "何を言ってる？"
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:596
 msgid ""
 "...... We have no need of your reef. We seek only the land above the sea."
-msgstr "・・・我らはお前たちのサンゴ礁は必要ない。我らは海の上の土地だけを求める。"
+msgstr "・・・我らはお前たちのサンゴ礁は必要ない。我らは海の上の陸地だけを求める。"
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:564
@@ -2465,7 +2465,7 @@ msgstr "通過点"
 msgid ""
 "Gliders were dispatched back to Morogor with exacting details of the petty "
 "atoll’s location. The flight resumed its journey east."
-msgstr "滑空者がこの小さな環礁の正確な位置を報せるために送り返された。飛族は東への旅を再開した。"
+msgstr "この小さな環礁の正確な位置を報せるため、滑空者の一群が Morogor に送り返された。飛族は東への旅を再開した。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:22
@@ -2557,7 +2557,8 @@ msgstr "Oxepotex"
 #. [message]: speaker=Oxepotex
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:259
 msgid "I am Oxepotex! Massster tamer of beassstsss big and sssmall."
-msgstr "あたいは Oxepotex ！ 大きな獣も小ササさな獣もシシしたがえる獣使いだ。"
+msgstr ""
+"あたいは Oxepotex ！ 大きな獣も小<small>ササ</small>さな獣も<small>シシ</small>したがえる獣使いだ。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:264
@@ -2568,7 +2569,7 @@ msgid ""
 msgstr ""
 "落ち着け、Oxe 。\n"
 "\n"
-"獣たちにえササさをやるんだ！"
+"獣たちにえ<small>ササ</small>さをやるんだ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:292
@@ -2703,7 +2704,7 @@ msgid ""
 "\n"
 "Some orcs may have drifted to here as well."
 msgstr ""
-"この群島が養えるはずの量より獲物が少ないようだ。\n"
+"この群島なら、もっと多くの獲物を養えるはずなのだが。\n"
 "\n"
 "オークもここにも流れ着いたのかもしれない。"
 
@@ -2847,9 +2848,9 @@ msgid ""
 "\n"
 "Men, I am now in command of this expedition. No more lone heroics. Signal the eastern detachment that we shall try to reunite with them along the isle’s southern shore."
 msgstr ""
-"Rhynnin がやられたか。私が懸念していた通りだ。王に仕えることに躍起になり、ここでの探索に誇りを持ち過ぎていたが故に、この呪われた地と、この地を棲家に選んだと思われる未知なる敵の危うさを過小評価したのだろう。\n"
+"Rhynnin がやられたか。私が懸念していた通りだ。王に仕えることに躍起になり、この地の探索に過剰な誇りを持っていたが故に、この呪われた地と、この地を棲家に選んだと思われる未知なる敵の危うさを過小評価したのだろう。\n"
 "\n"
-"諸君、これより私がこの遠征の指揮を執る。もう一人で英雄気取りはするな。東の分隊に合図を送り、島の南岸で合流するよう試みる。"
+"諸君、これより私がこの遠征の指揮を執る。独断専行は厳禁。東の分隊に合図を送り、島の南岸で合流するよう試みる。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:645
