@@ -3659,9 +3659,9 @@ msgid ""
 "Though our Windpath is now unknowable, I fear it leads to war."
 msgstr ""
 "Gorlack 、この勝利によって私の懸念は３倍になった。\n"
-"我らは混沌の中に頭から飛び込み、運命の風の最奥に吹き荒れる旋風にその身を曝してしまった。\n"
+"我らは混沌の中に頭から飛び込み、運命の風の最奥に吹き荒れる旋風にその身を曝してしまったのだ。\n"
 "\n"
-"我らの風道は今は分からないが、戦争につながることを私は恐れている。"
+"我らの風道の行く末はいまだ不明だが、戦争へと続くのではないかと恐れている。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:444
@@ -4008,7 +4008,7 @@ msgstr ""
 "風道は探し求めるものではない。\n"
 "自ら作るものだ。\n"
 "\n"
-"心の内に燃え盛る炎であるべき世界を感じろ。\n"
+"心の内に燃え盛る炎で、あるべき世界を感じろ。\n"
 "<i>恐怖</i>の余地など残さずに。\n"
 "強い意志を持ち、その世界を実現するのだ！"
 
@@ -4074,7 +4074,7 @@ msgid ""
 "consequences of remaining too long within their stale realm."
 msgstr ""
 "Wesmere の冷たいジャングルには、新たな獲物の大群が棲み着いていた。Arinexis "
-"はこの「エルフ」という種族について、頭の回転が鈍く、気紛れな連中であり、それは腐った領域に長くとどまり過ぎた結果であると語った。"
+"はこの「エルフ」という種族について、頭の回転が鈍い、気紛れな連中であり、そうなったのは腐った領域に長くとどまり過ぎた結果であると語った。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:30
@@ -4279,7 +4279,7 @@ msgid ""
 "\n"
 "Let all be welcome to Wesmere!"
 msgstr ""
-"境界は私たちを分断するだけです、Vonel 。ル。\n"
+"境界は私たちを分断するだけです、Vonel 。\n"
 "\n"
 "Wesmere に歓迎いたしましょう！"
 
@@ -4323,7 +4323,7 @@ msgid ""
 "We are ssssso weary... let usss dissscusss sssuch sssmall details in good "
 "time."
 msgstr ""
-"我らは<small>スス</small>すごく疲れている・・・<small>ソソ</small>そんな小<small>ササ</small?>さいことは後で話<small>ソソ</small>そう。"
+"我らは<small>スス</small>すごく疲れている・・・<small>ソソ</small>そんな小<small>ササ</small>さいことは後で話<small>ソソ</small>そう。"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:405
@@ -4335,7 +4335,7 @@ msgstr "もちろんでございますわ。"
 msgid ""
 "Vonel, have you seen my personal diary anywhere? It was in the safe keeping "
 "of a handmaiden of mine, but she has gone missing."
-msgstr "Vonel 、私の個人的な日誌を見かけませんでしたか？ 侍女が安全に保管していたのですが、彼女の姿が見当たらないのです。"
+msgstr "Vonel 、私の私的な日記を見かけませんでしたか？ 侍女が安全に保管していたのですが、彼女の姿が見当たらないのです。"
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:423
@@ -4611,7 +4611,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:24
 msgid "They were long overdue..."
-msgstr "期限過ぎても、彼らは現れなかった・・・"
+msgstr "期限が過ぎても、彼らは現れなかった・・・"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:70
@@ -4652,12 +4652,12 @@ msgstr "Gorlack 、Resha 、Arinexis 、Zedrix が洞窟の出口に到達する
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:239
 msgid "When the heroes exit, anyone left on the map will die"
-msgstr "ヒーローのユニットが脱出すると、マップ上に残っているユニットは例外なく死亡します"
+msgstr "ヒーローのユニットが全て脱出すると、マップ上に残っているユニットは例外なく死亡します"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:242
 msgid "Anyone that exits before the heroes do will survive"
-msgstr "ヒーローの前に脱出したユニットは生き残ります"
+msgstr "ヒーロー達の前に脱出したユニットは生き残ります"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:245
@@ -4708,7 +4708,7 @@ msgid ""
 "connotationsss which sssummon..."
 msgstr ""
 "あぁ、<small>ソソ</small>それは最も良い名前だ ——「サンドフォークス<small>スス</small>」—— "
-"地味だが、凶兆を招くような否定的な意味がなく・・・"
+"地味だが、凶兆を招きかねない否定的な意味がなく・・・"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:295
