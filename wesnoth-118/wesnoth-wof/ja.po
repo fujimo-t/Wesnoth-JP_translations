@@ -4919,7 +4919,7 @@ msgid ""
 "\n"
 "Now, I must resume my work and you must leave..."
 msgstr ""
-"私を脅す意味は無い。今お前に話しているこの恐ろしい私の化身を破壊したとしても、私は別の場所にいる化身を使って行動を続けられる。\n"
+"私を脅しても意味は無い。いまお前と話しているこの恐るべき私の化身を破壊したとしても、私は別の場所にいる化身を使って行動を続けられる。\n"
 "\n"
 "さて、私は仕事を再開せねばならず、お前はここを去る・・・"
 
@@ -4937,8 +4937,8 @@ msgstr ""
 "\n"
 "<i>精霊</i>たちがお前に付き従っているのか・・・\n"
 "\n"
-"もし彼らがさらに近づいたら、<b><u>それ</u></b>はここで作られているものが何か分かるかも知れん。\n"
-"精霊の世界は、それが変容させた全てのより単純な存在の感覚を通じて知覚し、感じ取る。まだ初期段階にある私の仕事が見られたら、それに対抗する世界最大の希望を失うかも知れん。"
+"もし彼らがさらに近づいたら、<b><u>それ</u></b>はここで作られているものに感付くかも知れん。\n"
+"精霊の世界は、全ての存在をより単純なものに変容させ、その感覚を通じて知覚し、感じ取る。まだ初期段階にある私の仕事が見られたら、それに対抗する世界最大の希望を失うかも知れん。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:590
@@ -4984,7 +4984,7 @@ msgid ""
 msgstr ""
 "<i>*舌打ち*</i>\n"
 "\n"
-"ドラゴンの皆<small>ササ</small>様！ <small>シシ</small>しゃべる骨の向こうにある門から<small>シシ</small>新鮮な空気の匂いが<small>シシ</small>しま<small>スス</small>す。<small>ソソ</small>それが山を抜ける道で<small>スス</small>す。あの門を破らなければならない！ 急<small>ソソ</small>いで、ドラゴンたち！"
+"ドラゴンの皆<small>ササ</small>様！ <small>シシ</small>しゃべる骨の向こうにある門から<small>シシ</small>新鮮な空気の匂いが<small>シシ</small>しま<small>スス</small>す。<small>ソソ</small>それが山を抜ける道で<small>スス</small>す。あの門を破らなければならない！ い<small>ソソ</small>そいで、ドラゴンたち！"
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:633
@@ -4997,9 +4997,9 @@ msgid ""
 msgstr ""
 "やめろ！\n"
 "\n"
-"私はほぼ全ての意識を集中して、この地の真の姿を精霊に見られぬように呪文を唱えている。同時にドラゴンの軍隊を追い払うことは望めぬのだ！\n"
+"私はほぼ全ての意識を集中して呪文を詠唱し、この地の真の姿を精霊に悟られぬようしている。同時にドラゴンの軍隊を追い払うことは望めぬのだ！\n"
 "\n"
-"秘密を保持するためには、我が創造物を破壊するしかないではないか。"
+"秘密を保持するために、我が創造物を破壊するしかなくなるではないか。"
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:643
@@ -5009,10 +5009,10 @@ msgid ""
 "I ask you for a truce.\n"
 "I know you have no idea what is at stake here, but please, at least grant me this."
 msgstr ""
-"この程度の解呪でさえも、私の残りの集中力を奪うだろう・・・\n"
+"この程度の解呪でさえも、残りの集中力が奪われる・・・\n"
 "\n"
 "休戦を求める。\n"
-"この地に掛かっているものが何かは分からぬと思うが、少なくともこれだけは聞き入れて欲しい。"
+"この地に迫る危機が何かは分からぬと思うが、少なくともこれだけは聞き入れて欲しい。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:650
@@ -5027,7 +5027,7 @@ msgstr "信じよう。"
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:668
 msgid "Thank you, Gorlack and Resha."
-msgstr "例を言う、Gorlack と Resha 。"
+msgstr "礼を言う、Gorlack と Resha 。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:672
@@ -5188,10 +5188,10 @@ msgid ""
 "\n"
 "Our flight was scattered east, deep into the Greatland."
 msgstr ""
-"族長 Gorlack 様、残念な狩猟の報告です。\n"
+"族長 Gorlack 様、残念な狩猟報告です。\n"
 "\n"
-"Karron の飛族は、草原で人間の一群により壊滅しました。\n"
-"族長 Karron の最後の言葉は、彼らにあなたの巣への撤退を命じるものでした。\n"
+"Karron の飛族は、人間の一群により草原で壊滅しました。\n"
+"族長 Karron の最後の命令は、あなたの巣への撤退でした。\n"
 "危機に瀕した Karron の飛族を救うための崇高な攻撃の最中に・・・\n"
 "我が族長の Vladnir は、獲物の手に掛かりました。\n"
 "\n"
@@ -5228,7 +5228,7 @@ msgstr ""
 "そこに野営地を作ろう・・・\n"
 "地の裂け目から温かな神の血が流れる場所に・・・\n"
 "\n"
-"俺のしくじりにより疲弊した飛族に安全が与えられんことを。"
+"我が失策により疲弊した飛族に安全が与えられんことを。"
 
 #. [message]: speaker=narrator
 #. "Back next spring." As in the season after winter and before summer.
@@ -5278,7 +5278,7 @@ msgstr ""
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:336
 msgid "It is magnificent."
-msgstr "見事だ。"
+msgstr "壮麗だ。"
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:340
@@ -5373,9 +5373,9 @@ msgid ""
 "\n"
 "I am elder of Green Swamp Clan and all my years Shek'kahan protected usss. I could never missstake sssome impossster for him!"
 msgstr ""
-"偽<small>セセ</small>物？！\n"
+"に<small>セセ</small>せ物？！\n"
 "\n"
-"俺は緑の沼地の長老であり、Shek'kahan はいつも俺たちを守った。偽<small>セセ</small>物と間違えるはずがない！"
+"俺は緑の沼地の長老であり、Shek'kahan はいつも俺たちを守った。に<small>セセ</small>せ物と間違えるはずがない！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:502
@@ -5383,7 +5383,7 @@ msgid ""
 "If you do not sssee this is Shek’kahan... then impossster is <b>you</b>!"
 msgstr ""
 "も<small>シシ</small>しもこの方が Shek’kahan "
-"に見えないなら・・・偽<small>セセ</small>物は<b>お前だ</b>！"
+"に見えないなら・・・に<small>セセ</small>せ物は<b>お前だ</b>！"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:506
@@ -5570,7 +5570,7 @@ msgid ""
 "\n"
 "With one swipe I was sent to the ground, bleeding."
 msgstr ""
-"俺は自分は不死身の英雄だと思い込んでいた。\n"
+"俺は自分を不死身の英雄だと思い込んでいた。\n"
 "俺はそいつに突進して剥き出しの爪で殴りかかり、弱々しい火花を吐いた。\n"
 "\n"
 "ただの一撃で俺は地面に叩きつけられ、流血した。"
@@ -6019,7 +6019,7 @@ msgid ""
 "Not in the way we strove to."
 msgstr ""
 "Karron 、Morogor の全軍をもってしても、この地を征服することはできない。\n"
-"我らがやってきた方法では駄目なのだ。"
+"我らがとってきた方法では駄目なのだ。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:258
@@ -6052,10 +6052,10 @@ msgstr ""
 "俺が間違っていた。\n"
 "\n"
 "流浪からの復興を果たすには、Morogor を脱出するだけで十分だと考えていた。\n"
-"だが、我らが Morogor に置いてこれなかったものがある。\n"
+"だが、我らが Morogor に置いてくるべきだったものがある。\n"
 "それは恐れを知らぬこと。\n"
 "\n"
-"流浪の旅に出た祖先のように、我らは自尊心を持って最短の道を飛んでいる。\n"
+"流浪の旅に出た祖先のように、我らは自尊心を持って最短の道を飛ぶ。\n"
 "目の前に現れたあらゆる生き物を屠る、時には逆に屠られてでも。\n"
 "古代の仇に名を連ねるまでそれが続く —— 群れなす者、霜の巨人、精霊・・・そしてドレーク。\n"
 "かつての族長 Morogor のように敗北を喫するまで。\n"
@@ -6106,7 +6106,7 @@ msgstr ""
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:307
 msgid "Lisssten to Karron!"
-msgstr "Karron の話<small>シシ</small>を聞こう！"
+msgstr "Karron の言葉を聞こう！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:313
@@ -6241,14 +6241,14 @@ msgid ""
 "\n"
 "We run, we fight and we live. That is only way for usss now."
 msgstr ""
-"隠れていては安全はない。あたいの産んだ一族は Great Delta に隠れたが殺<small>ササ</small>された。あんたは Green "
+"隠れていては安全はない。あたいの産んだ一族は Great Delta に隠れたが殺<small>ササ</small>された。あんたは前にも Green "
 "Ssswamp "
-"に年<small>シシ</small>老いたドラゴンと隠れた。あんたの古い一族も殺<small>ササ</small>された。あんたはまた同じことを<small>スス</small>するのか？！"
+"にドラゴンと隠れた。あんたの古い一族も殺<small>ササ</small>された。あんたはまた同じことを<small>スス</small>するのか？！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:430
 msgid "I have ssseen too many moons. My feet grow weary and ssslow. I ssstay."
-msgstr "俺はあまりに多くの月を見てきた。足<small>シシ</small>は疲れ、動きは鈍い。俺は残る。"
+msgstr "俺はあまりに多くの月を見てきた。歩き疲れて、速く動けない。俺は残る。"
 
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:440
@@ -6263,7 +6263,7 @@ msgstr "緑ぃぃぃぃの者よ、<i>そこ</i>にいるのはお前か。"
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:453
 msgid "It is I, Ancient One. I ssseek your help."
-msgstr "<small>ソソ</small>そうだ、古代の者よ。お前の助<small>スス</small>けが必要だ。"
+msgstr "<small>ソソ</small>そうだ、古代の者よ。お前のた<small>スス</small>すけが必要だ。"
 
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:457
