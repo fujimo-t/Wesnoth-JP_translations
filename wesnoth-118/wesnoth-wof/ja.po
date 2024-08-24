@@ -1843,7 +1843,7 @@ msgstr ""
 "多くのことが動き出した。\n"
 "私はその準備に向かわねばならない・・・\n"
 "\n"
-"<i>炎が暗き道を照らさんことを。</i>"
+"<i>内なる炎が暗き道を照らさんことを。</i>"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:58
@@ -4176,9 +4176,9 @@ msgid ""
 "\n"
 "We must look deeper than their hideous and odious exteriors. Look deep to the beauty within!"
 msgstr ""
-"モンスターですって？！ そんな有害な毒を吐くなんて、あなたこそモンスターだわ、Vonel ！\n"
+"「モンスター」ですって？！ そんな有害な毒を吐くなんて、あなたこそモンスターだわ、Vonel ！\n"
 "\n"
-"恐ろしく醜悪な外見よりももっと深いものを見なければなりません。\n"
+"恐ろしく醜悪な外見ではなく、もっと深いものを見なければなりません。\n"
 "内面の美しさを見るのです！"
 
 #. [message]: speaker=Vonel
@@ -4279,9 +4279,9 @@ msgid ""
 "\n"
 "Let all be welcome to Wesmere!"
 msgstr ""
-"境界は私たちを分断するだけです、Vonel 。\n"
+"境界というものは分断しか生まないのですよ、Vonel 。\n"
 "\n"
-"Wesmere に歓迎いたしましょう！"
+"皆様を Wesmere に歓迎いたしましょう！"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:379
@@ -4363,7 +4363,7 @@ msgid ""
 msgstr ""
 "私の日記が見つかったら、誰にも中身を見られないようにしてください ——\n"
 "\n"
-"私の日記はとても個人的なものなのです、Vonel ！"
+"とても私的な内容の日記なのです、Vonel ！"
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:445
@@ -4398,7 +4398,7 @@ msgid ""
 msgstr ""
 "緑葉の28日目\n"
 "\n"
-"・・・Vanar 卿という強力な味方を向こう側に得た今、Lady Dionli の時代は終わりを告げようとしている。私は彼のために小さな儀式をひとつ完遂するだけでよい。その詳細は、私が必要な要素を集めた後に、彼が教えてくれることになっている。忘れないように、ここに列挙しておく：\n"
+"・・・Vanar 卿という強力な味方を向こう側に得た今、Lady Dionli の時代は終わりを告げようとしている。私は彼のために小さな儀式をひとつ完遂するだけでよい。その詳細は、私が必要な要素を集めた後に、彼が教えてくれることになっている。備忘録として、ここに列挙しておく：\n"
 "—— 冷たい黒御影石の石板。\n"
 "—— 若く美しい侍女を１人。\n"
 "—— 威嚇的な棘で装飾されたねじれた短剣・・・"
@@ -4412,7 +4412,7 @@ msgid ""
 msgstr ""
 "緑葉の29日目\n"
 "\n"
-"・・・Vanar の儀式が血の犠牲を伴うなど、どうすれば知り得ただろう？！ ああ、あの底意地の悪い「貴婦人」の Dionli にこんな境遇に追いやられさえしなければ。「経験」を得るために働く意志のある未経験の侍女をもうひとり雇い入れる必要が・・・"
+"・・・Vanar の儀式が血の犠牲を伴うなど、どうすれば知り得ただろう？！ ああ、あの底意地の悪い「貴婦人」の Dionli にこんな境遇に追いやられさえしなければ。もうひとり、「経験」を積みたがっている無垢な侍女を雇い入れる必要が・・・"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:485
@@ -4434,7 +4434,7 @@ msgid ""
 msgstr ""
 "落葉の13日目\n"
 "\n"
-"・・・私の従者が通常よりも多く行方不明になっているため、Ka’lian は疑念を深めている。私はもっと分かりやすい仮面を被らねばならない。そして、この先の儀式のため、エルフ以外の<i>「栄誉ある賓客」</i>を新たに招く必要が・・・"
+"・・・私の従者が通常よりも多く行方不明になっているため、Ka’lian は疑念を深めている。表向きの顔をさらに強調せねばならない。そして、この先の儀式のため、エルフ以外の<i>「栄誉ある賓客」</i>を新たに招く必要が・・・"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:498
@@ -6258,7 +6258,7 @@ msgstr "Reks"
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:447
 msgid "Greeeeeen one, <i>there</i> you are."
-msgstr "緑ぃぃぃぃの者よ、<i>そこ</i>にいるのはお前か。"
+msgstr "みどりぃぃぃぃの者よ、<i>そこ</i>にいるのはお前か。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:453
@@ -6268,7 +6268,7 @@ msgstr "<small>ソソ</small>そうだ、古代の者よ。お前のた<small>�
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:457
 msgid "Reks help favorite pet. Reks help green one."
-msgstr "Reks は好きな動物を助ける。Reks は緑の者を助ける。"
+msgstr "Reks は好きな動物を助ける。Reks はみどりの者を助ける。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:473
@@ -6279,7 +6279,7 @@ msgid ""
 msgstr ""
 "これは Shussek 殿。\n"
 "\n"
-"あの熱望していた浅瀬からかほどに遠方まで飛来されるとは。"
+"あの熱望していた浅瀬から、かほどに遠方まで飛来されるとは。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:485
@@ -6352,7 +6352,7 @@ msgstr ""
 "\n"
 "Parapathos が洞窟を降りて行くに連れて、戦いの残響は静寂へと溶け込んで行った。鋭く尖った水晶が壁から幾つも突き出ていた。やがて洞窟は迷宮のように枝分かれした。Parapathos が探している<i>工匠族</i>が、精霊によって Irdya の中心へと追い遣られる前に切り拓いていた回廊だ。今、Parapathos は彼らの遺した迷宮に迷い込んだのだ。\n"
 "\n"
-"遠くの方に、<i>石人族</i> の重い足音が聞こえた。Parapathos はその足音に付き従い、何日もかけて彼らが瞑想の間へと下りて行くのを追った。そこで彼らは完全に立ち止まり、その空間の中心を囲むように円を描いて厳かに立ち並んだ。そこは世界の底であるかのように見えたが、<i>工匠族</i>の聖域はそこには見出せなかった。もしかすると、Witwegana が危惧していたように、彼らは全員惨死したのかも知れない。\n"
+"遠くの方に、<i>石人族</i> の重い足音が聞こえた。Parapathos はその足音に付き従い、何日もかけて彼らが瞑想の間へと降りて行くのを追った。そこで彼らはぴたりと立ち止まり、その空間の中心を囲むように円を描いて厳かに立ち並んだ。そこは世界の底であるかのように見えたが、<i>工匠族</i>の聖域はそこには見出せなかった。もしかすると、Witwegana が危惧していたように、彼らは全員惨死したのかも知れない。\n"
 "\n"
 "だが、微かな音が水晶の床から聞こえてきた。それは<i>工匠族</i>が道具を使う時の規則的な音だった。確かに彼らの聖域は残っていた——彼の真下に。床を突き破ると、広々とした晶洞に守られた領域の全貌が眼下に見えた。Parapathos は鎧を脱ぎ捨て、翼を広げて裂け目へと飛び込んだ。\n"
 "\n"
@@ -6385,7 +6385,7 @@ msgstr ""
 "\n"
 "遠くでゴロゴロと音が鳴った。地平線の彼方から煙が立ち昇った。そして悠然と、それらは現れた。二体の巨大な金属の戦士が。\n"
 "\n"
-"ドレークのオートマタがまず視界に現れた。他方のオートマタに比して動きが速かったのだ。外見はどことなく<i>ドレークキン</i>に似ていたが、翼が無く、尾も無かった。四本の脚の先には足の代わりに車輪が付いていた。恐ろしげな黒煙を吐き、金属の外殻は金色の陽光のように輝いていた。\n"
+"ドレークのオートマタがまず視界に現れた。他方のオートマタに比して動きが速かったのだ。外見はどことなく<i>ドレーク類</i>に似ていたが、翼が無く、尾も無かった。四本の脚の先には足の代わりに車輪が付いていた。恐ろしげな黒煙を吐き、金属の外殻は金色の陽光のように輝いていた。\n"
 "\n"
 "やがて、<i>工匠族</i>のオートマタが見えてきた。その造り主と同様に、それは小振りで鈍重だった。移動のための車輪は奇妙な金属の足で覆われており、進行方向に合わせて向きを変えて接地するようになっていた。雲と見紛うような白煙を吐いた。\n"
 "\n"
@@ -6454,10 +6454,10 @@ msgid ""
 "\n"
 "As a friend seeking to keep you from the turmoil that is soon to be."
 msgstr ""
-"Karron 、お前をこの大地から、この東の遥かな地から追放する。\n"
+"Karron 、お前をこの大地、東の遥かな地から追放する。\n"
 "闘技会で対戦相手を打ち負かした勝者としてではなく・・・\n"
 "\n"
-"いずれ訪れる動乱からお前を守ることを願う友として。"
+"いずれ訪れる動乱から、お前を守ることを願う友として。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:822
@@ -6496,7 +6496,7 @@ msgstr ""
 "\n"
 "恐らくこれから飛来する飛族の半数は、大地の奥深くへと散って行くことになるだろう。\n"
 "彼らは Vladnir の飛族と同様に、未知の運命と向き合うことになる。\n"
-"自分たちが狩る生き物が単なる獲物以上のものであると学ぶことができるのは、敗北を喫した後だ。"
+"自分たちが狩る生き物が、単なる獲物以上のものであると学ぶことができるのは、敗北を喫した後だ。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:848
@@ -6526,7 +6526,7 @@ msgstr ""
 "あるいは、既に協定を結んでいる穴居人のように。\n"
 "\n"
 "我らのあらゆる行動が、勝利へとつながる壮大な計画の一部とならなければならない。\n"
-"この偉大なる闘技会は千年の時を要するだろう。"
+"この偉大なる闘技会には、千年の時を要するだろう。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:868
@@ -6563,7 +6563,7 @@ msgid ""
 "\n"
 "We may together take on this adventure as it always should have been."
 msgstr ""
-"Gorlack 、我ら２つの飛族で西を目指そう。\n"
+"Gorlack 、我ら両の飛族で西を目指そう。\n"
 "\n"
 "ともにこの冒険に挑もうではないか、本来そうあるべきだったように。"
 
@@ -6591,12 +6591,12 @@ msgid ""
 msgstr ""
 "そうか・・・\n"
 "\n"
-"炎が暗き道を照らさんことを。"
+"内なる炎が暗き道を照らさんことを。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:911
 msgid "May your wings catch the winds to soar."
-msgstr "舞い上がる風を翼が捉えんことを。"
+msgstr "舞い上がる風をその翼が捉えんことを。"
 
 #. [scenario]: id=12_Epilogue
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:5
@@ -6615,7 +6615,7 @@ msgid ""
 "opposing legions so new eyries might be set there."
 msgstr ""
 "族長 Karron は、滑空者によって語られる「口承の記憶」に耳を傾けた。彼女はいくつかの飛族を率いて Morogor "
-"のさらに西へと向かい、遥か遠方の緑の島へと辿り着いた。彼の地の高潔な生き物とともに敵対する勢力を退け、新たな巣の設営を可能にした。"
+"のさらに西へと向かい、遥か遠方の緑の島へと辿り着いた。彼の地の高潔な生き物とともに、敵対する勢力を退け、新たな巣の設営を可能にした。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:17
