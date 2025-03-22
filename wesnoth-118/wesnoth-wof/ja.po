@@ -2,6 +2,7 @@
 # Translators:
 # RatArmy, 2024
 # h22, 2024
+# k konami, 2024
 # 
 msgid ""
 msgstr ""
@@ -9,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
 "PO-Revision-Date: 2023-12-03 03:44+0000\n"
-"Last-Translator: h22, 2024\n"
+"Last-Translator: k konami, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -412,7 +413,7 @@ msgstr "おやおや、臆病者の Gorlack が Gaall の試練に挑んでい�
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:268
 msgid "So it is, that brave Karron cowers within the Cenotaph of Morogor."
-msgstr "おやおや、勇敢な Karron 様が Morogor の慰霊碑で縮こまっていやっしゃるとは。"
+msgstr "おやおや、勇敢な Karron 様が Morogor の慰霊碑で縮こまっていらっしゃるとは。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:274
@@ -2680,7 +2681,7 @@ msgstr "雇用と召還はできません"
 msgid ""
 "The humans and merfolk will attempt to recapture villages but wildlife will "
 "not"
-msgstr "人間とマーフォークは村を奪還しようとしますが、野生動物はそうしません"
+msgstr "人間とマーフォークは村を奪還しようとしますが、野生動物は村を目標とはしません。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:467
@@ -6056,7 +6057,7 @@ msgstr ""
 "それは恐れを知らぬこと。\n"
 "\n"
 "流浪の旅に出た祖先のように、我らは自尊心を持って最短の道を飛ぶ。\n"
-"目の前に現れたあらゆる生き物を屠る、時には逆に屠られてでも。\n"
+"目の前に現れたあらゆる生き物を屠る、たとえ同族であっても。\n"
 "古代の仇に名を連ねるまでそれが続く —— 群れなす者、霜の巨人、精霊・・・そしてドレーク。\n"
 "かつての族長 Morogor のように敗北を喫するまで。\n"
 "あらゆる恐怖心を排除するからだ。\n"
@@ -6508,7 +6509,7 @@ msgid ""
 msgstr ""
 "正に、それらの生き物は、この世界の覇権を争う競合相手であると言える。\n"
 "この大地は闘技場だ。\n"
-"我らの方が優れいてると<b>証明</b>するまで、奴らとは対等なのだ。\n"
+"我らの方が優れていると<b>証明</b>するまで、奴らとは対等なのだ。\n"
 "この偉大なる闘技会において。"
 
 #. [message]: speaker=Gorlack
