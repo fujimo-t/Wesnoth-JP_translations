@@ -1,0 +1,3 @@
+# Glossary for The Battle for Wesnoth Japanese translation
+
+[Tranisfex API](https://developers.transifex.com/reference/api-introduction) haven't been able to download glossaries then it should be periodically pulled by hands...
