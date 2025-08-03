@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-03-02 22:44 UTC\n"
+"POT-Creation-Date: 2024-10-28 17:38 UTC\n"
 "PO-Revision-Date: 2023-12-03 03:44+0000\n"
 "Last-Translator: RatArmy, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
@@ -121,7 +121,7 @@ msgstr "Konrad を北西の道しるべまで移動させる"
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:29
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:29
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:23
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:385
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:378
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:45
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:28
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:33
@@ -149,7 +149,7 @@ msgstr "Konrad の死"
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:33
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:33
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:27
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:389
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:382
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:49
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:32
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:37
@@ -182,7 +182,7 @@ msgstr "Delfador の死"
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:50
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:53
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:74
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:253
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:246
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:75
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:58
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:63
@@ -228,7 +228,7 @@ msgstr "Konrad"
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:125
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:59
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:75
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:259
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:252
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:81
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:64
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:69
@@ -284,12 +284,12 @@ msgstr "Urug-Telfar"
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:86
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:105
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:119
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:272
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:288
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:308
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:329
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:348
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:368
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:265
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:281
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:301
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:322
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:341
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:361
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:100
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:80
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:143
@@ -1781,7 +1781,7 @@ msgstr "Agadla"
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:115
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:88
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:100
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:132
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:133
 msgid "Evil"
 msgstr "悪"
 
@@ -2164,7 +2164,7 @@ msgstr "Kojun Herolm を倒す"
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:37
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:37
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:35
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:397
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:390
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:57
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:40
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:45
@@ -4327,7 +4327,7 @@ msgstr "即席の同盟"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:31
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:393
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:386
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:53
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:36
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:41
@@ -4373,42 +4373,42 @@ msgstr ""
 #. [side]: type=Commander, id=Konrad
 #. [side]: type=Princess, id=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:80
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:103
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:104
 msgid "Humans"
 msgstr "人間"
 
 #. [side]: type=Troll Warrior, id=Haaf-Garga
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:120
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:121
 msgid "Haaf-Garga"
 msgstr "Haaf-Garga"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:149
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:150
 msgid "Where are we? Which way now? I am tired of this darkness!"
 msgstr "私たちはどこにいるのでしょう？ 次はどの道を行けば良いのでしょうか？ この暗闇にはうんざりです！"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:154
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:155
 msgid "I am not sure of the way. Let me think for a moment."
 msgstr "どちらに行けば良いのか確信が持てんのじゃ。少し考えさせておくれ。"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:213
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:214
 msgid "En garde!"
 msgstr "構えよ！"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:217
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:218
 msgid "What in the world are you doing here?"
 msgstr "ここで一体何をしているのですか？"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:222
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:223
 msgid "Tracking you down, of course! You have escaped me for the last time!"
 msgstr "もちろん、そなたたちを追跡しているのです！ 前回はまんまと逃げおおせてくれたわね！"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:227
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:228
 msgid ""
 "Foolish girl! We are in the deepest of caverns, probably surrounded by all "
 "manner of creatures, and you still want to fight us? You will bring us all "
@@ -4418,7 +4418,7 @@ msgstr ""
 "そんな事をすればわしらは全滅じゃ！"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:232
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:233
 msgid ""
 "Don’t try to trick me! I know why you have come here! But I will put an end "
 "to you and your treason here. Then I will get the Sceptre, and return to the"
@@ -4428,57 +4428,57 @@ msgstr ""
 "でも、私はここでそなた達の反逆に終止符を打つのよ。そして笏を手に入れてもう一度日の当たる所に戻るの！"
 
 #. [message]: type=Goblin Knight
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:351
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:352
 msgid "Surprise! Die, you sun-lovers!"
 msgstr "驚いた！ 太陽なんかとねんごろの奴らだ、死ね！"
 
 #. [message]: speaker=Kalenz
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:355
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:356
 msgid ""
 "Now we are surrounded! Do you still want to fight us, Li’sar? Surely that "
 "would lead to doom for us all!"
 msgstr "もう囲まれてしまった！ Li'sar よ、これでもまだ我々と戦いたいのか？ そんな事をすれば確実に全滅へと繋がるだろう！"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:359
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:360
 msgid ""
 "I see we have little choice but to help each other. Let us fight together "
 "until we return to the surface. Agreed?"
 msgstr "互いに助け合う以外の選択肢はなさそうね。地上に戻るまで一緒に戦う事にしましょう。よろしいかしら？"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:363
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:364
 msgid ""
 "Very well, I promise that you will reach the surface again, or we shall all "
 "perish together."
 msgstr "いいでしょう。あなたが再び地上に戻る事を約束しましょう。できないときには、私たちは皆揃って死んでいることになりますね。"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:367
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:368
 msgid "But once we escape from this hole, I have a score to settle with you!"
 msgstr "でもこの穴から抜け出したら、あなた方に恨みを晴らしますからね！"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:376
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:377
 msgid ""
 "Well, we have helped each other survive so far. Now let’s continue together."
 " What do you say?"
 msgstr "さて、私たちは互いに助け合ってここまで生き残る事ができました。このまま一緒に続けましょう。ご意見はありますか？"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:380
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:381
 msgid ""
 "Yes. We agreed to help each other get out of these pits alive, did we not? "
 "Let us continue to pool our resources. I pledge to you my gold."
 msgstr "ええ。この穴から生きて外に出る為に助け合うと決めたのではなかったかしら？ 引き続き資産を出し合いましょう。私の金貨を渡すわ。"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:385
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:386
 msgid "Thank you. Come, men. Let us find the Sceptre!"
 msgstr "ありがとう。みんな、行こう。笏を探しましょう！"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:418
+#: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:420
 #: data/campaigns/Heir_To_The_Throne/utils/deaths.cfg:24
 msgid "I can’t believe it should end like this!"
 msgstr "こんな最期なんて信じられないわ！"
@@ -4494,7 +4494,7 @@ msgid "Sceptre of Fire Caves"
 msgstr "炎の笏の洞窟"
 
 #. [part]
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:215
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:208
 msgid ""
 "Across the chasm, the air almost crackled with magical energy. It also "
 "became steadily warmer. The floor was smooth and glassy in places, and a "
@@ -4504,7 +4504,7 @@ msgstr ""
 "割れ目を通り抜けると、魔法の力で空気にひびが入るかのようでした。また、あたりは確実に暖かくなっていました。床はなめらかで、あちこちがガラスのように見えました。そして、かすかな輝きによって深い闇から一時的に逃れる事ができました。火山のガスが床の割れ目から立ち上っていたのです。"
 
 #. [part]
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:219
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:212
 msgid ""
 "Distant rumbles and earthquakes made it difficult to keep steady footing. "
 "The very earth had come alive, heaving, struggling to be relieved of its "
@@ -4513,26 +4513,26 @@ msgstr ""
 "遠くから響く轟音と地震のせいで、しっかりと歩き続ける事が難しくなりました。地球そのものが生きていて、あえぎながら、何世紀もの間背負っていた苦しみから今にも解放される為にもがいているようでした。"
 
 #. [objective]: condition=win
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:381
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:374
 msgid "Capture the Sceptre of Fire with Konrad or Li’sar"
 msgstr "Konrad か Li'sar が炎の笏を手に入れる"
 
 #. [note]
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:412
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:580
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:405
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:571
 msgid ""
 "If Delfador rests, he can concentrate on the location of the Sceptre of "
 "Fire."
 msgstr "Delfadorを休ませると、彼は炎の笏の場所を感知するのに専念できます。"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:492
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:483
 msgid "The Sceptre must be getting close now! Where shall we go?"
 msgstr "笏に段々と近づいているに違いありません！ どこに向かえば良いのでしょうか？"
 
 #. [message]: speaker=Kalenz
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:496
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:487
 msgid ""
 "We cannot explore this much area by ourselves, especially if we are beset by"
 " the denizens of these caves. We must ask our dwarven allies to help search "
@@ -4541,28 +4541,28 @@ msgstr ""
 "我々だけでこれだけ広い場所を探索する事はできないでしょう。特にこの洞窟の居住者に襲撃されるとしたら。我々はドワーフ軍に我々とともに洞窟の探索を手伝って貰えるように頼まなければなりません。"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:500
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:491
 msgid "Yes, I feel it is near here! We must search for it carefully."
 msgstr "その通りじゃ。この近くだと感じる！ 丁寧に探さなくてはな。"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:506
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:497
 msgid "An earthquake! We’ll be trapped!"
 msgstr "地震だわ！ 閉じ込められてしまうわ！"
 
 #. [message]: speaker=Kalenz
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:510
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:501
 msgid ""
 "No, not an earthquake, but I feel it too. Something is... aware... of us."
 msgstr "いや、地震ではありません。私も感じました。何かが……我々に……気づいているのです。"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:514
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:505
 msgid "Aware? Who? Delfador, what does he mean?"
 msgstr "気づいているですって？ 誰が？ Delfador、彼は何の事を言っているの？"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:518
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:509
 msgid ""
 "The Sceptre... the earth... the molten lava... the fire... the air around "
 "us... everything. It calls out to the heir — I can barely hold it back in my"
@@ -4572,39 +4572,39 @@ msgstr ""
 "笏が……地球が……溶岩が……炎が……わしらを取り囲んでいる空気が……すべてのものが。笏が継承者を呼んでおる。それを心の中にしまっておく事はできぬ。笏はここで鍛えられた。今わしたちが立っている所から北にそう遠くない所で。これが笏の本当の力じゃ！"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:523
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:514
 msgid "Where? Where is it?"
 msgstr "どこですか？ それはどこにあるのですか？"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:527
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:518
 msgid "North. More than that, I cannot tell."
 msgstr "北じゃ。それ以上はわしにも分からんのじゃ。"
 
 #. [message]: speaker=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:531
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:522
 msgid "Konrad, as promised, here is my purse, full of gold."
 msgstr "Konrad、前に約束したように、私の財布を渡すわ。ゴールドでいっぱいよ。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:539
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:530
 msgid "You receive 300 pieces of gold!"
 msgstr "300 枚の金貨を受け取りました！"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:575
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:566
 msgid ""
 "I think... I think if I were to concentrate a bit I could tell you where it "
 "is."
 msgstr "もう少し…… もう少しだけ集中すれば、どこにあるか教えてやれるじゃろうと思う。"
 
 #. [floating_text]
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:604
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:595
 msgid "Concentrating"
 msgstr "集中"
 
 #. [message]: id=Konrad
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:624
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:615
 msgid ""
 "That noise was made by no troll! What manner of beast makes its den in these"
 " forsaken caves?"
@@ -4612,7 +4612,7 @@ msgstr "この音はトロルの居ないところから出ている！ どん�
 
 #. [message]: race=merman
 #. Comic relief
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:629
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:620
 msgid ""
 "I wouldn’t know, milord. Without a river running though it, such hot, dry "
 "places are anathema to my kind. Whatever monsters may abide in these depths,"
@@ -4622,7 +4622,7 @@ msgstr ""
 
 #. [message]: race=merman
 #. Comic relief
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:634
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:625
 msgid ""
 "Nor do I know, my most eccentric lord, what I am doing in a cave. No mer has"
 " yet entered the caves under the mountain and lived to tell the tale. I "
@@ -4635,7 +4635,7 @@ msgstr ""
 #. [message]: race=dwarf
 #. "sowl" is a rare word synonymous with "sully", meaning "contaminate".
 #. "toiled" means "difficult, requires effort".
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:646
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:637
 msgid ""
 "Lord Konrad, yon rumble was made by nae living creature. ’Tis the echoes o’ "
 "the very bedrock witherin’ and crumbling beneath us that we ’eard. Are ye "
@@ -4649,7 +4649,7 @@ msgstr ""
 #. [message]: type=Arch Mage,Great Mage,Silver Mage
 #. "din" means "loud noise". It refers to an ambient sound of collapsing cave
 #. walls.
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:668
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:659
 msgid ""
 "Prince Konrad, that din was made by no living thing. It was the sound of the"
 " very earth that’s boiling around us, of the fire and lava that are "
@@ -4660,7 +4660,7 @@ msgstr ""
 "王子。この騒音は生き物によるものではありません。沸き立つ大地そのものの音であり、今に至ってなおこの洞窟を裂きつづける火と溶岩の音であります。私たちは注意して行かねばなりません。私たちが立つ大地そのものが、私たちに牙を向くかもしれないのですから。"
 
 #. [message]: id=Li'sar
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:677
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:668
 msgid ""
 "Konrad, that must have been the floor collapsing. I was warned of such "
 "dangers when I prepared to journey here. We mustn’t tarry here; let us fetch"
@@ -4671,41 +4671,41 @@ msgstr ""
 "、床が崩れ始めたに違いないわ。私はここに旅立つ準備をしていたとき、こういう危険があると警告されたの。ここに留まってはいけない。笏を手に入れて急いで地上に戻りましょう。溶岩に飲み込まれる前に。"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:693
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:684
 msgid ""
 "I sense we are quite near the Sceptre; in fact, we should be able to see it "
 "right about now..."
 msgstr "笏はかなり近いと感じる。実際、今まさに見えてもおかしくない……"
 
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:723
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:714
 msgid "I sense the path to the Sceptre is to the east of me."
 msgstr "笏へ通じる道はわしから東の道じゃと感じる。"
 
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:724
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:715
 msgid "I sense the path to the Sceptre is to the south-east of me."
 msgstr "笏へ通じる道はわしから南東の道じゃと感じる。"
 
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:725
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:716
 msgid "I sense the path to the Sceptre is to the south of me."
 msgstr "笏へ通じる道はわしから南の道じゃと感じる。"
 
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:726
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:717
 msgid "I sense the path to the Sceptre is to the south-west of me."
 msgstr "笏へ通じる道はわしから南西の道じゃと感じる。"
 
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:727
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:718
 msgid "I sense the path to the Sceptre is to the west of me."
 msgstr "笏へ通じる道はわしから西の道じゃと感じる。"
 
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:728
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:719
 msgid "I sense the path to the Sceptre is to the north-west of me."
 msgstr "笏へ通じる道はわしから北西の道じゃと感じる。"
 
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:729
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:720
 msgid "I sense the path to the Sceptre is to the north of me."
 msgstr "笏へ通じる道はわしから北の道じゃと感じる。"
 
-#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:730
+#: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:721
 msgid "I sense the path to the Sceptre is to the north-east of me."
 msgstr "笏へ通じる道はわしから北東の道じゃと感じる。"
 

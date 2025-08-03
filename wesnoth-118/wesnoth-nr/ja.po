@@ -1,8 +1,8 @@
 # 
 # Translators:
-# k konami, 2024
 # h22, 2024
-# RatArmy, 2024
+# k konami, 2025
+# RatArmy, 2025
 # 
 msgid ""
 msgstr ""
@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
 "PO-Revision-Date: 2023-12-03 03:44+0000\n"
-"Last-Translator: RatArmy, 2024\n"
+"Last-Translator: RatArmy, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -194,7 +194,7 @@ msgid ""
 "mustered to gather their weapons and man their posts. Startled, the peasants"
 " looked around in alarm, and that was when they saw him."
 msgstr ""
-"それは代わり映えのない、Wesnoth 歴 518 年 "
+"それは代わり映えのない、Wesnoth 暦 518 年 "
 "の初春の日だった。人間達は――オークの鞭の下に喜びを失くして――陰鬱な様子で種蒔きをしていた。突如、オークの戦いのドラムが打ち鳴らされた。荒っぽい鬨の声が上がり、オークは武器をかき集めて集合し、配置に付いた。農奴達は驚いてあたりを見回した。その時、彼を見た。"
 
 #. [part]
@@ -230,7 +230,7 @@ msgid ""
 "them: <i>“Hold fast your hope, for one day you shall be free!”</i> Then he "
 "was gone."
 msgstr ""
-"事の始まりと同様、終わりも速かった。Konrad "
+"事の始まりと同様、終わりも早かった。Konrad "
 "は部下に連れられて坑道の入口に着いた。そして最後に一度だけ振り返って農奴達を見た。剣を捧げ持ち別れの礼を取ると、Konrad "
 "は彼らに向かって叫んだ。<i>「希望を強く持て。いつの日か君達は解き放たれよう！」</i> そして彼は去っていった。"
 
@@ -6144,7 +6144,7 @@ msgid ""
 "cause as well as we serve his."
 msgstr ""
 "素晴らしいわ！ 私達は Tallin "
-"がオークの軍勢を破るのを全力で支援します。彼に借りがあるのみならず、そうすることで彼がしてくれたのと同じくらい私達の大義に仕するものだからです。"
+"がオークの軍勢を破るのを全力で支援します。彼に借りがあるのみならず、そうすることで彼がしてくれたのと同じくらい私達の大義に資するものだからです。"
 
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1164
@@ -6368,7 +6368,7 @@ msgstr "総員かかれ、奴らを懲らしめてやろう！"
 #. [message]: speaker=Gore
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:511
 msgid "Move, you stupid orcs! I am trying to recruit here!"
-msgstr "動け、愚かなオークが！ ここで雇用しようとしているのに！"
+msgstr "そこをどきやがれ、愚かなオークが！ 雇用する場所がねえだろうが！"
 
 #. [message]: speaker=Rash
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:516
