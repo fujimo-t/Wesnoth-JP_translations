@@ -1,9 +1,3 @@
-# Wesnoth-JP_translations
-Wesnoth-JP上の翻訳データ
+# Japanese translations of The Battle for Wesnoth
 
-## 翻訳のダウンロード
-
-```
-cd wesnoth-118
-tx pull -f
-```
+These translations are pulled from [Wesnoth-JP on Transifex](https://explore.transifex.com/wesnoth-jp/) to log history.

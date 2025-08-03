@@ -1,0 +1,20 @@
+name: Pull translations
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  pull-translations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install -r requirements.txt
+      - run: python pull_translations.py
+        env:
+          TX_TOKEN: ${{ secrets.TX_TOKEN }}
+      - run: git config --global user.name "fujimo-t"
+      - run: git config --global user.email "10286050+fujimo-t@users.noreply.github.com"
+      - run: git commit -a -m "Pulled from Transifex"
+      - run: git push origin main
