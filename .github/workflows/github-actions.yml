@@ -15,7 +15,4 @@ jobs:
       - run: python pull_translations.py
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
-      - run: git config --global user.name "fujimo-t"
-      - run: git config --global user.email "10286050+fujimo-t@users.noreply.github.com"
-      - run: git commit -a -m "Pulled from Transifex"
-      - run: git push origin main
+      - run: .github/workflows/git_push.sh
