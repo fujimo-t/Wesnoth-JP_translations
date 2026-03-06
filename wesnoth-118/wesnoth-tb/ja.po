@@ -1,4 +1,3 @@
-# 
 # Translators:
 # RatArmy, 2023
 # h22, 2024

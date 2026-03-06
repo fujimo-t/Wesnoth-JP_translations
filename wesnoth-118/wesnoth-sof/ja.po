@@ -1,4 +1,3 @@
-# 
 # Translators:
 # RatArmy, 2023
 # k konami, 2024

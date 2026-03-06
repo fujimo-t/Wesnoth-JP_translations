@@ -1,4 +1,3 @@
-# 
 # Translators:
 # h22, 2024
 # k konami, 2025
