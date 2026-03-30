@@ -79,7 +79,7 @@ Blade,noun,,false,斬撃,ダメージ型の一つ。
 Bleeding Moon,noun,"February, name of month",false,血月,２月。血月の月
 Block,noun,,false,ブロック,無視リストに追加すること。最近投入された用語なので、無視リスト自体も「ブロックリスト」とかにかわるかも？
 Bonus,noun,,false,ボーナス,臨時収入。ゴールドか経験値を得ること。
-Book of Crelanu,noun,,false,Crelanuの本,"Crelanuの魔法書とも。
+Book of Crelanu,noun,,false,Crelanuの本,"Crelanuの書、Crelanuの魔法書とも。
 やばい魔法書。"
 Book of Fire and Darkness,noun,,false,炎と暗黒の書,炎のルビーについて書いてある書物。
 BorStep,noun,,false,BorStep,極北の都市
@@ -1416,3 +1416,5 @@ craft は「工芸」、ling は「小さい」「…に属する人」を表す
 caster,noun,,false,鋳工族,"""Winds of Fate"" で使用されている。
 人間族のこと。"
 Achievements,pronoun,,false,実績,
+Weldyn Royal Scholars Society,noun,,false,Weldyn 王立学者協会,Dusk of Dawn にて登場
+Ougl,noun,,false,Ougl,
