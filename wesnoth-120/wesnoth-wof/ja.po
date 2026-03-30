@@ -132,7 +132,7 @@ msgstr "狩り"
 #. campaign.
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:20
 msgid "From the skies above, the glider caste felt the Winds."
-msgstr "高空から、滑空者系統のドレークは風の流れ感じ取っていた。"
+msgstr "高空から、滑空者系統のドレークは風の流れを感じ取っていた。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:23
