@@ -590,7 +590,7 @@ msgid ""
 "The grove area has a special time of day: Mystic Light, which gives lawful "
 "units bonus +25%, and chaotic -25%."
 msgstr ""
-"林エリアには「魔法の光」という特別な時刻が設定されています。ここでは秩序ユニットは +25% のボーナスが得られ、混沌ユニットは -25% "
+"林エリアには「神秘的な光」という特別な時刻が設定されています。ここでは秩序ユニットは +25% のボーナスが得られ、混沌ユニットは -25% "
 "のボーナスになります。"
 
 #. [note]
@@ -1742,7 +1742,7 @@ msgstr "溶岩"
 #. [time]: id=magic_light
 #: data/campaigns/Dusk_of_Dawn/utils/schedules.cfg:18
 msgid "Magic Light"
-msgstr "魔法の光"
+msgstr "神秘的な光"
 
 #. [chance_to_hit]: id=unerring
 #: data/campaigns/Dusk_of_Dawn/utils/weapon_specials.cfg:6

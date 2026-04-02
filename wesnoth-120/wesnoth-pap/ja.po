@@ -76,7 +76,7 @@ msgid ""
 " pirates."
 msgstr ""
 "Wesnoth "
-"の西海岸にある穏やかな漁村が、突如として海賊の襲撃に見舞われた。王への救援要請も顧みられない中、村人たちは近隣のマーフォークと手を結び、海賊との戦いに臨まねばならない。"
+"の西岸沿いにある穏やかな漁村が、突如として海賊の襲撃に見舞われた。王への救援要請も顧みられない中、村人たちは近隣のマーフォークと手を結び、海賊との戦いに臨まねばならない。"
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:43
@@ -202,6 +202,8 @@ msgid ""
 "clear, and warm even in winter. But its most notable feature is that for "
 "which it is named — abundant beds of oysters and a vast wealth in pearls."
 msgstr ""
+"Westin の遥か北、Wesnoth "
+"王国の西海岸には「真珠の入り江」と呼ばれる場所があります。湾の水は穏やかで澄み、冬の季節に至っても温暖です。しかし湾の最も特筆すべき点は、その名の由来ともなっている、豊富な牡蠣の群生地と莫大な量の真珠にあります。"
 
 #. [part]
 #. S01 intro
@@ -212,6 +214,7 @@ msgid ""
 "the merfolk, those most suited to care for and harvest the bay’s undersea "
 "resources."
 msgstr ""
+"多くの者がこの湾を自らの手に収めようと試みてきました。時には言葉で、時には武力で。しかし最終的に、王室は湾をマーフォークの領域であると宣言しました。彼らこそが湾の資源を守り、収穫するのに最も相応しい種族だったからです。"
 
 #. [part]
 #. S01 intro
@@ -220,7 +223,7 @@ msgid ""
 "Attracted by the temperate climate and easily-accessible wealth, a large and"
 " thriving community of mermen quickly sprang up along the bay’s eastern "
 "coast."
-msgstr ""
+msgstr "穏やかな風土と容易に手の届く富に誘われ、湾の東岸沿いには、大規模で活気あふれるマーフォークの共同体が急速に根付いていきました。"
 
 #. [part]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:38
@@ -231,6 +234,7 @@ msgid ""
 "simple, secure life for those disinterested in the wider kingdom’s hustle "
 "and bustle."
 msgstr ""
+"真珠の採れる量が少ない西岸には、頑健な人間の漁師や農民の一族が定住し始めました。少なくともマーフォークの隣人たちと比べれば、彼らはそう豊かとは言えませんでした。しかしこの人間の集落は、広大な王国の喧騒に無関心な彼らにとっては、質素ながらも安定した暮らしを叶えてくれるものでした。"
 
 #. [part]
 #. S01 intro
@@ -238,7 +242,7 @@ msgstr ""
 msgid ""
 "But for every man content with a quiet life, there is another who seeks to "
 "take it from him..."
-msgstr ""
+msgstr "しかし、穏やかな生活に満たされている者がいれば、その平穏を奪おうとする者もいるのが世の常でした......"
 
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:64
@@ -248,13 +252,13 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:92
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:111
 msgid "Corsairs"
-msgstr ""
+msgstr "海賊"
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:100
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:101
 msgid "Rochelm"
-msgstr ""
+msgstr "Rochelm"
 
 #. [message]: speaker=narrator
 #. notice that appears at the beginning of the scenario if you select Deadly
@@ -370,12 +374,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:264
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "敵のリーダーを倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:268
 msgid "Death of Thea, Rael, or Elyn"
-msgstr ""
+msgstr "Thea か Rael か Elyn の死"
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:289
@@ -557,12 +561,12 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:71
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:115
 msgid "Naga"
-msgstr ""
+msgstr "ナーガ"
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:104
 msgid "Lookout"
-msgstr ""
+msgstr "見張り"
 
 #. [message]: speaker=Lookout
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:120
