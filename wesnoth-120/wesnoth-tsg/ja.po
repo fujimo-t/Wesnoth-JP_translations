@@ -38,11 +38,14 @@ msgid ""
 "<i><b>This is the recommended starting campaign.</b></i>\n"
 "\n"
 msgstr ""
+"若き騎士 Deoran は南部辺境の町 Westin に派遣された。無法者との戦闘に巻き込まれた Deoran は、やがて背後で暗躍する邪悪な力の存在に気付く。南部防衛隊を再編し、国土を守るのだ！\n"
+"\n"
+"<i><b>最初のキャンペーンとしてはこれがオススメです。</b></i>\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:48
 msgid "(Novice level, 6 scenarios.)"
-msgstr ""
+msgstr "（初級レベル、6 シナリオ）"
 
 #. [campaign]: id=The_South_Guard
 #. this campaign is not a direct continuation of the story and characters, but
@@ -51,12 +54,12 @@ msgstr ""
 msgid ""
 "The saga continues in\n"
 "<i>Of Pearls and Pirates</i>"
-msgstr ""
+msgstr "物語は「<b>真珠と海賊</b>」に続く"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:57
 msgid "1x enemies, 70% XP"
-msgstr ""
+msgstr "敵数x1, XP 70%"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:57
@@ -66,7 +69,7 @@ msgstr "易しい"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:58
 msgid "2x enemies, 90% XP"
-msgstr ""
+msgstr "敵数x2, XP 90%"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:58
@@ -76,17 +79,17 @@ msgstr "ノーマル"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:59
 msgid "4x enemies, 100% XP"
-msgstr ""
+msgstr "敵数x4, XP 100%"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:59
 msgid "Hard"
-msgstr ""
+msgstr "難しい"
 
 #. [about]
 #: data/campaigns/The_South_Guard/_main.cfg:66
 msgid "Newest Campaign Version Rewrite"
-msgstr ""
+msgstr "最新版のキャンペーン書き直し"
 
 #. [about]
 #: data/campaigns/The_South_Guard/_main.cfg:72
@@ -111,94 +114,94 @@ msgstr "南部防衛隊"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:19
 msgid "Defeat Urza Mathin in <i>Born to the Banner</i>."
-msgstr ""
+msgstr "「軍旗のもとに生まれて」で Urza Mathin を倒す。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:19
 msgid "Scenario 1: Thug Beater"
-msgstr ""
+msgstr "シナリオ１：悪党叩き"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:20
 msgid "Defeat Urza Fastik in <i>Proven by the Sword</i>."
-msgstr ""
+msgstr "「剣による証明」で Urza Fastik を倒す。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:20
 msgid "Scenario 2: Trapper Trapper"
-msgstr ""
+msgstr "シナリオ２：罠猟者捕縛"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:21
 msgid "Personally defeat Urza Nalmath in <i>Vale of Tears</i>."
-msgstr ""
+msgstr "「涙の谷」で自ら Urza Nalmath を倒す。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:21
 msgid "Scenario 3: Thief Slayer"
-msgstr ""
+msgstr "シナリオ３：盗賊殺し"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:22
 msgid "Defeat all enemy units in <i>Choice in the Fog</i>."
-msgstr ""
+msgstr "「霧の中の選択」で全ての敵ユニットを倒す。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:22
 msgid "Scenario 4: Scorched Earth"
-msgstr ""
+msgstr "シナリオ４：焦土"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:23
 msgid "Complete <i>The Long March</i> in 10 turns or less."
-msgstr ""
+msgstr "「長躯」を 10 ターン以内にクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:23
 msgid "Scenario 5a: A Short March"
-msgstr ""
+msgstr "シナリオ 5a：短駆"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:24
 msgid "Defeat any enemy leader in <i>Pebbles in the Flood</i>."
-msgstr ""
+msgstr "「洪水に抗う小石」で敵リーダーを一人倒す。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:24
 msgid "Scenario 5b: Probably Improbable"
-msgstr ""
+msgstr "シナリオ 5b：きっと無理"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
 msgid ""
 "Complete the campaign after playing the secret <i>Into the Depths</i> "
 "scenario."
-msgstr ""
+msgstr "隠しシナリオ「深淵へ」をプレイしてからキャンペーンをクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
 msgid "Scenario 5c: Rocks Fall, Everyone Dies"
-msgstr ""
+msgstr "シナリオ 5c：岩が落ちてみんな死ぬ"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:26
 msgid "Lose <i>Vengeance</i> by defeating your enemy."
-msgstr ""
+msgstr "「復讐」で敵を倒して負ける。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:26
 msgid "Scenario 6a: Oops..."
-msgstr ""
+msgstr "シナリオ 6a：＊おおっと＊"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:27
 msgid "Complete <i>The Tides of War</i> before receiving reinforcements."
-msgstr ""
+msgstr "「戦争の大波」を援軍が来る前にクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:27
 msgid "Scenario 6b: Man Stands Alone"
-msgstr ""
+msgstr "シナリオ 6b：スタンドアローンの漢"
 
 #. [label]
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:54
