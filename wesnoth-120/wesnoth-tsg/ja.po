@@ -28,7 +28,7 @@ msgstr "南部防衛隊 — 初心者向け"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:35
 msgid "TSG"
-msgstr "南部防衛隊"
+msgstr "TSG"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:44
@@ -206,7 +206,7 @@ msgstr "シナリオ 6b：スタンドアローンの漢"
 #. [label]
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:54
 msgid "Choose an officer to accompany Deoran:"
-msgstr ""
+msgstr "Deoran と共に行動する士官を１人選んでください："
 
 #. [widget]: id=name
 #. [event]
@@ -221,7 +221,7 @@ msgstr "Gerrick 卿"
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:118
 #: data/campaigns/The_South_Guard/units/Gerrick2_Veteran_Infantryman.cfg:4
 msgid "Veteran Infantryman"
-msgstr ""
+msgstr "熟練歩兵"
 
 #. [widget]: id=name
 #. [event]
@@ -230,14 +230,14 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:424
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:89
 msgid "Captain Mari"
-msgstr ""
+msgstr "Mari 隊長"
 
 #. [widget]: id=name
 #. [unit_type]: id=Veteran Fencer, race=human, gender=female
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:131
 #: data/campaigns/The_South_Guard/units/Mari2.cfg:4
 msgid "Veteran Fencer"
-msgstr ""
+msgstr "熟練剣術士"
 
 #. [widget]: id=name
 #. [event]
@@ -250,32 +250,32 @@ msgstr "Hylas 牧師"
 #. [widget]: id=name
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:144
 msgid "White Mage"
-msgstr ""
+msgstr "白魔術師"
 
 #. [button]: id=leave_with_gerrick
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:163
 msgid "Leave with Sir Gerrick"
-msgstr ""
+msgstr "Gerrick 卿と行く"
 
 #. [button]: id=leave_with_mari
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:170
 msgid "Leave with Captain Mari"
-msgstr ""
+msgstr "Mari 隊長と行く"
 
 #. [button]: id=leave_with_hylas
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:177
 msgid "Leave with Minister Hylas"
-msgstr ""
+msgstr "Hylas 牧師と行く"
 
 #. [button]
 #: data/campaigns/The_South_Guard/gui/display_tip.cfg:146
 msgid "Understood"
-msgstr ""
+msgstr "了解"
 
 #. [button]
 #: data/campaigns/The_South_Guard/gui/display_tip.cfg:163
 msgid "Disable Tip Popups &amp; Dialogue"
-msgstr ""
+msgstr "ヒントダイアログを無効化"
 
 #. [scenario]: id=01_Born_to_the_Banner
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:11
