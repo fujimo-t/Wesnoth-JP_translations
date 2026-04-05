@@ -91,7 +91,7 @@ msgstr "アート - ピクセルアート"
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:49
 msgid "Wild and Beast Saurian Sprites"
-msgstr "野性トカゲと毒獣トカゲのピクセルアート"
+msgstr "野生トカゲと毒獣トカゲのピクセルアート"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:55
@@ -136,7 +136,7 @@ msgstr "シナリオ２：燃やしてしまえ！"
 #. [achievement]: id=dod_ltb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:25
 msgid "Advance a Fire Guardian into a Fire Wraith in <i>A Dream</i>."
-msgstr "「夢」で炎の守護者を炎のレイスに昇格させる"
+msgstr "「夢」で炎の守護者を炎のレイスにレベルアップさせる"
 
 #. [achievement]: id=dod_se
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:32
@@ -1559,7 +1559,7 @@ msgid ""
 "with which they coat their sickles. This allows them to weaken their prey, "
 "which quickly falls under the strain of time."
 msgstr ""
-"経験を積んだ野性トカゲは毒を生成することができるようになり、自身の鎌にその毒を塗布するようになります。毒が回った獲物は時間の経過とともに速やかに力尽きることでしょう。"
+"経験を積んだ野生トカゲは毒を生成することができるようになり、自身の鎌にその毒を塗布するようになります。毒が回った獲物は時間の経過とともに速やかに力尽きることでしょう。"
 
 #. [attack]: type=blade
 #: data/campaigns/Dusk_of_Dawn/units/Beast_Saurian.cfg:29
@@ -1633,7 +1633,7 @@ msgstr "トロルの子供の中には他よりも大きく、強い者がいま
 #. [unit_type]: id=Wild Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Wild_Saurian.cfg:5
 msgid "Wild Saurian"
-msgstr "野性トカゲ"
+msgstr "野生トカゲ"
 
 #. [unit_type]: id=Wild Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Wild_Saurian.cfg:19

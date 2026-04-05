@@ -65,7 +65,7 @@ msgstr "プレーンテキストファイル、サイズは大きい"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:26
 msgid "Show icons in the Add-ons manager"
-msgstr ""
+msgstr "アドオンマネージャー上でアイコンを表示する"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:27
@@ -180,7 +180,7 @@ msgstr "宝珠の色のカスタマイズ"
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:142
 msgid "Customize Reach Map (Unit Movement UI)"
-msgstr ""
+msgstr "範囲マップのカスタマイズ（ユニット移動 UI）"
 
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:148
@@ -243,17 +243,17 @@ msgstr ""
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:192
 msgid "Show missed attack indicator"
-msgstr ""
+msgstr "攻撃失敗の表示"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:193
 msgid "Display a visual indicator above a defender when an attack misses."
-msgstr ""
+msgstr "防御側ユニットの上に攻撃失敗の表示を行います。"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:200
 msgid "SIMD acceleration"
-msgstr ""
+msgstr "SIMD アクセラレーション"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:201
@@ -261,6 +261,8 @@ msgid ""
 "Use hardware acceleration (SSE2/NEON) for faster image processing on the "
 "CPU. Try disabling this if you experience graphical glitches or crashes."
 msgstr ""
+"ハードウェアアクセラレーション（SSE2/NEON）を使用することで CPU "
+"上での画像処理を高速化します。グラフィックのグリッチやクラッシュが発生する場合は無効化してみてください。"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
@@ -1728,39 +1730,39 @@ msgstr ""
 #. [chance_to_hit]: id=deflect
 #: data/core/macros/deprecated-utils.cfg:400
 msgid "deflect"
-msgstr ""
+msgstr "受け流し"
 
 #. [chance_to_hit]: id=deflect
 #: data/core/macros/deprecated-utils.cfg:401
 msgid ""
 "When used defensively, this attack reduces the opponent’s chance to hit by "
 "10%."
-msgstr ""
+msgstr "防御時に使用された場合、敵の攻撃の命中率を 10% 低下させます。"
 
 #. [chance_to_hit]: id=deflect
 #: data/core/macros/deprecated-utils.cfg:402
 msgid ""
 "This unit’s defensive techniques reduce the chance of a successful enemy "
 "attack."
-msgstr ""
+msgstr "このユニットの防御技術によって敵の攻撃の成功率が低下します。"
 
 #. [damage]: id=absorb
 #: data/core/macros/deprecated-utils.cfg:415
 msgid "absorb"
-msgstr ""
+msgstr "緩和"
 
 #. [damage]: id=absorb
 #: data/core/macros/deprecated-utils.cfg:416
 msgid ""
 "This attack puts the unit in good defensive position, and it absorbs some of"
 " the damage dealt by an enemy strike."
-msgstr ""
+msgstr "この攻撃は身を守りやすい位置取りを可能とし、敵の攻撃によるダメージの一部を緩和します。"
 
 #. [damage]: id=absorb
 #: data/core/macros/deprecated-utils.cfg:417
 msgid ""
 "This unit can block enemy strikes, so that it takes reduced damage when hit."
-msgstr ""
+msgstr "このユニットは敵の攻撃を防御し、命中時のダメージを軽減します。"
 
 #. [message]: speaker=narrator
 #: data/core/macros/items.cfg:23
@@ -2432,6 +2434,7 @@ msgstr ""
 msgid ""
 "Abiha,Afaf,A’isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,Chaima,Dalia,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,Hajra,Halima,Hamida,Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,Jawahir,Jena,Jumana,Kareena,Karima,Katya,Khadija,Khairunnisa,Khawla,Khawlah,Lama,Latifa,Layal,Layan,Leila,Lina,Lulwa,Madiha,Maha,Mahmuna,Mai,Malika,Marwa,Maryam,Maya,Maysoon,Nadia,Nafisa,Nahla,Naila,Najat,Nasim,Nasrin,Nejla,Nezha,Niusha,Rahima,Rana,Rashida,Reem,Ruqayya,Saadia,Sabiha,Safiya,Sahar,Saida,Sajida,Sakhra,Salma,Samira,Sarah,Shahd,Shatha,Shumaila,Sumaya,Taslima,Umm,Yara,Yasmin,Zahra,Zakiya,Zaynab"
 msgstr ""
+"Abiha,Afaf,A’isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,Chaima,Dalia,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,Hajra,Halima,Hamida,Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,Jawahir,Jena,Jumana,Kareena,Karima,Katya,Khadija,Khairunnisa,Khawla,Khawlah,Lama,Latifa,Layal,Layan,Leila,Lina,Lulwa,Madiha,Maha,Mahmuna,Mai,Malika,Marwa,Maryam,Maya,Maysoon,Nadia,Nafisa,Nahla,Naila,Najat,Nasim,Nasrin,Nejla,Nezha,Niusha,Rahima,Rana,Rashida,Reem,Ruqayya,Saadia,Sabiha,Safiya,Sahar,Saida,Sajida,Sakhra,Salma,Samira,Sarah,Shahd,Shatha,Shumaila,Sumaya,Taslima,Umm,Yara,Yasmin,Zahra,Zakiya,Zaynab"
 
 #. Generator for male dunefolk human names; see
 #. <https://wiki.wesnoth.org/Context-free_grammar> for syntax
@@ -2667,6 +2670,15 @@ msgid ""
 "ending_consonnant=yan|oic|ell|yll|tar|sh\n"
 "ending_vowel=a|ae|o|u\n"
 msgstr ""
+"\n"
+"main={prefix} {starting_consonnant}{vowel}{consonnant}{vowel}{ending_consonnant}|{prefix} {starting_vowel}{consonnant}{ending_vowel}|{starting_vowel}{consonnant}{vowel}{ending_consonnant}|{prefix} {starting_consonnant}{vowel}{ending_consonnant}|{starting_vowel}{consonnant}{vowel}{consonnant}{ending_vowel}\n"
+"prefix=祝福されし|黄金の|恐れなき|素晴らしき|幸運なる|古き|The|The|勇敢なる\n"
+"starting_consonnant=B|C|Cr|D|F|G|H|Kh|L|M|N|P|R|S|T|Th|V\n"
+"starting_vowel=A|E|I|O|U\n"
+"consonnant=b|br|ch|d|dr|g|gr|gh|kh|m|n|p|pr|r|s|sh|t|v|ol|z|vr|khr|shn\n"
+"vowel=a|ae|é|i|o|u\n"
+"ending_consonnant=yan|oic|ell|yll|tar|sh\n"
+"ending_vowel=a|ae|o|u\n"
 
 #: data/core/macros/names.cfg:264
 msgid ""

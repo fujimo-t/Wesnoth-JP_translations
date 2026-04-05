@@ -292,6 +292,8 @@ msgid ""
 "forts were quiet and secure. The elves in the western forest kept to their "
 "own affairs. In the south, men built new towns and farms."
 msgstr ""
+"Wesnoth "
+"が平和と繁栄で満たされている時代に物語は始まります。東にあったアンデッドの巣窟は王国軍が撃破し、北のオーク要塞群でも特に動きはなく平穏で、西部の森に住むエルフが人間に干渉することもありませんでした。そして南部では、人々が新しい街や農地を開拓していました。"
 
 #. [part]
 #. Intro to scenario 1
@@ -299,7 +301,7 @@ msgstr ""
 msgid ""
 "And from those young towns arose a stout-hearted peasant militia: The South "
 "Guard, stewards of peace and order on the southern frontier."
-msgstr ""
+msgstr "そしてそれらの若い町の勇敢な農民達によって、南辺境の平和と秩序の守護者となる民兵団、南部防衛隊が立ち上がりました。"
 
 #. [part]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:35
@@ -310,6 +312,8 @@ msgid ""
 "indifferent to the doings of man. Traversing their land without permission "
 "was forbidden, but the elves rarely entered the lands of men in turn."
 msgstr ""
+"創設から８年の間、南部防衛隊の任務は時々現れる盗賊や野生生物への対応くらいのものでした。おそらく、唯一の不安の種は西にある Aethen "
+"の森だったでしょう。そこにはエルフが住んでいました。彼らは人間と敵対することはなく、関わることすらありませんが、許可無く彼らの森に立ち入ることは禁じられていました。一方で、エルフも無闇に人間の土地に入ることはありませんでした。"
 
 #. [part]
 #. Intro to scenario 1
@@ -320,6 +324,7 @@ msgid ""
 " ninth year, ceased altogether. Displeased with the Guard’s conduct, the "
 "Crown decided to send someone to investigate..."
 msgstr ""
+"差し迫った脅威が無かったこともあり、時間と共に南部防衛隊は形骸化が進んで行きました。首都への報告は徐々に遅延し、９年目の春には報告が完全に途絶えました。王家はこのような防衛隊の運営に不快感を覚え、誰かを調査に向かわせることにしました……"
 
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:55
@@ -347,7 +352,7 @@ msgstr "Urza Mathin"
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:133
 msgid "The Author"
-msgstr ""
+msgstr "作者"
 
 #. [message]
 #. notice that appears at the beginning of the scenario if you select Hard
@@ -357,6 +362,7 @@ msgid ""
 "NOTE: ‘Hard’ difficulty is intended to be a challenge even for experienced "
 "players! If you’re new to Wesnoth, you may want to try a lower difficulty."
 msgstr ""
+"注意：「難しい」の難易度はやりこんだプレイヤーにとっても手応えのある設定となっています！Wesnoth 初心者はもっと簡単な難易度をおすすめします。"
 
 #. [unit]: id=Deoran, type=Cavalryman Commander
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:145
@@ -366,31 +372,31 @@ msgstr "Deoran"
 #. [trait]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:150
 msgid "loyal"
-msgstr ""
+msgstr "忠義"
 
 #. [trait]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:151
 msgid "Zero upkeep"
-msgstr ""
+msgstr "維持費なし"
 
 #. [message]: speaker=Deoran
 #. deoran is fresh out of training, bright-eyed and eager to prove himself
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:173
 msgid "Lieutenant Deoran, reporting for duty SIR! ...err, ma’am."
-msgstr ""
+msgstr "Deoran 補佐官、着任を報告いたします、「閣下」！…ってああ、じゃなくてご婦人。"
 
 #. [message]: speaker=Mari
 #. "academy" refers to some sort of Wesnoth military academy
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:178
 msgid "Relax, Lieutenant. Fresh from the academy, are we?"
-msgstr ""
+msgstr "落ち着け、補佐官。まだ士官学校を出たばかりか？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:182
 msgid ""
 "Yes ma’am. —sir. And as His Majesty ordered, I’ve brought with me a "
 "contingent of fresh soldiers to reinforce Westin’s faltering South Guard!"
-msgstr ""
+msgstr "はいそうです、ご婦人。──閣下。陛下のお申し付けで、弱体化した南部防衛隊への補強のため、新兵の一団を率いて参りました！"
 
 #. [message]: speaker=Mari
 #. Mari is somewhat sarcastic and not particularly emotive. She can come
@@ -400,30 +406,30 @@ msgid ""
 "I’m Mari. Got the same orders as you; guess someone wanted an officer with "
 "experience to keep an eye on you and your “fresh” company. Can’t imagine "
 "why."
-msgstr ""
+msgstr "私は Mari。私も同じ命令を受けた。熟練士官に君やその新米達に目を配らせたかった、とか考えたヤツでもいたのかね。さっぱりわからない。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:191
 msgid ""
 "Well, orders are orders. Come on over here, Deoran — let’s get a closer look"
 " at you."
-msgstr ""
+msgstr "しかしまあ命令は命令だ。Deoran、こっちに来るんだ ── もっと近くで顔を見せてみろ。"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:196
 msgid "On my way!"
-msgstr ""
+msgstr "すぐに向かいます！"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:205
 msgid "I know what I’m doing. (Skip tutorial)"
-msgstr ""
+msgstr "やるべきことはわかっています。（チュートリアルをスキップ）"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:225
 msgid ""
 "Suit yourself. I’m sure you won’t need my help against those bandits anyway."
-msgstr ""
+msgstr "ならばやってみろ。あの程度の山賊相手であれば私が協力するまでもないだろう。"
 
 #. [disallow_end_turn]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:266
@@ -431,11 +437,13 @@ msgid ""
 "Move Deoran next to Mari first!\n"
 "(press “u” if you need to undo a move)"
 msgstr ""
+"Deoran を Mari の隣に移動させてください！\n"
+"（移動を実行後にキャンセルしたい場合は u を押してください）"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:275
 msgid "Move Deoran next to Mari"
-msgstr ""
+msgstr "Deoran を Mari の隣に移動させる"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:279
@@ -445,12 +453,12 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:653
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:736
 msgid "Get yourself killed"
-msgstr ""
+msgstr "命を落とす"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:300
 msgid "<i>(Bows)</i> A pleasure to make your acquaintance, Captain."
-msgstr ""
+msgstr "（お辞儀をして）隊長、お会いできて光栄です。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:308
@@ -459,11 +467,13 @@ msgid ""
 "unit? That’s your soldiers’ terrain defense — their <i><b>chance to "
 "evade</b></i> enemy attacks."
 msgstr ""
+"ユニットを動かす時、ヘクスに表示される % 付きの数字が気になりましたか？それはそのユニットのその地形での回避率を示しています ── "
+"敵から攻撃を受けた時、<b>その確率で回避します</b>。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:311
 msgid "Evading Attacks"
-msgstr ""
+msgstr "攻撃の回避"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:313
@@ -481,6 +491,13 @@ msgid ""
 "For the most advantageous fights, try to <b><i>position your units on good\n"
 "terrain</i></b>, and <b><i>attack your enemies while they’re on poor terrain!</i></b>"
 msgstr ""
+"Wesnoth では全ての攻撃に外れる可能性があります。\n"
+"\n"
+"防御に有利な地形（例えば、城、村、森、丘）にいるユニットは敵の攻撃を回避できる可能性が上がります。逆に不利な地形（例えば、水域、砂地、氷上）にいるユニットは攻撃を受けやすくなります。\n"
+"\n"
+"ユニットによって地形から受ける利点は変わってきます。例えば、大抵の歩兵は森では 50% の回避率を得られます ── しかし、騎兵系のユニットでは 30% の回避率しか得られません。詳細を知りたい場合は、<b>ユニットにカーソルを合わせて右クリックして、「ユニット解説」を選びましょう</b>。\n"
+"\n"
+"より戦いを有利に進めるためには、<b>「自軍ユニットを有利な地形に配置」し、</b>そして<b>「不利な地形にいる敵ユニットに攻撃しましょう」</b>！"
 
 #. [message]: speaker=Mari
 #. Mari is speaking sarcastically, and poking fun at game tutorials. Deoran is
@@ -490,53 +507,53 @@ msgstr ""
 msgid ""
 "Amazing, you know how to ride your horse. Now let’s see if you know how to "
 "swing your sword."
-msgstr ""
+msgstr "これは驚いた。馬の乗り方を知っていたのか。では、次は剣の振り方を知っているか試させてもらおう。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:347
 msgid "Behold!"
-msgstr ""
+msgstr "これを見ろ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:351
 msgid "...a quintain? You want me to attack a practice dummy?"
-msgstr ""
+msgstr "…クィンティン？人形と戦えというのですか？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:355
 msgid ""
 "You have fifty pounds of armor and a horse, rookie. I’m fairly sure you’ll "
 "win."
-msgstr ""
+msgstr "お前は 20 kg を超える重量の鎧を身につけ、馬まで持っているな、新米。きっとお前が勝つことだろう。"
 
 #. [disallow_end_turn]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:362
 msgid "Attack the dummy first!"
-msgstr ""
+msgstr "人形に攻撃してください！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:366
 msgid "Attack the dummy"
-msgstr ""
+msgstr "人形を攻撃する"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:492
 msgid ""
 "Hey, this quintain fights back! I’m not about to lose to a dummy — let me "
 "attack again!"
-msgstr ""
+msgstr "ええっ？人形が反撃してきたぞ！人形に負けてられるか…… もう一度攻撃を！"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:496
 msgid ""
 "Nice try, but you already used up your chance to attack. Now it’s the "
 "<i>quintain’s</i> turn to act."
-msgstr ""
+msgstr "良い心意気だ。しかし、お前はもう既に攻撃の機会を使い切った。さあ、次は「人形」のターンだな。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:500
 msgid "The <i>dummy</i> gets a turn?"
-msgstr ""
+msgstr "えっ、「人形」がターンを得るので？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:504
@@ -545,25 +562,27 @@ msgid ""
 "Alduin. It strikes twice per attack, and will sting something fierce if it "
 "hits you. Brace yourself!"
 msgstr ""
+"何がダメなんだ？これは魔法の人形、Alduin "
+"島の魔術師アカデミーから借りているものだ。一回の戦闘で二回攻撃するが、当たると結構痛いぞ。さあ気合を入れろ！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:508
 msgid ""
 "To end your turn, click the <b>“End Turn”</b> button in the bottom-right "
 "corner of the screen, or press <b>Ctrl+Space</b>."
-msgstr ""
+msgstr "ターンを終わるには画面右下にある<b>「ターン終了」</b>ボタンをクリックします。あるいは、<b>Ctrl+スペース</b>を押します。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:517
 msgid "End your turn"
-msgstr ""
+msgstr "ターンを終了する"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:535
 msgid ""
 "I’m injured; this is more dangerous than I expected. I should retreat to a "
 "village, where I can catch my breath and bandage my wounds."
-msgstr ""
+msgstr "負傷してしまった。これは思ったよりもずっと危ないものだ。一度村に撤退して、傷を手当して一休みするべきだ。"
 
 #. [disallow_end_turn]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:540
@@ -571,18 +590,20 @@ msgid ""
 "Move to a village first!\n"
 "(press “u” if you need to undo a move)"
 msgstr ""
+"村へ移動させてください！\n"
+"（移動を実行後にキャンセルしたい場合は u を押してください）"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:574
 msgid ""
 "I’m already seriously injured! If I attack now, I am sure to be vanquished. "
 "By a dummy, no less."
-msgstr ""
+msgstr "既に大きな傷を受けている！ここで無理をしてもやられるだけだ。それもただの人形を相手に。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:586
 msgid "End your turn on a village"
-msgstr ""
+msgstr "村でターンを終える"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:606
@@ -591,27 +612,29 @@ msgid ""
 "banner. Each village we own provides us with some income — and importantly "
 "for you, provides a place to rest and recover."
 msgstr ""
+"お前は村を確保した。そのため、今は我々の赤と白の旗がはためいている。確保したそれぞれの村は我々に収入をもたらしてくれる ── "
+"そして今のお前にとって一番大事な、休息と回復も与えてくれる。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:610
 msgid ""
 "Starting your turn in a village will <b><i>heal you for 8 hitpoints</i></b>."
 " End your turn now."
-msgstr ""
+msgstr "ターン開始時に村にいるユニットは<b>「HPが 8 回復します」</b>。さて、ターンを終了しましょう。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:626
 msgid ""
 "Congratulations, you ran away from the dummy and licked your wounds in a "
 "village. I hope you’re proud."
-msgstr ""
+msgstr "お前は人形を相手に敗走し、村に引きこもって傷を癒しているのか。これはめでたい。自分を誇ってもいいと思うぞ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:630
 msgid ""
 "I’ve had enough of being humiliated by this dummy. Time to recruit some "
 "proper soldiers and smash that thing to pieces."
-msgstr ""
+msgstr "人形相手にもう充分恥をかいた。兵士達を雇用してあれを粉々にすべきだ。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:634
@@ -620,6 +643,9 @@ msgid ""
 "\n"
 "In most scenarios, you will lose if your leader is killed. Use Deoran enough to build his experience, but not so aggressively that he’s at risk of dying!"
 msgstr ""
+"Deoran の HP バーの上に表示されている金冠は彼がリーダーであることを示しています。彼は城の<b>主塔</b>にいるときに新たなユニットを<b>雇用</b>できます。\n"
+"\n"
+"大抵のシナリオでは、リーダーが死ぬと敗北になります。Deoran に戦闘経験を積ませることも大事ですが、彼の命を危険にさらさないようにしましょう！"
 
 #. [disallow_end_turn]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:640
@@ -627,17 +653,19 @@ msgid ""
 "Use “Ctrl+R” to recruit a soldier first!\n"
 "(press “u” if you need to undo a move)"
 msgstr ""
+"\"Ctrl+R\" で兵士を雇用してください！\n"
+"（移動を実行後にキャンセルしたい場合は u を押してください）"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:649
 msgid "Recruit some soldiers"
-msgstr ""
+msgstr "兵士達を雇用する"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:670
 msgid ""
 "Press <b>Ctrl+R</b> to recruit new soldiers. (Or right-click on a keep hex.)"
-msgstr ""
+msgstr "<b>Ctrl+R</b>を押して新しい兵士を雇用します。（主塔ヘクスで右クリックでも可）"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:680
@@ -645,11 +673,13 @@ msgid ""
 "At your service, Commander Deoran! You should still have some gold left — I "
 "suggest you keep recruiting more soldiers."
 msgstr ""
+"Deoran 指揮官、何なりとご命令を！ところで、まだゴールドが残っているでしょうか ── "
+"そうであれば、もう少し追加で兵士を雇用した方が良いのではないかと愚考いたします。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:699
 msgid "The quintain is repairing itself! Come on men, let’s go finish it off!"
-msgstr ""
+msgstr "人形が回復している！兵士達よ、あれを仕留めるぞ！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:703
@@ -658,37 +688,40 @@ msgid ""
 "\n"
 "This “rest-healing” stacks with village healing."
 msgstr ""
+"村での +8 回復に加えて、ターン中に移動も攻撃もせずに休んでいたユニットは HP が 2 回復します。\n"
+"\n"
+"この「休息による回復」は村での回復と重複します。村でターンを開始して何もしなかったユニットは次ターン開始時に HP が 10 回復します。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:720
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:23
 msgid "Undo"
-msgstr ""
+msgstr "アンドゥ"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:722
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:25
 msgid ""
 "Tip: Press “u” if you ever want to undo a move. Attacks cannot be undone."
-msgstr ""
+msgstr "ヒント: u を押すと移動をアンドゥ（キャンセル）することができます。攻撃はアンドゥできません。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:732
 msgid "Destroy Mari’s quintain"
-msgstr ""
+msgstr "Mari の人形を破壊する"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:750
 msgid ""
 "...he’s fine. Just out cold, and of no use to you for the rest of our "
 "journey."
-msgstr ""
+msgstr "……彼は無事だ。ただ気を失っているだけだ。しかし、我々の今後の旅に彼が関与することもない。"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:762
 msgid ""
 "Hooray! The dummy is destroyed, and I’ve gained valuable combat experience!"
-msgstr ""
+msgstr "ウオォォー！人形を破壊した！貴重な戦闘経験も得られたぞ！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:766
@@ -697,6 +730,9 @@ msgid ""
 "\n"
 "With enough experience, a soldier will advance to a powerful level 2 unit."
 msgstr ""
+"攻撃したり攻撃されたりするとユニットは少しの経験を得られます。しかし、敵に止めの一撃を与えたユニットはもっと多くの経験を得ることができます。相手がレベルの高いユニットだった場合は得られる経験もさらに大きくなります。\n"
+"\n"
+"充分な経験を積めば、兵士は強力なレベル 2 ユニットにレベルアップします。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:772
@@ -705,32 +741,34 @@ msgid ""
 " was supposed to return that after we finished training? Maybe I can find a "
 "replacement once we reach Westin."
 msgstr ""
+"やるじゃないか。しかし、粉々にしてしまったか…… それ、借り物だから訓練が終わったら返さなきゃいけなかったんだがな。Westin "
+"に何か代わりになるものがあるといいんだが。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:777
 msgid ""
 "Of course before we can reach Westin, we’ll first have to fight our way past"
 " these bandits."
-msgstr ""
+msgstr "さて、我々はこれから Westin に向かうわけだが、そうするとあの山賊共をなんとかしないといけないわけだ。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:798
 msgid ""
 "Are you... actually trying to fight the quintain? We don’t have all day. "
 "Hurry up and beat it."
-msgstr ""
+msgstr "お前… 人形と戦うつもりはあるのか？丸一日もかけるわけにはいかないんだ。さっさと倒して見せろ。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:806
 msgid ""
 "We’re going to have to cut things short, rookie. Look: bandits on the south "
 "road!"
-msgstr ""
+msgstr "新米、訓練はここで切り上げだ。見ろ、南の道に山賊が出たぞ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:822
 msgid "Bandits! Where?"
-msgstr ""
+msgstr "山賊！どこに？"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:858
@@ -739,6 +777,7 @@ msgid ""
 "dangerous road? Tell ya what, we can offer ya protection ’round here for a "
 "small fee."
 msgstr ""
+"おっとこいつは何だ？レディーと忠実なお供がこんな危ない道を旅してるってのか？へっへっへっ、そうだな、ちょっと手数料を払ってくれれば安全は保証してやるぜ？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:872
@@ -746,14 +785,14 @@ msgid ""
 "Do you take us for fools? I ride south to reinforce Westin’s venerable South"
 " Guard, on orders from the King to ensure the region is kept safe and "
 "secure!"
-msgstr ""
+msgstr "馬鹿にしているのか？この地域の平和と安全のため、崇高なる Westin の南部防衛隊を助けるべく、王命によって私は南へと来たのだ。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:876
 msgid ""
 "The only danger around here is you, and I intend to put an end to it. Men, "
 "raise your spears!"
-msgstr ""
+msgstr "今ここで平和と安全を脅かす者はお前だけだ。しかしそれもこれまでだ。兵士達よ、槍を持て！"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:880
@@ -762,6 +801,8 @@ msgid ""
 "Urza brothers, and these are my thugs. Time to show you who the real power "
 "is in these parts!"
 msgstr ""
+"ハッ、甘く見てんじゃねぇぞ、小僧。俺は Urza Mathin、Urza "
+"兄弟の長兄で、こいつらは俺の手下だ。さあ、ここいらの真の権力者が誰なのかを教えてやろう！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:889
@@ -781,13 +822,13 @@ msgstr "Deoran の死"
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:897
 msgid "Death of Mari"
-msgstr ""
+msgstr "Mari の死"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:927
 msgid ""
 "Are you going to help fight? We must drive these villains from the road!"
-msgstr ""
+msgstr "それであなたも手を貸してくれるので？我々はこの道からあの害虫を駆逐しなければ！"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:934
@@ -796,6 +837,7 @@ msgid ""
 "dangerous — you and your professional soldiers should be able to make short "
 "work of them, even without my sword."
 msgstr ""
+"公式的には私は監視員でしかない。それに、あのならず者は大した手合でもなさそうだ ── お前と正規兵であれば造作も無いだろう。私が力を貸すまでもない。"
 
 #. [message]: speaker=Mari
 #. sarcasm. $quintain_killers.length is probably between 3 and 5
