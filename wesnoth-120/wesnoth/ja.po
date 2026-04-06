@@ -2756,6 +2756,15 @@ msgid ""
 "middle=a|e|o|i|u\n"
 "suffix=l|m|rn|x|w|ld|ck|k|rk\n"
 msgstr ""
+"\n"
+"main={c_prefix}{c_middle}{suffix}|{f_prefix}{f_middle}{suffix}|{other_prefix}{middle}{suffix}\n"
+"c_prefix=C\n"
+"c_middle=a|e|o|i\n"
+"f_prefix=F\n"
+"f_middle=a|e|o|i\n"
+"other_prefix=B|D|E|Fr|Wat|G|H|K|N|O|R|S|T|W|Y|Ro\n"
+"middle=a|e|o|i|u\n"
+"suffix=l|m|rn|x|w|ld|ck|k|rk\n"
 
 #. [objective]: condition=lose
 #: data/core/macros/objective-utils.cfg:7
@@ -3055,12 +3064,12 @@ msgstr "ゴールド"
 #. [color_range]: id=yellow
 #: data/core/team-colors.cfg:113
 msgid "Yellow"
-msgstr ""
+msgstr "黄"
 
 #. [color_range]: id=pink
 #: data/core/team-colors.cfg:119
 msgid "Pink"
-msgstr ""
+msgstr "ピンク"
 
 #. [color_range]: id=darkblue
 #: data/core/team-colors.cfg:126
@@ -3174,7 +3183,7 @@ msgstr "幕"
 #. [color_range]: id=urbanjungle
 #: data/core/team-colors.cfg:256
 msgid "Urban"
-msgstr ""
+msgstr "都市"
 
 #. [core]: id=default
 #: data/cores.cfg:5
@@ -3619,87 +3628,87 @@ msgstr "DejaVu Sans Mono"
 #. [fonts]
 #: data/hardwired/fonts.cfg:20
 msgid "WesScript"
-msgstr ""
+msgstr "WesScript"
 
 #. [time]: id=dawn_noweather
 #: data/internal/Weather/_main.cfg:151
 msgid "Dawn"
-msgstr ""
+msgstr "夜明け"
 
 #. [time]: id=morning_noweather
 #: data/internal/Weather/_main.cfg:162
 msgid "Morning"
-msgstr ""
+msgstr "朝"
 
 #. [time]: id=midday_noweather
 #: data/internal/Weather/_main.cfg:170
 msgid "Midday"
-msgstr ""
+msgstr "昼"
 
 #. [time]: id=afternoon_noweather
 #: data/internal/Weather/_main.cfg:178
 msgid "Afternoon"
-msgstr ""
+msgstr "午後"
 
 #. [time]: id=dusk_noweather
 #: data/internal/Weather/_main.cfg:186
 msgid "Dusk"
-msgstr ""
+msgstr "夕暮れ"
 
 #. [time]: id=first_watch_noweather
 #: data/internal/Weather/_main.cfg:197
 msgid "First Watch"
-msgstr ""
+msgstr "夜"
 
 #. [time]: id=midnight_noweather
 #: data/internal/Weather/_main.cfg:208
 msgid "Midnight"
-msgstr ""
+msgstr "真夜中"
 
 #. [time]: id=second_watch_noweather
 #: data/internal/Weather/_main.cfg:219
 msgid "Second Watch"
-msgstr ""
+msgstr "深夜"
 
 #. [advancement]: id=amla_default
 #: data/internal/resources/AMLAs/_main.cfg:73
 msgid "Max HP bonus +3, Max XP +20%"
-msgstr ""
+msgstr "最大 HP ボーナス +3、最大 XP +20%"
 
 #. [advancement]: id=hitpoints_increase
 #: data/internal/resources/AMLAs/_main.cfg:95
 msgid "Gain +8 hitpoints."
-msgstr ""
+msgstr "HP +8。"
 
 #. [advancement]: id=melee_increase1
 #: data/internal/resources/AMLAs/_main.cfg:121
 msgid "Gain +4 melee damage."
-msgstr ""
+msgstr "近接ダメージ +4。"
 
 #. [advancement]: id=melee_increase2
 #: data/internal/resources/AMLAs/_main.cfg:154
 msgid "Gain +2 melee damage."
-msgstr ""
+msgstr "近接ダメージ +2。"
 
 #. [advancement]: id=melee_increase3
 #: data/internal/resources/AMLAs/_main.cfg:187
 msgid "Gain +1 melee damage."
-msgstr ""
+msgstr "近接ダメージ +1。"
 
 #. [advancement]: id=ranged_increase1
 #: data/internal/resources/AMLAs/_main.cfg:217
 msgid "Gain +4 ranged damage."
-msgstr ""
+msgstr "遠隔ダメージ +4。"
 
 #. [advancement]: id=ranged_increase2
 #: data/internal/resources/AMLAs/_main.cfg:250
 msgid "Gain +2 ranged damage."
-msgstr ""
+msgstr "遠隔ダメージ +2。"
 
 #. [advancement]: id=ranged_increase3
 #: data/internal/resources/AMLAs/_main.cfg:283
 msgid "Gain +1 ranged damage."
-msgstr ""
+msgstr "遠隔ダメージ +1。"
 
 #. [message]: speaker=narrator
 #. newlines at the end are deliberate, and function as spacers before the

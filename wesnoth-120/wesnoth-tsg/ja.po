@@ -493,11 +493,18 @@ msgid ""
 msgstr ""
 "Wesnoth では全ての攻撃に外れる可能性があります。\n"
 "\n"
-"防御に有利な地形（例えば、城、村、森、丘）にいるユニットは敵の攻撃を回避できる可能性が上がります。逆に不利な地形（例えば、水域、砂地、氷上）にいるユニットは攻撃を受けやすくなります。\n"
+"防御に有利な地形（例えば、城、村、森、丘）にいるユニットは\n"
+"敵の攻撃を回避できる可能性が上がります。逆に不利な地形\n"
+"（例えば、水域、砂地、氷上）にいるユニットは攻撃を受け\n"
+"やすくなります。\n"
 "\n"
-"ユニットによって地形から受ける利点は変わってきます。例えば、大抵の歩兵は森では 50% の回避率を得られます ── しかし、騎兵系のユニットでは 30% の回避率しか得られません。詳細を知りたい場合は、<b>ユニットにカーソルを合わせて右クリックして、「ユニット解説」を選びましょう</b>。\n"
+"ユニットによって地形から受ける利点は変わってきます。例えば、\n"
+"大抵の歩兵は森では 50% の回避率を得られます、しかし、騎兵系\n"
+"ユニットでは 30% の回避率しか得られません。回避率の詳細は、\n"
+"<b>ユニットを右クリックして、「ユニット解説」で見られます</b>。\n"
 "\n"
-"より戦いを有利に進めるためには、<b>「自軍ユニットを有利な地形に配置」し、</b>そして<b>「不利な地形にいる敵ユニットに攻撃しましょう」</b>！"
+"戦いを有利に進めるには、<b>「自軍ユニットを有利な地形に配置」し、</b>\n"
+"<b>「不利な地形にいる敵ユニットに攻撃しましょう」</b>！"
 
 #. [message]: speaker=Mari
 #. Mari is speaking sarcastically, and poking fun at game tutorials. Deoran is
@@ -846,13 +853,15 @@ msgid ""
 "Besides, it only took $quintain_killers.length of you to deal with my dummy."
 " What’s a dozen muscly bandits compared to that?"
 msgstr ""
+"それに、お前はたった $quintain_killers.length| 人で私の借りた人形を粉々にした。それならば、元気な山賊の 1 "
+"ダース程度、なんてことないだろう？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:945
 msgid ""
 "Oh, <i><b>now</b></i> you want my help? I thought you were too clever to "
 "listen to my tutorial."
-msgstr ""
+msgstr "おや、<b>今頃になって</b>私の助けを求めるのかい？私のチュートリアルなんて必要なくらい頭が回るんじゃなかったのかい？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:949
@@ -861,6 +870,8 @@ msgid ""
 " dangerous — you and your professional soldiers should be able to make short"
 " work of them, even without my sword."
 msgstr ""
+"まず、公式的には私は監視員でしかない。それに見てみろ、あのならず者は大した手合でもなさそうだ ── "
+"お前と正規兵であれば造作も無いだろう。私が力を貸すまでもない。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:958
@@ -868,6 +879,7 @@ msgid ""
 "You may toggle tips on or off at any time during the campaign by right-"
 "clicking anywhere and selecting “Tips: On/Off” in the menu."
 msgstr ""
+"このキャンペーン中は右クリックメニューの「ヒント表示: On/Off」を選ぶことでいつでもヒント表示の On と Off を切り替えることができます。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:964
@@ -876,41 +888,44 @@ msgid ""
 "\n"
 "Because you skipped the tutorial, tips are currently off."
 msgstr ""
+"このキャンペーン中は右クリックメニューの「ヒント表示: On/Off」を選ぶことでいつでもヒント表示の On と Off を切り替えることができます。\n"
+"\n"
+"あなたはチュートリアルをスキップしたため、現在ヒント表示は Off になっています。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:995
 msgid "Get out of my face!"
-msgstr ""
+msgstr "私の前から消えろ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1001
 msgid "What happened to being a passive observer?"
-msgstr ""
+msgstr "監視員に徹するのではなかったので？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1005
 msgid "...self-defense doesn’t count."
-msgstr ""
+msgstr "……自己防衛については例外。"
 
 #. [set_menu_item]: id=tutorial_toggle_on
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1015
 msgid "Tip Dialogue &amp; Popups Are On"
-msgstr ""
+msgstr "ヒント表示：On"
 
 #. [set_menu_item]: id=tutorial_toggle_off
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1027
 msgid "Tip Dialogue &amp; Popups Are Off"
-msgstr ""
+msgstr "ヒント表示：Off"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1047
 msgid "Stop right there! Not one hair further or I’ll bash your head in!"
-msgstr ""
+msgstr "そこで止まれ！一歩でも動いたら頭を潰してやるぞ！"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1050
 msgid "Zone of Control"
-msgstr ""
+msgstr "支配領域（ZOC）"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1052
@@ -928,13 +943,24 @@ msgid ""
 "To see which hexes enemies can move to\n"
 "on their turn, press <b><i>Ctrl+V</i></b>."
 msgstr ""
+"ユニットに隣接するヘクスはそのユニット\n"
+"の<b>支配領域（ZOC）</b>になります。\n"
+"敵対するユニットがその領域に入ると、\n"
+"そのユニットはそのターン内は移動でき\n"
+"なくなります。\n"
+"\n"
+"敵ユニットに攻撃したり村を占領した時も\n"
+"同様にそれ以上移動できなくなります。\n"
+"\n"
+"敵ユニットが移動してくる可能性のある\n"
+"ヘクスは<b>Ctrl+V</b>で表示できます。"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1086
 msgid ""
 "The sun begins to set! Soon these Wesnoth soldiers will falter in the dark, "
 "while my thugs and I will fight at our best. Press the attack!"
-msgstr ""
+msgstr "もうすぐ日が沈む！Wesnoth の兵士共は闇の中で怯えることしかできないが、俺たち山賊はここから本領発揮だ。さぁ掛かれェェ！"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1094
@@ -943,13 +969,14 @@ msgid ""
 "hunker down and hold a defensive position until dawn. Castles and especially"
 " villages (because they heal) make for good defensive positions."
 msgstr ""
+"注意しろ、Deoran。圧倒的な数的有利を確保できているのでなければ、夜明けまでは防御に徹した方が良いかもしれない。回復も可能な村が理想的だが、城も防御に適した場所になる。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1096
 msgid ""
 "Capturing villages will also increase your income, which you can use to "
 "recruit more soldiers."
-msgstr ""
+msgstr "確保した村からは収入も得られる。資金があればもっと多くの兵士を雇用できる。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1111
@@ -957,12 +984,12 @@ msgid ""
 "Day has come! We will be strongest in the light — now is the time for us to "
 "attack and drive these bandits from our lands. To me, men of the South "
 "Guard!"
-msgstr ""
+msgstr "日が昇ったぞ！我々は光の下でこそ力を発揮できる ── さあ、我々の土地から山賊を駆逐するぞ。南部防衛隊の勇者達よ、私に続け！"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1123
 msgid "Time of Day"
-msgstr ""
+msgstr "時刻"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1125
@@ -979,27 +1006,38 @@ msgid ""
 "effects by mousing over the right-side\n"
 "panel."
 msgstr ""
+"毎ターン、時刻は変化します。そして、\n"
+"ユニットが与えるダメージも変化します。\n"
+"\n"
+"このキャンペーンでは、<b>あなたの扱う\n"
+"ユニットのほとんどは日中に最も力を発揮\n"
+"します。一方で、敵ユニットのほとんどは\n"
+"夜間に最も力を発揮します。</b>\n"
+"\n"
+"現在の時刻は右パネルに表示されています。\n"
+"マウスカーソルを合わせると、ユニットに\n"
+"与える効果が表示されます。"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1160
 msgid ""
 "Ha, this will be an easy victory! These soldiers’ young commander must be a "
 "fool, for he fights my thugs at night while I am strong and he is weak."
-msgstr ""
+msgstr "はっ、これなら簡単に勝てるな！自分達に不利で、俺たち有利な時刻に攻撃を仕掛けてくるとは、あの若い指揮官は馬鹿だ。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1188
 msgid ""
 "Get a move on, rookie! I’m sure those bandits have called for reinforcements"
 " — you’re running out of time to finish them off."
-msgstr ""
+msgstr "新米、前進だ！連中は間違いなく援軍を要請している… 時間は味方じゃないぞ。"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1210
 msgid ""
 "Reinforcements from my brothers! Excellent. These lands belong to the "
 "brothers Urza!"
-msgstr ""
+msgstr "兄弟からの援軍だぁ！やったぜ。この土地は俺たち Urza 兄弟のものだ！"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1214
@@ -1008,6 +1046,7 @@ msgid ""
 "retreat and bring more soldiers some other time. I really thought Deoran "
 "could handle this on his own..."
 msgstr ""
+"時間切れだ。敵はさらに増えるだろう。こうなっては一旦撤退し、次の機会を待つしかない。Deoran ならば自力でなんとかできると思っていたのだが……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1234
@@ -1016,26 +1055,28 @@ msgid ""
 "between Weldyn and Westin; what is the meaning of this? How have you become "
 "so bold as to strike at even trained soldiers!?"
 msgstr ""
+"血に飢えたハゲ山賊、お前の負けだ！さて、Weldyn と Westin "
+"の間で旅人を襲うのはなぜだ？どうして我々のような訓練を受けた兵士すらも襲うのだ！？"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1238
 msgid "How... impossible... no! If I die... so will you!"
-msgstr ""
+msgstr "クソ…… こんなことが…… ダメだ！死ぬなら… お前も道連れだ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1294
 msgid "What the—"
-msgstr ""
+msgstr "何を……"
 
 #. [message]: speaker=Zombie Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1298
 msgid "Gruhh..."
-msgstr ""
+msgstr "グルゥゥ…"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1306
 msgid "Look out!"
-msgstr ""
+msgstr "気をつけろ！"
 
 #. [message]: speaker=Mari
 #. Mari lost her arm fighting undead in the Estmarks, but don't specify which
@@ -1044,7 +1085,7 @@ msgstr ""
 msgid ""
 "Undead again. As if losing one arm to these things wasn’t bad enough, now "
 "they’re back for my second."
-msgstr ""
+msgstr "またアンデッドか。腕一本では飽き足らず、二本目まで頂きにきたのか。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1330
@@ -1052,13 +1093,14 @@ msgid ""
 "I’ve never seen the like before in my life! That man clearly died, then "
 "stood right back up again! You say you’ve fought these things before, Mari?"
 msgstr ""
+"私は今までこんなものを見たことが無い！あいつは死んだはずなのにすぐにまた立ち上がった！Mari、その口ぶりからするとあなたは以前にもこいつらと戦ったことがあるのですか？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1334
 msgid ""
 "Yeah, I have. And no, simple bandits aren’t supposed to know how to create "
 "them. This reeks of black magic; powerful black magic."
-msgstr ""
+msgstr "ああ、ある。しかし、何か違う。これはそんじょそこらの山賊が作れるようなモンじゃない。降霊術の気配がする。それも強力なやつだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1338
@@ -1067,13 +1109,15 @@ msgid ""
 "still alive and causing trouble. How did petty outlaws get their hands on "
 "magic like this?"
 msgstr ""
+"こいつは４兄弟の長兄だと言っていた ── "
+"ならば残りの３人は間違いなくまだ生きていて、問題を起こしている。どうしてこんなありふれた無法者がこんな高度な魔術を行使することができるのか？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1342
 msgid ""
 "Maybe the locals in town will know something. Come on, let’s hurry onwards "
 "towards Westin, and hope we don’t run into any more trouble on the way."
-msgstr ""
+msgstr "町の住人であれば何か知っているかもしれない。よし、Westin まで急ぐぞ。道中何もなければいいが。"
 
 #. [scenario]: id=02_Proven_by_the_Sword
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:11
