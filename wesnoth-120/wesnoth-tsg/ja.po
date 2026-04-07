@@ -1139,13 +1139,15 @@ msgid ""
 "Mathin is dead! Curses... the master should never have sent him here "
 "alongside me."
 msgstr ""
+"これは何だ？Tahn へ向かう道から兵士が ── Mathin の兄貴が殺されたのか！チクショウ… "
+"マスターが俺と兄貴をこんなところに向かわせていなければ。"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:162
 msgid ""
 "I will avenge him. You fools will get no further, for I am second of the "
 "Urza brothers, and much more powerful than my late elder. Behold!"
-msgstr ""
+msgstr "せめて俺が仇を討つ。俺は Urza 兄弟の次兄、ここから先へは進ませないぞクソ野郎。死んじまった兄貴を超えるこの力を見るがいい！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:220
@@ -1154,6 +1156,7 @@ msgid ""
 "brothers must have been waiting on the road for travelers, ambushing "
 "civilians and raising their corpses as minions."
 msgstr ""
+"Urza 兄弟の１人が、安らぎを得られない死者で自軍を増強している。死体を軍勢に取り込むため、Urza 兄弟はこの道で旅人を待ち伏せていたに違いない。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:224
@@ -1162,6 +1165,7 @@ msgid ""
 " is the rest of the South Guard? How have things gotten so far out of "
 "control?"
 msgstr ""
+"秩序無き南の地で盗賊が出るのはそれほどおかしなことではないが、降霊術！？南部防衛隊の生き残りは一体どこに？どうしてここまで事態が悪化してしまったのか？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:230
@@ -1170,6 +1174,7 @@ msgid ""
 "dies to those zombies will become one themselves, so don’t be stupid and "
 "remember what we practiced:"
 msgstr ""
+"それを調べるぞ。Deoran、山賊にはお前たちが当たれ。あのゾンビに殺された者は連中のお仲間になる。不用意な真似はするなよ。そしてこれまで学んだことを思い出せ："
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:232
@@ -1178,13 +1183,14 @@ msgid ""
 "your injured soldiers to villages for healing. And stand on good terrain "
 "like hills, villages, and castles, not bad terrain like water."
 msgstr ""
+"夜は守り、日中に攻撃。収入のために村を確保。傷を負った兵士は村へ下げる。丘、村、城のような良い地形を位置取るよう心がけ、水域のような悪い場所は避けろ。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:238
 msgid ""
 "Let’s find out. Deoran, you and your men deal with this bandit. Anyone who "
 "dies to those zombies will become one themselves, so don’t be stupid."
-msgstr ""
+msgstr "それを調べるぞ。Deoran、山賊にはお前たちが当たれ。あのゾンビに殺された者は連中のお仲間になる。不用意な真似はするなよ。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:245
@@ -1193,12 +1199,14 @@ msgid ""
 "better know what’s going on here. If we’re lucky, I’ll return with "
 "reinforcements."
 msgstr ""
+"その間に私は敵をかいくぐって Westin と連絡を取ってみる ── "
+"町の者なら状況を色々と知っているだろう。運が良ければ援軍も連れてこれるかもしれない。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:249
 msgid ""
 "Going alone? That sounds dangerous. What happened to staying an observer?"
-msgstr ""
+msgstr "１人で？それは危険では？監視者として振る舞うのではなかったので？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:259
@@ -1207,6 +1215,8 @@ msgid ""
 "shouldn’t count on it. I may only be a junior commander, but this outlaw "
 "underestimates me if he thinks I can’t beat him on my own."
 msgstr ""
+"やれやれ。Mari "
+"が南部防衛隊の生き残りと一緒に戻るといいのだが、それを当てにするべきではないだろうな。私はただの新米指揮官でしかないが、あの無法者は私を見くびっている。あいつに負けることはないとか考えてそうだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:269
@@ -1215,11 +1225,12 @@ msgid ""
 "veteran soldiers from the last battle, I may wish to recall them so they can"
 " continue to gain experience and eventually gain a promotion."
 msgstr ""
+"戦闘を行うたびに我々は経験を積み、もっと強くなる！前の戦闘でベテランが生き残っていれば、彼らを再度召還し、さらに経験を積ませることもできる。そうしていけば、いずれはレベルアップすることもできるだろう。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:272
 msgid "Recalling Veterans"
-msgstr ""
+msgstr "ベテランの召還"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:274
@@ -1228,6 +1239,9 @@ msgid ""
 "from the previous scenario. Recalling a veteran only ever costs\n"
 "20 gold, no matter how powerful (or weak) they are."
 msgstr ""
+"<b>Alt+R</b>を押す（もしくは Deoran を右クリック）することで、\n"
+"以前のシナリオを生き残ったベテランを<i>召還</i>できます。\n"
+"召還コストは一律 20 ゴールドで、ユニットの強さとは無関係です。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:278
@@ -1236,6 +1250,9 @@ msgid ""
 "veterans every scenario and building up their experience, over\n"
 "time you can create a very powerful army."
 msgstr ""
+"召還とユニットのレベルアップは非常に重要です。各シナリオで\n"
+"ベテランを召還して経験を積み上げれば、いずれは非常に強力で\n"
+"厚みのある軍勢を作り上げることができるでしょう。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:282
@@ -1243,11 +1260,13 @@ msgid ""
 "If you wish to recruit new soldiers, you can still do so by pressing\n"
 "<b>Ctrl+R</b>. <b>Ctrl+R</b> to recruit, <b>Alt+R</b> to recall."
 msgstr ""
+"もし、新たな兵士を雇用したい場合はそれも Ctrl+R で可能です。\n"
+"<b>Ctrl+R</b>で新規雇用、<b>Alt+R</b>で召還です。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:294
 msgid "Defeat Urza Fastik"
-msgstr ""
+msgstr "Urza Fastik を倒す"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:321
@@ -1255,19 +1274,19 @@ msgid ""
 "Good, we’ve captured a village! The little flag waving from it will serve as"
 " a reminder that it’s under our control. It will remain that way until an "
 "enemy moves into it."
-msgstr ""
+msgstr "良し、村を確保した！たなびく小さな旗が我々の管理下にある証だ。敵ユニットに占領されない限りはこの状態が保たれる。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:323
 msgid ""
 "Each village we control provides upkeep and generates gold, which I can use "
 "to recruit new soldiers."
-msgstr ""
+msgstr "確保した村からは兵士の維持費に加えて、新たな兵士を雇用するための収入が供給される。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:327
 msgid "Income and Upkeep"
-msgstr ""
+msgstr "収入と維持費"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:329
@@ -1280,6 +1299,15 @@ msgid ""
 "To ensure a healthy supply of gold, \n"
 "capture as many villages as you can!"
 msgstr ""
+"確保した各村からは１ターンあたり１ゴールド\n"
+"の収入と１ゴールドの維持費が得られます。\n"
+"１ゴールドの維持費はレベル１ユニットの維持\n"
+"費になります。レベル２ユニットの維持費は\n"
+"２ゴールド、レベル３ユニットは３ゴールドの\n"
+"維持費を要求します。\n"
+"\n"
+"資金状況を悪化させないため、可能な限り多く\n"
+"の村を確保しましょう！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:348
@@ -1287,7 +1315,7 @@ msgid ""
 "Ha, this zombie is so slow and weak! Usually, moving next to an enemy unit "
 "prevents me from moving any further. But this frail, feeble Walking Corpse "
 "is easy to outmaneuver."
-msgstr ""
+msgstr "おっ、このゾンビは鈍くて弱いぞ！普通は敵ユニットの隣に入るとそれ以上動けなくなるが、脆くて弱い歩く死体相手なら自由に動き回ることができる。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:352
@@ -1295,27 +1323,28 @@ msgid ""
 "Unlike most units, level 0 units (such as Walking Corpses) do not exert a "
 "Zone of Control. Your units can move freely around them."
 msgstr ""
+"他のユニットとは異なり、歩く死体のようなレベル０ユニットは支配領域（ZOC）を持ちません。あなたのユニットは彼らのまわりを自由に動くことができます。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:364
 msgid ""
 "I’m nearly blind in this nighttime gloom... If we don’t keep our distance "
 "from the undead, we’re going to get massacred!"
-msgstr ""
+msgstr "夜の闇の中ではほとんど何も見えない…… アンデッドから距離を取らないと皆殺しにされてしまうぞ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:372
 msgid ""
 "Dawn breaks — the heroes grow strong while the villains grow weak. Men of "
 "the South Guard, now is our time to attack!"
-msgstr ""
+msgstr "夜が明ける ── 英雄は力を増し、邪悪は力を失う。南部防衛隊の勇者達よ！今こそ攻撃の時だ！"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:404
 msgid ""
 "Ah, excellent! The South Guard fights my warriors at night, when we are at "
 "our best! I am fortunate that their commander is so inexperienced."
-msgstr ""
+msgstr "はっ、こりゃいいぞ！俺たちが一番力を出せる夜に南部防衛隊の連中が戦ってくれるとは！馬鹿な指揮官が相手でホントにラッキーだ。"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:440
@@ -1323,13 +1352,14 @@ msgid ""
 "Idiot corpses, what are you doing? Don’t fight the South Guard during the "
 "day, when they’re at their best! ...how do I control these blasted things?"
 msgstr ""
+"使えない死体どもめ。何をやってる？日中に南部防衛隊と戦ってるんじゃねぇ、これじゃあ敵の思うツボだ！…このクソども、どうやって制御すればいいんだ？"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:480
 msgid ""
 "Yes that’s right, you foolish South Guard commander! Fight waist-deep in the"
 " river while my bandits are safe in their encampments!"
-msgstr ""
+msgstr "そうだ、いいぞ、頭の弱い南部防衛隊の指揮官サマ！腰まで水に浸かりながら野営地にいる俺達と戦うとはな！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:484
@@ -1339,23 +1369,25 @@ msgid ""
 "with your units on poor terrain isn’t always a bad idea, but it is often not"
 " worth the disadvantage to your troops."
 msgstr ""
+"あなたの大半のユニットは浅瀬では 20% の回避率しか得られません。一方で山賊系ユニットの大半は野営地で 60% "
+"の回避率が得られます。不利な地形で戦うことも時には必要で、それが効果的な場合もありますが、通常はそのような不利は避けるべきでしょう。"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:491
 msgid "If only it weren’t daytime, this would be the perfect fight for me..."
-msgstr ""
+msgstr "これが日中じゃなかったら最高だったんだがな…"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:500
 msgid "And in the middle of the night too! This is the perfect fight for me!"
-msgstr ""
+msgstr "しかもそれが夜間と来た！こいつは最高だなぁ！"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:528
 msgid ""
 "Hey, that’s not fair! I spent ages fortifying the road, you can’t just go "
 "around!"
-msgstr ""
+msgstr "おい、それはズルいぞ！俺は時間をかけて道を要塞化したってのに、そんな簡単に通り抜けてんじゃねーよ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:543
@@ -1363,66 +1395,66 @@ msgid ""
 "I had better hurry and finish off this bandit! If I take too long he may "
 "decide to flee, and then I’ll never get the chance to find out what he "
 "knows!"
-msgstr ""
+msgstr "急いで山賊を片付けなければ！もし、時間をかけすぎて逃がしてしまったら、あいつから情報を取れる機会はもう来ない！"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:571
 msgid "We’ve caught you at last, you outlaw! Prepare to meet your end!"
-msgstr ""
+msgstr "ついに見つけたぞ、この無法者めが！さあ覚悟しろ！"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:575
 msgid ""
 "Gah, more soldiers from Westin... Forget this, I’m getting out of here while"
 " I still have the chance!"
-msgstr ""
+msgstr "げっ、Westin からも兵士が来たか… もういい、逃げられるうちに逃げるぞ！"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:581
 msgid ""
 "He’s gone! Good work defeating these undead, Deoran, but their leader has "
 "escaped..."
-msgstr ""
+msgstr "ヤツが逃げた！Deoran、アンデッドと良く戦った。しかし、リーダーには逃げられてしまった……"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:600
 msgid ""
 "Even with the power of darkness at my command... No, I can’t die yet! I— I "
 "can still escape!"
-msgstr ""
+msgstr "俺にはこの闇の力があるのに…… 嫌だ、死にたくない！俺は ── まだ逃げられる！"
 
 #. [message]: speaker=Sir Gerrick
 #. "clap you in irons" means "put you in jail"
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:622
 msgid ""
 "Not so fast, outlaw — we’ve caught you at last! Time to clap you in irons."
-msgstr ""
+msgstr "まあ待て、無法者 ── ついに捕まえたぞ！この鎖もお前を待ち侘びていた。"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:636
 msgid "Urgh! Get these chains... off me..."
-msgstr ""
+msgstr "ううっ！この鎖を…外せ……"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:653
 msgid ""
 "Minister, don’t let him die! This is our best chance to finally get some "
 "answers."
-msgstr ""
+msgstr "牧師！そいつを死なせるな！これは真相を突き止める絶好の機会なんだ。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:663
 msgid ""
 "Mari, you’ve returned! And these must be the South Guard officers we were "
 "sent here to meet."
-msgstr ""
+msgstr "Mari、戻ったのか！そしてそちらが我々が会いに来た南部防衛隊の士官達か。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:667
 msgid ""
 "Minister Hylas, archivist and local medic. A pleasure to make your "
 "acquaintance, Lieutenant Deoran."
-msgstr ""
+msgstr "私は Hylas 牧師、文書保管係兼、ここでの医療活動にも関わっている。お会いできて光栄だ、Deoran 補佐官。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:671
@@ -1431,6 +1463,8 @@ msgid ""
 "ain’t the time for talk — let’s get this prisoner back t’ town, and finally "
 "get some answers out o’ him."
 msgstr ""
+"うむ、私は Gerrick、南部防衛隊の歩兵指揮官である！多くの者には Gerrick 卿と呼ばれている。されど、今は語らう時ではあるまい ── "
+"罪人を町に連れ帰り、真相を聞き出さねば。"
 
 #. [scenario]: id=02x_Westin
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:5
