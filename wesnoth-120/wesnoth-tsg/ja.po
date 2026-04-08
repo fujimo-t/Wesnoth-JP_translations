@@ -1469,7 +1469,7 @@ msgstr ""
 #. [scenario]: id=02x_Westin
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:5
 msgid "Westin Town"
-msgstr ""
+msgstr "Westin の町"
 
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:46
