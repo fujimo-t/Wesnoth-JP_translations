@@ -1481,12 +1481,12 @@ msgstr "Westin"
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:95
 msgid "Town Crier"
-msgstr ""
+msgstr "町の広め役"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:144
 msgid "The Vale of Blossoming Trees."
-msgstr ""
+msgstr "花の咲き誇る谷。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:149
@@ -1495,6 +1495,9 @@ msgid ""
 "\n"
 "Whether “The Vale of Blossoming Trees” refers to the source of his dark powers, the location of another Urza brother, or something else entirely, I cannot say."
 msgstr ""
+"残念ながら情報らしい情報はその一言だけ。Urza Fastik はずっと変わらず反抗的なままだ。\n"
+"\n"
+"その「花の咲き誇る谷」が闇の力の源なのか、他の Urza 兄弟の居場所なのか、それともまったく別の何かか。なんとも言えない。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:155
@@ -1504,6 +1507,8 @@ msgid ""
 "bandits... I hear they’re aloof even with regards to the king. Can we not "
 "learn more from our captive?"
 msgstr ""
+"谷…… それは Aethen の森の飛び地では？ただ、Aethen の森のエルフが降霊術に手を出したり、山賊に手を貸すとは想像できないが…… "
+"彼らは王に対してすら敬意を示さないのだろう？捕虜からもっと情報を引き出すことはできないだろうか？"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:159
@@ -1512,6 +1517,7 @@ msgid ""
 "roughing it. Lives are at stake, an’ too much coddling ain’t getting us "
 "nowhere."
 msgstr ""
+"手緩いのではないか。Fastik のような輩は ── 手荒な扱いには慣れているだろう。多くの者の命がかかっているのだ、甘やかしている場合ではないだろう。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:163
@@ -1520,27 +1526,28 @@ msgid ""
 "illuminate. Now deprived of the dark magic that once suffused him, his very "
 "mind has begun to fade away."
 msgstr ""
+"彼の魂が闇に堕ちてしまっているのではないか、それも私の光でさえ照らせないほどに。私はそう危惧している。かつて彼を満たしていた闇を取り去った結果、彼の精神そのものが消え去ろうとしているようだ。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:167
 msgid ""
 "Even were he willing, I am not sure he remembers anything other than what he"
 " has already told us."
-msgstr ""
+msgstr "例え彼に話すつもりがあったとしても、既に話した以上のことを覚えているとはあまり思えない。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:181
 msgid ""
 "Hey, everyone. I’m done cleaning up the last of Fastik’s mess, but no trace "
 "of the other two brothers."
-msgstr ""
+msgstr "やあ、お揃いだな。Fastik の残党の後片付けは終わらせてきたぞ。しかし、残り２人の情報は何も得られなかった。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:201
 msgid ""
 "Thanks, Hylas. Shouldn’t there be a duke or prince or something around here?"
 " How did things get this bad?"
-msgstr ""
+msgstr "助かったよ、Hylas。ところで、ここいらには公爵サマだか王子サマだかがいるんじゃなかったのか？どうしてこんなことになっているんだ？"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:205
@@ -1549,6 +1556,8 @@ msgid ""
 "brother. Arand’s been tryin’ to build the place up. Last time he visited, "
 "His Highness said our home might someday be called the Jewel of the South!"
 msgstr ""
+"ああ、公式にはこの地は Garard 陛下の弟君、Arand "
+"王子殿下に治められている。殿下はこの地をもり立てようと尽力されている。前回訪れられた時には、「いつかこの地は南の宝石と呼ばれるようになる！」、とおっしゃられていた。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:209
@@ -1557,6 +1566,8 @@ msgid ""
 "but a small town. These Urza outlaws ha’ always been a nuisance, but once "
 "they somehow started raisin’ the dead things got out of hand, fast."
 msgstr ""
+"しかれど、王国の版図は巨大で、殿下は多くの土地を治められている。そして、残念ながら現在の Westin はまだ小さな町に過ぎない。Urza "
+"のならず者共は以前からずっと厄介者であったが、どういうわけか死者を起き上がらせるようになり、唐突に事態は手に負えなくなってしまった。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:213
@@ -1566,6 +1577,9 @@ msgid ""
 "contact we have had with the crown in some time, sirs Mari and Deoran. With "
 "your aid, we can defeat these outlaws and cleanse their undead."
 msgstr ""
+"この窮状を伝えるべく、我々も何度か使者を出していましたが、どうやら道中で襲撃されたり、渡河の際に待ち伏せされてしまったのでしょう。つまり、Mari "
+"殿、そして Deoran "
+"殿、あなた方のおかげで我々も久しぶりに王国と接触することができたということになります。あなた方の助けがあれば、あのならず者を打倒し、アンデッドを駆逐することもできるでしょう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:221
@@ -1574,6 +1588,7 @@ msgid ""
 "“Vale of Blossoming Trees” and hope it’s neither misdirection nor a trap. "
 "Sirs, do I have your permissions to take the infantry on a sortie?"
 msgstr ""
+"さて、他に何の手掛かりも無いのであれば、その「花の咲き誇る谷」を調べるべきでしょうか。間違いや罠でなければいいのですが。皆様、私が歩兵と共に出撃することをお許しいただけませんか？"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:227
@@ -1582,6 +1597,7 @@ msgid ""
 " Two o’ us officers will need to stay here and watch th’ town, but at least "
 "one o’ us should come with ye to help fight."
 msgstr ""
+"自ら任務に志願するのか？勇敢な小僧だ。しかし１人で行かせるわけにはいくまい。士官の内、２人は町の防衛にあたるためここに残らねばならないが、もう１人はお前を手助けするべきだろうな。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:231
@@ -1589,32 +1605,33 @@ msgid ""
 "Take yer pick — either me, Minister Hylas, or tha’ Mari o’ yers. You don’t "
 "know much about how each of us fight yet, so ask and we’ll tell!"
 msgstr ""
+"誰かを選べ ── 私か、Hylas 牧師か、それとも一緒に来た Mari か。お前は我々がどのような力を持つか知らないだろうが、聞けば答えるぞ！"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:250
 msgid ""
 "Hey, rookie. I’m all out of quintains, so if you want more bruises you’ll "
 "have to find another inanimate object to fight."
-msgstr ""
+msgstr "ああ、新米、人形はもう使い切ったから、また怪我をしたいんなら何か別のものを探してくれ。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:255
 msgid ""
 "...but I guess you’re asking about my skills, not yours. You never did get a"
 " chance to see me fight."
-msgstr ""
+msgstr "…まあ、今はお前の話じゃなくて私の話だな。私の戦うところはまだ見せられていなかったな。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:261
 msgid "Hey, rookie. Yeah, you never did get a chance to see me fight."
-msgstr ""
+msgstr "ああ、新米。そういえば、私の戦うところはまだ見せられていなかったな。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:267
 msgid ""
 "Well, I’m a survivor. Fast-moving, light on my feet; good at evading, good "
 "at stabbing. Hard to pin down, whether in an attack or in an escape."
-msgstr ""
+msgstr "そうだな、私は生存能力に優れた兵士だ。蝶のように舞い敵の攻撃を避け、蜂のように鋭く刺す。攻撃時でも逃走時でも私を抑えることは難しい。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:271
@@ -1623,6 +1640,8 @@ msgid ""
 "attacks). Her <i><b>skirmisher</b></i> ability lets her ignore enemies’ Zone"
 " of Control — she can move freely around enemy units without being stopped."
 msgstr ""
+"Mari "
+"は非常に高い回避率を持っています。また、彼女は<b>散兵</b>能力で敵の支配領域（ZOC）を無視することもできます。この能力のおかげで彼女は敵に足止めされることなく敵のまわりを自由に動くことができます。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:275
@@ -1631,6 +1650,8 @@ msgid ""
 "be loaded one-handed. Altogether, I’ll bet I could outlast both Hylas and "
 "Gerrick in a 1-on-1. And you too, but that goes without saying."
 msgstr ""
+"スリングの扱いもなかなかのものだぞ、まあ、これは片手で弾を用意できる遠隔攻撃手段がこれくらいしかなかっただけでもあるが。まとめると、１対１なら私は "
+"Hylas や Gerrick にも私は負けない。言うまでもないが、もちろんお前にも勝てる。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:279
@@ -1638,6 +1659,7 @@ msgid ""
 "And... if you come with me you’ll actually help fight? No more training, or "
 "observing, or running off right before the battle starts?"
 msgstr ""
+"それで、一緒に行けば今度は本当に戦ってくれるので？突然訓練が始まったり、監視に徹したり、戦闘が始まる前にどこかに走り去ったりしないですよね？"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:283
@@ -1646,6 +1668,8 @@ msgid ""
 "just thought... well, after losing one arm to undead in the Estmarks, I "
 "hoped I was done dealing with this sort of thing."
 msgstr ""
+"もちろん。山賊はともかく、降霊術はシャレにならない。ただ…… Estmark "
+"でアンデッドに腕を一本やられてから、あの手のものに関わるのはもうこりごりだったんだがね…"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:292
@@ -1654,6 +1678,8 @@ msgid ""
 " sling, skill at evading attacks, and can move freely around enemies without"
 " being stopped."
 msgstr ""
+"もうさっきしゃべったが？今度は良く聞くんだぞ…… "
+"私は剣とスリングを使う。敵の攻撃を避けるのが得意で、敵に足止めされることなく自由に動き回ることができる。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:317
@@ -1663,6 +1689,8 @@ msgid ""
 "village. This doesn’t stack with healing from villages or other healers, "
 "however."
 msgstr ""
+"私は薬師です、Deoran "
+"補佐官。内にある光によって私は<b>隣接するユニットを癒す</b>ことができます。村で休むのと同等の癒しを与えることができますが、残念ながら村での癒しと私の光による癒しを両方同時に受けることはできません。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:321
@@ -1671,6 +1699,7 @@ msgid ""
 "attack. Magical attacks always have a high chance to hit and are unaffected "
 "by terrain, making them ideal against evasive or fortified enemies."
 msgstr ""
+"遠隔の戦闘では、命中に非常に優れる<b>魔法</b>攻撃を扱うことができます。魔法攻撃は敵の回避率の影響を受けません。回避率の高い敵や、防御に向いた地形にいる敵に対して理想的な攻撃手段です。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:325
@@ -1678,6 +1707,7 @@ msgid ""
 "I don’t mean to be rude, but... your leg looks badly injured. If you have "
 "healing magic, shouldn’t you have been able to cure it?"
 msgstr ""
+"気分を害させたいわけではないのですが…… あなたの足はひどい怪我をしているように見えます。ご自身の癒しの魔術で治療することはできないのですか？"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:329
@@ -1686,6 +1716,9 @@ msgid ""
 "\n"
 "Such was the greater part of my motivation for traveling to the Isle of Alduin and studying the arcane arts — an opportunity to return home and offer to others the services that I never had."
 msgstr ""
+"これは生まれつきです。当時、Westin には癒し手はおらず、骨がうまく固定できなかったのです。\n"
+"\n"
+"Alduin 島へ向かい、秘術を学ぶ、そのように私を駆り立てた動機の大きな部分がこれです ── 私が得られなかった恩恵を故郷に持ち帰り、皆に与えたかったのです。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:335
@@ -1694,6 +1727,8 @@ msgid ""
 "should know that it does somewhat slow my movement on the battlefield, even "
 "more so than is Sir Gerrick by his armor."
 msgstr ""
+"私は遠い昔にこの不全を受け入れました。しかし、これにより私は戦場で迅速に動くことができません。おそらくは重い鎧を身につけた Gerrick "
+"卿にも劣るでしょう。私を指揮下に入れる可能性がある者として、そこはきちんと認識しておかなくてはいけません。"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:344
@@ -1702,6 +1737,7 @@ msgid ""
 "turn. I wield a ranged magical attack that is highly accurate, irrespective "
 "of the terrain my opponent occupies."
 msgstr ""
+"もう忘れてしまいましたか？私は毎ターン隣接ユニットをある程度癒すことができます。そして、遠隔攻撃で敵の回避率を無視して高確率で命中する魔法攻撃を持っています。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:369
@@ -1710,13 +1746,14 @@ msgid ""
 "hits harder than any spear, an’ my crushin’ shield bash can "
 "<i><b>slow</b></i> enemies."
 msgstr ""
+"うむ。小僧、自慢話になってしまうが、私は近接戦闘の怪物だ。私のグレイブはどんな槍よりも重く、強烈なシールドバッシュは敵を<b>遅化</b>させることができる。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:373
 msgid ""
 "Slowed enemies move at <i><b>half speed</b></i> and deal <i><b>half "
 "damage</b></i>."
-msgstr ""
+msgstr "遅化した敵は<b>移動力が半分</b>になり、<b>攻撃で与えるダメージも半分</b>になる。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:377
@@ -1725,11 +1762,12 @@ msgid ""
 "<i><b>resistance</b></i> against bladed or piercing weapons. If you need "
 "someone t’ break an enemy line, I’m your man."
 msgstr ""
+"そして私の鎧は重くて扱いが難しいが、斬撃や刺突攻撃への大きな<b>耐性</b>を与えてくれる。敵の防衛戦を打ち破る力が欲しくば、私の出番だ。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:380
 msgid "Resistances and Damage Types"
-msgstr ""
+msgstr "耐性とダメージ型"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:382
@@ -1744,6 +1782,15 @@ msgid ""
 "To see a unit’s resistances, <b><i>right-click on it\n"
 "and select “Unit Type Description.”</i></b>"
 msgstr ""
+"Wesnoth では各攻撃にダメージ型があります。\n"
+"斬撃、刺突、打撃、火炎、冷気、そして秘術。\n"
+"\n"
+"一部のユニットは特定のダメージに強かったり\n"
+"弱かったりします。例えば歩く死体は秘術に\n"
+"対して脆弱です。\n"
+"\n"
+"ユニットの耐性を調べたい場合は、<b>右クリック\n"
+"</b>でユニット解説を選びましょう。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:399
@@ -1751,48 +1798,48 @@ msgid ""
 "Well, like I said, I’ve got great damage resistance on account o’ me heavy "
 "armor, an’ I can slow enemies t’ halve both their speed an’ damage. Try not "
 "t’ forget this time!"
-msgstr ""
+msgstr "うむ。既に言ったとおり、重い鎧を身につけているため敵の攻撃に高い耐性があり、敵を遅化させることもできる。今度は忘れるなよ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:417
 msgid ""
 "I’ve decided: Captain Mari, I’d like you to accompany me on our mission to "
 "the elven vale. Make ready the men — we leave at next dawn!"
-msgstr ""
+msgstr "決めました。Mari 隊長、エルフの谷へのご同行、お願いします。兵士達よ、準備を ── 出発は明日の夜明けだ！"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:421
 msgid ""
 "Good luck, Deoran an’ Mari. We’re countin’ on you to stop the bandits an’ "
 "undead!"
-msgstr ""
+msgstr "Deoran と Mari、幸運を祈る。お前たちならば山賊とアンデッドを止めてくれると期待しているぞ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:441
 msgid ""
 "I’ve decided: Minister Hylas, I’d like you to accompany me on our mission to"
 " the elven vale. Make ready the men — we leave at next dawn!"
-msgstr ""
+msgstr "決めました。Hylas 牧師、エルフの谷へのご同行、お願いします。兵士達よ、準備を ── 出発は明日の夜明けだ！"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:445
 msgid ""
 "Good luck, Deoran an’ Hylas. We’re countin’ on you to stop the bandits an’ "
 "undead!"
-msgstr ""
+msgstr "Deoran と Hylas、幸運を祈る。お前たちならば山賊とアンデッドを止めてくれると期待しているぞ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:465
 msgid ""
 "I’ve decided: Sir Gerrick, I’d like you to accompany me on our mission to "
 "the elven vale. Make ready the men — we leave at next dawn!"
-msgstr ""
+msgstr "決めました。Gerrick 卿、エルフの谷へのご同行、お願いします。兵士達よ、準備を ── 出発は明日の夜明けだ！"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:469
 msgid ""
 "Good luck, rookie. We’re counting on you to stop the bandits and undead!"
-msgstr ""
+msgstr "新米、幸運を祈る。山賊とアンデッドを止めてくれると期待している！"
 
 #. [scenario]: id=03_Vale_of_Tears
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:9
