@@ -230,7 +230,7 @@ msgstr "熟練歩兵"
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:424
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:89
 msgid "Captain Mari"
-msgstr "Mari 隊長"
+msgstr "Mari 大尉"
 
 #. [widget]: id=name
 #. [unit_type]: id=Veteran Fencer, race=human, gender=female
@@ -260,7 +260,7 @@ msgstr "Gerrick 卿と行く"
 #. [button]: id=leave_with_mari
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:170
 msgid "Leave with Captain Mari"
-msgstr "Mari 隊長と行く"
+msgstr "Mari 大尉と行く"
 
 #. [button]: id=leave_with_hylas
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:177
@@ -458,7 +458,7 @@ msgstr "命を落とす"
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:300
 msgid "<i>(Bows)</i> A pleasure to make your acquaintance, Captain."
-msgstr "（お辞儀をして）隊長、お会いできて光栄です。"
+msgstr "（お辞儀をして）大尉、お会いできて光栄です。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:308
@@ -1805,7 +1805,7 @@ msgstr "うむ。既に言ったとおり、重い鎧を身につけているた
 msgid ""
 "I’ve decided: Captain Mari, I’d like you to accompany me on our mission to "
 "the elven vale. Make ready the men — we leave at next dawn!"
-msgstr "決めました。Mari 隊長、エルフの谷へのご同行、お願いします。兵士達よ、準備を ── 出発は明日の夜明けだ！"
+msgstr "決めました。Mari 大尉、エルフの谷へのご同行、お願いします。兵士達よ、準備を ── 出発は明日の夜明けだ！"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:421
@@ -1858,35 +1858,35 @@ msgstr "Urza Nalmath"
 msgid ""
 "This magical rune must have triggered the illusions we saw earlier. Whatever"
 " magic it once held is now gone."
-msgstr ""
+msgstr "先程見た幻影はこのルーンが作り出したに違いない。ただ、もう魔力は残っていないようだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:148
 msgid ""
 "Whatever runic magic once guarded this side of the isthmus, it has already "
 "been exhausted."
-msgstr ""
+msgstr "このルーンがどのように地峡のこちら側を守っていたのかはわからないが、その力は既に尽きているようだ。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:190
 msgid ""
 "Captain Mari, are we going in the right direction? I can hardly see a thing "
 "through this fog..."
-msgstr ""
+msgstr "Mari 大尉、この方向で合っているのだろうか？この霧ではほとんど何も見えない……"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:191
 msgid ""
 "Sir Gerrick, are we going in the right direction? I can hardly see a thing "
 "through this fog..."
-msgstr ""
+msgstr "Gerrick 卿、この方向で合っているのだろうか？この霧ではほとんど何も見えない……"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:192
 msgid ""
 "Minister Hylas, are we going in the right direction? I can hardly see a "
 "thing through this fog..."
-msgstr ""
+msgstr "Hylas 牧師、この方向で合っているのだろうか？この霧ではほとんど何も見えない……"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:227
@@ -1897,12 +1897,12 @@ msgstr "Ithelden"
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:228
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:935
 msgid "Galdrad"
-msgstr ""
+msgstr "Galdrad"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:229
 msgid "Vaenuith"
-msgstr ""
+msgstr "Vaenuith"
 
 #. [event]
 #. [unit]: type=Elvish Shyde, id=Ethiliel
@@ -1920,35 +1920,35 @@ msgstr "Talchar"
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:237
 msgid "Halt! Who enters our sacred vale without leave?"
-msgstr ""
+msgstr "止まれ！許可なくこの聖なる谷に踏み込むとは、何者だ？"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:240
 msgid "Deoran, I’m gonna say... yes."
-msgstr ""
+msgstr "Deoran、そうだな…… 合っていたみたいだ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:241
 msgid "...aye, Deoran, looks to be that way."
-msgstr ""
+msgstr "……当たり。Deoran、どうやらそのようだ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:242
 msgid "Given the evidence at hand, Deoran, I believe the answer is “yes.”"
-msgstr ""
+msgstr "Deoran、現時点での証拠を踏まえると、その答えは「はい」だと私は思います。"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:247
 msgid ""
 "Choose your words wisely, bandits. Speak, knowing that the penalty for "
 "trespassing on our lands is death."
-msgstr ""
+msgstr "山賊よ、慎重に答えろ。我々の土地への不法侵入者には死を与える。それを踏まえた上で何か言いたいことがあるのであれば言ってみろ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:251
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:267
 msgid "I—"
-msgstr ""
+msgstr "私は──"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:255
@@ -1957,11 +1957,13 @@ msgid ""
 "those rags of the Urzas. Though it remains to be seen whether this proves an"
 " improvement — why do you enter the hallowed isle of Elrath?"
 msgstr ""
+"これは山賊ではない。この人間は南部防衛隊の旗を掲げている。Urza のボロ切れとは違うわ。もっとも、だから良いというわけではないけれど ── "
+"それで神聖な Elrath の島に入った理由は何？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:259
 msgid "To—"
-msgstr ""
+msgstr "それは──"
 
 #. [message]: speaker=Vaenuith
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:263
@@ -1971,6 +1973,7 @@ msgid ""
 "it is you humans who first brought this perverse sorcery to our great "
 "continent, when you arrived here centuries ago."
 msgstr ""
+"まあ、私たちの力を借りたいのでしょう。空気には闇、大地には堕落。何者かが降霊術に手を出しているのでしょう。この邪悪な魔術を最初に持ち込んだのは、他ならぬあなたがた人間。何世紀も前にあなたがた人間がこの大陸にやって来た時に持ち込んだことを忘れてはならない。"
 
 #. [message]: speaker=Talchar
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:271
@@ -1979,11 +1982,12 @@ msgid ""
 "the mystic arts is much more likely to be corrupted by such a force than to "
 "have the knowledge or ability to banish it."
 msgstr ""
+"過去の経緯を踏まえれば人間は信用に値しない。秘術の力を持たない人間では、あの力を打ち払う知識や能力を得るよりも、あの力に堕落させられてしまう可能性の方が高い。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:275
 msgid "But—"
-msgstr ""
+msgstr "しかし──"
 
 #. [message]: speaker=Vaenuith
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:279
@@ -1991,7 +1995,7 @@ msgid ""
 "Why should we treat with you now, when it is your kind’s inaction that has "
 "allowed this blight to grow unchecked? Begone with you, mayfly, and leave to"
 " us our peace."
-msgstr ""
+msgstr "この疫病がこれほどまで広がったのは、お前たちの怠惰のせいではないか。それなのに、なぜ今になってお前たちと交渉しなければならないのか？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:284
@@ -2000,11 +2004,13 @@ msgid ""
 "something that began before my arrival! And besides, this is not the fault "
 "of “my kind” but of the Urza brothe—"
 msgstr ""
+"──しかし、しかしだ！私がここに来てからまだ一ヶ月も経ってない！私が来る前に起こっていたことに私がどうこうできるわけも無い！それに、これは「我々人間」のせいではなく、Urza"
+" 兄弟──"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:289
 msgid "(deep breath)"
-msgstr ""
+msgstr "（深呼吸をして）"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:294
@@ -2012,6 +2018,8 @@ msgid ""
 "...honorable elves, I am Commander Deoran, of Westin’s South Guard. I cannot"
 " speak for the past, but in the present we need your help."
 msgstr ""
+"……高潔なるエルフよ、私は Westin の南部防衛隊の指揮官、Deoran "
+"と申します。過去のことについて私は何も言うことはできない。しかし今、我々はあなたがたの助けを必要としています。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:298
@@ -2020,6 +2028,7 @@ msgid ""
 "defiling the dead. We learned that this vale is a place of importance to "
 "them, and came seeking answers."
 msgstr ""
+"邪悪な呪文で死者の平穏を乱す犯罪者に我々の村や畑は荒らされています。その犯罪者にとってこの谷は何か重要な意味があることを知りました。そして、答えを求めて我々はここを訪ねました。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:302
@@ -2028,6 +2037,7 @@ msgid ""
 "this spreading corruption, so that we may destroy it? Good elves of the "
 "vale, can you not aid us in our plight?"
 msgstr ""
+"我々の敵はどこからあの恐ろしい力を学んだのでしょう？どのようにすればこの広がり続ける堕落の源を見つけられるでしょう？それを破壊することは可能でしょうか？谷の善きエルフよ、どうか窮地にある我々に救いの手を差し伸べてはいただけないでしょうか？"
 
 #. [message]: speaker=Ithelden
 #. [message]: speaker=Ethiliel
@@ -2046,12 +2056,12 @@ msgstr "……"
 msgid ""
 "...very well, outlander. The challenge is passed. Enter, and greet us as we "
 "are in life."
-msgstr ""
+msgstr "……よそ者よ、よかろう。合格だ。入るが良い、実際に会ってみよう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:318
 msgid "!?"
-msgstr ""
+msgstr "！？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:375
@@ -2060,52 +2070,54 @@ msgid ""
 " Half-alive echo? Was this something to help protect the valley from "
 "intruders?"
 msgstr ""
+"あれは本物のエルフではなかったのか！あれは… 事前に準備された幻影？いや、それにしては…… "
+"ならば半自動の残響のようなものか？これは侵入者からこの谷を守るための何かだったのだろうか？"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:378
 msgid "If that’s what it was, it didn’t work. Look!"
-msgstr ""
+msgstr "だったとしても今はまともに動いてないんだろうね。見ろ！"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:379
 msgid "If that’s what it were, it dinnae work. Look there!"
-msgstr ""
+msgstr "だったかも知れぬが、今は動いていないのだろう。あれを見よ！"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:380
 msgid "If such was the intent, it does not seem to have worked. Look."
-msgstr ""
+msgstr "そうだったとしたら、今は動いていないのでしょうね。見てください。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:391
 msgid "Undead! In an elven valley?? And a caged elf, too!"
-msgstr ""
+msgstr "アンデッド！エルフの谷に？？そして、檻に入れられたエルフもいる！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:395
 msgid ""
 "The elven prisoner must have answers about what’s happened here. We shall "
 "break her free at once — make ready, Captain Mari!"
-msgstr ""
+msgstr "あの閉じ込められたエルフならば何が起こっているのか知っているはずだ。すぐに彼女を自由にしなければ ── Mari 大尉、準備を！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:396
 msgid ""
 "The elven prisoner must have answers about what’s happened here. We shall "
 "break her free at once — make ready, Sir Gerrick!"
-msgstr ""
+msgstr "あの閉じ込められたエルフならば何が起こっているのか知っているはずだ。すぐに彼女を自由にしなければ ── Gerrick 卿、準備を！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:397
 msgid ""
 "The elven prisoner must have answers about what’s happened here. We shall "
 "break her free at once — make ready, Minister Hylas!"
-msgstr ""
+msgstr "あの閉じ込められたエルフならば何が起こっているのか知っているはずだ。すぐに彼女を自由にしなければ ── Hylas 牧師、準備を！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:405
 msgid "Break the trapped elf out of her cage"
-msgstr ""
+msgstr "檻に閉じ込められたエルフを救出する"
 
 #. [note]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:414
@@ -2113,6 +2125,8 @@ msgid ""
 "To recruit units, you must first move Deoran onto a keep.\n"
 "    There are two elven keeps near the center of the map."
 msgstr ""
+"ユニットを雇用するには Deoran を主塔に移動させる必要があります。\n"
+"    マップ中央付近に２つのエルフの主塔があります。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:427
@@ -2121,13 +2135,14 @@ msgid ""
 "reduces performance, you can disable it by opening the Preferences menu "
 "(Ctrl-P), by selecting “Display” and unchecking “Animate Map.”</i>"
 msgstr ""
+"雨や雪は見た目だけの効果で、ゲーム自体に影響はありません。これらのエフェクトで気が散る場合や、レスポンスが悪くなる場合は、設定を開き（Ctrl+P）、「表示」を選び、「マップのアニメーション」のチェックを外せば無効化できます。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:440
 msgid ""
 "The humans return, but this time bearing the banners of Westin... If you’re "
 "here to help, attack this foul cage and smash it open!"
-msgstr ""
+msgstr "人間が戻ってきた。しかし今度は Westin の旗を掲げている… 助けてくれるのなら、この忌々しい檻を攻撃し、破壊してちょうだい！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:470
@@ -2135,6 +2150,7 @@ msgid ""
 "Oh, the joy of once more spreading my wings! And to be saved by humans, of "
 "all things... who are you? Is this not some new deceit of the Urzas?"
 msgstr ""
+"ああ、ようやく翼を広げることができるようになったわ！まさか人間に救われるなんて…… それであなたは誰？Urza の用意した罠などではないのよね？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:474
@@ -2143,6 +2159,8 @@ msgid ""
 "South Guard, and my allegiance lies with Westin, not those deplorable Urza "
 "brothers. But by Haldric, will you please tell what has happened here!?"
 msgstr ""
+"ああ、あなたの姿は幻影で見た！友よ、どうか落ち着いて。私は南部防衛隊の Deoran、Westin に忠誠を誓う者であり、非道な Urza "
+"兄弟とは無関係です。ここで一体何が起きたのでしょうか？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:478
