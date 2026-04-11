@@ -30,7 +30,7 @@ msgstr "PaP"
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:36
 msgid "1x enemies, 70% XP"
-msgstr ""
+msgstr "敵数x1, XP 70%"
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:36
@@ -40,7 +40,7 @@ msgstr "易しい"
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:37
 msgid "2x enemies, 90% XP"
-msgstr ""
+msgstr "敵数x2, XP 90%"
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:37
@@ -50,7 +50,7 @@ msgstr "ノーマル"
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:38
 msgid "3x enemies, 100% XP"
-msgstr ""
+msgstr "敵数x3, XP 100%"
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:38
@@ -60,12 +60,12 @@ msgstr "難しい"
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:39
 msgid "4x enemies, 100% XP"
-msgstr ""
+msgstr "敵数x4, XP 100%"
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:39
 msgid "Deadly"
-msgstr ""
+msgstr "絶望的"
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:41
@@ -139,34 +139,34 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:26
 msgid "Complete <i>Pirates!</i> without losing any units."
-msgstr ""
+msgstr "ユニットを一人も失わずに「<i>海賊！</i>」をクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:26
 msgid "Scenario 1: Overprotective"
-msgstr ""
+msgstr "シナリオ１：心配性"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:27
 msgid ""
 "Defeat an enemy leader before your allies arrive in <i>Swimming with "
 "Serpents</i>."
-msgstr ""
+msgstr "「<i>蛇人との遊泳</i>」で同盟軍が到着する前に敵リーダーを一人倒す。"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:27
 msgid "Scenario 2: The Best Defense..."
-msgstr ""
+msgstr "シナリオ２：最善の防衛・・・"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:28
 msgid "Defeat the enemy leader in <i>Desolation</i>."
-msgstr ""
+msgstr "「<i>荒地</i>」で敵のリーダーを倒す。"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:28
 msgid "Scenario 3: Little Red Riding Hood"
-msgstr ""
+msgstr "シナリオ３：赤ずきんちゃん"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
@@ -176,12 +176,12 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
 msgid "Scenario 4: Tunnel Vision"
-msgstr ""
+msgstr "シナリオ４：視野狭窄"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:30
 msgid "Scenario 5: Vendetta"
-msgstr ""
+msgstr "シナリオ５：復讐"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:30
@@ -273,12 +273,12 @@ msgstr ""
 #. [set_menu_item]: id=tutorial_toggle_on
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:120
 msgid "Tip Dialogue &amp; Popups: On"
-msgstr ""
+msgstr "ヒント表示：On"
 
 #. [set_menu_item]: id=tutorial_toggle_off
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:132
 msgid "Tip Dialogue &amp; Popups: Off"
-msgstr ""
+msgstr "ヒント表示：Off"
 
 #. [message]: role=fisher
 #. a peasant is running towards town, calling out to the village leader
@@ -308,7 +308,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:209
 msgid "Boryn"
-msgstr ""
+msgstr "Boryn"
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:217
@@ -546,7 +546,7 @@ msgstr ""
 #. [scenario]: id=02_Swimming_with_Serpents
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:9
 msgid "Swimming with Serpents"
-msgstr ""
+msgstr "蛇人との遊泳"
 
 #. [part]
 #. S02 intro. Alderman Rael left the village months ago, and has not returned.
@@ -610,12 +610,12 @@ msgstr ""
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:164
 msgid "Pseail"
-msgstr ""
+msgstr "Pseail"
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:175
 msgid "Briloss"
-msgstr ""
+msgstr "Briloss"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:181
@@ -683,17 +683,17 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:237
 msgid ""
 "Survive until reinforcements arrive at the east edge of the map on turn 13"
-msgstr ""
+msgstr "13 ターン目にマップ東端に援軍が到着するまで生き延びる"
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:241
 msgid "Then, defeat the enemy leaders"
-msgstr ""
+msgstr "その後、敵のリーダー達を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:245
 msgid "Death of Thea"
-msgstr ""
+msgstr "Thea の死"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:266
@@ -812,7 +812,7 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:368
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:377
 msgid "Defeat the enemy leaders"
-msgstr ""
+msgstr "敵のリーダー達を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:372
@@ -820,7 +820,7 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:379
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:284
 msgid "Death of Thea or Diondra"
-msgstr ""
+msgstr "Thea か Diondra の死"
 
 #. [message]: speaker=unit
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:427
@@ -904,7 +904,7 @@ msgstr ""
 #. [scenario]: id=03_Desolation
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:9
 msgid "Desolation"
-msgstr ""
+msgstr "荒地"
 
 #. [part]
 #. S03 intro
@@ -927,12 +927,12 @@ msgstr ""
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:68
 msgid "Wild Wolves"
-msgstr ""
+msgstr "野生の狼"
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:95
 msgid "Stuxton"
-msgstr ""
+msgstr "Stuxton"
 
 #. [event]
 #. [event]: id=immobile_derelict
@@ -1019,7 +1019,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:287
 msgid "Red"
-msgstr ""
+msgstr "Red"
 
 #. [message]: speaker=Red
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:290
@@ -1141,12 +1141,12 @@ msgstr ""
 #. [leader]: type=Outlaw, id=leader2
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:58
 msgid "Havan"
-msgstr ""
+msgstr "Havan"
 
 #. [leader]: type=Huntsman, id=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:83
 msgid "Rhaddin"
-msgstr ""
+msgstr "Rhaddin"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:280
@@ -1408,7 +1408,7 @@ msgstr ""
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:790
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:794
@@ -1448,7 +1448,7 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:6
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:91
 msgid "Lady Maudie"
-msgstr ""
+msgstr "Maudie 卿"
 
 #. [part]
 #. S05 intro
@@ -1488,7 +1488,7 @@ msgstr ""
 #. [leader]: type=Assassin, id=leader2, gender=female
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:55
 msgid "Analla"
-msgstr ""
+msgstr "Analla"
 
 #. [leader]: type=Ranger, id=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:81
@@ -1566,7 +1566,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:280
 msgid "Defeat Lady Maudie"
-msgstr ""
+msgstr "Maudie 卿を倒す"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:316
@@ -1699,7 +1699,7 @@ msgstr ""
 #. [scenario]: id=06_Epilogue
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/06_Epilogue.cfg:6
 msgid "Epilogue"
-msgstr ""
+msgstr "エピローグ"
 
 #. [part]
 #. epilogue intro
@@ -1745,31 +1745,31 @@ msgstr ""
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/Of_Pearls_and_Pirates/units/Cage.cfg:5
 msgid "Caged Slave"
-msgstr ""
+msgstr "囚われの奴隷"
 
 #. [unit_type]: id=Fishing Boat
 #: data/campaigns/Of_Pearls_and_Pirates/units/Variations.cfg:9
 msgid "Fishing Boat"
-msgstr ""
+msgstr "漁船"
 
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:21
 msgid "Villagers"
-msgstr ""
+msgstr "村人"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:38
 msgid "Thea"
-msgstr ""
+msgstr "Thea"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:47
 msgid "loyal"
-msgstr ""
+msgstr "忠義"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:48
 msgid "Zero upkeep"
-msgstr ""
+msgstr "維持費なし"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:58
 msgid "Alderman Rael"
@@ -1781,4 +1781,4 @@ msgstr ""
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:80
 msgid "Diondra"
-msgstr ""
+msgstr "Diondra"

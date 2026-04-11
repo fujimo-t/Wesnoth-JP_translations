@@ -660,7 +660,7 @@ msgid ""
 "Use “Ctrl+R” to recruit a soldier first!\n"
 "(press “u” if you need to undo a move)"
 msgstr ""
-"\"Ctrl+R\" で兵士を雇用してください！\n"
+"\"Ctrl+r\" で兵士を雇用してください！\n"
 "（移動を実行後にキャンセルしたい場合は u を押してください）"
 
 #. [objective]: condition=win
@@ -672,7 +672,7 @@ msgstr "兵士達を雇用する"
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:670
 msgid ""
 "Press <b>Ctrl+R</b> to recruit new soldiers. (Or right-click on a keep hex.)"
-msgstr "<b>Ctrl+R</b>を押して新しい兵士を雇用します。（主塔ヘクスで右クリックでも可）"
+msgstr "<b>Ctrl+r</b>を押して新しい兵士を雇用します。（主塔ヘクスで右クリックでも可）"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:680
@@ -953,7 +953,7 @@ msgstr ""
 "同様にそれ以上移動できなくなります。\n"
 "\n"
 "敵ユニットが移動してくる可能性のある\n"
-"ヘクスは<b>Ctrl+V</b>で表示できます。"
+"ヘクスは<b>Ctrl+v</b>で表示できます。"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1086
@@ -1239,7 +1239,7 @@ msgid ""
 "from the previous scenario. Recalling a veteran only ever costs\n"
 "20 gold, no matter how powerful (or weak) they are."
 msgstr ""
-"<b>Alt+R</b>を押す（もしくは Deoran を右クリック）することで、\n"
+"<b>Alt+r</b>を押す（もしくは Deoran を右クリック）することで、\n"
 "以前のシナリオを生き残ったベテランを<i>召還</i>できます。\n"
 "召還コストは一律 20 ゴールドで、ユニットの強さとは無関係です。"
 
@@ -1260,8 +1260,8 @@ msgid ""
 "If you wish to recruit new soldiers, you can still do so by pressing\n"
 "<b>Ctrl+R</b>. <b>Ctrl+R</b> to recruit, <b>Alt+R</b> to recall."
 msgstr ""
-"もし、新たな兵士を雇用したい場合はそれも Ctrl+R で可能です。\n"
-"<b>Ctrl+R</b>で新規雇用、<b>Alt+R</b>で召還です。"
+"もし、新たな兵士を雇用したい場合はそれも Ctrl+r で可能です。\n"
+"<b>Ctrl+r</b>で新規雇用、<b>Alt+r</b>で召還です。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:294
@@ -2169,6 +2169,7 @@ msgid ""
 "imprisoned me here these long and terrible moons! ...but if you truly are of"
 " the South Guard, then you are not to blame."
 msgstr ""
+"何が起こった、ですって？薄汚いお前たち人間が私の仲間を殺し、私たちの賢者を連れ去り、恐ろしく長い間私をここに閉じ込めた！……でもあなた達が本当に南部防衛隊ならば、あなたたちを責めるべきではないのでしょう。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:483
@@ -2178,6 +2179,9 @@ msgid ""
 "scholars, no match for your clubs and axes! My mentor, our great sage "
 "Mebrin, was taken away in chains; a foul insult for such a wise old elf."
 msgstr ""
+"一季節は前、夜中にやつらは来た。私は実際に目にしたわけではないけど、いくつもの叫び声が…… "
+"私たちのほとんどは職人や学者で、連中の棍棒と斧をどうにもできなかった！そして私の師、偉大な賢者 Mebrin "
+"は鎖につながれて連れていかれた。あのように賢い、年老いたエルフになんという侮辱を。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:487
@@ -2187,6 +2191,8 @@ msgid ""
 " bodies began to be defiled by wicked undeath, raised anew by the outlaw "
 "brothers to do their dark bidding..."
 msgstr ""
+"私も生かされた ── おそらくは私に高い地位があるから ── "
+"でも、他の生存者は一人ずつ、何の情けや容赦もなく殺された。それから間もなく、彼らの死体は邪悪や不死により汚され始め、無法者の兄弟によって再び起き上がり、連中の邪悪な所業を……"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:562
@@ -2194,7 +2200,7 @@ msgid ""
 "Ah, such a beautiful tingling in my fingertips! Intoxicating, exalting... "
 "the master’s magic whispers promises of life eternal, whispers beautiful "
 "secrets..."
-msgstr ""
+msgstr "おお、指先にチクチクと心地よい痛みが！夢中にさせ、賛美する… マスターの魔法が永遠の命の約束を、美しい秘密を囁く……"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:568
@@ -2204,13 +2210,14 @@ msgid ""
 "nary a living soul since the last of my living followers joined the hordes "
 "of eternal unlife."
 msgstr ""
+"しかしこれは何だ？人間の客人がいるとは、ちょうど良い時に到着したようだ！ようこそ、ようこそ！客人は歓迎しよう！生き残っていた最後の仲間が永遠の死の軍勢に加わって以来、生者を見かけていなかったからな、"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:575
 msgid ""
 "Vermin! Scum! You black-souled degenerate! Where is your younger brother? "
 "What have you done with my sage Mebrin?"
-msgstr ""
+msgstr "クズ！害虫！魂が堕落したゴミ！お前の弟はどこだ？賢者 Mebrin に何をした？"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:579
@@ -2219,13 +2226,15 @@ msgid ""
 "many good memories... if only the master hadn’t instructed me to leave you "
 "intact, we could have had even more!"
 msgstr ""
+"Ethiliel、これはびっくりした！この素敵な時間を一緒に楽しめなかったのかい？ああ、あの素晴らしい思い出…… "
+"マスターが手を出さないように言わなければ、もっと一緒に楽しむことができたのに！"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:583
 msgid ""
 "But that command was so many moons ago... now that the little bird has "
 "slipped her cage, perhaps the rules can be different, hmm?"
-msgstr ""
+msgstr "しかしもうあの命令もずっと前のこと…… あの小さな鳥も鳥かごから抜け出してしまった。それならルールが違ってもいいのでは？むむむむむ？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:587
@@ -2233,6 +2242,8 @@ msgid ""
 "You always were the cruelest of my captors, Urza Nalmath. May your creator "
 "have mercy on you now that I am free, for I will not!"
 msgstr ""
+"Urza "
+"Nalmath、私を捕らえた者達の中でお前がもっとも残虐だった。私が自由になった今、せいぜいマスターとやらの慈悲でも乞うといいだろう。私にはお前への慈悲など一片たりとも無いのだから！"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:591
@@ -2242,6 +2253,7 @@ msgid ""
 "village. You and I and all your new human friends are going to have such "
 "<b><i>fun</i></b> together..."
 msgstr ""
+"Ethiliel、なんてかわいそうに。君は欺かれている。私がこの小さな村の廃墟から<b>どれたけたくさんの</b>アンデッドを起き上がらせたのか知っておくべきだった。私と君、それに新しい人間のお友達、さあみんなで一緒に<b>楽しもう</b>……"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:598
@@ -2250,6 +2262,8 @@ msgid ""
 "my captors, Urza Nalmath. May your creator have mercy on you once I get "
 "free, for I will not!"
 msgstr ""
+"クズ！害虫！魂が堕落したゴミ！Urza "
+"Nalmath、私を捕らえた者達の中でお前がもっとも残虐だった。私が自由になったら、せいぜいマスターとやらの慈悲でも乞うといいだろう。私にはお前への慈悲など一片たりとも無いのだから！"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:602
@@ -2258,6 +2272,8 @@ msgid ""
 "So many good memories... if only the master hadn’t instructed me to leave "
 "you intact, we could have had even more!"
 msgstr ""
+"Ethiliel、これはびっくりした！この素敵な時間を一緒に楽しめていないのかい？ああ、あの素晴らしい思い出…… "
+"マスターが手を出さないように言わなければ、もっと一緒に楽しむことができたのに！"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:606
@@ -2267,6 +2283,7 @@ msgid ""
 "from the ruins of your little village. You and I and all your new human "
 "friends are going to have such <b><i>fun</i></b> together..."
 msgstr ""
+"しかし、君があの人間の客人によって解放されることなど許せない。私がこの小さな村の廃墟から<b>どれたけたくさんの</b>アンデッドを起き上がらせたのか知っておくべきだった。私と君、それに新しい人間のお友達、さあみんなで一緒に<b>楽しもう</b>……"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:629
@@ -2275,23 +2292,25 @@ msgid ""
 "so close to my camp, not supposed to be here at all... No, this simply won’t"
 " do. I’ll have to raise a few more of my beauties to slow you down."
 msgstr ""
+"いや待てよ。君たち人間は私が来ることを知っていたのかい？君が私の野営地の近くにいるのはおかしい。どう考えてもありえない…… "
+"こんなことはあってはならない。ならば、足止めのために可愛い子供達をもう少し起こしてあげるとしよう。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:712
 msgid ""
 "It’s an ambush! I’d hoped to never again see undead in these terrible "
 "numbers..."
-msgstr ""
+msgstr "待ち伏せだ！まったく、こんな数のアンデッドは二度と見たくなかったってのに……"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:713
 msgid "’tis an ambush! I’ve never e’en heard o’ so many elven undead!"
-msgstr ""
+msgstr "伏兵か！これほどの数のアンデッドなど、聞いたことすらない！"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:714
 msgid "We are ambushed! Never-before have I seen so many elven undead."
-msgstr ""
+msgstr "不意打ちです！これほどの数のエルフのアンデッドは見たこともありませんね。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:718
@@ -2299,13 +2318,13 @@ msgid ""
 "Even the largest hordes have their limits — we must defend these ruins until"
 " this bandit’s magic runs low! Prepare for battle, soldiers of the South "
 "Guard, and brace for incoming attack!"
-msgstr ""
+msgstr "どんな大軍であれ、必ず限界はある ── あの山賊の魔力が尽きるまでこの廃墟で防衛に徹する！戦闘準備、南部防衛隊の勇者達よ、襲撃に備えろ！"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:721
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:92
 msgid "Turn Limits"
-msgstr ""
+msgstr "ターン制限"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:723
@@ -2325,22 +2344,35 @@ msgid ""
 "<i><b>In this scenario, your objective is \n"
 "to survive until turns run out.</b></i>"
 msgstr ""
+"大抵のシナリオにはターン制限があり、\n"
+"画面左上の角に表示されます。通常は\n"
+"ターンが尽きると敗北ですが ──\n"
+"左上の<b>メニュー</b>から<b>目標</b>をクリック\n"
+"してみましょう。\n"
+"(<b>Ctrl+J</b>でショートカットもできます)\n"
+"\n"
+"素早く目標を達成すれば通常は次のシナ\n"
+"リオで使えるゴールドが増えます(早期\n"
+"終了ボーナス)。素早くクリアしましょう！\n"
+"\n"
+"<b>このシナリオの目標はターン制限まで生き\n"
+"残ることです。</b>"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:744
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:680
 msgid "Survive until turns run out"
-msgstr ""
+msgstr "ターンが尽きるまで生き残る"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:771
 msgid "I’m not used to fighting in fog like this! What a mess..."
-msgstr ""
+msgstr "こんな霧の中での戦いには慣れてないぞ！なんてことだ……"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:774
 msgid "Fog and Vision"
-msgstr ""
+msgstr "霧と視界"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:776
@@ -2354,11 +2386,19 @@ msgid ""
 "from using “undo”, so be careful \n"
 "where you move!"
 msgstr ""
+"霧の中では<b>ユニットの移動力+1\n"
+"の範囲しか見えません</b>。Deoran\n"
+"のように素早いユニットは良い斥候\n"
+"になります。\n"
+"\n"
+"霧の中の移動は「アンドゥ」でき\n"
+"ないケースが多いです。移動させ\n"
+"る時には十分注意を！."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:794
 msgid "Bluffs and Gulches"
-msgstr ""
+msgstr "崖と谷"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:796
@@ -2372,11 +2412,19 @@ msgid ""
 "do look pretty! <i>(or at\n"
 "least we devs think so)</i>"
 msgstr ""
+"ゲーム中に崖の地形の\n"
+"効果に疑問を持ったこと\n"
+"がありますか？\n"
+"\n"
+"それらには……特に意味は\n"
+"ありません。でも見た目が\n"
+"良いでしょう！(少なくとも\n"
+"開発者はそう思ってます)"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:815
 msgid "Useful Options"
-msgstr ""
+msgstr "便利なオプション"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:817
@@ -2384,20 +2432,23 @@ msgid ""
 "Wesnoth has many settings and hotkeys. To see all available options, select the\n"
 "<b><i>Menu</i></b> or <b><i>Actions</i></b> buttons in the top-left corner. Here are some of the most useful:"
 msgstr ""
+"Wesnoth にはたくさんの設定やショートカットがあります。\n"
+"詳細は左上の<b>メニュー</b>や<b>アクション</b>ボタンで確認できます。\n"
+"特に有用なものをここでは紹介します。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:820
 msgid ""
 "• Before ending your turn, press <b><i>N</i></b> to find units that can "
 "still move or attack."
-msgstr ""
+msgstr "• ターン終了前に <b>n</b> を押すと移動や攻撃をしていないユニットを探せます。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:822
 msgid ""
 "• To see which hexes enemies may be able to move to on their turn, press "
 "<b><i>Ctrl+V</i></b>."
-msgstr ""
+msgstr "• <b>Ctrl+v</b>を押すと敵ターンでユニットが来る可能性のあるヘクスを見れます"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:824
@@ -2405,6 +2456,8 @@ msgid ""
 "• To see how much gold and income your enemies have, press <b><i>Alt+S</i></b>. Enemies\n"
 "may also receive additional gold or units as part of scripted events (not shown)."
 msgstr ""
+"• <b>Alt+s</b>を押すと敵陣営の所持ゴールドと収入を見られます。\n"
+"敵は内部イベント（表示無し）でゴールドやユニットを得る場合があります。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:827
@@ -2414,11 +2467,15 @@ msgid ""
 "loading from the start of a scenario — the save file named <i>“TSG-Vale of Tears.gz”</i>,\n"
 "not <i>“TSG-Vale of Tears-Auto-Save7.gz”</i>"
 msgstr ""
+"• キャンペーンの途中でシナリオ難易度を変えたい場合は、ゲームのロード時に\n"
+"<b>難易度変更</b>オプションをチェックしてください。このオプションはシナリオ\n"
+"の最初から始める時だけ有効です。\n"
+"「TSG-涙の谷.gz」では可能ですが、「TSG-涙の谷-自動保存7.gz」では使えません。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:841
 msgid "The sun is our ally! They’re afraid to fight in the light."
-msgstr ""
+msgstr "太陽は我々の味方だ！敵は光の下での戦闘を恐れているぞ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:897
@@ -2427,13 +2484,14 @@ msgid ""
 "should first move to a keep, then press <b>Ctrl+R</b> to recruit or "
 "<b>Alt+R</b> to recall."
 msgstr ""
+"アンデッドの襲撃を凌ぎきるにはユニットを雇用する必要がある！まずは、私が主塔に移動し、<b>Ctrl+r</b>で雇用するか、<b>Alt+r</b>で召還するのだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:914
 msgid ""
 "I have recruited fresh soldiers, but not yet recalled any of my veterans! "
 "Without recalling I’ll struggle to build a strong army."
-msgstr ""
+msgstr "新しい兵士を雇用したが、まだベテランを召還していない！召還しなければ強力な部隊を作ることは難しいだろう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:918
@@ -2442,11 +2500,12 @@ msgid ""
 "<b>Alt+R</b> and recall them so they can continue gaining experience and be "
 "promoted to higher levels."
 msgstr ""
+"XPを多く獲得した以前の戦闘の生存者がいるのであれば、<b>Alt+r</b>で召還しましょう。そうすれば経験をさらに積み重ねてレベルをあげることができるでしょう。"
 
 #. [message]: type=Ghoul
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:949
 msgid "Guuuhhh..."
-msgstr ""
+msgstr "グゥゥゥゥぅ…"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:953
