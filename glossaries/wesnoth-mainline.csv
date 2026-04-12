@@ -469,7 +469,11 @@ Lich-Lord Lenvan,noun,,false,リッチ君主 Lenvan,"炎のルビーの持ち主
  Wesfolkを緑の島に連れてきた。
 「Wesnothの起源」"
 Lieutenant,noun,,false,副官,"将軍（General）の副官という意味らしい。
-中尉という意味もあるので、士官である。"
+中尉という意味もあるので、士官である。
+南部防衛隊でアカデミー卒業直後の Deoran の階級。
+それを踏まえると少尉くらいにあたると思われる。
+一方で東部侵略の Gweddry もこの階級。
+それを踏まえると少尉よりは上なような気もする…"
 Liminal,noun,,false,薄明,アラインメントの一つ。
 Linaera,noun,,false,Linaera,"銀魔術師。
 「オークの襲撃」"
@@ -1361,10 +1365,9 @@ Hunt,noun,,true,狩り,"""Winds of Fate"" で使用されている。
 Spoken Memories,noun,,true,口承の記憶,ドレークの伝承。
 glider,noun,ドレークのカースト,false,滑空者,"""Winds of Fate"" で使用されている。
 滑空ドレークを含むカーストの一種。"
-skimmer,noun,,false,ざる,"""Winds of Fate"" で使用されている。
-オークが使っている船のこと。
-ドレークは船の知識を持たないので、こう呼んでいると思われる。
-辞書的には「網杓子」だが、分かりにくいので「ざる」としてみる。"
+skimmer,noun,,false,木っ端,"""Winds of Fate"" でオークが使っている船のこと。
+ドレークは船の知識を持たないこと、他の種族を蔑視する傾向があることから「木っ端」としてみた。
+動詞 skim には「滑るように進む」という意味があるので、より適切な訳がないか検討中。"
 clasher,noun,,false,粉砕者,ドレークのカースト（系統）の１つ。
 harvest,verb,,false,収獲,"サ行変格活用。
 ドレークが使用する場合は、「収穫」ではなく「収獲」とする。"
