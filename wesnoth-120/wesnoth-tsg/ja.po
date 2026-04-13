@@ -3824,14 +3824,14 @@ msgstr "長駆"
 msgid ""
 "Thank ye for your help, Deoran. I have a debt to repay to you for sparing my"
 " life."
-msgstr ""
+msgstr "Deoran、協力に感謝するぜ。命を助けてくれた恩はいつか必ず返す。"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:245
 msgid ""
 "Now, there’s something my boys and I need to go and make right. You’ll see "
 "me again, I hope."
-msgstr ""
+msgstr "さて、俺と部下達にはつけなきゃならん落とし前がある。じゃあな。また会えるといいな。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:254
@@ -3840,18 +3840,20 @@ msgid ""
 "eventually. I only hope that his change of heart will prove genuine, and not"
 " a facade."
 msgstr ""
+"彼が逃げた！Afalas はいつか逃げると Ethiliel "
+"が言った、まさにその通りになってしまった。こうなっては、彼の改心が見せかけだけでなく、本心からのものであることを願うしかないか。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:258
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:265
 msgid "Shh! Do you hear that? We’re being followed."
-msgstr ""
+msgstr "シーッ！私たちは追われている。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:259
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:266
 msgid "Shh! Do you hear tha’? We’re bein’ followed."
-msgstr ""
+msgstr "シーッ！聞こえたか？我らを追う者がいるようだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:270
@@ -3859,6 +3861,7 @@ msgid ""
 "I wish Afalas were still with us. He knew these paths well, but without him "
 "we risk stumbling into all manner of ambushes!"
 msgstr ""
+"ああ、Afalas がまだここにいてくれたら。この道を良く知っていたであろう彼がいないのであれば、あらゆる種類の待ち伏せを覚悟しなければならない。"
 
 #. [message]: role=avenger
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:299
@@ -3867,6 +3870,8 @@ msgid ""
 "Where is Afalas? Produce the heads of those responsible, or we shall take "
 "yours!"
 msgstr ""
+"人間！賢者 Mebrin を誘拐した下衆共め。Mebrin はどこだ？Afalas "
+"はどこにいる？責任者の首を差し出せ！それができないならお前たちの首を刎ねる！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:303
@@ -3874,6 +3879,8 @@ msgid ""
 "Elves! Friends, there is no need for anger — I am from Westin, and we never "
 "harmed Mebrin while he was alive; that was all the outlaws’ doing!"
 msgstr ""
+"エルフ！友よ、我々に怒りを向けないでくれ ── 私は Westin の者で、Mebrin "
+"が生きている時に危害を加えたりはしていない！それは全て無法者達の仕業なのだ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:307
@@ -3882,6 +3889,7 @@ msgid ""
 "sage had turned to the practice of necromancy and was raising an army of "
 "undead. Would you have had us stand idly by while his evil spread?"
 msgstr ""
+"我々が最終的に彼を討ち取ったことは認める。しかし、それはあなたがたの賢者が降霊術に手を出し、死者の軍勢を作っていたからだ。あなたがたは、彼の悪行が広まるのを、ただ手をこまねいて見ているだけだったのか？"
 
 #. [message]: role=ranger1
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:311
@@ -3890,6 +3898,8 @@ msgid ""
 "though Mebrin has knowledge of the undead, he’s no human, so easily "
 "corrupted by the temptation of such power."
 msgstr ""
+"Mebrin のことをそのように言うとはどういうつもりだ？！Ethiliel はこの嘘について警告してくれたぞ ── Mebrin "
+"はアンデッドに関する知識を持っているが、人間ではないから、邪悪な魔術の誘惑にも簡単に堕ちたりはしないと。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:317
@@ -3899,6 +3909,9 @@ msgid ""
 "you will see Mebrin’s remains. Even as a broken skeleton, the lich’s elven "
 "origin is unmistakable!"
 msgstr ""
+"嘘ではない！Urza Afalas は逃げた、今にして思えば、あなたがたの足音を察知して逃げたのかもしれない… "
+"しかし、ここから南に向かい、アンデッドの隠れ家に入れば、Mebrin "
+"の残骸を見つけられるはずだ。砕けたスケルトンからでも、リッチがエルフであったことは間違えようがない！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:323
@@ -3907,13 +3920,15 @@ msgid ""
 " the undead lair you will see Mebrin’s remains. Even as a broken skeleton, "
 "the lich’s elven origin is unmistakable!"
 msgstr ""
+"嘘ではない！Urza Afalas はしばらく前に逃げ去った。しかし、ここから南に向かい、アンデッドの隠れ家に入れば、Mebrin "
+"の残骸を見つけられるはずだ。砕けたスケルトンからでも、リッチがエルフであったことは間違えようがない！"
 
 #. [message]: role=avenger
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:330
 msgid ""
 "Enough! I should have expected that the stupidity of men knows no bounds. "
 "We’ve nothing more to say here. You won’t see us coming."
-msgstr ""
+msgstr "もういい！人間の愚かさには限りが無いと予想しておくべきだった。もう話すことはない。我々の接近をお前たちは察知できないだろう。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:350
@@ -3922,6 +3937,8 @@ msgid ""
 "unpunished. Ethiliel must be a sore loser — she’s returned to the Aethenwood"
 " and blamed us for what happened to her village and her mentor."
 msgstr ""
+"リッチを滅ぼした報酬がこれか？善行には必ず報いが伴うものだな。Ethiliel は現実から目を逸らしている ── Aethen "
+"の森に戻り、自分の村や師に起きた出来事を我々のせいにしたのだな。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:351
@@ -3931,6 +3948,8 @@ msgid ""
 " turn ’em against us! Now these elves’ll be waitin’ to ambush us as we "
 "march."
 msgstr ""
+"あの忌々しいシェードの仕業か。Ethiliel は Aethen "
+"の森に飛び戻り、村で起きたことを伝えたのであろう。そしてそれを我らの所業とした！さて、進軍する我々に対して、エルフは待ち伏せをしかけるであろうな。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:352
@@ -3940,6 +3959,8 @@ msgid ""
 "them against us in the process. If the elves are wise, I suspect they will "
 "attempt to ambush us as we march."
 msgstr ""
+"Mebrin の最期の言葉はこういうことでしたか ── Ethiliel は Aethen の森 "
+"に戻り、村に起こった悲劇を伝え、それを我々のせいにしたのでしょう。エルフが愚かではないのなら、我々が進む先には伏兵が待ち構えていることでしょう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:356
@@ -3948,38 +3969,40 @@ msgid ""
 " we can just reach Southport, the garrison there will surely keep us safe "
 "from enemy attack."
 msgstr ""
+"アンデッドと山賊を相手に戦うだけでも大変だったのに、エルフまで？なんてことだ！Southport "
+"までたどり着ければ、守備隊が敵の攻撃から我々を守ってくれるはずだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:370
 msgid ""
 "But we’ll have to move quickly. The longer we wait, the more elves will "
 "arrive to harry us!"
-msgstr ""
+msgstr "しかし、急いで行動しなくては。時間が経てばそれだけ我々を狙うエルフも増えてしまう！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:378
 msgid "Move Deoran and Captain Mari across the river"
-msgstr ""
+msgstr "Deoran と Mari 大尉が川を渡る"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:385
 msgid "Move Deoran and Sir Gerrick across the river"
-msgstr ""
+msgstr "Deoran と Gerrick 卿が川を渡る"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:392
 msgid "Move Deoran and Minister Hylas across the river"
-msgstr ""
+msgstr "Deoran と Hylas 牧師が川を渡る"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:417
 msgid "Ambush! They’re in the forest!"
-msgstr ""
+msgstr "伏兵だ！敵は森の中にいるぞ！"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:422
 msgid "Ambush and Invisibility"
-msgstr ""
+msgstr "伏兵と不可視性"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:424
@@ -3992,11 +4015,19 @@ msgid ""
 "you have a unit next to it.\n"
 "Watch out for hit-and-run attacks!"
 msgstr ""
+"エルフのレンジャーは強力な<b>「伏兵」</b>\n"
+"能力を持っています！\n"
+"\n"
+"伏兵能力は森の中にいるレンジャーの\n"
+"姿を見えなくしますが、あなたがユニ\n"
+"ットを隣に移動させると見えるように\n"
+"なります。ヒットアンドアウェイ攻撃\n"
+"に注意しましょう！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:441
 msgid "Vengeance for the sage Mebrin!"
-msgstr ""
+msgstr "賢者 Mebrin の仇！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:457
