@@ -4034,12 +4034,12 @@ msgstr "賢者 Mebrin の仇！"
 msgid ""
 "The rangers are retreating back into the forest! If we can’t surround and "
 "trap them, they’ll keep coming back again and again."
-msgstr ""
+msgstr "レンジャーが森へ撤退していく！囲んで捕まえねば、彼らは繰り返しやってくるぞ。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:462
 msgid "Trapping a Unit"
-msgstr ""
+msgstr "ユニットの捕獲"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:464
@@ -4053,6 +4053,14 @@ msgid ""
 "enemy, your Zone of Control surrounds them,\n"
 "preventing them from escaping."
 msgstr ""
+"ユニットに隣接するヘクスは<b>支配領域\n"
+"（ZOC）</b>を構成します。敵ユニットが\n"
+"そこに入ると、そのユニットはそれ以上\n"
+"動けなくなります。\n"
+"\n"
+"２ユニットで１体の敵を挟み込むと敵は\n"
+"支配領域（ZOC）に囲まれ、逃げられなく\n"
+"なります。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:496
@@ -4064,21 +4072,21 @@ msgstr "人間、野蛮な誘拐犯め！覚悟は良いか！"
 msgid ""
 "Let it be, will you! What happened to your whole elven holier-than-thou "
 "shtick? I just want to go home."
-msgstr ""
+msgstr "もう放っておいてくれ！ああもう、なんでエルフはみんな揃って「自分こそ正義」みたいな偉そうな態度なんだ？私は家に還りたいだけだ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:500
 msgid ""
 "Out o’ the way, elf! We’ve got nothin’ ’gainst you or your kind, but we do "
 "want to get back home."
-msgstr ""
+msgstr "エルフよ、そこを退け！我らにお前たちに敵対する意志はない。家に帰りたいだけなのだ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:501
 msgid ""
 "We have no quarrel with you, elves of the Aethenwood. We simply wish to "
 "return to our homes."
-msgstr ""
+msgstr "Aethen の森のエルフよ、あなたがたともめごとを起こしたくはありません。我々は家に帰りたいだけなのです。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:505
@@ -4086,36 +4094,37 @@ msgid ""
 "And so does our sage Mebrin, yet you’ve not returned him to us! Even if you "
 "did, I would still seek to dispatch of you for your heinous transgressions!"
 msgstr ""
+"賢者 Mebrin もそう思っていただろう！しかしお前たちは彼を返さない！もっとも、例え彼が戻ろうとも、 お前たち悪逆な犯罪者は必ず始末する！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:510
 msgid ""
 "There’s no reasoning with the elves. We’ll either have to fight or run."
-msgstr ""
+msgstr "もうエルフに何を言っても無駄だな。戦うか、逃げるか、二つに一つだ。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:523
 msgid "Ethiliel... will avenge me..."
-msgstr ""
+msgstr "Ethiliel が… 私の仇を取ってくれる……"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:694
 msgid "Halt! Who comes to the border of Southport?"
-msgstr ""
+msgstr "止まれ！Southport に入ろうとする者は誰だ？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:698
 msgid ""
 "Lower your arms, countryman! ’tis I, Commander Deoran of the South Guard! We"
 " come pursued by elves, seeking refuge in your town."
-msgstr ""
+msgstr "腕を下ろしてくれ、友よ！私は南部防衛隊の指揮官、Deoran だ！エルフに追われている、町に避難させてくれ。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:705
 msgid ""
 "Fellow men, hailing from the south? You’d better hurry across the river — "
 "I’m sure the commander will want to speak with you."
-msgstr ""
+msgstr "ああ仲間か、南から来たのか？なら急いで川を渡った方がいい ── 俺たちの指揮官もきっとあんたたちと話したいと思ってるぞ。"
 
 #. [companion_message]: speaker=Deoran
 #. reminder that the objectives require moving both Deoran and $companion_name
@@ -4124,28 +4133,28 @@ msgstr ""
 msgid ""
 "Keep moving, everyone! The sooner both Captain Mari and I reach Southport, "
 "the sooner we shall all be safe from the elves."
-msgstr ""
+msgstr "皆、急げ！私と Mari 大尉が Southport に早く着けば着くほど、他の皆もエルフの脅威から逃れやすくなる。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:716
 msgid ""
 "Keep moving, everyone! The sooner both Sir Gerrick and I reach Southport, "
 "the sooner we shall all be safe from the elves."
-msgstr ""
+msgstr "皆、急げ！私と Gerrick 卿が Southport に早く着けば着くほど、他の皆もエルフの脅威から逃れやすくなる。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:717
 msgid ""
 "Keep moving, everyone! The sooner both Minister Hylas and I reach Southport,"
 " the sooner we shall all be safe from the elves."
-msgstr ""
+msgstr "皆、急げ！私と Hylas 牧師が Southport に早く着けば着くほど、他の皆もエルフの脅威から逃れやすくなる。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:741
 msgid ""
 "At last — we have crossed the river, and reached refuge. Who is in command "
 "of here?"
-msgstr ""
+msgstr "ついに ── 川を渡って安全な場所へたどり着いた。ここの指揮官は誰だ？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:747
@@ -4153,7 +4162,7 @@ msgid ""
 "I am, Lieutenant Deoran. And we’re relieved to see you and Captain Mari "
 "alive and well! Word was that you and your entire company had likely been "
 "lost in combat with the elves."
-msgstr ""
+msgstr "私です、Deoran 少尉。あなたと Mari 大尉が無事でホッとしました！部隊がエルフとの戦闘で全滅したという噂が出ていましたから。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:755
@@ -4161,7 +4170,7 @@ msgid ""
 "I am, Lieutenant Deoran. And we’re relieved to see you and Sir Gerrick alive"
 " and well! Word was that you and your entire company had likely been lost in"
 " combat with the elves."
-msgstr ""
+msgstr "私です、Deoran 少尉。あなたと Gerrick 卿が無事でホッとしました！部隊がエルフとの戦闘で全滅したという噂が出ていましたから。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:764
@@ -4169,7 +4178,7 @@ msgid ""
 "I am, Lieutenant Deoran. And we’re relieved to see you and Minister Hylas "
 "alive and well! Word was that you and your entire company had likely been "
 "lost in combat with the elves."
-msgstr ""
+msgstr "私です、Deoran 少尉。あなたと Hylas 牧師が無事でホッとしました！部隊がエルフとの戦闘で全滅したという噂が出ていましたから。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:770
@@ -4178,34 +4187,36 @@ msgid ""
 "serve a safe haven, but you will find myself and my men at the ready if we "
 "are needed to defend Southport."
 msgstr ""
+"では Aethen の森はあなたがたも攻撃したのか？この集落は安全な場所だと期待していたのだが。もし Southport "
+"を防衛するために我々の力が必要であれば遠慮なく使ってくれ。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:774
 msgid ""
 "Defend Southport? No— ...well, you’ll see soon enough. Sir, you should get "
 "back to Westin right away."
-msgstr ""
+msgstr "Southport の防衛？それは── まあ、すぐにわかることか。少尉、あなたがたはすぐに Westin に戻った方が良い。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:792
 msgid ""
 "We must hurry north across the river! Should we delay too long in reaching "
 "safety, we shall surely fall to the elves."
-msgstr ""
+msgstr "急いで川を渡って北へ向かわねばならない！安全な場所までたどりつくのが遅れれば、間違いなくエルフにやられてしまう。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:810
 msgid ""
 "Urgent news from Westin! The town has fallen, Westin has fallen to the "
 "elves! Run for your lives, for the elves come to kill us all!"
-msgstr ""
+msgstr "Westin から緊急の知らせだ！町は陥落！エルフによって落とされた！死にたくないなら逃げるんだ！エルフが我々を皆殺しにしようとしている！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:814
 msgid ""
 "No! How can this be? We were too slow returning home, and now there is no "
 "home to return to!"
-msgstr ""
+msgstr "そんな！どうしてこんなことに？家に帰るのに時間がかかりすぎたせいで、もはや帰る家を失ってしまった！"
 
 #. [scenario]: id=05b_Pebbles_in_the_Flood
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:6
