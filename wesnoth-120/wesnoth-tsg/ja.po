@@ -4231,13 +4231,15 @@ msgid ""
 "what evil it is we flee from? I have trusted you thus far, but even trust "
 "has its limits."
 msgstr ""
+"さて、ようやく Wesnoth の勢力圏で最も南にある拠点、Southport "
+"の農民達と合流することができた。Ethiliel、それで我々はどんな邪悪から逃げているのか教えてくれないか？あなたのことを信頼して行動してきたが、それにも限界はある。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:190
 msgid ""
 "...I couldn’t admit it to myself, Deoran. I couldn’t before, and now that he"
 " is almost upon us—"
-msgstr ""
+msgstr "……私がその事実を受け入れることができていないの、Deoran。あそこにいたときも、彼がすぐそばまで迫って来ている今も……"
 
 #. [unit]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:197
@@ -4250,21 +4252,21 @@ msgstr "Mal M’Brin"
 msgid ""
 "Ethiliel... At last, the student reunites with her master. Why do you flee "
 "from me?"
-msgstr ""
+msgstr "Ethiliel…… ようやく師と生徒が再会することができたな。なぜ私から逃げたのだ？"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:211
 msgid ""
 "Mebrin. I sensed it, but I did not want to believe. ...I could not bear to "
 "believe."
-msgstr ""
+msgstr "Mebrin。わかっていた。でも信じたくなかった… どうしても信じられなかった……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:215
 msgid ""
 "<b><i>This</i></b> is the sage Mebrin? Urza Afalas was right! He has gone "
 "mad with power and transformed himself into a lich!"
-msgstr ""
+msgstr "<b>これ</b>が賢者 Mebrin？Urza Afalas は正しかった！Mebrin は力に狂い、リッチとなってしまった！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:219
@@ -4274,6 +4276,7 @@ msgid ""
 " my hands, there would be no turning back. But I would suffer this "
 "humiliation no longer..."
 msgstr ""
+"狂った？私は怒りに震えている！お前たち薄汚いゴミ虫が私を苦しめた！私を拷問して楽しんでいた！降霊術の最初の糸が私の手を離れてしまえば、もう後戻りはできない。私はそのことを知っていた。しかし、そうしてしまえばこれ以上この屈辱に苦しむこともない……"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:223
@@ -4289,6 +4292,8 @@ msgid ""
 "The Urza brothers sought to enslave me, but it is they who became my slaves "
 "in the end."
 msgstr ""
+"貧弱な汚泥に制御不能な力を召喚する方法を教えた。彼奴らの堕落と強欲を糧とした力を。下らない小細工しかできないお前たち、煩く喚くセミの如く生き急ぐ存在は、私がゆっくりと彼奴らを支配下に置いていることに、全く気づけなかった！Urza"
+" 兄弟は私を奴隷にしようとしたが、結局、奴隷になったのは自分達だった。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:231
@@ -4304,6 +4309,8 @@ msgid ""
 "indirectly, have opened my eyes to power I would have never thought "
 "possible."
 msgstr ""
+"Ethiliel、私は今 Mal M’Brin "
+"と呼ばれている。エルフという狭い器から飛び出し、悟りを得た時に名を改めたのだ。ある意味、私をこのようにした人間には感謝したい気持ちもある。間接的ではあるが、完全に私の想像を超えた力の存在に気づかせてくれたのだから。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:243
@@ -4311,16 +4318,17 @@ msgid ""
 "Ethiliel, we can’t keep running! I know you don’t want to fight your mentor,"
 " but he has been consumed by the dark magic! We have no choice!"
 msgstr ""
+"Ethiliel、逃げ続けることはできない！師と戦いたくないことはわかる。しかし、彼はもう闇に飲まれてしまっている！もうどうしようもないんだ！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:251
 msgid "I— I’m so sorry."
-msgstr ""
+msgstr "私は… 本当にごめんなさい。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:261
 msgid "She’s gone!"
-msgstr ""
+msgstr "行ってしまった！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:265
@@ -4328,28 +4336,28 @@ msgid ""
 "No matter. In time she will join me... and in the now, I will finally begin "
 "taking my vengeance on humanity, in return for all the suffering your race "
 "has inflicted upon me."
-msgstr ""
+msgstr "問題ない。いずれ彼女は私の仲間となるのだから… 今はまず人間への復讐を始めるとしよう。貴様たちが私に与えた苦しみへの報いだ。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:270
 msgid ""
 "Whatever you once were, you are nothing but evil now! Once Captain Mari and "
 "I defeat you, these lands will finally be safe. Prepare for battle!"
-msgstr ""
+msgstr "かつてどのような者であったにせよ、今のお前は紛う事なき悪だ！私と Mari 大尉でお前を倒せばこの地も平和になる。さあ、やるぞ！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:271
 msgid ""
 "Whatever you once were, you are nothing but evil now! Once Sir Gerrick and I"
 " defeat you, these lands will finally be safe. Prepare for battle!"
-msgstr ""
+msgstr "かつてどのような者であったにせよ、今のお前は紛う事なき悪だ！私と Gerrick 卿でお前を倒せばこの地も平和になる。さあ、やるぞ！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:272
 msgid ""
 "Whatever you once were, you are nothing but evil now! Once Minister Hylas "
 "and I defeat you, these lands will finally be safe. Prepare for battle!"
-msgstr ""
+msgstr "かつてどのような者であったにせよ、今のお前は紛う事なき悪だ！私と Hylas 牧師でお前を倒せばこの地も平和になる。さあ、やるぞ！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:282
@@ -4360,14 +4368,14 @@ msgstr "Mal M’Brin を倒す"
 #. [note]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:291
 msgid "Veterans you recall here will not survive to the next scenario."
-msgstr ""
+msgstr "ここで召還したベテランは次のシナリオまで生き残ることはできません"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:373
 msgid ""
 "You see, mortals? This is the might of a true elf; the chosen people of "
 "Irdya. The bones of Urza Afalas’s warriors serve only to swell my own ranks."
-msgstr ""
+msgstr "生者よ、理解したか？これが Irdya の選ばれた民、エルフの真の力だ。Urza Afalas 一味の骨は我が軍勢を増強しただけだ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:376
@@ -4376,6 +4384,8 @@ msgid ""
 "handle, Deoran. Southport is barely a hamlet — both us and the townsfolk are"
 " dead if we fight here."
 msgstr ""
+"これは……すごい数のアンデッドだ。一山分くらいはありそうだ。私たちだけではどうにもならんな。Deoran、Southport はただの集落だ ── "
+"ここで戦えば私たちも町の住民もまとめて全滅だ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:377
@@ -4384,6 +4394,8 @@ msgid ""
 " castle o’ Westin would be ill-equipped for holdin’ back so many. The "
 "townsfolk will be slaughtered if we try ’n fight here!"
 msgstr ""
+"ほう、途方もない軍勢だな！Southport は中々に立派な集落だが、この軍勢相手では Westin "
+"であっても支えることは難しいであろうな。つまり、ここで戦えば、町も我々も全滅だな！"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:378
@@ -4392,6 +4404,8 @@ msgid ""
 " Southport is barely a hamlet — here we have little chance of protecting "
 "either our soldiers or the townsfolk."
 msgstr ""
+"Deoran、あの軍勢の規模をご覧ください… 我々に勝ち目はなさそうです。Southport はただの集落 ── "
+"ここで戦えば、我々も町の住民も助かりそうにありませんね。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:382
@@ -4400,6 +4414,9 @@ msgid ""
 "he blames all humanity for his suffering. Even if we could escape ourselves,"
 " Westin is completely unprepared for an attack!"
 msgstr ""
+"Mari 大尉、しかし他に選択肢はないでしょう？「Mal "
+"M’Brin」は自分が受けた苦しみへの復讐として、全ての人間を恨んでいるとはっきり言っていました。我々がここを逃げのびられても、無防備な Westin "
+"が攻撃を受けてしまっては意味がないでしょう！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:383
@@ -4408,6 +4425,9 @@ msgid ""
 " blames all humanity for his suffering. Even if we could escape ourselves, "
 "Westin is completely unprepared for an attack!"
 msgstr ""
+"Gerrick 卿、しかし他に選択肢はないでしょう？「Mal "
+"M’Brin」は自分が受けた苦しみへの復讐として、全ての人間を恨んでいるとはっきり言っていました。我々がここを逃げのびられても、無防備な Westin "
+"が攻撃を受けてしまっては意味がないでしょう！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:384
@@ -4416,6 +4436,9 @@ msgid ""
 " he blames all humanity for his suffering. Even if we could escape "
 "ourselves, Westin is completely unprepared for an attack!"
 msgstr ""
+"Hylas 牧師、しかし他に選択肢はないでしょう？「Mal "
+"M’Brin」は自分が受けた苦しみへの復讐として、全ての人間を恨んでいるとはっきり言っていました。我々がここを逃げのびられても、無防備な Westin "
+"が攻撃を受けてしまっては意味がないでしょう！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:388
@@ -4424,6 +4447,8 @@ msgid ""
 "well. The undead can march day and night without rest, but we can’t. Our "
 "only choice is to fight, as unlikely as our victory may be."
 msgstr ""
+"それに…… "
+"馬も、兵も、そして私も疲れ果てています。アンデッドは昼夜を問わず行軍できますが、我々にはできません。ならば戦うしかありません。例え勝ち目を見出せなくとも。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:395
@@ -4431,6 +4456,8 @@ msgid ""
 "Well... that leaves only one option then, doesn’t it? Always thought I had "
 "too much good sense for heroics..."
 msgstr ""
+"ふむ… もう一つ手があるんじゃないか？しかしまあ、私のような模範的な真人間がそんな英雄サマみたいな真似をすることになるとは… "
+"人間生きていると色々なことがあるね……"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:401
@@ -4439,6 +4466,8 @@ msgid ""
 "take the others and go warn Westin. I’ll make a stand here. We’ll slow ’em "
 "down as much as we can."
 msgstr ""
+"さあ Deoran、さっさと行きな。何人か残して、あとは連れていくんだ。そして Westin "
+"に知らせるんだ。私はここでがんばってみるさ。できるだけ足を引っ張ってやるつもりだよ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:402
@@ -4447,6 +4476,8 @@ msgid ""
 "t’ warn the garrison. I’ll command the defense here. Leave me th’ few men "
 "ye’ve already recruited, and we’ll hold back the undead as long as we can."
 msgstr ""
+"では、できることをするとするか。卿は Westin "
+"まで急いで戻り、守備隊に備えさせるのだ。私はここで防衛の指揮を執る。何人か兵士を残してくれ。できるだけ長く足止めしてやろうぞ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:403
@@ -4456,13 +4487,16 @@ msgid ""
 "only slow you down — I shall remain behind with the few men you’ve already "
 "recruited, and delay the undead as best we can."
 msgstr ""
+"やらば、やることははっきりしましたね。Deoran、あなたは部隊の大半を連れて急いで Westin "
+"に戻り、防衛の準備をお願いします。私は、この足ではお荷物になってしまいますからね ── "
+"ここで足止めするとしましょう。他に何人か残してもらえると助かります。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:407
 msgid ""
 "What?! But fighting alone— such a thing will mean certain death! If we stand"
 " here together, there is at least a chance we might prevail!"
-msgstr ""
+msgstr "なんですって？！一人で残って── それでは死ぬだけでしょう！どうせなら皆で戦えば生き残る見込みも少しはあるでしょう！"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:410
@@ -4471,6 +4505,8 @@ msgid ""
 "Deoran, but you’ve still got a lot to learn about war. Westin’s counting on "
 "you."
 msgstr ""
+"あ〜はいはい、無理だとわかってることを言うもんじゃないよ。しかしまあ、出会った頃から比べると本当に良く成長したね、Deoran。それでもまだまだ学ぶことはあるよ。さあ、Westin"
+" は任せたよ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:411
@@ -4478,7 +4514,7 @@ msgid ""
 "You’re bright, sir, but you’re still young. Ah’ve learned that in dire "
 "times, sacrifices must always be made one way or another. Take care o’ "
 "yourself, Deoran."
-msgstr ""
+msgstr "卿は聡明なれどまだ若い。過酷な状況では道を切り拓くために犠牲が必要なこともある。かつて私はそう学んだ。Deoran、達者でな。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:412
@@ -4487,6 +4523,7 @@ msgid ""
 "your battle-orders? My sacrifice is no more special just because you know my"
 " name, Deoran."
 msgstr ""
+"これまでの戦闘で、あなたの剣に倒れた敵も、あなたの指示で倒れた仲間もたくさんいたでしょう？だから私の犠牲だって何ら特別なものではないのですよ。ただ、あなたが私の名前を知ってくれているだけ。それだけですよ、Deoran。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:416
@@ -4495,6 +4532,8 @@ msgid ""
 "garrison and make ready the defense. Captain Mari, we shall return as soon "
 "as we can, and surely relieve you!"
 msgstr ""
+"私は…私は…… わかりました。Westin に全速力で向かい、防衛の準備をします。Mari "
+"大尉、我々はできるだけ早く戻り、あなたの肩の荷を下ろしてあげましょう！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:417
@@ -4503,6 +4542,8 @@ msgid ""
 "garrison and make ready the defense. Sir Gerrick, we shall return as soon as"
 " we can, and surely relieve you!"
 msgstr ""
+"私は…私は…… わかりました。Westin に全速力で向かい、防衛の準備をします。Gerrick "
+"卿、我々はできるだけ早く戻り、あなたの肩の荷を下ろしてあげましょう！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:418
@@ -4511,13 +4552,15 @@ msgid ""
 "garrison and make ready the defense. Minister Hylas, we shall return as soon"
 " as we can, and surely relieve you!"
 msgstr ""
+"私は…私は…… わかりました。Westin に全速力で向かい、防衛の準備をします。Hylas "
+"牧師、我々はできるだけ早く戻り、あなたの肩の荷を下ろしてあげましょう！"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:421
 msgid ""
 "Sure, relieve us... Look, just don’t do anything stupid without me around to"
 " keep an eye on you, okay? Now get out of here before I change my mind."
-msgstr ""
+msgstr "そうか、安心したぞ…… いいか、私がいないからって馬鹿な真似をするんじゃないよ？さあ、私の気が変わる前にさっさと行きな。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:422
@@ -4526,6 +4569,8 @@ msgid ""
 " you to protect m’ home from the undead; all I ask o’ you is to remember us."
 " Farewell, Sir Deoran!"
 msgstr ""
+"ここの戦闘の結果がどうなるかはわかっているであろう。Westin "
+"を頼む。ただ、ここで倒れる者達のことをどうか忘れないでいて欲しい。それではさらばだ、Deoran 卿よ！"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:423
@@ -4534,35 +4579,37 @@ msgid ""
 "the end — do not let our deaths be in vain. May you always serve the light, "
 "Deoran."
 msgstr ""
+"自分を欺くのはあなたらしくないですね。どうかあのリッチを倒してください ── "
+"私たちの死を無駄にしないでください。Deoran、いつも光があなたが共にありますように。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:430
 msgid ""
 "friend_is_female^We’ll never forget your sacrifice here. Thank you, my "
 "friend."
-msgstr ""
+msgstr "私たちはあなたの犠牲を決して忘れない。ありがとう、友よ。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:436
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:442
 msgid ""
 "friend_is_male^We’ll never forget your sacrifice here. Thank you, my friend."
-msgstr ""
+msgstr "私たちはあなたの犠牲を決して忘れない。ありがとう、友よ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:466
 msgid "Protect Captain Mari as long as possible"
-msgstr ""
+msgstr "できるだけ長く Mari 大尉を守る"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:473
 msgid "Protect Sir Gerrick as long as possible"
-msgstr ""
+msgstr "できるだけ長く Gerrick 卿を守る"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:480
 msgid "Protect Minister Hylas as long as possible"
-msgstr ""
+msgstr "できるだけ長く Hylas 牧師を守る"
 
 #. [note]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:491
@@ -4570,6 +4617,8 @@ msgid ""
 "The longer you survive, the better-prepared\n"
 "    Deoran will be in the next scenario."
 msgstr ""
+"長く生き残れば、その分だけ次のシナリオで\n"
+"    Deoran の準備が進むでしょう。"
 
 #. [message]: id=$unit.id,$second_unit.id
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:507
