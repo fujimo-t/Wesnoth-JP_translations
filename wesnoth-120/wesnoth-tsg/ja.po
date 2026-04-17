@@ -4827,7 +4827,7 @@ msgstr "トロル"
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:77
 msgid "Fauna"
-msgstr ""
+msgstr "動物"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:167
@@ -4836,32 +4836,34 @@ msgid ""
 "into the night, and it comes to us to deal with whatever lies below. We must"
 " find the source of the undead and destroy it."
 msgstr ""
+"さて。Ethiliel は Aethen の森 に戻り、Urza Afalas "
+"は夜の闇に逃げた。この地下にあるものには我々が対処する他ない。アンデッド発生の原因を見つけ、破壊しなければ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:170
 msgid ""
 "Underground. Fun. I can barely see my own hand, even with the light from our"
 " torches. This place gives me chills... let’s just get this over with."
-msgstr ""
+msgstr "地下か。こいつは愉快だ。松明の光があっても自分の手すらロクに見えやしない。それになんか背筋がゾクゾクする… さっさと終わらせよう。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:171
 msgid ""
 "I can’t see nothin’ down ’ere underground, even with the light from our "
 "torches. Thi’ place gives me th’ chills. Let’s get this over with."
-msgstr ""
+msgstr "松明の光があれど、ほとんど何も見えない。そして何故か背筋が寒くなる。速やかに済ませねばな。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:172
 msgid ""
 "Underground. Even the light within me dims, buried so under tons of rock and"
 " earth. I feel the darkness writhing... let us be done with this."
-msgstr ""
+msgstr "地下。これだけの岩と土に埋もれてしまうと、私の内なる光も薄れてしまいます。そして闇が蠢いているのを感じます… 掃除が必要なようですね。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:177
 msgid "Caves"
-msgstr ""
+msgstr "洞窟"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:179
@@ -4878,11 +4880,21 @@ msgid ""
 "such as Deoran, have a particularly\n"
 "hard time."
 msgstr ""
+"陽光は地下を照らしません。\n"
+"\n"
+"洞窟などの暗い場所では時刻が常に\n"
+"夜であるとみなされます。\n"
+"\n"
+"地下の地形は移動が面倒な場合が多い\n"
+"です。ユニットが詰まりやすい場所も\n"
+"多くなるでしょう。また、Deoran の\n"
+"ように騎乗したユニットは特に苦労\n"
+"することになるでしょう。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:199
 msgid "Defeat the undead leader"
-msgstr ""
+msgstr "アンデッドのリーダーを倒す"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:232
@@ -4890,52 +4902,54 @@ msgid ""
 "Gods... that skull, those eyes. I had almost hoped the lady was right, but "
 "now... even in the Estmarks I never thought I’d live to lay eyes on an lich."
 msgstr ""
+"ああ神々よ… その骨、その両の目…… 私はあのレディが正しい方をずっと期待していたってのに… あの Estmark "
+"にいた時ですら、自分の目でリッチを見ることは想像すらしていなかった。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:257
 msgid ""
 "You’ve gone mad! Whatever you once were, you are nothing but evil now! Once "
 "Captain Mari and I defeat you, these lands will finally be safe."
-msgstr ""
+msgstr "お前は狂っている！かつてどのような者であったにせよ、今のお前は紛う事なき悪だ！私と Mari 大尉でお前を倒せばこの地も平和になる。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:258
 msgid ""
 "You’ve gone mad! Whatever you once were, you are nothing but evil now! Once "
 "Sir Gerrick and I defeat you, these lands will finally be safe."
-msgstr ""
+msgstr "お前は狂っている！かつてどのような者であったにせよ、今のお前は紛う事なき悪だ！私と Gerrick 卿でお前を倒せばこの地も平和になる。"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:259
 msgid ""
 "You’ve gone mad! Whatever you once were, you are nothing but evil now! Once "
 "Minister Hylas and I defeat you, these lands will finally be safe."
-msgstr ""
+msgstr "お前は狂っている！かつてどのような者であったにせよ、今のお前は紛う事なき悪だ！私とHylas 牧師でお前を倒せばこの地も平和になる。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:271
 msgid ""
 "Look out, a troll! Stay back everyone, it might leave us alone if we keep "
 "our distance."
-msgstr ""
+msgstr "見ろ、トロルだ！皆、下がれ、近づかなければ放っておいてくれるかもしれない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:276
 msgid "Who you? You dead one? I smash dead ones!"
-msgstr ""
+msgstr "オマエダレ？死んだやつ？オレ死んだやつツブス！"
 
 #. [message]: type=Troll Rocklobber
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:281
 msgid ""
 "Mmm... no, dead ones do not speak. You humans. Humanses long time no see."
-msgstr ""
+msgstr "むむ… これ違う。死んだやつ喋らない。お前たちニンゲン。久しぶり見た。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:285
 msgid ""
 "Humanses... I remember humanses. Humans go squish, fun to smash! What you "
 "doing in caves?"
-msgstr ""
+msgstr "ニンゲン… オレニンゲンおぼえてる。ニンゲンつぶれる、つぶすと楽しい！ドウクツで何してる？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:289
@@ -4943,6 +4957,7 @@ msgid ""
 "Err, no need for any squishing, we don’t mean to trespass on your territory."
 " We’re hunting the undead and have no quarrel with you."
 msgstr ""
+"えーっと、潰す必要はないですよ。私たちはあなたたちの縄張りを荒らしに来たわけじゃないし、争うつもりもない。アンデッドを狩りに来ただけなんだ。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:293
@@ -4950,31 +4965,32 @@ msgid ""
 "Deads! Nasty deads take our home, make us hide! I hates them! They too "
 "stupid to find us here, but we no leave here either."
 msgstr ""
+"死体！クサい死体オレたちの家うばった、オレたち隠れた！オレあいつらキライ！あいつらバカだからオレたち見つけられない、でもオレたちも出れない。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:297
 msgid ""
 "It seems that we have a common enemy, then. Would you like to join forces to"
 " defeat the undead? My soldiers aren’t well-suited to fighting in caves."
-msgstr ""
+msgstr "私たちには共通の敵がいるようだ。ならば、協力してアンデッドを倒さないか？私たちは洞窟での戦いに向いてないんだ。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:301
 msgid ""
 "Join? Join with humanses? Hmm. Okay. Humans friends. No squish friends."
-msgstr ""
+msgstr "キョウリョク？ニンゲンキョウリョク？いいぞ。ニンゲントモダチ。トモダチツブさない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:305
 msgid ""
 "We help you beat deads, but after they gone we take back our home and you "
 "leave. Okay?"
-msgstr ""
+msgstr "オレたち死体たおす手伝う。おいはらったらオレたち家もどる。オマエたちも帰る。いいか？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:313
 msgid "It’s a deal."
-msgstr ""
+msgstr "取引成立だ。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:321
@@ -4990,6 +5006,16 @@ msgid ""
 "trolls if these ones die, so take\n"
 "good care of them!"
 msgstr ""
+"トロルは大きく、石のような肌の\n"
+"生物です。洞窟や岩場に住んでい\n"
+"ます。彼らの打撃属性の攻撃はス\n"
+"ケルトンにとても効果的です。\n"
+"そして再生能力のため、なかなか\n"
+"倒れません。\n"
+"\n"
+"彼らが死んでしまったらもうトロ\n"
+"ルを仲間にすることはできません。\n"
+"大事にしてあげましょう！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:356
@@ -4997,6 +5023,7 @@ msgid ""
 "Pathetic. Ethiliel I would respect, but you? Humans are not worth my time to"
 " slay. Pursue me if you dare."
 msgstr ""
+"哀れな。Ethiliel ならば気遣いもするが、お前たちにそんな扱いが必要か？私が自ら手を下すまでもない。やる気があるなら追ってくるが良い。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:389
@@ -5004,6 +5031,8 @@ msgid ""
 "Ethiliel spoke so highly of you, but you truly have gone mad. Would that we "
 "had listened to Urza Afalas from the beginning!"
 msgstr ""
+"Ethiliel はお前のことを大いに称えていたが、本当に正気を失ってしまったようだな。これなら最初から Urza Afalas "
+"の言うことを聞いておけばよかった！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:472
@@ -5012,6 +5041,7 @@ msgid ""
 "have already been subjected. Even if taking vengeance on your race requires "
 "me to destroy myself, it will be worth the sacrifice!"
 msgstr ""
+"私は虚無を恐れない。これまで味わった苦しみ以上に恐ろしいものなどあり得ない。人間への復讐のためにこの身を犠牲にする必要があるのなら、喜んでこの身を捧げよう！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:476
@@ -5021,24 +5051,25 @@ msgid ""
 "me! Your bones will dance for my pleasure! I’ll make humanity into the "
 "mindless slaves that you all deserve to be!"
 msgstr ""
+"かつての私は賢かっただけだが、今や私は神となった！人間はこの緑溢れる世界から一掃される。その屍は私に仕えるのだ！骨は私の慰みのために踊らせてやろう！人間は心ない奴隷となるべきだ！それがお前たちには相応しい！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:508
 msgid "Ah ha, ha ha ha ha. I am no stranger to pain, Deoran of the humans."
-msgstr ""
+msgstr "あは、ははははは。私にとって苦痛は慣れ親しんだものだ。人間、Deoran よ。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:512
 msgid ""
 "You think yourself wise, to have followed me down into these dark depths? "
 "You have only sown the seeds of your own destruction!"
-msgstr ""
+msgstr "この地下深くまで私を追ってきた貴様は、自分のことを賢明だと思っているだろう？しかし、実際には自身の破滅の種をまいたに過ぎないのだ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:522
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:583
 msgid "What the— it’s a cave-in!"
-msgstr ""
+msgstr "何を… 崩落か！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:526
@@ -5046,6 +5077,8 @@ msgid ""
 "Accursed humans, you fools will never leave this place. While you frittered "
 "away your final days, Ethiliel has already begun to avenge me."
 msgstr ""
+"忌々しい人間共め。お前たちはもうここから出ることはできない。そして、お前たちがここで最期の日々を過ごしている中、Ethiliel "
+"は既に私の復讐を始めてくれている。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:530
@@ -5053,7 +5086,7 @@ msgid ""
 "I felt her emotions, felt her intentions, <b><i>fed</i></b> her "
 "intentions... You and I may both perish today, but my revenge has already "
 "begun..."
-msgstr ""
+msgstr "私は彼女の気持ちを、意志を感じ取り、そしてその意志を育てた… 私自身はお前たちと共に今日滅びる。しかし、我が復讐が終わったわけではない……"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:587
@@ -5061,7 +5094,7 @@ msgid ""
 "Accursed humans, you fools will never leave this place. Even if taking "
 "vengeance on your race requires me to destroy myself, it will be well worth "
 "the sacrifice!"
-msgstr ""
+msgstr "忌々しい人間め。愚かなお前たちはもうここから出られない。人間への復讐のためにこの身を犠牲にする必要があるのなら、喜んでこの身を捧げよう！"
 
 #. [scenario]: id=06a_Vengeance
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:9
