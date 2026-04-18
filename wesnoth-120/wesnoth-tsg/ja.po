@@ -5105,34 +5105,34 @@ msgstr "復讐"
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:63
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:53
 msgid "Aethenwood"
-msgstr ""
+msgstr "Aethen の森"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:407
 msgid ""
 "C’mon, keep movin’, everyone get underground. We don’ have much time left "
 "’til—"
-msgstr ""
+msgstr "さあ急げ、速やかに地下へ入るのだ。時間が無い。すぐにでも──"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:408
 msgid ""
 "Could you go any slower? Come on, everyone get underground. We don’t have "
 "much time left until—"
-msgstr ""
+msgstr "さあさあ、さっさと歩く！早く地下へいくんだよ。時間はないよ。すぐにでも──"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:412
 msgid ""
 "This is your last warning, humans. Return to us our sage or I shall be "
 "forced to resume our attack!"
-msgstr ""
+msgstr "人間、これが最後の警告だ。私たちの賢者を返せ。さもなくば攻撃を始めるしかない！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:426
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1083
 msgid "Ethiliel! What’s going on here? What have you done?!"
-msgstr ""
+msgstr "Ethiliel！何が起こっている？一体どうなっているんだ！？"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:430
@@ -5141,6 +5141,8 @@ msgid ""
 "that snake Afalas! Does this mean you humans have reconsidered your "
 "decisions, and have finally freed Mebrin from his bonds?"
 msgstr ""
+"Deoran ── 良かった。あなたも来てくれたのね。それにあの陰険な Afalas "
+"をもう匿ったりはしていないのね。なお喜ばしい。それで、あなたたちもやっぱり考え直してあいつらから Mebrin を解放してくれたのかしら？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:434
@@ -5149,6 +5151,8 @@ msgid ""
 "my own two eyes, heard his ravings with my own two ears! I watched him raise"
 " the dead up out of the ground!"
 msgstr ""
+"Ethiliel、Mebrin は死んだ。Afalas は正しかった。私もリッチ Mal M’Brin "
+"をこの目で見た！彼の妄言をこの耳で聞いた！そして彼が死者を起き上がらせるところを見たんだ！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:438
@@ -5157,6 +5161,8 @@ msgid ""
 "things of which you accuse? I have known Mebrin my whole life — you, "
 "scarcely four months. Who shall I believe?"
 msgstr ""
+"それなら彼の死体はどこにあるの、短命のセミさん？あなたが見たとかいう恐ろしい所業の証拠はどこにあるの？私は Mebrin "
+"のことを生まれた時からずっと知っているの ── あなたのことは、せいぜい４ヶ月程度。私がどちらを信じるのかは自明でしょう？"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:442
@@ -5164,6 +5170,8 @@ msgid ""
 "No, I felt Mebrin’s elfin presence. I felt him reaching out to me, I felt "
 "him in pain! No elf would fall to undeath, much less our wisest teacher."
 msgstr ""
+"私には Mebrin "
+"のエルフとしての気配が感じられた。彼が私に近づこうとしている気配を感じられた。そして彼が苦しんでいることを感じた！エルフがアンデッドになることなんて有り得ない。ましてや、私たちの中で最も聡明な先生がそんなことになるなんて有り得ない。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:446
@@ -5172,12 +5180,13 @@ msgid ""
 "fool humans’ stubbornness will be all of your undoing! Until you return "
 "Mebrin to us I have no choice but to cut you down!"
 msgstr ""
+"なぜ彼にしたことを素直に認めることができないのかしら ── その愚かさのために人間は滅ぶことになるわ！Mebrin を返さないなら殺すしかないのよ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:450
 msgid ""
 "Ethiliel, listen to yourself! ...there’s no reasoning with her, is there?"
-msgstr ""
+msgstr "Ethiliel、自分自身を偽るのはやめろ！……彼女を説得することはもはや不可能なのだろうか？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:463
@@ -5185,27 +5194,29 @@ msgid ""
 "Whether this rage is Ethiliel herself, Mebrin’s dark influence, or a mix of "
 "both, it’s clear that words alone are not going to change her mind."
 msgstr ""
+"あの怒りは Ethiliel 本人のものなのか、それとも Mebrin "
+"の邪悪な影響なのか、それともそれらの混ざったものなのか。いずれにせよ、言葉だけで彼女の気持ちをどうこうすることは無理そうだ。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:466
 msgid ""
 "Guess it’s time to take her down, then? Not my favorite plan, but what’s one"
 " little elf after an entire undead lich?"
-msgstr ""
+msgstr "じゃあそろそろやってしまうか？あんまり気は進まないが、リッチみたいな大物と比べたらエルフの小娘なんて大したことないだろう？"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:467
 msgid ""
 "Time to take her down by force? Shame to break a pretty face, but nothin’ "
 "can be as bad as fightin’ that lich."
-msgstr ""
+msgstr "そろそろ力づくでなんとかすべきか？あの美しい顔を傷つけることは忍びないが、リッチと戦うことと比べればずいぶんマシであろうな。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:468
 msgid ""
 "Then it seems our only option is the violent one. This is not my preferred "
 "course of action, but I will do what I must."
-msgstr ""
+msgstr "ではそろそろ暴力に頼るしかないでしょうか。気は進みませんが、やらねばならないのであれば、やりましょう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:472
@@ -5216,6 +5227,9 @@ msgid ""
 "Aethenwood. And she’s not evil, she just... really believes she’s doing the "
 "right thing."
 msgstr ""
+"いや、それは絶対ダメだ。短くない時間を共に過ごして、彼女と彼女達の文化というものを私も分かるようになった。もし、我々が攻勢に出てあのような重要人物を殺してしまったら、我々が生きている内には"
+" Wesnoth と Aethen の森の間に平和が訪れることはないだろう。それに彼女自身が邪悪になったわけじゃない。彼女は… "
+"ただ自分が正しいと思うことをやっているだけなのだと思う。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:476
@@ -5225,6 +5239,8 @@ msgid ""
 "for so long. Once the dust settles, the elves may finally be willing to "
 "talk."
 msgstr ""
+"私達は Westin へ向かおう。町の防衛隊と協力して城壁を守り抜く ── Ethiliel "
+"を駆り立てている独善的な怒りの炎もいつまでも燃え続けられるわけではないだろう。事態が少し落ち着けば、言葉を交わすこともできるかもしれない。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:485
@@ -5232,6 +5248,8 @@ msgid ""
 "Reach Westin before it falls,\n"
 "then survive until turns run out"
 msgstr ""
+"Westin が落ちる前にたどりつき、\n"
+"ターン切れまで生き延びる"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:490
@@ -5240,7 +5258,7 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:522
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:945
 msgid "The town cellars are breached"
-msgstr ""
+msgstr "町の地下貯蔵庫が破壊される"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:498
@@ -5257,20 +5275,23 @@ msgid ""
 "Urza brothers have conspired to kidnap our sage, but it is not too late! "
 "Give new orders to Deoran, to return Mebrin to his home!"
 msgstr ""
+"私は Afalas の言葉を聞いた。私は Deoran の選択を目撃した。Westin と Urza "
+"兄弟が共謀して私たちの賢者を誘拐したことはわかっている。でもまだ手遅れではない！Mebrin を私たちの元に返せという命令を Deoran "
+"に出しなさい！"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:515
 msgid ""
 "Lay off it, woman! I already told you we don’t have the slightest clue what "
 "you’re talking about!"
-msgstr ""
+msgstr "いい加減にしろ、クソ女！お前が何を言っているのか私たちにはさっぱりわからないんだよ！"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:516
 msgid ""
 "We cannot give what we do not have, elf. Whatever has driven you to such "
 "desperation, I urge you to reconsider."
-msgstr ""
+msgstr "エルフよ、私たちの元にないものを返すことはできない。なぜそこまで追い詰められているのかわからないが、どうか考え直して欲しい。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:520
@@ -5279,6 +5300,8 @@ msgid ""
 " this! I have known Mebrin my whole life — you, scarcely a day now. Who "
 "shall I believe?"
 msgstr ""
+"いいえ、Mebrin の気配が近づくのを感じた。彼が苦しんでいるのを感じた！私は Mebrin のことを生まれた時からずっと知っているの ── "
+"あなたたちのことは、せいぜい１日。私がどちらを信じるのかは自明でしょう？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:524
@@ -5287,6 +5310,8 @@ msgid ""
 "fool humans’ stubbornness will be all of your undoing! Until Deoran returns "
 "Mebrin to us I have no choice but to cut you down!"
 msgstr ""
+"なぜ彼にしたことを素直に認めることができないのかしら ── その愚かさのために人間は滅ぶことになるわ！Deoran が Mebrin "
+"を私たちのところに返さないなら殺すしかないのよ！"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:528
@@ -5295,6 +5320,8 @@ msgid ""
 " his soldiers were here to help solve it. We shall have to fight as best we "
 "can alone."
 msgstr ""
+"我らの若き Deoran が何かしでかしたのでしょうか ── "
+"彼らには早く戻ってこの事態をなんとかしていただきたいところですね。まあ私達はやれるだけのことをやるしかないのでしょう。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:529
@@ -5302,6 +5329,8 @@ msgid ""
 "Figures this’d all be the rookie’s fault. I knew I should’ve gone with to "
 "keep him out of trouble... Guess it’s up to us to keep the town safe."
 msgstr ""
+"あの新米、何かやらかしやがったな。こんなことにならないように私が一緒に行くべきだったな… "
+"そんで、何もわからない私たちががんばって町を守るしかないってのか。嬉しすぎて涙が出そうだ。"
 
 #. [else]
 #. [event]
@@ -5315,6 +5344,8 @@ msgid ""
 "our trapdoor shut an’ barred. If we’re lucky, we can clean up this mess "
 "without any more gettin’ hurt."
 msgstr ""
+"ふう… "
+"ほとんどの市民は地下貯蔵庫へ避難できたか。落とし戸を閉めて閂を差しておけばひとまずは大丈夫であろう。運が良ければ、これ以上誰も傷つくことなく事態が収めることができる。"
 
 #. [else]
 #. [event]
@@ -5327,6 +5358,8 @@ msgid ""
 "with the trapdoor shut and barred. If we’re lucky, we can clean us this mess"
 " without any more getting hurt."
 msgstr ""
+"やれやれ… "
+"ほとんどの市民を地下貯蔵庫に入れて、落とし戸を閉めて閂を差した。ひとまずは大丈夫か。運が良ければ、これ以上誰も傷つくこともなく事態を収められそうだね。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:536
@@ -5335,6 +5368,7 @@ msgid ""
 " elves would cut us down. We cannot attack, or we risk provoking an all-out "
 "war. Our only choice is to hold the town, and hope the elves see sense."
 msgstr ""
+"見事なまでに板ばさみの状況ですね。逃げればエルフに殺されてしまいます。逆に、攻撃してしまえば全面戦争に発展しかねません。こうなっては、町の防衛に徹し、エルフが理性を取り戻すことを期待するしかありません。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:537
@@ -5343,31 +5377,32 @@ msgid ""
 "cut us down. Can’t attack, or we provoke an all-out war. Guess our only "
 "option is to hold the town and hope the elves see sense."
 msgstr ""
+"にっちもさっちもいかない状況だね。逃げればエルフに殺されるし、うっかり攻撃したら全面戦争になりかねない。つまりあたしたちは町の防衛に徹し、あの頭に血がのぼった連中が落ち着くのを期待するしかないってことか。やれやれ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:550
 msgid "Survive until turns runs out"
-msgstr ""
+msgstr "ターンが尽きるまで生き残る"
 
 #. [message]: speaker=unit
 #. highlight that the similar-sounding Westin and Weldyn are different places
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:583
 msgid "For Weldyn! For Westin! For our home!!"
-msgstr ""
+msgstr "Weldyn のために！Westi のために！俺達の家のために！"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:601
 msgid ""
 "Look out, more elves at the perimeter! No, wait... it’s Sir Deoran. He’s "
 "alive!"
-msgstr ""
+msgstr "気をつけろ、エルフの別部隊だ！いや…待て… あれは Deoran 卿だ。生きていたのか！"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:602
 msgid ""
 "Take care! More elves approach our ramparts. No, wait... ’tis Commander "
 "Deoran. He comes to our aid!"
-msgstr ""
+msgstr "注意を怠らないように！城壁にエルフの別働隊が来ています。いえ… あれは… あれは Deoran 指揮官です。彼が助けに来てくれましたよ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:607
@@ -5376,6 +5411,7 @@ msgid ""
 "sorry to confess that this whole problem with the elves is rather my doing. "
 "The full story is too long to speak of now."
 msgstr ""
+"友よ、お久しぶりです！城壁がまだ無事でホッとしました。しかし、申し訳ありませんが、エルフとの間に起こっている問題は私の行いが原因です。ただその経緯は複雑になりますのでまたあとで詳しく説明します。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:610
@@ -5384,13 +5420,15 @@ msgid ""
 "know who that is? In his absence, we have instead focused our efforts on "
 "protecting the townsfolk."
 msgstr ""
+"エルフは「Mebrin」という人物の引き渡しを要求しています ── "
+"それが誰なのかご存知ですよね？その人物に心当たりがないので、私たちは町の人々の保護に注力していたところです。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:611
 msgid ""
 "Figures this’d all be the rookie’s fault. While you’ve been running around "
 "causing problems, we’ve been trying to actually keep the town safe."
-msgstr ""
+msgstr "新米、何やらかしやがった。お前があちこちで問題を起こしている間、私たちはがんばって町を守っていたんだぞ。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:620
