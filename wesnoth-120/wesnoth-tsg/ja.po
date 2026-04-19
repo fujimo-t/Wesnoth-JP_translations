@@ -3155,7 +3155,7 @@ msgid ""
 "to master undeath — the only way to conquer it is to resist the temptation "
 "altogether.</i>"
 msgstr ""
-"<i>Deoran、卓越した技量と長寿を誇る賢者や秘術師たちは、往々にして黒魔術の穢れに最初に屈してしまうものです。知識と力だけでは死を制することはできません"
+"<i>Deoran、卓越した技量と長寿を誇る賢者や秘術師たちは、往々にして降霊術の穢れに最初に屈してしまうものです。知識と力だけでは死を制することはできません"
 " ── 結局のところ、誘惑に屈さず、耐えるしかないのです。</i>"
 
 #. [message]: speaker=Afalas
@@ -5051,7 +5051,7 @@ msgid ""
 "me! Your bones will dance for my pleasure! I’ll make humanity into the "
 "mindless slaves that you all deserve to be!"
 msgstr ""
-"かつての私は賢かっただけだが、今や私は神となった！人間はこの緑溢れる世界から一掃される。その屍は私に仕えるのだ！骨は私の慰みのために踊らせてやろう！人間は心ない奴隷となるべきだ！それがお前たちには相応しい！"
+"かつての私は賢かっただけだが、今や私は全知となった！人間はこの緑溢れる世界から一掃される。その屍は私に仕えるのだ！骨は私の慰みのために踊らせてやろう！人間は心ない奴隷となるべきだ！それがお前たちには相応しい！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:508
@@ -5171,7 +5171,7 @@ msgid ""
 "him in pain! No elf would fall to undeath, much less our wisest teacher."
 msgstr ""
 "私には Mebrin "
-"のエルフとしての気配が感じられた。彼が私に近づこうとしている気配を感じられた。そして彼が苦しんでいることを感じた！エルフがアンデッドになることなんて有り得ない。ましてや、私たちの中で最も聡明な先生がそんなことになるなんて有り得ない。"
+"のエルフとしての気配が感じられた。彼が私に近づこうとしている気配を感じられた。そして彼が苦しんでいることを感じた！エルフが不死に堕ちるなんて有り得ない。ましてや、私たちの中で最も聡明な先生がそんなことになるなんて有り得ない。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:446
@@ -5437,6 +5437,7 @@ msgid ""
 "complete understanding of the situation than do I. If you wish to command "
 "the defense, our soldiers are at your service."
 msgstr ""
+"Deoran、このエルフを相手にした経験も既にあるようですし、現在の状況も私よりもよほど理解できているでしょう。あなたが望むのであれば、兵士達の指揮権をあなたに預けましょう。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:621
@@ -5444,12 +5445,12 @@ msgid ""
 "Deoran, sounds like you’ve got the most experience dealin’ with these elves,"
 " an’ a better idea o’ what’s really goin’ on. If you want to take charge, my"
 " boys’re yours to command."
-msgstr ""
+msgstr "Deoran、お前はこのエルフを相手にした経験もあり、現況も我等よりもよく理解しておろう。お前が望むならば、指揮権はお前に預けるぞ。"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:631
 msgid "Assume command of Westin’s defense"
-msgstr ""
+msgstr "Westin 防衛の指揮をとる"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:647
@@ -5457,12 +5458,12 @@ msgid ""
 "I shall assume command. Now hold fast, men of the South Guard! No matter how"
 " daunting the armies that oppose us, we must weather this shadow and defend "
 "our homes!"
-msgstr ""
+msgstr "引き受けましょう。さあ、南部防衛隊の勇者達よ、守りを固めろ！敵がいかに手強かろうとも、私たちはこの嵐を耐え抜き、我々の家を守り抜くのだ！"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:652
 msgid "Leave Westin’s defenders under AI control"
-msgstr ""
+msgstr "Westin 防衛隊は AI に任せる"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:656
@@ -5471,6 +5472,7 @@ msgid ""
 "matter how daunting the armies that oppose us, we must weather this shadow "
 "and defend our homes!"
 msgstr ""
+"Westin の指揮はお任せします。南部防衛隊の勇者達よ、守りを固めろ！敵がいかに手強かろうとも、私たちはこの嵐を耐え抜き、我々の家を守り抜くのだ！"
 
 #. [message]
 #. explicitly using the word "objectives" to remind the player that breaching
@@ -5479,14 +5481,14 @@ msgstr ""
 msgid ""
 "The elves are trying to break into the cellars! Remember our objectives — if"
 " they get among the refugees, all will be lost."
-msgstr ""
+msgstr "エルフが貯蔵庫に押し入ろうとしている！我々の目的を忘れるな ── 中に入られてしまったら我々の負けだ。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:707
 msgid ""
 "You mayflies should never have interfered in our affairs. Now all your kind "
 "shall pay the price."
-msgstr ""
+msgstr "お前たちセミどもは我々に干渉すべきではなかった。さあ、代償を払ってもらうぞ。"
 
 #. [then]
 #. [else]
@@ -5497,6 +5499,7 @@ msgid ""
 "The capital garrison alone would make Westin’s walls impenetrable, if only "
 "they could have been contacted in time!"
 msgstr ""
+"北の大都市から完全に離れて孤立しているのが苦しいところだ。連絡が間に合って援軍が来ていれば、Westin の城壁が破られる心配はなかっただろうに。"
 
 #. [then]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:723
@@ -5504,7 +5507,7 @@ msgid ""
 "Our isolation is truly lamentable, so far removed from the great cities of "
 "the north. The capital garrison alone would make our walls impenetrable, if "
 "only they could have been contacted in time."
-msgstr ""
+msgstr "北の大都市から遠く離れていることが本当に嘆かわしい。援軍が間に合っていれば、Westin の城壁を破られる心配もなかったのですが。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:729
@@ -5512,7 +5515,7 @@ msgid ""
 "I curse our isolation, so far from the great cities o’ the north. The "
 "capital garrison alone would make our walls unbreakable, if only they "
 "could’ve been reached in time!"
-msgstr ""
+msgstr "北の大都市から遠く離れた孤立状態がどうしても苦しいな。援軍が間に合ってさえいれば、城壁を破られる心配など要らぬのに！"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:734
@@ -5523,6 +5526,8 @@ msgid ""
 "Prince Arand’s ambitions for this place, I doubt anybody — you and me "
 "included — would much care what happened here."
 msgstr ""
+"そもそも Weldyn にこんな田舎町を助けるつもりが本当にあるのかね？南部州の首都ではあるけど、まあ実際そんな大したモンじゃないしな。Arand "
+"殿下の熱意がなかったら、ここで何が起こっても誰も気にしないだろう ── 私やお前だって、ここに来てなければきっと大して気にしなかっただろう。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:735
@@ -5533,6 +5538,8 @@ msgid ""
 "we have any significance at all — as well as the reason you were deployed "
 "here, Deoran."
 msgstr ""
+"それ以前の問題として、Westin は遠く離れている小さな町です。他の者にとっては見捨てることも容易でしょう。Arand "
+"殿下の熱意のおかげで私たちの存在に多少の意味があるに過ぎない ── あなたがここに配置された理由もまさにそれでしょう、Deoran。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:738
@@ -5542,6 +5549,8 @@ msgid ""
 "all ’is time up in Weldyn with the king, we might’ve not gotten in such "
 "trouble in th’ first place..."
 msgstr ""
+"そうだな。しかし、殿下がいつも Weldyn "
+"で王の側に仕えるのではなく、ここに来てくれておれば、そもそもこんな問題に巻き込まれたりはしなかっただろうに…"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:739
@@ -5551,6 +5560,7 @@ msgid ""
 "all his time up at Weldyn with the king, we might’ve not gotten in such "
 "trouble in the first place..."
 msgstr ""
+"そうだな。殿下がいつも Weldyn で王のところにいるのではなく、実際にここに来てくれていれば、そもそもこんな事態にはなってないんだろうなあ…"
 
 #. [message]
 #. [message]: speaker=Deoran
@@ -5558,33 +5568,33 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:676
 msgid ""
 "They’ve come around behind us! Stand fast, soldiers of the South Guard!"
-msgstr ""
+msgstr "敵が回り込んできた！持ちこたえろ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:824
 msgid ""
 "My kin will avenge me! For every one of us you strike down... more will "
 "come..."
-msgstr ""
+msgstr "仲間が私の仇を取ってくれる！一人が倒れたら… 仲間たちが来てくれる……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:831
 msgid ""
 "Every elf who dies only serves to further enrage the rest, drawing more "
 "warriors out of the Aethenwood!"
-msgstr ""
+msgstr "エルフを殺しても、残った者の怒りを募らせるだけだ。Aethen の森からさらに多くの戦士を呼び込んでしまうだけだ！"
 
 #. [floating_text]
 #. $unit.cost will be the value of the unit; likely between 14 and 40. If
 #. translation is an issue, the exact cost can be omitted.
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:865
 msgid "$unit.cost gold refunded"
-msgstr ""
+msgstr "$unit.cost ゴールド払い戻し"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:900
 msgid "Mebrin, I’m sorry... I tried..."
-msgstr ""
+msgstr "Mebrin、ごめんなさい… 私は……"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:906
@@ -5592,43 +5602,43 @@ msgstr ""
 msgid ""
 "Ethiliel is dead! Even if we win by force of arms today, there will never "
 "again be peace between Wesnoth and the Aethenwood... We’ve started a war..."
-msgstr ""
+msgstr "Ethiliel が死んだ！今日ここで勝っても Wesnoth と Aethen の森に平和は来ない… 戦争が始まってしまった……"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:947
 msgid "Ethiliel! What in Irdya is going on here?"
-msgstr ""
+msgstr "Ethiliel！一体ここで何をしている？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:951
 msgid ""
 "These snakes have captured Mebrin, and committed who knows what horrible "
 "atrocities against him! Galdrad, we must take him back!"
-msgstr ""
+msgstr "あの陰険な連中は Mebrin を誘拐して、一体どんなひどいことをしたのか！Galdrad、私たちは彼を取り戻さなければ！"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:955
 msgid ""
 "Kidnapped Mebrin? I have heard otherwise. Ethiliel, this is Urza Afalas of "
 "the humans."
-msgstr ""
+msgstr "Mebrin を誘拐した？私はそれとは違う話を聞いた。Ethiliel これは Urza Afalas という人間だ。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:967
 msgid "We’ve met. This absolute scum, pig of a mudling—"
-msgstr ""
+msgstr "また会ったわね。最低のクズ、泥まみれの豚──"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:981
 msgid "Argh!"
-msgstr ""
+msgstr "うぐっ！"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:989
 msgid ""
 "Enough, Ethiliel! I can corroborate the humans’ story. Some days ago, this "
 "outlaw came to me with unlikely words."
-msgstr ""
+msgstr "もういいだろう、Ethiliel！この人間の話の証拠も得られている。何日か前、この無法者は私のところに来て信じがたい話をした。"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:993
@@ -5637,6 +5647,8 @@ msgid ""
 " wantin’ my head. I could’a ran and hid, but I wanted to make things right. "
 "I went and found Mebrin’s bones, and brought them to the Aethenwood."
 msgstr ""
+"……そうだ。南の森でレンジャーの気配を感じた。俺の首を狙っていることもわかっていた。逃げて隠れることもできたが、俺は落とし前をつけたいと思っていた。それで、Mebrin"
+" の骨を見つけて、そいつを Aethen の森に持っていった。"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:997
@@ -5645,6 +5657,7 @@ msgid ""
 " beings, and we still know justice an’ truth. My brothers an’ I did wrong. "
 "It’s my responsibility to make things right."
 msgstr ""
+"俺たちを無法な犯罪者だと思っていると思うが、それでも俺たちは生きているんだ。正義や真実が分からないわけじゃない。俺と兄弟たちは過ちを犯した。それを正すのは俺の責任だ。"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1001
@@ -5653,13 +5666,16 @@ msgid ""
 " my anger he produced the skull of a lich. The druids confirmed it — the "
 "skull was Mebrin’s."
 msgstr ""
+"Afalas "
+"の言葉は、投獄、あるいはそれ以上の事態を招く内容だった。しかし、私が怒りの頂点に達したその時、彼はリッチの頭蓋骨を取り出した。ドルイドたちがそれを、その頭蓋骨を──"
+" Mebrin のものと確認した。"
 
 #. [message]
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1005
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1116
 msgid "The Mebrin I know is so gentle. So wise! It cannot be... can it?"
-msgstr ""
+msgstr "私の知っている Mebrin はとても優しい人。とても賢い人。そんな…… そんなことがありえるの？"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1009
@@ -5668,12 +5684,13 @@ msgid ""
 "But if Mebrin really did turn to undeath, then I have been the cause of so "
 "much meaningless bloodshed."
 msgstr ""
+"その人間の言葉を信じたくない。信じることに耐えられない… でも本当に Mebrin が不死に堕ちたのなら、この無意味な流血は私のせいなのね。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1013
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1128
 msgid "It’s true, isn’t it..."
-msgstr ""
+msgstr "そう、なのでしょう…"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1028
@@ -5682,11 +5699,14 @@ msgid ""
 "you, too, are capable of courage and loyalty. Vengeance only begets more "
 "vengeance. You — and your brothers, posthumously — are forgiven."
 msgstr ""
+"Urza "
+"Afalas、ありがとう。人間全部が同じではないと今ならわかる。あなたも、勇敢で誠実な人なのでしょう。復讐は復讐を生むだけ。許しましょう。あなたと── "
+"既に亡くなったあなたの兄弟達を。"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1032
 msgid "<i>You</i> forgive <i>me</i>! After all the blood—"
-msgstr ""
+msgstr "あんたが<b.俺を許す</b<と言うのか！あれだけの血を──"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1036
@@ -5695,6 +5715,8 @@ msgid ""
 " have been away from your people for far too long. Our attack against Westin"
 " is over."
 msgstr ""
+"そして Urza Afalas が許しを受け入れた。さあ行こう、Ethiliel。仲間達から離れてもう随分になるだろう。Westin "
+"への攻撃は終わりだ。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1087
@@ -5703,6 +5725,8 @@ msgid ""
 "Westin would eventually cave and summon you back. Does this mean you have "
 "reconsidered your decisions, and have finally freed Mebrin from his bonds?"
 msgstr ""
+"Deoran ── 良かった。あなたも来てくれたのね。Westin "
+"に圧力をかければ、あなたを呼び戻してくれると思っていたわ。それで、あなたたちもやっぱり考え直してあいつらから Mebrin を解放してくれたのかしら？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1091
@@ -5711,6 +5735,8 @@ msgid ""
 "M’Brin with my own two eyes, heard his ravings with my own two ears! I "
 "watched him raise the dead up out of the ground!"
 msgstr ""
+"Ethiliel、誰も私を呼び戻したりはしていない。Afalas は正しかった。私もリッチ Mal M’Brin "
+"をこの目で見た！彼の妄言をこの耳で聞いた！そして彼が死者を起き上がらせるところを見たんだ！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1095
@@ -5719,13 +5745,14 @@ msgid ""
 "evidence for the horrible things of which you accuse? No elf would fall to "
 "undeath, much less our wisest teacher."
 msgstr ""
+"また嘘を重ねて！よくもそんな腹立たしい嘘を！短命のセミよ、それなら彼の死体はどこに？あなたの言う恐ろしい所業とやらの証拠はどこに？エルフが不死に堕ちるなんて有り得ない。ましてや、私たちの中で最も聡明な先生がそんなことになるなんて有り得ない。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1100
 msgid ""
 "No elf could fall to undeath? What is this, then? I show you the skull of a "
 "lich, unmistakably elven, and unmistakably undead!"
-msgstr ""
+msgstr "エルフは不死に堕ちない？ではこれは何だ？これはリッチの頭蓋骨。間違いなくエルフのもので、間違いなくアンデッドのものだ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1104
@@ -5734,6 +5761,8 @@ msgid ""
 "ourselves nearly to exhaustion. When at last the lich was on the brink of "
 "defeat, with his last gasp of foul magic he collapsed his cave on us."
 msgstr ""
+"私たちは Mal M’Brin "
+"を地下深くで追い詰めた。私たちにも全く余裕はなかった。倒れる寸前となったリッチは、最後の力を振り絞って邪悪な魔法を放ち、洞窟を崩落させて我々を閉じ込めた。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1108
@@ -5743,38 +5772,41 @@ msgid ""
 "the skull of our vanquished foe. You recognize its elven features, Ethiliel,"
 " do you not?"
 msgstr ""
+"多くの者が死んだ。Mebrin "
+"もその中の一人だ。それから人間とトロルが数日かけて働いた結果、我々は脱出することができた。そして、倒した敵の頭蓋骨を持って Westin "
+"に向かったのだ。Ethiliel、これにエルフの特徴は認められないか？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1120
 msgid ""
 "You believe, but you do not want to believe. Please, Ethiliel — enough blood"
 " has been shed today."
-msgstr ""
+msgstr "あなたは本当はわかっている。しかしわかりたくないのだろう。お願いだ、Ethiliel── 血はもう十分だろう。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1124
 msgid ""
 "Mebrin... oh Mebrin... a lich!? But if Mebrin really did turn to undeath, "
 "then I have been the cause of so much meaningless bloodshed."
-msgstr ""
+msgstr "Mebrin… ああ、Mebrin… リッチ！？でも Mebrin が本当に不死に堕ちたのなら、この無意味な流血は私のせいなのね。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1143
 msgid ""
 "Deoran, thank you. I see now that not all humans are alike, and that you, "
 "too, are capable of courage and loyalty."
-msgstr ""
+msgstr "Deoran、ありがとう。人間全部が同じではないと今ならわかる。あなたは、勇敢で誠実な人です。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1147
 msgid ""
 "Vengeance only begets more vengeance. Our attack against Westin is over."
-msgstr ""
+msgstr "復讐は復讐を生むだけ。Westin への攻撃はここまでです。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:8
 msgid "Survive until reinforcements arrive on turn 13, then defeat Mal M’Brin"
-msgstr ""
+msgstr "ターン 13 に援軍が到着するまで生き延び、それから Mal M’Brin を倒す"
 
 #. [scenario]: id=06b_The_Tides_of_War
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:16
@@ -5787,13 +5819,15 @@ msgid ""
 "Look there! The undead army has broken through Captain Mari’s lines! I had "
 "almost dared to hope... but alas, she is lost."
 msgstr ""
+"あれを見ろ！アンデッドの軍勢が Mari 大尉の防衛戦を突破した！彼女ならなんとかしてしまうのでは、と心のどこかで思っていたのだが… "
+"ああ、敗れてしまったのか。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:369
 msgid ""
 "It takes one hell of a soldier to keep on fighting’ after losin’ an arm. I "
 "wish I’d gotten to know ’er better. Now I’ll never get the chance."
-msgstr ""
+msgstr "片腕を失っても戦い続けるとはとんでもない兵士だった。彼女のことをもっと知りたかった。しかしその機会は失われてしまったか。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:372
@@ -5801,7 +5835,7 @@ msgstr ""
 msgid ""
 "Another poor soul claimed by the spreading darkness. If only we’d had more "
 "time to prepare... but we’ve done our best."
-msgstr ""
+msgstr "また一つ、哀れな魂が広がる闇に飲み込まれてしまいました。もっと準備する時間があれば… それでもできる限りのことはしました。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:373
@@ -5811,6 +5845,7 @@ msgid ""
 "farmers and woodsmen. They’re not trained for battle, but will benefit "
 "greatly from your leadership, Deoran."
 msgstr ""
+"また一つ、哀れな魂が広がる闇に飲み込まれてしまいました。しかし彼女の犠牲は無駄ではありませんでした。このあたりの農民と木こりを集めることができましたから。彼らは戦闘の訓練は積んでいませんが、あなたの指揮下であれば大きな力を発揮できるでしょう、Deoran。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:374
@@ -5820,6 +5855,8 @@ msgid ""
 "farmers and woodsmen, as well as recall the small squad of fencers manning "
 "Fort Tahn."
 msgstr ""
+"また一つ、哀れな魂が広がる闇に飲み込まれてしまいました。しかし彼女の犠牲は無駄ではありませんでした。このあたりの農民と木こりを集めることができましたから。さらに、Tahn"
+" 砦に駐在していた剣術士の部隊を呼び戻すこともできました。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:375
@@ -5829,6 +5866,8 @@ msgid ""
 "of the region’s farmers and woodsmen, as well as recall the squad of fencers"
 " manning Fort Tahn."
 msgstr ""
+"また一つ、哀れな魂が広がる闇に飲み込まれてしまいました。しかし彼女の犠牲は無駄ではありませんでした。このあたりの農民と木こりを集め、訓練し、装備を整えることができましたから。さらに、Tahn"
+" 砦に駐在していた剣術士の部隊を呼び戻すこともできました。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:382
@@ -5837,6 +5876,8 @@ msgid ""
 "upon us, but as surely as the dawn breaks after every night, the courage and"
 " valor of men will prevail over the wicked creatures of darkness."
 msgstr ""
+"Mari 大尉は私たちに貴重な時間を与えてくれた ── "
+"これでなんとかなるといいのだが。さて、大きな戦いが目の前に迫っている。我々の勇気と気迫できっと闇の化け物を打ち払ってみせる。明けない夜は無い、我々の光がきっと闇を討ち滅ぼすのだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:386
@@ -5845,7 +5886,7 @@ msgstr ""
 msgid ""
 "We must stand fast against the undead and defend our homes! We fight for the"
 " fallen! We fight for Wesnoth!"
-msgstr ""
+msgstr "我々はアンデッドに立ち向かい、この地を守らねばならない！これまでの戦いに倒れた者達のために！Wesnoth のために！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:396
@@ -5853,13 +5894,15 @@ msgid ""
 "Look there! The undead army has broken through Sir Gerrick’s lines! I had "
 "almost dared to hope... but alas, he is lost."
 msgstr ""
+"あれを見ろ！アンデッドの軍勢が Gerrick 卿の防衛戦を突破した！彼ならなんとかしてしまうのでは、と心のどこかで思っていたのだが… "
+"ああ、敗れてしまったのか。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:400
 msgid ""
 "Shame. I didn’t really get a chance to know him, but I know you don’t "
 "survive to his age unless you’re one hell of a soldier. He’ll be missed."
-msgstr ""
+msgstr "チッ。もっと彼の話を聞いてみたかったんだがな。あの年まで生き延びられる兵士は絶対に只者じゃない。本当に残念だ。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:404
@@ -5869,6 +5912,7 @@ msgid ""
 "farmers and woodsmen. They’re not trained for battle, but will benefit "
 "greatly from your leadership, Deoran."
 msgstr ""
+"また一つ、哀れな魂が広がる闇に飲み込まれてしまいました。しかし彼の犠牲は無駄ではありませんでした。このあたりの農民と木こりを集めることができましたから。彼らは戦闘の訓練は積んでいませんが、あなたの指揮下であれば大きな力を発揮できるでしょう、Deoran。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:405
@@ -5878,6 +5922,8 @@ msgid ""
 "farmers and woodsmen, as well as recall the small squad of heavy infantrymen"
 " manning Fort Tahn."
 msgstr ""
+"また一つ、哀れな魂が広がる闇に飲み込まれてしまいました。しかし彼の犠牲は無駄ではありませんでした。このあたりの農民と木こりを集めることができましたから。さらに、Tahn"
+" 砦に駐在していた重歩兵の部隊を呼び戻すこともできました。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:406
@@ -5887,6 +5933,8 @@ msgid ""
 "of the region’s farmers and woodsmen, as well as recall the small squad of "
 "heavy infantry manning Fort Tahn."
 msgstr ""
+"また一つ、哀れな魂が広がる闇に飲み込まれてしまいました。しかし彼の犠牲は無駄ではありませんでした。このあたりの農民と木こりを集め、訓練し、装備を整えることができましたから。さらに、Tahn"
+" 砦に駐在していた重歩兵の部隊を呼び戻すこともできました。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:413
@@ -5895,6 +5943,8 @@ msgid ""
 "upon us, but as surely as the dawn breaks after every night, the courage and"
 " valor of men will prevail over the wicked creatures of darkness."
 msgstr ""
+"Gerrick 卿は私たちに貴重な時間を与えてくれた ── "
+"これでなんとかなるといいのだが。さて、大きな戦いが目の前に迫っている。我々の勇気と気迫できっと闇の化け物を打ち払ってみせる。明けない夜は無い、我々の光がきっと闇を討ち滅ぼすのだ。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:427
@@ -5902,6 +5952,8 @@ msgid ""
 "Look there! The undead army has broken through Minister Hylas’s lines! I had"
 " almost dared to hope... but alas, he is lost."
 msgstr ""
+"あれを見ろ！アンデッドの軍勢が Hylas 牧師の防衛戦を突破した！彼ならなんとかしてしまうのでは、と心のどこかで思っていたのだが… "
+"ああ、敗れてしまったのか。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:431
@@ -5909,6 +5961,7 @@ msgid ""
 "Th’ good minister turned down the luxurious life o’ a city mage to come down"
 " ’ere an’ care for us rural folk. ’e was a good man."
 msgstr ""
+"あの善良な牧師は、都会の魔術師としての贅沢な生活を捨て、わざわざこの田舎に来た。そして我等田舎者の世話をしてくれた。彼は本当に高潔な人物であった。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:434
@@ -5916,6 +5969,8 @@ msgid ""
 "Me, I’d have taken the life of luxury — but maybe the world needs crazy "
 "people like Hylas. If only we’d had more time... but we’ve done our best."
 msgstr ""
+"私なら、贅沢な暮らしの方を選んだだろう── でも、世界には Hylas のような変わり者が必要なんだろうな。もう少し時間があればよかったんだが… "
+"それでも、私たちはやれるだけのことをやった。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:435
@@ -5925,6 +5980,8 @@ msgid ""
 "the region’s farmers and woodsmen. They’re not trained for battle, but will "
 "benefit greatly from your leadership, Deoran."
 msgstr ""
+"私なら、贅沢な暮らしの方を選んだだろう。でも、世界には Hylas のような変わり者が必要なんだろうな── Hylas "
+"の稼いだ時間のおかげであたりの農民と木こりを集めることができた。連中は戦闘の訓練は受けていないが、お前の指揮下であれば大きな力を発揮できるかもしれないぞ、Deoran。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:436
@@ -5934,6 +5991,8 @@ msgid ""
 "the region’s farmers and woodsmen, as well as recall the small squad of "
 "mages manning Fort Tahn."
 msgstr ""
+"私なら、贅沢な暮らしの方を選んだだろう。でも、世界には Hylas のような変わり者が必要なんだろうな── Hylas "
+"の稼いだ時間のおかげであたりの農民と木こりを集めることができた。 さらに、Tahn 砦に駐在していた魔術師の小部隊を呼び戻すこともできた。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:437
@@ -5943,6 +6002,8 @@ msgid ""
 "and equip most of the region’s farmers and woodsmen, as well as recall the "
 "small squad of mages manning Fort Tahn."
 msgstr ""
+"私なら、贅沢な暮らしの方を選んだだろう。でも、世界には Hylas のような変わり者が必要なんだろうな── Hylas "
+"の稼いだ時間のおかげであたりの農民と木こりを集め、訓練し、装備を用意できた。 さらに、Tahn 砦に駐在していた魔術師の小部隊を呼び戻すこともできた。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:444
@@ -5951,6 +6012,8 @@ msgid ""
 "is upon us, but as surely as the dawn breaks after every night, the courage "
 "and valor of men will prevail over the wicked creatures of darkness."
 msgstr ""
+"Hylas 牧師は私たちに貴重な時間を与えてくれた ── "
+"これでなんとかなるといいのだが。さて、大きな戦いが目の前に迫っている。我々の勇気と気迫できっと闇の化け物を打ち払ってみせる。明けない夜は無い、我々の光がきっと闇を討ち滅ぼすのだ。"
 
 #. [then]
 #. $pebbles_defense_length will be 11 or greater. $peasants.length and
@@ -5960,6 +6023,8 @@ msgid ""
 "You survived $pebbles_defense_length turns last scenario! Deoran starts\n"
 "   with $peasants.length peasants/woodsmen and $soldiers.length extra soldiers!"
 msgstr ""
+"前のシナリオを $pebbles_defense_length ターン生き延びました！\n"
+"   Deoran 陣営に $peasants.length 人の農民もしくは木こりと $soldiers.length 人の兵士が追加されました！"
 
 #. [else]
 #. $pebbles_defense_length will be between 3 and 10. $peasants.length will be
@@ -5969,6 +6034,8 @@ msgid ""
 "You survived $pebbles_defense_length turns last scenario!\n"
 "   Deoran starts this scenario with $peasants.length extra peasants/woodsmen!"
 msgstr ""
+"前のシナリオを $pebbles_defense_length ターン生き延びました！\n"
+"   Deoran 陣営に $peasants.length 人の農民もしくは木こりが追加されました！"
 
 #. [then]
 #. $pebbles_defense_length will be 37 or greater. $soldiers.length will be
@@ -5978,6 +6045,8 @@ msgid ""
 "You survived $pebbles_defense_length turns last scenario! Deoran starts\n"
 "   with $soldiers.length extra soldiers and $( ($pebbles_defense_length-36)*3 ) extra gold!"
 msgstr ""
+"前のシナリオを $pebbles_defense_length ターン生き延びました！\n"
+"   Deoran 陣営に $soldiers.length 人の兵士と $( ($pebbles_defense_length-36)*3 ) ゴールドのボーナスが追加されました！"
 
 #. [else]
 #. $pebbles_defense_length will be 3 or greater. $soldiers.length will be 3 or
@@ -5987,6 +6056,8 @@ msgid ""
 "You survived $pebbles_defense_length turns last scenario!\n"
 "   Deoran starts this scenario with $soldiers.length extra soldiers."
 msgstr ""
+"前のシナリオを $pebbles_defense_length ターン生き延びました！\n"
+"   Deoran 陣営に $soldiers.length 人の兵士が追加されました。"
 
 #. [else]
 #. $pebbles_defense_length will be less than 3
@@ -5995,35 +6066,37 @@ msgid ""
 "You survived only $pebbles_defense_length turns last scenario.\n"
 "   Deoran has not had time to prepare additional defenders."
 msgstr ""
+"前のシナリオで $pebbles_defense_length ターンしか生き延びられませんでした。\n"
+"   Deoran は追加戦力を準備する時間がありませんでした。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:542
 msgid ""
 "So, the fleshbags have managed to mount a defense. It would seem that the "
 "pesky fly turned out to be more than a minor annoyance after all."
-msgstr ""
+msgstr "そうか、肉袋共は防備を整えたか。ということは、あのハエはただ煩わしいだけのハエでは無かったということか。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:546
 msgid ""
 "No matter. Slay them all, my servants! Even if we sustain losses here, the "
 "town’s inhabitants will be more than enough to replenish our ranks."
-msgstr ""
+msgstr "しかし問題は無い。皆殺しだ！例え大きな損害を受けようと、都市の連中で補えばお釣りが来る。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:558
 msgid "For mistress Mari! For all the fallen!"
-msgstr ""
+msgstr "Mari 様のために！全ての戦死者のために！"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:559
 msgid "For master Gerrick! For all the fallen!"
-msgstr ""
+msgstr "Gerrick 様のために！全ての戦死者のために！"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:560
 msgid "For master Hylas! For all the fallen!"
-msgstr ""
+msgstr "Hylas 様のために！全ての戦死者のために！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:576
@@ -6032,6 +6105,8 @@ msgid ""
 "the great cities of the north. The capital garrison alone would make short "
 "work of this lich, if only we could have contacted them in time!"
 msgstr ""
+"Ethiliel "
+"が逃げ去っていなければ！それに、北の大都市から完全に離れて孤立しているのが苦しいところだ。あちらから援軍が来ていれば、その軍勢だけでも簡単にリッチを倒せるだろうに。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:596
@@ -6041,13 +6116,14 @@ msgid ""
 "dreadful fear. As surely as the sanctity of the psyche is shattered, so is "
 "the physical form, and all that’s left is unthinking, unfeeling servitude."
 msgstr ""
+"闇の帳が今一度下ろされる。染み出した夜は人間の防衛線に穴を穿ち、その心と体に恐怖を植え付ける。心が壊れれば、体も壊れる。残るものは考えることも感じることもない奴隷ばかり。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:600
 msgid ""
 "We don’t fear your unholy power, lich. We won’t succumb to your dark magics "
 "and we won’t be turned into your undead slaves."
-msgstr ""
+msgstr "リッチよ、我々は貴様の不浄な力など恐れない。貴様の邪悪な魔術に屈することは無いし、奴隷に成り下がるつもりも無い。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:604
@@ -6057,7 +6133,7 @@ msgstr "できるものならやってみよ。さて、この夜を生き延び
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:611
 msgid "Dawn breaks over the horizon! We’ve weathered the nighttime attack!"
-msgstr ""
+msgstr "地平線より太陽が昇る！夜を乗りきったぞ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:693
@@ -6074,13 +6150,13 @@ msgid ""
 "from your ruined homes will blot out the sky, and from the swamps and the "
 "black earth, your bones will rise again to serve me!"
 msgstr ""
-"愚かなガキめ、お前が戦士と呼ぶ脆弱な農民を過大評価していると見える。これから川はお前たちの血で紅く染まる！貴様等の家は焼かれ、灰と煙が空を黒く染める！そして貴様等の骨は起き上がり、我に仕えることになるのだ！"
+"愚かなガキめ、お前は脆弱な農民の力を過大評価しているようだな。これから川はお前たちの血で紅く染まる！貴様等の家は焼かれ、灰と煙が空を黒く染める！そして貴様等の骨は起き上がり、我に仕えることになるのだ！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:714
 msgid ""
 "So, you’ve defeated my lackey. A great accomplishment, for ones so pitiful."
-msgstr ""
+msgstr "私の手下を倒すとはな。惨めな連中の割には良くやったものだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:718
@@ -6091,6 +6167,7 @@ msgid ""
 "sorceries, I feel nothing but pity for the shambling shell you’ve become. "
 "Perhaps we can take solace in putting you out of your misery."
 msgstr ""
+"本当に惨めなのはかつてエルフの賢者であったお前の現状だ。お前は闇の魔術を使い、変質し、堕落してしまった。堕落した魔術で我等の土地を汚したお前は我々の敵だ。それでもなお、そんな喋る骨になってしまったお前を哀れだと思う。せめて、私がその惨めさから解放してやろう。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:722
@@ -6099,30 +6176,31 @@ msgid ""
 " boy. Your foolish babble means nothing in the face of my insurmountable "
 "power! Rise, my warriors!"
 msgstr ""
+"話にならぬ。年端もいかぬ小僧の分際でそんな思い上がった言葉を吐くな。貴様の吐く世迷い言など我が偉大なる力の前では何の意味も無い！起き上がれ、我が戦士よ！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:752
 msgid ""
 "Ungrateful elves! I offer you secrets beyond your comprehension! I offer you"
 " immortality itself!"
-msgstr ""
+msgstr "恩知らずなエルフどもめ！お前たちの理解を超える神秘、不死の秘術を授けてやるとしよう！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:806
 msgid "Did you hear that!? There are horns blowing in the west!"
-msgstr ""
+msgstr "今のを聞いたか？西の方で角笛の音がしたぞ！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:831
 msgid "Mebrin! This has gone far enough."
-msgstr ""
+msgstr "Mebrin！いい加減にしてちょうだい。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:835
 msgid ""
 "Ethiliel, my student... How pleased am I to see you again! What wonderful "
 "secrets have I to share..."
-msgstr ""
+msgstr "Ethiliel、我が教え子よ… また会えて嬉しいぞ！この素晴らしい秘術をお前にも…"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:839
@@ -6132,6 +6210,8 @@ msgid ""
 "infinity at the brink of death, Ethiliel... If you thought me wise before, I"
 " have now become omniscient!"
 msgstr ""
+"私は万物の核心にある虚無に触れ、エルフには理解が及ばない神秘の探求を始めた。死の淵には無限があるのだ、Ethiliel… "
+"生前の私が賢者であったのなら、今の私は全知といっても過言ではない！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:843
@@ -6141,6 +6221,8 @@ msgid ""
 "stink of death, tainted magic and... and corruption! Even you! Mebrin... you"
 " were the kindest and gentlest of the sages..."
 msgstr ""
+"あなたは<b>悪</b>になったの、Mebrin。わかっているでしょう！自分自身を良く見てみなさい！あなたの手下は人間よりもずっと忌まわしい化物。死臭、穢れた魔術…"
+" そして堕落の気配！それはあなたも同じ！Mebrin… あんなに優しい賢者だったのに…"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:847
@@ -6148,6 +6230,7 @@ msgid ""
 "No, the sage Mebrin is dead. You’re not the master I once revered. I have "
 "come to cleanse your soul and put you to rest, my beloved teacher."
 msgstr ""
+"ああ、賢者 Mebrin は死んでしまった。かつて敬愛した師はもういない。愛する師よ、私はあなたの魂を清め、安らかな眠りを与えるために参りました。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:851
@@ -6156,6 +6239,7 @@ msgid ""
 "rid of. I shall deal with you personally. You were always more of a hands-on"
 " learner, after all..."
 msgstr ""
+"そのために戻ったのか？フン、どうやら、お前には捨て去るべき愚かさがまだたくさん残っているようだな。であれば、私が直接相手をしてやろう。お前は昔から実践で学ぶタイプだったからな…"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:922
@@ -6165,6 +6249,9 @@ msgid ""
 "together, men and elves shall finally put my teacher’s tortured soul to "
 "rest."
 msgstr ""
+"Deoran、Mebrin "
+"のことはあなたたちの過ちの結果であると同時に私たちの過ちのせいでもあるわ。川辺で臆病にも逃げ去ったことはどうか許してほしい。Aethen "
+"の森の戦士達が一緒に来ています。一緒に、人間とエルフが協力して、私の師の苦しむ魂に安息を与えてあげましょう。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:968
@@ -6174,13 +6261,14 @@ msgid ""
 "serve us! Their bones will dance for our pleasure! We’ll make humanity into "
 "the mindless slaves that they all deserve to be!"
 msgstr ""
+"なぜその愚か者に与するのだ、Ethiliel？我が下へ来い！我が隣に立つのだ！人間はこの緑溢れる世界から一掃される。その屍は我々に仕えるのだ！骨は我々の慰みのために踊らせてやろう！人間は心ない奴隷となるべきだ！それが人間には相応しい！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:972
 msgid ""
 "And when that’s done, what will us elves have become? Naught but hungering "
 "shadows, devouring all we once cherished."
-msgstr ""
+msgstr "それで、それが終わったら私たちエルフはどうなるの？無尽に飢え、かつて慈しんだものさえも喰らい尽くす、そんな亡者になるしかないのでしょう？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:976
@@ -6189,6 +6277,8 @@ msgid ""
 "once believed in, Mebrin of the elves. We will destroy you and bury your "
 "perverse corruption!"
 msgstr ""
+"単なる人間である私から見ても、今のあなたはかつてのあなたの残骸でしかないのだとわかる。エルフの賢者 Mebrin "
+"よ、ここでその歪んだ堕落諸共あなたを終わらせよう！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:980
@@ -6197,6 +6287,8 @@ msgid ""
 "feast for my ghouls, and once they’re through, your bones will serve me "
 "forever in undeath!"
 msgstr ""
+"Ethiliel "
+"には敬意を抱いているが人間は違う。私を終わらせる、と言ったか？ふっ、人間の肉はグールどもの良いエサになるだろう。それが終わったら、お前の骨には不死の存在として私に永遠に仕えてもらおう！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:996
@@ -6204,14 +6296,14 @@ msgid ""
 "Fools! Imbeciles! You humans are a worthless blight upon this wretched "
 "world! I must purge you all — I must take revenge on all your race... I "
 "must..."
-msgstr ""
+msgstr "笑止！愚か者め！この世界で人間なんぞ単なる害虫でしかない！だから私は貴様等を残らず駆逐する── 私は全てを殺し破壊する── 私は……"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1004
 msgid ""
 "I curse you, Deoran of Wesnoth! I curse you... may you one day know the same"
 " pain that your kind have inflicted on me..."
-msgstr ""
+msgstr "Wesnoth の Deoran！貴様を呪ってやる！お前の仲間が私に与えた痛み、お前もいつか味わうことになるだろう…"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1010
@@ -6225,6 +6317,8 @@ msgid ""
 "We could build an empire together, where the humans are our slaves and you "
 "and I are the immortal rulers of the world!"
 msgstr ""
+"Ethiliel！待て…… "
+"考え直せ！何を投げ出そうとしているのかを分かっているのか！私たちは共に帝国を作り、人間を奴隷にして、永遠の支配者として世界に君臨できるのだぞ！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1035
@@ -6233,13 +6327,14 @@ msgid ""
 " but you’ve been corrupted beyond saving. Still, I’ll fondly cherish the "
 "memories I had with the old you."
 msgstr ""
+"それはとてもみじめな帝国ね、Mebrin。私もこんなことはしたくなかった、でも、あなたは助けようが無い程に堕ちてしまった。それでも、かつてのあなたとの懐かしい記憶を思い出してしまうの。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1039
 msgid ""
 "You wouldn’t dare strike me! I’m the darkness incarnate! I’m your master! "
 "You’ll obey me!"
-msgstr ""
+msgstr "お前に私を殺すことはできないだろう！私は闇の化身である！私はお前の主だ！私に従うのだ！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1045

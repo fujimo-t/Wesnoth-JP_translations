@@ -4188,7 +4188,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:17
 msgid "<i>― Great Mage Delfador, 520YW</i>"
-msgstr ""
+msgstr "<i>― 偉大なる魔法使い Delfador、 Wesnoth 暦 520 年</i>"
 
 #. [tip]
 #: data/tips.cfg:20
@@ -7584,7 +7584,7 @@ msgstr "（無効）"
 
 #: src/reports.cpp:508
 msgid "Resistances:"
-msgstr ""
+msgstr "耐性："
 
 #: src/reports.cpp:510
 msgid "(Att / Def)"
@@ -7592,11 +7592,11 @@ msgstr "（攻撃時 / 防御時）"
 
 #: src/reports.cpp:539
 msgid "Experience Modifier:"
-msgstr ""
+msgstr "必要経験値の変更："
 
 #: src/reports.cpp:589
 msgid "Terrain:"
-msgstr ""
+msgstr "地形："
 
 #: src/reports.cpp:606
 msgid "maximum^max."
@@ -7608,7 +7608,7 @@ msgstr "（最小値）"
 
 #: src/reports.cpp:611
 msgid "Defense:"
-msgstr ""
+msgstr "回避："
 
 #. TRANSLATORS: single-letter abbreviation of "vision", fits in a small space
 #. on the sidebar
@@ -7636,15 +7636,15 @@ msgstr "移動コスト："
 
 #: src/reports.cpp:836 src/reports.cpp:1182 src/reports.cpp:1194
 msgid "Weapon:"
-msgstr ""
+msgstr "武器："
 
 #: src/reports.cpp:837 src/reports.cpp:1183
 msgid "Damage:"
-msgstr ""
+msgstr "ダメージ："
 
 #: src/reports.cpp:841
 msgid "Base damage:"
-msgstr ""
+msgstr "基本ダメージ"
 
 #: src/reports.cpp:843 src/reports.cpp:877 src/reports.cpp:887
 msgid "With specials:"
@@ -7741,19 +7741,19 @@ msgstr "時刻スケジュール"
 
 #: src/reports.cpp:1408 src/reports.cpp:1462
 msgid "Lawful units:"
-msgstr ""
+msgstr "秩序ユニット："
 
 #: src/reports.cpp:1410 src/reports.cpp:1464
 msgid "Neutral units:"
-msgstr ""
+msgstr "中立ユニット："
 
 #: src/reports.cpp:1411 src/reports.cpp:1465
 msgid "Chaotic units:"
-msgstr ""
+msgstr "混沌ユニット："
 
 #: src/reports.cpp:1413 src/reports.cpp:1467
 msgid "Liminal units:"
-msgstr ""
+msgstr "薄明ユニット："
 
 #: src/reports.cpp:1525
 msgid "Turn Number"
