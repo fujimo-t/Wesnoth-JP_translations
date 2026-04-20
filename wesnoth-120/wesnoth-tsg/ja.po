@@ -6354,6 +6354,9 @@ msgid ""
 "\n"
 "As the sun began to rise into the sky, the light dimmed and great fog spread across the battlefield. The sound of fighting dispersed and soon, it was utterly silent as the elves withdrew from combat. The humans advanced cautiously, still in formation, still ready to strike at any sign of trouble."
 msgstr ""
+"南部防衛隊の兵士達は Westin の城壁を断固として守り、エルフと互角に打ち合いました。夜が更け、やがて朝日が姿を見せても、戦闘は続きました。人間が城壁を頑強に支える一方で、エルフは徐々にその数を増していきました。\n"
+"\n"
+"太陽が空高く昇り始めると、不意に光が陰り、戦場を濃い霧が包みました。戦いの音は徐々に散り散りになり、やがてエルフが戦場から引き揚げると、戦場に静寂が訪れました。人間達は異変に即応できるように戦列を維持したまま、注意深く前進しました。"
 
 #. [part]
 #. Epilogue text
@@ -6363,6 +6366,9 @@ msgid ""
 "\n"
 "In full view of the line of infantry, man and elf shook hands. Ethiliel made a full, lengthy, teary apology."
 msgstr ""
+"霧が晴れると、槍の壁を前に立ち並ぶ Ethiliel と Deoran の姿が現れました。二人の顔には悲しみと疲労が色濃く刻まれていました。しかし、そんな Deoran が Wesnoth の兵士に発した言葉は驚くほど明瞭でした。<b>「止まれ！人間もエルフももう十分に血を流した。Aethen の森は矛を収めた。」</b>\n"
+"\n"
+"歩兵隊の戦列の面前で一人の人間と一人のエルフが握手を交わしました。涙ながらに、Ethiliel は心からの長い謝罪の言葉を述べました。"
 
 #. [part]
 #. Epilogue text
@@ -6374,6 +6380,9 @@ msgid ""
 "rebuild their homes and bury the dead to the north of the town, where many "
 "mounds joined the small garden of graves already there."
 msgstr ""
+"数日の間、Aethen "
+"の森のヒーラー達は無我夢中で働き、出来うる限りエルフと人間の治療を行いました。彼らははじめ怒りに出迎えられましたが、嫌々ながら受け入れられました。一方、村人は村の再建に着手しました。死者は都市の北にある墓地に葬られました。そこは元々小さな墓地でしたが、今回の件で非常に多くの者達が加わることになりました。"
+" "
 
 #. [part]
 #. Epilogue text
@@ -6383,6 +6392,9 @@ msgid ""
 "\n"
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"こうして、人間とエルフは互いに謝罪し合い、友情を新たにし、再び同盟を結びました。\n"
+"\n"
+"Westin の再建には長い時間が必要でしたが、Deoran の指導力と南部防衛隊の勇気ある行動のおかげもあって、その過程は円滑に進んでいきました。"
 
 #. [part]
 #. Epilogue text
@@ -6392,6 +6404,9 @@ msgid ""
 "\n"
 "Deoran rode to the forefront of the line of infantry, his hand outstretched. With a silent handshake, man and elf made peace."
 msgstr ""
+"霧が晴れると、槍の壁を前に Ethiliel が一人で立っていました。彼女の顔には悲しみと疲労が色濃く刻まれていました。しかし、そんな Ethiliel が Wesnoth の兵士に発した言葉は驚くほど明瞭でした。<b>「ここまでです！私の過ちのために多くの人間とエルフの血が流れてしまいました。Aethen の森は攻撃を止めます。」</b>\n"
+"\n"
+"Deoran は歩兵隊の戦列の最前線まで駆けつけ、手を差し伸べました。無言で握手を交わし、人間とエルフは和解しました。"
 
 #. [part]
 #. Epilogue text
@@ -6401,6 +6416,9 @@ msgid ""
 "\n"
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"こうして、不安定ながらも合意が成立しました。この合意は、やがて人間とエルフの間に再び友情が芽生える道を開くことになるのです。\n"
+"\n"
+"Westin の再建には長い時間が必要でしたが、Deoran の指導力と南部防衛隊の勇気ある行動のおかげもあって、その過程は円滑に進んでいきました。"
 
 #. [part]
 #. Epilogue text
@@ -6410,6 +6428,9 @@ msgid ""
 "\n"
 "With their master’s power gone, the undead warriors fell back to lifelessness, crumbling into inanimate heaps of bones. The rusting wind floated across the battlefield in gentle streams, carrying with it the souls of the fallen and ascending toward the sky where the sun began to break through the ashen clouds. As the sunlight broke through, the wind passed, and all was still."
 msgstr ""
+"リッチの断末魔の叫びが戦場に響き渡ると、彼の骨の体も崩れ出しました。崩れた体は灰となり、やがて冷たい風に溶けていきました。不死となったこの魂も、悠久の時の流れへと還ったのです。\n"
+"\n"
+"主の力が無くなったため、アンデッドの戦士達も崩れ落ち、ただの骨の山となりました。戦場には、錆びついた風が穏やかにサラサラと流れ、戦場に倒れた者達の魂を雲間から顔を出した太陽の元へと連れて行くかのようでした。やがて、陽光が満ち、風が吹き抜けると、辺りは静寂に包まれました。"
 
 #. [part]
 #. Epilogue text
@@ -6419,6 +6440,9 @@ msgid ""
 "\n"
 "In the days to come, the villagers set out to rebuild their homes and bury the dead to the north of the town, where many new mounds joined the small garden of graves already there."
 msgstr ""
+"Wesnoth の兵士たちはゆっくりと額から兜をずらしました。戦闘は終わりました。アンデッドはもういません。\n"
+"\n"
+"それから、村人は村の再建に着手しました。死者は都市の北にある墓地に葬られました。そこは元々小さな墓地でしたが、今回の件で非常に多くの者達が加わることになりました。 "
 
 #. [part]
 #. Epilogue text
@@ -6429,6 +6453,9 @@ msgid ""
 "out to rebuild their homes and bury the dead to the north of the town, where"
 " many mounds joined the small garden of graves already there."
 msgstr ""
+"数日の間、Aethen "
+"の森のヒーラー達は無我夢中で働き、出来うる限りエルフと人間の治療を行いました。一方、村人は村の再建に着手しました。死者は都市の北にある墓地に葬られました。そこは元々小さな墓地でしたが、今回の件で非常に多くの者達が加わることになりました。"
+" "
 
 #. [part]
 #. Epilogue text
@@ -6438,6 +6465,9 @@ msgid ""
 "\n"
 "Still, he found small consolation in locating Sir Gerrick’s glaive and shield and bearing them back with him to Westin. Those he placed atop Gerrick’s mound, where they became a symbol of sacrifice, loyalty and valor."
 msgstr ""
+"しばらく経った後、Deoran は調査隊を率いて Southport の集落へ向かいました。小屋はいずれも無残なまでに破壊され、血と壊れた武具が辺りに散乱していました。Deoran はその場に死体がなかったことに気づき、心の中でリッチを罵りました。しかし、Deoran はもちろん、彼らもこうなることはわかっていました。こうなることを覚悟で彼らが勇敢に戦ったからこそ、Westin はあのアンデッドの襲撃を耐え抜くことができたのです。\n"
+"\n"
+"それでも、Deoran は Gerrick 卿のグレイブと盾を見つけ、Westin に持ち帰ったことで少しだけ心の荷が軽くなったように感じました。そのグレイブと盾は Gerrick の墓の最上部に置かれ、献身、忠義、勇気の象徴となりました。"
 
 #. [part]
 #. Epilogue text
@@ -6447,6 +6477,9 @@ msgid ""
 "\n"
 "Still, he found small consolation in locating Minister Hylas’s staff and book and bearing them back with him to Westin. Those he placed atop Hylas’s mound, where they became a symbol of sacrifice, loyalty and valor."
 msgstr ""
+"しばらく経った後、Deoran は調査隊を率いて Southport の集落へ向かいました。小屋はいずれも無残なまでに破壊され、血と壊れた武具が辺りに散乱していました。Deoran はその場に死体がなかったことに気づき、心の中でリッチを罵りました。しかし、Deoran はもちろん、彼らもこうなることはわかっていました。こうなることを覚悟で彼らが勇敢に戦ったからこそ、Westin はあのアンデッドの襲撃を耐え抜くことができたのです。\n"
+"\n"
+"それでも、Deoran は Hylas 牧師の杖と本を見つけ、Westin に持ち帰ったことで少しだけ心の荷が軽くなったように感じました。その杖と本は Hylas の墓の最上部に置かれ、献身、忠義、勇気の象徴となりました。"
 
 #. [part]
 #. Epilogue text
@@ -6456,6 +6489,9 @@ msgid ""
 "\n"
 "Still, he found small consolation in locating Captain Mari’s sword and sling and bearing them back with him to Westin. Those he placed atop Mari’s mound, where they became a symbol of sacrifice, loyalty and valor."
 msgstr ""
+"しばらく経った後、Deoran は調査隊を率いて Southport の集落へ向かいました。小屋はいずれも無残なまでに破壊され、血と壊れた武具が辺りに散乱していました。Deoran はその場に死体がなかったことに気づき、心の中でリッチを罵りました。しかし、Deoran はもちろん、彼らもこうなることはわかっていました。こうなることを覚悟で彼らが勇敢に戦ったからこそ、Westin はあのアンデッドの襲撃を耐え抜くことができたのです。\n"
+"\n"
+"それでも、Deoran は Mari 大尉の剣とスリングを見つけ、Westin に持ち帰ったことで少しだけ心の荷が軽くなったように感じました。その剣とスリングは Mari の墓の最上部に置かれ、献身、忠義、勇気の象徴となりました。"
 
 #. [part]
 #. Epilogue text
@@ -6465,6 +6501,9 @@ msgid ""
 "\n"
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"こうして、人間は自分たちの力だけでアンデッドを破り、勝利の栄光に包まれました。\n"
+"\n"
+"Westin の再建には長い時間が必要でしたが、Deoran の指導力と南部防衛隊の勇気ある行動のおかげもあって、その過程は円滑に進んでいきました。"
 
 #. [part]
 #. Epilogue text
@@ -6474,26 +6513,29 @@ msgid ""
 "\n"
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"こうして、人間とエルフは力を合わせてアンデッドを破り、共に勝利の栄光に包まれました。\n"
+"\n"
+"Westin の再建には長い時間が必要でしたが、Deoran の指導力と南部防衛隊の勇気ある行動のおかげもあって、その過程は円滑に進んでいきました。"
 
 #. [unit]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:232
 msgid "Prince Arand"
-msgstr ""
+msgstr "Arand 王子"
 
 #. [unit]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:245
 msgid "King Garard II"
-msgstr ""
+msgstr "Garard II世"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:274
 msgid "Some weeks after the battle..."
-msgstr ""
+msgstr "戦闘から数週間後…"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:280
 msgid "<b><i>This</i></b> is the perfect town you promised me, brother?"
-msgstr ""
+msgstr "弟よ、<b>これが</b>約束していた理想の町なのか？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:287
@@ -6502,6 +6544,9 @@ msgid ""
 "\n"
 "No, I do not think I shall be investing any more resources in this little project of yours, Arand."
 msgstr ""
+"川には瓦礫、通りには血。人影はほとんどない。<b>最も有能な若手将校の一人を派遣しておいて</b>、この有様なのか？どうやら、それほど有能ではなかったようだな。\n"
+"\n"
+"Arand、ダメだな。お前のささやかなプロジェクトにこれ以上のリソースを投入するつもりはない。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:293
@@ -6510,6 +6555,7 @@ msgid ""
 " barely a year ago, at which time our plan of expansion seemed to be going "
 "splendidly."
 msgstr ""
+"認めざるを得ません… 状況が少し悪化したようです。前回訪れたのは１年ほど前のことですが、その当時は拡張計画が順調に進んでいるように見えました。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:297
@@ -6518,33 +6564,34 @@ msgid ""
 "settling lands barren and empty. I respect a good fight; lust for one, even."
 " But what glory is there to be won in a listless place like this?"
 msgstr ""
+"この南部の小さな試みを通じて、私は気づいた。不毛で何もない土地を開拓しても、何も得られない。私は立派な戦いには敬意を払う。むしろ、私自身がそれを渇望していると言ってもいい。だが、こんな活気のない場所で、一体どんな栄光が得られるというのか？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:301
 msgid "No. We’ve tried things your way, brother. Now it’s time for mine."
-msgstr ""
+msgstr "何も得られない。弟よ、既にお前のやり方は試した。次は私の番だ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:317
 msgid "Oh, and Arand?"
-msgstr ""
+msgstr "おお、そうだ、Arand？"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:321
 msgid "—yes, Your Majesty?"
-msgstr ""
+msgstr "──はい、なんでしょう陛下？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:325
 msgid "Nice statue."
-msgstr ""
+msgstr "素晴らしい像だな。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:338
 msgid ""
 "Congratulations! You’ve completed <i>The South Guard</i> and should now "
 "understand the fundamentals of Wesnoth."
-msgstr ""
+msgstr "おめでとうございます！あなたは<b>南部防衛隊</b>をクリアし、Wesnoth の基礎を理解できたことでしょう。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:340
@@ -6554,6 +6601,7 @@ msgid ""
 "follows different characters. <i>Of Pearls and Pirates</i> also includes "
 "some minor tutorial elements, and leads into a broader story arc."
 msgstr ""
+"次にプレイするキャンペーンとしては<b>真珠と海賊</b>がお勧めです。これは時系列でも南部防衛隊の次にあたるキャンペーンです。物語の舞台は小さな海岸沿いの村で、また別の登場人物たちの物語が描かれています。<b>真珠と海賊</b>には簡単なチュートリアル要素も含まれており、物語もまた大きく広がっていきます。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:342
@@ -6562,6 +6610,8 @@ msgid ""
 " novice-level Wesnoth campaigns, like <i>A Tale of Two Brothers</i> or "
 "<i>Dusk of Dawn</i>."
 msgstr ""
+"あるいは、Wesnoth "
+"の歴史の別の時点を見てみたいのであれば、<b>二人の兄弟の物語</b>や<b>夜明けの黄昏</b>のような他の初心者向けのキャンペーンもお勧めです。"
 
 #. [unit_type]: id=Cavalryman Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran1_Cavalryman.cfg:35
