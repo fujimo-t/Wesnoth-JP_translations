@@ -6745,37 +6745,40 @@ msgid ""
 "\n"
 "The occasional loss of limb is an unfortunate side effect of unarmored combat. Though such an injury prevents the use of bows and crossbows, slings can be wielded one-handed, and make for a competent substitute."
 msgstr ""
+"ほとんどの兵士が戦闘において着用する鎧は彼ら自身の最悪の敵であるという考えをもつ流派に、剣術士（Fencer）は所属しています。鎧は殴打をやわらげるだけですが、それをかわすことができれば完全に被害を受けなくなります。攻撃的な動きを頼もしく避けることが可能となれば、ぜいたくは身体にぴったり合うものだけでよくなり、その時は厳格な訓練に耐えられる者のみとなります。\n"
+"\n"
+"軽装での戦闘は手足を失う危険と隣り合わせです。そのような怪我を負った場合、弓やクロスボウを扱うことは困難ですが、スリングであれば片手で扱えるため、適切な代替品になります。"
 
 #. [variation]
 #. name is hidden
 #: data/campaigns/The_South_Guard/units/Mari2.cfg:101
 msgid "Observer"
-msgstr ""
+msgstr "監視員"
 
 #. [unit_type]: id=Master Fencer, race=human, gender=female
 #: data/campaigns/The_South_Guard/units/Mari3.cfg:4
 msgid "Master Fencer"
-msgstr ""
+msgstr "精鋭剣術士"
 
 #. [unit_type]: id=King of Wesnoth, race=human
 #: data/campaigns/The_South_Guard/units/NPC_Garard.cfg:17
 msgid "King of Wesnoth"
-msgstr ""
+msgstr "Wesnoth の王"
 
 #. [attack]
 #: data/campaigns/The_South_Guard/units/NPC_Garard.cfg:39
 msgid "longsword"
-msgstr ""
+msgstr "長剣"
 
 #. [attack]
 #: data/campaigns/The_South_Guard/units/NPC_Garard.cfg:46
 msgid "lance"
-msgstr ""
+msgstr "ランス"
 
 #. [unit_type]: id=Townsfolk, race=human, gender=male,female
 #: data/campaigns/The_South_Guard/units/NPC_Townsfolk.cfg:4
 msgid "Townsfolk"
-msgstr ""
+msgstr "街の住民"
 
 #. [unit_type]: id=Townsfolk, race=human, gender=male,female
 #: data/campaigns/The_South_Guard/units/NPC_Townsfolk.cfg:18
@@ -6785,15 +6788,16 @@ msgid ""
 "almost universally lack the strength that comes from a life of physical "
 "labour, and thus are not conscripted as often as peasants."
 msgstr ""
+"街の住民（Townsfold）は都市に住む、商人、職人、貴族の家の召使いのような非暴力な方法で生計を立てる者たちです。彼らは肉体労働に従事する者たちのような強さを持たないため、農民達のように徴兵されることもありません。"
 
 #: data/campaigns/The_South_Guard/utils/_initial.cfg:357
 msgid "Click a mouse button or press the spacebar to continue..."
-msgstr ""
+msgstr "マウスのボタンをクリックするか、スペースキーを押すと進みます…"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/savescumming.cfg:119
 msgid "Save-Loading and RNG"
-msgstr ""
+msgstr "保存と再開、そして乱数"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/savescumming.cfg:121
@@ -6821,41 +6825,64 @@ msgid ""
 "but don’t feel like you’re required to save-load in \n"
 "order to win!"
 msgstr ""
+"保存したデータから何度も再開していますね。\n"
+"そのプレイスタイルが好きならそれもOKです！\n"
+"\n"
+"しかし、もし攻撃の命中率が不公平に感じるので\n"
+"あれば、<b>デフォルトRNG</b>のかわりに<b>軽減RNG</b>\n"
+"を選択してキャンペーンをやり直すのも有りです。\n"
+"あるいは、難易度を変更することもできます。\n"
+"「シナリオ開始時のデータ」から再開する時に、\n"
+"<b>難易度変更</b>の小さなボックスを調べましょう。\n"
+"\n"
+"あるいは、以前のターンに戻ったり、以前のシナ\n"
+"リオに戻って別の戦略を試したり、より多いゴールド\n"
+"引き継ぎを狙うこともできます。\n"
+"\n"
+"キャンペーンは保存や再開を最小限に抑えるよう\n"
+"調整しており、開発中はセーブやロードを一切行わず\n"
+"にすべてのキャンペーンをクリアしました。ただし、\n"
+"損害無しでキャンペーンをクリアすることは想定して\n"
+"いません。\n"
+"\n"
+"保存や再開を繰り返しても全く問題はありません。\n"
+"しかし、勝つためには保存や再開を繰り返すことが\n"
+"必須とは思わないでください！"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:112
 msgid "Death of Deoran or Captain Mari"
-msgstr ""
+msgstr "Deoran か Mari 大尉の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:119
 msgid "Death of Deoran or Sir Gerrick"
-msgstr ""
+msgstr "Deoran か Gerrick 卿の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:126
 msgid "Death of Deoran or Minister Hylas"
-msgstr ""
+msgstr "Deoran か Hylas 牧師の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:133
 msgid "Death of Deoran, Captain Mari, or Ethiliel"
-msgstr ""
+msgstr "Deoran、Mari 大尉、もしくは Ethiliel の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:140
 msgid "Death of Deoran, Sir Gerrick, or Ethiliel"
-msgstr ""
+msgstr "Deoran、Gerrick 卿、もしくは Ethiliel の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:147
 msgid "Death of Deoran, Minister Hylas, or Ethiliel"
-msgstr ""
+msgstr "Deoran、Hylas 牧師、もしくは Ethiliel の死"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:164
 msgid "I have failed my kingdom and duty..."
-msgstr "王国を守る責務を果たせぬとは……"
+msgstr "責務を果たせずに倒れるのか…"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:181
@@ -6864,21 +6891,22 @@ msgid ""
 "we could still manage to win by force of arms, Westin is doomed without its "
 "people..."
 msgstr ""
+"敵が落とし戸を破って、難民の隠れ家へと侵入した！たとえ戦闘で勝利を収めることができたとしても、住民がいなければ Westin は終わりだ……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:209
 msgid "Taste cold steel!"
-msgstr "我が槍をとくと味わうが良い！"
+msgstr "我が剣をとくと味わうが良い！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:225
 msgid "Yeah... I should’ve figured I wouldn’t get a happy ending..."
-msgstr ""
+msgstr "はは…… やっぱり私がハッピーエンドなんて望むんじゃなかったね…"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:244
 msgid "I have given all in service of my kingdom..."
-msgstr ""
+msgstr "私は王国のために全てを捧げたのだ…"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:264
