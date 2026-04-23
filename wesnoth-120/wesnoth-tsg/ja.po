@@ -6926,6 +6926,9 @@ msgid ""
 "\n"
 "For a full description of what one of your units can do, <b><i>right-click it and select “Unit Type Description.”</i></b>"
 msgstr ""
+"あなたのユニットの一人が最大 XP に達し、レベルアップしました！以前よりもずっと強くなり、さらに完全に回復しました！\n"
+"\n"
+"ユニットに何ができるのか詳細に知りたい場合は<b>ユニットを右クリックして、「ユニット解説」を選びましょう</b>。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:94
@@ -6943,13 +6946,24 @@ msgid ""
 "a gold boost (“early finish bonus”) \n"
 "in the next scenario, so don’t delay!"
 msgstr ""
+"\n"
+"大抵のシナリオにはターン制限があり、\n"
+"画面左上の角に表示があります。\n"
+"通常はターンが尽きれば敗北ですが…\n"
+"画面左上の<b>「メニュー」</b>ボタンを\n"
+"クリックし、<b>目標</b>を確認しましょう。\n"
+"（<b>Ctrl+j</b>のホットキーでも大丈夫です）\n"
+"\n"
+"速やかにクリアできれば次のシナリオで\n"
+"ゴールドボーナス（早期終了ボーナス）が\n"
+"得られます！引き延ばしは避けましょう。"
 
 #. [message]: id=Ethiliel,Hylas {NOT race=mechanical}
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:129
 msgid ""
 "My healing magic is potent, but I cannot use it to heal myself. I’ll have to"
 " spend some time in a village to recover."
-msgstr ""
+msgstr "私の癒しの力は有用ですが、自分を癒すことはできません。私が回復するには村で休む必要があります。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:151
@@ -6959,6 +6973,7 @@ msgid ""
 "attacks)</i>, but because the dummy has no ranged weapon of its own it was "
 "unable to retaliate."
 msgstr ""
+"<b>遠隔攻撃</b>を行ったぞ！この人形の隣に立つ必要があるが（遠隔攻撃の扱いが普通のゲームとは違うことに注意）、こいつは遠隔攻撃武器を持たないから反撃はできない。"
 
 #. [message]: speaker=unit
 #. second_unit may be a Walking Corpse, Ghoul, Skeleton, or one of their
@@ -6970,6 +6985,7 @@ msgid ""
 "handle ranged attacks)</i>, but because the $second_unit.language_name has "
 "no ranged weapon of its own it was unable to retaliate."
 msgstr ""
+"<b>遠隔攻撃</b>を行ったぞ！この$second_unit.language_name|の隣に立つ必要があるが（遠隔攻撃の扱いが普通のゲームとは違うことに注意）、この$second_unit.language_name|は遠隔攻撃武器を持たないから反撃はできない。"
 
 #. [message]: speaker=unit
 #. second_unit may be a Thug (always male) or one of its advancements
@@ -6980,27 +6996,28 @@ msgid ""
 "handle ranged attacks)</i>, but because the $second_unit.language_name has "
 "no ranged weapon of his own he was unable to retaliate."
 msgstr ""
+"<b>遠隔攻撃</b>を行ったぞ！この$second_unit.language_name|の隣に立つ必要があるが（遠隔攻撃の扱いが普通のゲームとは違うことに注意）、この$second_unit.language_name|は遠隔攻撃武器を持たないから反撃はできない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:191
 msgid ""
 "Our bows and spears are nearly useless against these skeletons! They have "
 "nothing for our shafts to pierce but air!"
-msgstr ""
+msgstr "俺達の武器はスケルトンには効果が薄い！こいつらには矢や槍で貫けるとこがないぞ！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:195
 msgid ""
 "To see what damage resistances and vulnerabilities a unit has, right-click "
 "it and select “Unit Type Description.”"
-msgstr ""
+msgstr "ユニットのダメージ耐性や弱点を調べたい場合は、ユニットを右クリックし、「ユニット解説」を選びましょう。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:219
 msgid ""
 "I perish! Such wasted potential! I’d gained much experience, and was close "
 "to becoming something more..."
-msgstr ""
+msgstr "やられてしまった！私は多くの経験を積み、さらなる高みへ到達するところだったのに… なんてもったいない…"
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:225
@@ -7009,13 +7026,15 @@ msgid ""
 "experienced soldiers, so that they can eventually advance to powerful Level "
 "2 veterans."
 msgstr ""
+"多くの経験を積んだユニットが死んでしまいました！経験を積んだ兵士は大事にしましょう。レベルアップできれば強力なレベル 2 "
+"のベテランユニットになれるのですから。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:246
 msgid ""
 "Argh, I fall! All my hard-won battle experience is lost! I will not be easy "
 "to replace, Deoran..."
-msgstr ""
+msgstr "うぐっ、ここまでか！苦労して積み重ねた経験が全て無駄になってしまった！Deoran、俺の代わりはそう簡単には見つからないぞ…"
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:252
@@ -7023,6 +7042,7 @@ msgid ""
 "One of your high-level veterans has died! Take care to protect your promoted"
 " soldiers, so that you can recall them in future battles."
 msgstr ""
+"レベルの高いベテランユニットが死んでしまいました！今後のシナリオでも召還して活躍できるのですから、レベルアップした兵士は特に大事にしましょう。"
 
 #. [message]: speaker=unit
 #. $consecutive_misses will be 3 or higher. Alternatively, can be translated
@@ -7033,6 +7053,8 @@ msgid ""
 "had a high chance to evade. I might have had better odds attacking a "
 "different enemy."
 msgstr ""
+"$consecutive_misses "
+"回の攻撃が全て外れてしまった！手を抜いたわけじゃないが、うまく避けられた。他の敵を攻撃した方がよかったかもしれない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:312
@@ -7041,11 +7063,12 @@ msgid ""
 "luck and mitigate bad luck. After all, both good and bad luck are equally "
 "likely!"
 msgstr ""
+"優れた指揮官は、確率を正しく見極め、幸運を最大限に活かすと同時に、不運の影響を最小限に抑える術を知っています。結局のところ、幸運も不運も、どっちも起こるのですから！"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:315
 msgid "Managing Luck"
-msgstr ""
+msgstr "運の管理"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:317
@@ -7068,6 +7091,21 @@ msgid ""
 "<i><b>“Reduced RNG”</b></i> when starting a new \n"
 "campaign."
 msgstr ""
+"Wesnoth は確実に計算ができるゲームでは\n"
+"なく、柔軟な対応が要求されます。\n"
+"物事が計画通りに進めば、誰でも勝てます。\n"
+"Wesnoth の技術や上手さは<b>不運の影響を\n"
+"最小限に抑えつつ</b>、同時に<b>幸運を最大限に活かす</b>\n"
+"戦略を練ることにあります。不運と幸運が\n"
+"両方起こるのだから、両方に備えるのです！\n"
+"\n"
+"上手なプレイヤーであれば、保存と再開\n"
+"でやりなおしたりせずとも最高難易度で\n"
+"全てのキャンペーンをクリアできます！\n"
+"\n"
+"とは言え、もっと計算できる方が好みで\n"
+"あるのならばキャンペーンをはじめる時に\n"
+"<b>軽減RNG</b>を選ぶといいでしょう。"
 
 #. [message]: speaker=unit
 #. $consecutive_hits will be 3 or higher. Alternatively, can be translated
@@ -7078,6 +7116,8 @@ msgid ""
 "happen, but a good commander knows how to win without relying on it. After "
 "all, bad luck happens just as often as good luck!"
 msgstr ""
+"幸運にも $consecutive_hits "
+"回の攻撃全てを当てられたぞ！幸運は起こるときは起こるものだが、優れた指揮官はそのような幸運に頼らずに勝つ術を知っている。結局のところ、不運と幸運は同じくらい起こるものだからな！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:380
@@ -7086,6 +7126,8 @@ msgid ""
 "chance to evade! That’s unlucky, but bad luck happens just as often as good "
 "luck — a good commander knows how to plan around both!"
 msgstr ""
+"$consecutive_misses 回の攻撃が全て外れてしまった！それも敵の回避率が高くないのに！これは不運だが、不運と幸運は同じくらい起こるものだ"
+" ── 優れた指揮官は両方を想定して計画を立てるのだ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:403
@@ -7095,6 +7137,8 @@ msgid ""
 "to hit, but sometimes I also hit strikes that I was likely to miss — like "
 "now!"
 msgstr ""
+"$consecutive_hits 回の攻撃を全て命中させた！しかも敵の回避率が高いのに！こういうことはあるものだ ── "
+"当てられそうな時でも全部外すことはあるし、当たりそうになかったのに全部当たることもある ── 今のように！"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:413
