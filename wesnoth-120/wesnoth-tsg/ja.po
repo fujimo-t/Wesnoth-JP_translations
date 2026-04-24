@@ -7143,7 +7143,7 @@ msgstr ""
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:413
 msgid "Allies"
-msgstr ""
+msgstr "友軍"
 
 #. [display_tip]
 #. while this message is partly to explain about allies, it's mostly to 1)
@@ -7160,11 +7160,19 @@ msgid ""
 "thus do not exert a Zone of Control</i></b>. Enemies can move\n"
 "around them unhindered."
 msgstr ""
+"友軍は、移動不能な単純な衛兵から、独自の収入、リーダー、\n"
+"AI を持つ本格的な勢力まで多岐にわたります。各陣営の\n"
+"所持金、収入は<b>Alt+s</b>で確認できます。\n"
+"\n"
+"このシナリオでは、友軍には農民と木こりが含まれます。\n"
+"歩く死体と同様に、<b>農民と木こりはレベル０ユニット\n"
+"のため、支配領域（ZOC）を持ちません。</b>\n"
+"敵は彼らに邪魔されることなく動くことができます。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:433
 msgid "Accelerated Speed"
-msgstr ""
+msgstr "高速化"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:435
@@ -7173,11 +7181,14 @@ msgid ""
 "you can enable <i><b>Accelerated Speed</b></i> and/or \n"
 "<i><b>Skip AI Moves</b></i> in the Preferences menu."
 msgstr ""
+"移動や戦闘の描写に時間がかかりすぎていると\n"
+"感じたら、設定の<b>高速化</b>や<b>AI 移動スキップ</b>\n"
+"を有効にすると速度が上がります。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:447
 msgid "Building a Powerful Army"
-msgstr ""
+msgstr "強力な軍勢を作ろう"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:449
@@ -7193,16 +7204,26 @@ msgid ""
 "campaigns, <i><b>be sure to protect your veterans and build them into a powerful\n"
 "army.</b></i>"
 msgstr ""
+"ユニットは戦闘のたびに経験を得ます。敵を殺した場合は特に大きな\n"
+"経験が得られます。大抵のキャンペーンでは、<b>複数のシナリオで同じ\n"
+"ベテランユニットが召還される</b>ことを想定しており、経験を積み重ね\n"
+"ていくことで、いずれ<b>レベル２、３のユニットが増えていく</b>でしょう。\n"
+"\n"
+"もし、今レベル２、３のユニットがいなくても絶望する必要はありま\n"
+"せん！このキャンペーンは難易度が抑えられているので、弱い軍勢\n"
+"でもクリアできるようになっています。戦術を工夫する必要はありますが。\n"
+"今後プレイするキャンペーンでは、<b>ベテランユニットを大事にして、\n"
+"強力な軍勢を作るよう心がけましょう</b>。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:461
 msgid "Sacrificial Lambs"
-msgstr ""
+msgstr "生贄の子羊"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:463
 msgid "On the topic of protecting veterans..."
-msgstr ""
+msgstr "ベテランの保護についてですが…"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:465
@@ -7219,6 +7240,15 @@ msgid ""
 "veterans from the worst of the \n"
 "enemy's attacks."
 msgstr ""
+"挑戦的なシナリオでは、全てのユニ\n"
+"ットを守りえない場合が多いです。\n"
+"\n"
+"ベテランを肉挽き機に向かわせる\n"
+"かわりに新兵や役に立たないユニッ\n"
+"トを向かわせましょう。\n"
+"\n"
+"そうすればベテランユニットを敵の\n"
+"猛攻から守ることができるでしょう。"
 
 #. [part]
 #. Intro to scenario 4
@@ -7228,6 +7258,9 @@ msgid ""
 "\n"
 "Finally, Ethiliel told them to halt and pitch camp — they had reached the Black River, beyond which no elf or man would willingly pass."
 msgstr ""
+"Ethiliel は南部防衛隊の面々を南の森へと導きました。うっそうとした森を進んで行くと、不自然な陰がその濃さを増し、不気味で不思議な静寂さもまた段々と濃くなっていきます。周囲が徐々に灰色で塗りつぶされていくような感覚を覚えるほどです。全てが薄暗くのっぺりと染まったその世界では全ての動作や音が目立たなくなっていきます。Deoran 達の一団も、深い森と互いの位置に最大限に気を払って不測の事態に備えつつ、進んで行きました。\n"
+"\n"
+"やがて、Ethiliel は一行にここで止まって野営準備するように言いました ── 彼らは黒の川にたどり着いたのです。エルフも人間も、この先に進んで足を踏み入れることはありません。"
 
 #. [part]
 #. Intro to scenario 5
@@ -7237,6 +7270,9 @@ msgid ""
 "\n"
 "The ominous gloom of the forest seemed to lift behind them as the tired soldiers returned towards the land of men. But even as the dark magic faded into memory, a new threat made itself known in the form of subtle footfalls amongst the trees..."
 msgstr ""
+"Urza Afalas の案内で、Deoran 達は黒の川を渡って北へと進みました。\n"
+"\n"
+"疲れ果てた兵士たちが人間の地へと戻るにつれ、背後の森の不吉な陰鬱さも薄れていくようでした。しかし、闇の魔法が記憶の中に消え去ろうとしたまさにその時、木々の間から聞こえるかすかな足音という形で、新たな脅威が姿を現したのです…"
 
 #. [part]
 #. Intro to scenario 5
@@ -7246,6 +7282,9 @@ msgid ""
 "\n"
 "The ominous gloom of the forest seemed to lift behind them as the tired soldiers returned towards the land of men. But even as the dark magic faded into memory, a new threat made itself known in the form of subtle footfalls amongst the trees..."
 msgstr ""
+"Urza Afalas は姿を消しましたが、Deoran 達は黒の川を渡って北へと進みました。\n"
+"\n"
+"疲れ果てた兵士たちが人間の地へと戻るにつれ、背後の森の不吉な陰鬱さも薄れていくようでした。しかし、闇の魔法が記憶の中に消え去ろうとしたまさにその時、木々の間から聞こえるかすかな足音という形で、新たな脅威が姿を現したのです…"
 
 #. [part]
 #. Intro to scenario 5b
@@ -7255,3 +7294,6 @@ msgid ""
 "\n"
 "Yet even as they returned towards the land of men, the ominous gloom of the forest followed them. Up above, the bright sun was shrouded with grey fog, overcast with billowing clouds streaking through the sky in streams of darkened ash. Behind, the crepuscular shadow spread outward from the forest, an unnatural extension of the still-undefeated powers that lay within. It gained quickly upon them, the sinister darkness creeping ever-faster toward the men of the South Guard."
 msgstr ""
+"Ethiliel のこみあげ続ける不安に急かされるように、Deoran 達は急いで北に向かい、森から抜け出しました。\n"
+"\n"
+"人間の地へ戻ったとは言え、背後にはまだ不吉な森が広がっています。周囲には灰色の霧が広がっており、空を見上げれば、渦巻く雲が暗く濁った灰の流れを成して駆け抜けていきます。太陽の光はそれらに阻まれて地上までは届きません。背後の森からは内側の力が漏れ出すかのように、不自然で不吉な闇がうっすらと染み出しています。闇は速度を増して南部防衛隊の面々に迫っているようでもありました。"
