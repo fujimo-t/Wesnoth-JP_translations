@@ -5367,7 +5367,7 @@ msgid ""
 " elves would cut us down. We cannot attack, or we risk provoking an all-out "
 "war. Our only choice is to hold the town, and hope the elves see sense."
 msgstr ""
-"見事なまでに板ばさみの状況ですね。逃げればエルフに殺されてしまいます。逆に、攻撃してしまえば全面戦争に発展しかねません。こうなっては、町の防衛に徹し、エルフが理性を取り戻すことを期待するしかありません。"
+"生き埋めにでもされたかのように身動きが取れませんね。逃げればエルフに殺されてしまいます。逆に、攻撃してしまえば全面戦争に発展しかねません。こうなっては、町の防衛に徹し、エルフが理性を取り戻すことを期待するしかありません。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:537
@@ -5376,7 +5376,7 @@ msgid ""
 "cut us down. Can’t attack, or we provoke an all-out war. Guess our only "
 "option is to hold the town and hope the elves see sense."
 msgstr ""
-"にっちもさっちもいかない状況だね。逃げればエルフに殺されるし、うっかり攻撃したら全面戦争になりかねない。つまりあたしたちは町の防衛に徹し、あの頭に血がのぼった連中が落ち着くのを期待するしかないってことか。やれやれ。"
+"にっちもさっちもいかない。生き埋めにでもされたんかね、私たちは。逃げればエルフに殺されるし、うっかり攻撃したら全面戦争になりかねない。つまりあたしたちは町の防衛に徹し、あの頭に血がのぼった連中が落ち着くのを期待するしかないってことか。やれやれ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:550
