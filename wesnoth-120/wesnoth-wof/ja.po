@@ -4553,7 +4553,7 @@ msgstr "奇妙な生き物"
 #. [leader]: id=Lich-Lord Selmar, type=Ancient Lich
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:74
 msgid "Lich-Lord Selmar"
-msgstr ""
+msgstr "リッチ君主 Selmar"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:107

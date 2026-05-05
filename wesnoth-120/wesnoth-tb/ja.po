@@ -109,7 +109,7 @@ msgstr "Maghre の英雄"
 #. [achievement]: id=heroes_of_maghre
 #: data/campaigns/Two_Brothers/achievements.cfg:9
 msgid "Complete <i>Rooting Out a Mage</i> without recruiting."
-msgstr ""
+msgstr "雇用せずに「魔術師の根絶」を達成する。"
 
 #. [achievement]: id=treasure
 #: data/campaigns/Two_Brothers/achievements.cfg:15
@@ -119,7 +119,7 @@ msgstr "宝物"
 #. [achievement]: id=treasure
 #: data/campaigns/Two_Brothers/achievements.cfg:16
 msgid "Find the chest of gold in <i>Guarded Castle</i>."
-msgstr ""
+msgstr "「防御された城」の中で宝箱を発見する。"
 
 #. [achievement]: id=baran_returns
 #: data/campaigns/Two_Brothers/achievements.cfg:22
@@ -131,7 +131,7 @@ msgstr "Baran の帰還"
 msgid ""
 "Complete <i>Return to the Village</i> by defeating the enemy leader with "
 "Baran."
-msgstr ""
+msgstr "Baran で敵のリーダーに止めを刺して「村への帰還」を達成する。"
 
 #. [achievement]: id=arvith_the_great_knight
 #: data/campaigns/Two_Brothers/achievements.cfg:29
@@ -163,9 +163,9 @@ msgid ""
 "them not. Even merchants were rarely seen, although caravans between Aldril "
 "and Dan’Tonk might send a wagon when called by the beacon tower."
 msgstr ""
-"自由領 Maghre は Wesnoth "
-"の西方に位置し、かつてはのどかな場所であった。住民達は広い世界の出来事には無頓着で、戦争などはその噂さえも届かなかった。Aldril と "
-"Dan'Tonk を結ぶ隊商が狼煙の合図に応じて荷馬車を差し向けることはあったが、商人でさえ滅多に見かけることはなかった。"
+"Wesnoth の西方に位置する自由領 Maghre "
+"は、かつてはのどかな場所であった。住民達は広い世界の出来事には無頓着で、戦争などはその噂さえも届かなかった。Aldril と Dan'Tonk "
+"を結ぶ隊商が狼煙の合図に応じて荷馬車を差し向けることがあるくらいで、商人でさえ村を訪れることは滅多になかった。"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:57
@@ -335,7 +335,7 @@ msgstr "うむ。"
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:202
 msgid "Is that all, Arvith? I understand, but..."
-msgstr "それだけですか？ 兄さんの気持ちは分かりますが、でも・・・"
+msgstr "それだけ・・・ですか？ 兄さんの気持ちは分かりますが、でも・・・"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:207
@@ -351,7 +351,7 @@ msgid ""
 "trained fighters; we need your men, and you to lead them."
 msgstr ""
 "邪悪な黒魔術師が我等の前に現れました。手下どもは奴を Mordak "
-"と呼んでいます。奴らは既に村はずれの農場を脅かしており、じきに村そのものを襲撃する恐れがあります！ Maghre "
+"と呼んでいます。奴らは既に村外れの農場を脅かしており、じきに村そのものを襲撃する恐れがあります！ Maghre "
 "の村人達も武器を取りましたが、彼らは訓練された戦士ではありません。我等には兄さんの兵が、そして何より指導者としての兄さんの力が必要なのです。"
 
 #. [message]: speaker=Baran
@@ -360,8 +360,8 @@ msgid ""
 "I can feel Mordak’s foul touch on the hidden currents of the earth and air. "
 "He is somewhere due north of here, I would say not more than two days’ ride."
 msgstr ""
-"私は、大地と大気を巡る「見えざる流れ」に Mordak "
-"の汚らわしい手が触れているのを感じています。奴はここの真北のどこか、馬で２日以上はかからない所にいる筈です。"
+"私には大地と大気を巡る「見えざる流れ」に Mordak "
+"の汚らわしい手が触れているのが感じられます。奴は真北の方角のどこか、馬で２日以上はかからない所にいる筈です。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:222
@@ -384,7 +384,7 @@ msgstr ""
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:232
 msgid "... Aye. Just make sure you’re there when we need you."
-msgstr "・・・了解した。だが必ず、我等が必要とする時には、必ずそこにいるのだぞ。"
+msgstr "・・・了解した。だが必ず・・・我等が必要とする時には、必ずそこにいるのだぞ。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:252
@@ -420,7 +420,7 @@ msgstr "アー！"
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:290
 msgid "Good work, men! But what has become of my brother?"
-msgstr "よい働きだ、お前達！ ところで、我が弟はどうしたのだ？"
+msgstr "皆、良くやってくれた！ところで、我が弟はどうしたのだ？"
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:295
@@ -444,7 +444,7 @@ msgstr "隊長、斥候からの報告によると、Baran は拘束されて、
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:332
 msgid "That they should dare this! We will give chase at once."
-msgstr "奴らめ、大それたことをしやがって！ 直ちに追跡するぞ。"
+msgstr "奴らめ、舐めた真似をしおって！直ちに追跡するぞ。"
 
 #. [message]: speaker=Mordak
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:373
@@ -461,7 +461,7 @@ msgstr "私の弟は攫われたのか？ Baran、私はお前の期待を裏切
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:394
 msgid "I hear these creatures are nigh-immune to our weapons, let us see!"
-msgstr "この化け物どもは我々の武器をほとんど受け付けないと聞くが、確かめさせてもらおうか！"
+msgstr "この化け物どもは我々の武器をほとんど受け付けないと聞くが、試させてもらおうか！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:410
@@ -592,7 +592,7 @@ msgid ""
 " murderer, and rest assured that the grey mages will release all of the "
 "souls that their prisoner’s evil magic has bound to this world."
 msgstr ""
-"その者らが捉えていたのは降霊術を実践する者だ。お前にとっては、その捕虜が弟でないほうが良いだろう。彼らが捕らえた者がお前の弟の殺害犯だと考えてみるがよい。さすれば、永遠の眠りが魂の解放を約束するだろう。あの捕虜の邪悪な魔術によってこの世界に縛り付けられている魂が、灰色の魔術師達によって全て解き放たれるのだ。"
+"その者らが捉えていた捕虜は降霊術を操る者だ。お前の代わりに、その捕虜がお前の弟でないことを願ってやろう。彼らが捕らえた者がお前の弟の殺害犯だと考えてみるがよい。さすれば、お前も安んじることができよう。あの捕虜の邪悪な魔術によってこの世界に縛り付けられている魂が、灰色の魔術師達によって残らず解き放たれるのだからな。"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:379
