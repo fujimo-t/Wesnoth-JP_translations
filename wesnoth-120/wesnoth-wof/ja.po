@@ -38,14 +38,14 @@ msgid ""
 "journey towards salvation."
 msgstr ""
 "豊かな狩場だった Morogor "
-"が波に沈みつつある中、飢えに駆られたはぐれドレーク達と名誉を重んじるドレーク達による戦争が迫っている。しかし、運命の風は変わるかもしれない。遥か彼方にあるとされる陸地の伝説に触発され、若きハンターの一団が、救済の旅へと同族を導く準備を整えているのだ。"
+"が波に沈みつつある中、飢えに駆られた「はぐれドレーク」達と名誉を重んじるドレーク達による戦争が迫っている。しかし、運命の風は変わるかもしれない。遥か彼方にあるとされる陸地の伝説に触発され、若きハンターの一団が、救済の旅へと同族を導く準備を整えているのだ。"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:22
 msgid ""
 "<i>Features XP-based recall costs and frequent scenarios with no turn "
 "limits.</i>"
-msgstr ""
+msgstr "召還費用が経験値に基づき、ターン制限がないシナリオが多いのが特徴です。"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:23
@@ -107,7 +107,7 @@ msgstr "グラフィック"
 #. [about]
 #: data/campaigns/Winds_of_Fate/about.cfg:38
 msgid "Sound"
-msgstr ""
+msgstr "サウンド"
 
 #. [about]
 #: data/campaigns/Winds_of_Fate/about.cfg:46
@@ -162,7 +162,7 @@ msgid ""
 "Still more turned; two by two, then four by four. Soon enough there would be"
 " more flights to betray the Ways of Morogor than uphold them."
 msgstr ""
-"ひとつ、またひとつと、食い詰めた飛族からはぐれドレークとなっていった。彼らは隣接する縄張りを侵し、長く続いたドレークの平和を乱した。ひとつ、またひとつと、はぐれドレーク達はしきたりに従う正統派の飛族達によって狩られたが、それを上回る数の飛族が、２つ、４つとはぐれドレークになっていった。程なく、Morogor"
+"ひとつ、またひとつと、食い詰めた飛族から「はぐれドレーク」となっていった。彼らは隣接する縄張りを侵し、長く続いたドレークの平和を乱した。ひとつ、またひとつと、「はぐれドレーク」達はしきたりに従う正統派の飛族達によって狩られたが、それを上回る数の飛族が、２つ、４つとはぐれドレークになっていった。程なく、Morogor"
 " のしきたりを破る飛族の数が正統派を上回った。"
 
 #. [part]
@@ -1249,7 +1249,7 @@ msgstr ""
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:768
 msgid "They are rogue."
-msgstr "奴らははぐれドレークだ。"
+msgstr "奴らは「はぐれドレーク」だ。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:774
@@ -1277,7 +1277,7 @@ msgstr ""
 msgid ""
 "If you approach any closer, then by the Ways of Morogor we shall Proclaim "
 "you Rogue."
-msgstr "もしもそれ以上近づくようなら、Morogor の掟により、お前たちをはぐれドレークと宣言する。"
+msgstr "もしもそれ以上近づくようなら、Morogor の掟により、お前たちを「はぐれドレーク」と宣言する。"
 
 #. [message]: speaker=Koli
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:796
@@ -1288,7 +1288,7 @@ msgid ""
 "\n"
 "Then the needs of our hatchlings will demand the taking of your hunting grounds."
 msgstr ""
-"仮に我が飛族がはぐれドレークであるならば、お前たちにも周知されているはずだが。\n"
+"仮に我が飛族が「はぐれドレーク」であるならば、お前たちにも周知されているはずだが。\n"
 "お前たちに対して行動を起こす時が来たら、まずは我らの冷酷な意図を警告してやろう。\n"
 "お前たち同胞への最後の名誉ある行為としてな・・・\n"
 "\n"
@@ -1313,7 +1313,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:839
 msgid "The rogue flights grow bolder."
-msgstr "はぐれドレークの飛族はますます大胆になっている。"
+msgstr "「はぐれドレーク」の飛族はますます大胆になっている。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:843
@@ -1485,7 +1485,7 @@ msgstr ""
 "Gorlack 、それは Vladnir を破滅へと導くことになる！\n"
 "\n"
 "彼は私たち志願者に自分の縄張りの中で営巣することを望んでいる。\n"
-"緊密な同盟なしには、Vladnir の飛族ははぐれドレークどもに対抗できない！"
+"緊密な同盟なしには、Vladnir の飛族は「はぐれドレーク」どもに対抗できない！"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:112
@@ -1499,7 +1499,7 @@ msgstr ""
 "俺がなすべきことはもっと崇高なのだ、Karron 。\n"
 "\n"
 "俺はすべての同胞が必要とすることをしなければならない。\n"
-"誰もはぐれドレークに対抗できなくなる日が来ることがないように。\n"
+"誰も「はぐれドレーク」に対抗できなくなる日が来ることがないように。\n"
 "そして奴らを裏切りに駆り立てる燃えるような飢えも訪れないように。"
 
 #. [part]
@@ -3119,7 +3119,7 @@ msgid ""
 "for prime drakes able to make the journey."
 msgstr ""
 "お前はそれを待つための展望を残さなかった。\n"
-"お前たちが離れたことで、はぐれドレークたちが Vladnir の縄張りを荒らし始めた。\n"
+"お前たちが離れたことで、「はぐれドレーク」たちが Vladnir の縄張りを荒らし始めた。\n"
 "お前の飛族がいなければ、奴らに対抗するのに十分ではない。\n"
 "\n"
 "Vladnir はここに向かうよう私に助言した。\n"
@@ -5408,7 +5408,7 @@ msgstr ""
 "Vladnir の巣から遠く離れ、輝かしい未来を夢想していた。\n"
 "\n"
 "近くの洞窟から悲鳴が聞こえた。\n"
-"そこには名誉を捨てたはぐれドレークが潜んでおり、我が友 Resha が遭遇してしまったのだ。\n"
+"そこには名誉を捨てた「はぐれドレーク」が潜んでおり、我が友 Resha が遭遇してしまったのだ。\n"
 "そいつは自分の存在を隠すために、彼女の死を求めた。\n"
 "\n"
 "そして彼女を追い詰めた。"
@@ -5483,7 +5483,7 @@ msgid ""
 "I threw myself upon it with all my hate.\n"
 "The spear I ran deep into its cold heart."
 msgstr ""
-"はぐれドレークが Resha を仕留めるために振り返った。\n"
+"「はぐれドレーク」が Resha を仕留めるために振り返った。\n"
 "\n"
 "俺はすべての憎しみを込めて襲いかかった。\n"
 "奴の冷たい心臓に、槍を深く突き刺した。"

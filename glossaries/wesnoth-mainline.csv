@@ -823,7 +823,7 @@ add-on,noun,,false,アドオン,
 addon,noun,,false,アドオン,add-on の表記ゆれ
 addons,noun,,false,アドオン,
 admin,noun,,false,管理者,システム管理者、サーバー管理者。
-advance,noun,,false,レベルアップ,昇進、クラスチェンジなどと混在していたのでレベルアップに統一
+advance,noun,,false,レベルアップ,昇進、クラスチェンジなどが混在していたが、基本的にはレベルアップに統一。場合によっては「昇進」等もあり得るが、慎重に用いる。
 advancement,noun,,false,レベルアップ,昇進、クラスチェンジなどと混在していたのでレベルアップに統一
 advancements,noun,,false,レベルアップ,
 advances,noun,,false,レベルアップ,昇進、クラスチェンジなどと混在していたのでレベルアップに統一
@@ -1428,3 +1428,4 @@ Mari,noun,,false,Mari,
 deflect,noun,,false,受け流し,
 Midday,noun,時刻帯の1つ。昼。,false,昼,時刻サイクル。
 Midnight,noun,時刻サイクル。First WatchとSecond Watchの間。,false,,
+advance,verb,,false,基本的には「レベルアップさせる」で統一。場合によっては「昇進させる」もあり得るが、慎重に用いる。,
