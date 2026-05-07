@@ -406,7 +406,7 @@ msgid ""
 "\n"
 "My sanction is given."
 msgstr ""
-"お前を再合流させなかったことで名誉を傷つけたのは、他ならぬ <i>Karron</i> 自身だ。\n"
+"お前を再合流させなかったことで名誉が傷ついたのは、他ならぬ <i>Karron</i> 自身だ。\n"
 "\n"
 "参加を認めよう。"
 
@@ -521,7 +521,7 @@ msgstr ""
 msgid ""
 "Ward thyselves for it has arrived. The grey light that shades the living "
 "worlds. The calm wind that snuffs warm souls. The Faerie reached this world."
-msgstr ""
+msgstr "汝等自身を護れ。そは来たれり。生の世界に影を射す灰色の光。温かな魂を吹き消す音なき風。精霊がこの世界に到達せり。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:362
@@ -601,7 +601,7 @@ msgid ""
 "\n"
 "My life–debt to you must be—"
 msgstr ""
-"Gorlack ・・・あなたに禁じられてはいるが、私は<i>あの洞窟</i>について話さなきゃならない。\n"
+"Gorlack ・・・あなたに禁じられてはいるが、私には「あの洞窟」について言うべきことがある。\n"
 "\n"
 "私の命は —— あなたへの恩義は必ず ——"
 
@@ -725,7 +725,7 @@ msgstr ""
 "最も手薄な防衛線を見つけ出す。\n"
 "それを突破して最も近い見張り塔に到達する。\n"
 "そこで、島を浄化するための軍勢を集める。\n"
-"防御が手薄になり、反撃を避けつつ攻撃できる機会があれば、逃さずに全軍で襲撃する。"
+"敵の防御が手薄になり、反撃を避けつつ攻撃できる機会があれば、逃さずに全軍で襲撃する。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:57
@@ -936,7 +936,7 @@ msgid ""
 msgstr ""
 "それをお前の第１目標にしろ、Resha 。\n"
 "\n"
-"捕虜を捕らえたら、海に浮かぶ木っ端をすべて燃やせ。\n"
+"捕虜を捕らえたら、奴らが海に浮かべている木っ端を直ちにすべて燃やせ。\n"
 "そうすれば、あの陸の生き物を若いハンターたちの獲物として残しておいてやれる。"
 
 #. [message]: speaker=Grag
@@ -999,9 +999,9 @@ msgid ""
 "\n"
 "The Secrets my caste keeps must not be seen by a foe."
 msgstr ""
-"私の任務は、まず我らの書庫にある秘密を破壊することだ。\n"
+"私の任務は第一に、我らの書庫にある秘事を破壊することだ。\n"
 "\n"
-"我が系統が守る秘密は、敵に見られてはならない。"
+"我が系統が守る秘事を敵の目に晒してはならない。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:410
@@ -1025,7 +1025,7 @@ msgid ""
 msgstr ""
 "この火の鱗は、鎧に加工するには厄介だな・・・\n"
 "\n"
-"粉砕者の文字が刻まれている。この火の鱗には粉砕者系統の秘密が刻まれているに違いない。"
+"粉砕者の文字が刻まれている。この火の鱗には粉砕者系統の秘事が刻まれているに違いない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:442
@@ -1034,9 +1034,9 @@ msgid ""
 "\n"
 "By the Ways of Morogor, we clashers must keep our Secrets."
 msgstr ""
-"この火の鱗に刻まれた秘密を話すことは禁じられている。\n"
+"この火の鱗に刻まれた秘事を話すことは禁じられている。\n"
 "\n"
-"Morogor の掟により、我ら粉砕者は秘密を守らねばならない。"
+"Morogor の掟により、我ら粉砕者は秘事を守らねばならない。"
 
 #. [message]: speaker=narrator
 #. Here ‘steeped’ means engrossed.
@@ -1068,7 +1068,7 @@ msgstr ""
 "\n"
 "—— 焼却者は戦略的な思考を好み、仲間のドレークに特別な関心を示す。彼らは生まれついてのリーダーだが、高慢で、小さなことを見落とし、それが敗北につながることがある。\n"
 "\n"
-"—— 粉砕者は Morogor の掟を公正に執行することを附託されている。彼らはドレークの孵化場を守り、陶製の板に刻まれた秘密を収める書庫も守る。彼らはその秘密の知識を、我々は元より、<i>他の系統</i>からも守っている。\n"
+"—— 粉砕者は Morogor の掟を公正に執行することを附託されている。彼らはドレークの孵化場を守り、陶製の板に刻まれた秘密を収める書庫も守る。彼らはその秘密の知識を、我々は元より、<b>他の系統</b>からも守っている。\n"
 "\n"
 "—— 戦士は勇敢である。頭の回転は速いが、時に近視眼的でさえある。彼らはこの地にある我々にとって最大の問題である。\n"
 "\n"
@@ -1436,6 +1436,11 @@ msgid ""
 "\n"
 "Then only a cluster of shoals to rest them, which might be slid past unnoticed with perilous ease."
 msgstr ""
+"極めて険しい道だ。\n"
+"\n"
+"広大な海は、並みの飛行屋なら風の加護を掴んでようやく渡り切れるかどうかだ。\n"
+"\n"
+"間には羽を休めるための岩礁群が１つあるだけで、よほど気を付けていなければ見落として通過してしまうだろう。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:80
@@ -1556,7 +1561,7 @@ msgstr "観衆"
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:211
 msgid "Hold more villages at the end of turn 24"
-msgstr ""
+msgstr "ターン24の終了時に敵より多くの村を占領している"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:216
@@ -1566,7 +1571,7 @@ msgstr "Karron を倒す"
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:220
 msgid "Fail to hold more villages at the end of turn 24"
-msgstr ""
+msgstr "ターン24の終了時に敵より多くの村を占領していない"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:224
@@ -1785,7 +1790,7 @@ msgstr ""
 "・・・滑空者をそれほど尊重しているとは。\n"
 "あなたが「口承の記憶」を聞いたことがあるとは思いもよらなかった。\n"
 "\n"
-"もしかすると、滑空者の知恵は粉砕者系統が守る書き記された秘密と重なっているものが多いのか。"
+"もしかすると、滑空者の知恵は粉砕者系統が守る書き記された秘事と重なっているものが多いのか。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:39
@@ -1800,7 +1805,7 @@ msgid ""
 msgstr ""
 "話すことは禁じられている。\n"
 "滑空者はその伝承を共有することが可能だ。\n"
-"我ら粉砕者は秘密を守らねばならない。\n"
+"我ら粉砕者は秘事を守らねばならない。\n"
 "\n"
 "だが、これだけは言える・・・\n"
 "\n"
@@ -3875,7 +3880,7 @@ msgid ""
 "Yet our written secrets quietly remained."
 msgstr ""
 "我らはそれを禁じられていた。\n"
-"「伝説の時代」以降、我ら粉砕者系統は秘密の保持を課されてきた ——\n"
+"「伝説の時代」以降、我ら粉砕者系統は秘密を守ることを課されてきた ——\n"
 "\n"
 "Parapathos が九人評議会を探し求めて通り抜けた、うねる地下道。\n"
 "火を水に混ぜ合わせる金属の心に至るまで繰り返された、強力なオートマタの製造。\n"
@@ -6182,7 +6187,7 @@ msgid ""
 "\n"
 "Perhaps one of their caste may reveal its meaning."
 msgstr ""
-"この火の鱗には粉砕者の秘密が刻まれている・・・\n"
+"この火の鱗には粉砕者の秘事が刻まれている・・・\n"
 "\n"
 "粉砕者系統なら意味が分かるかも知れない。"
 
