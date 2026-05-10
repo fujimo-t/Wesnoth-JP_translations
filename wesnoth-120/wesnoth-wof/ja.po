@@ -3947,6 +3947,11 @@ msgid ""
 "So many foes vanquished.\n"
 "Yet still you feel not how we shift the Winds by the force of our Will."
 msgstr ""
+"臆病風などもうたくさんだ！\n"
+"\n"
+"数々の試練を我らは乗り越えてきた。\n"
+"征服した敵も数え切れぬ。\n"
+"なのにお前はまだ、<b>意志</b>の力によって<b>風</b>の向きがいかに変わるか、それを感じないというのか。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:178
@@ -3974,6 +3979,17 @@ msgid ""
 "With no room left for <i>fear</i>.\n"
 "With all your Willful heart, make that world be!"
 msgstr ""
+"否！\n"
+"\n"
+"我らは<b>風</b>に振り回されるのみにあらず。\n"
+"我らが<b>風向きを決める</b>のだ。\n"
+"\n"
+"風道は探し求めるものではない。\n"
+"自ら作るものだ。\n"
+"\n"
+"心の内に燃え盛る炎で、あるべき世界を感じろ。\n"
+"<b>恐怖</b>の余地など残さずに。\n"
+"強固な<b>意志</b>を持ち、その世界を実現するのだ！"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:200
@@ -4255,6 +4271,11 @@ msgid ""
 "\n"
 "My attendants will bestow whatever form of floral nourishment you most desire. Mayhap Bread of the Locust Fruit softened with Milk of the Hazel and sweetened with Sap of the Birch?"
 msgstr ""
+"ここが私の城 Saethrania ——「美徳の城」です。\n"
+"\n"
+"あなた方には Gliinoler 城 ——「贄の城」に居を構えることを許可しましょう。\n"
+"\n"
+"我が従者に命じ、花の滋養をお望みの形で授けさせます。ニセアカシアの実で作ったパンをハシバミのミルクで柔らかくし、カバノキの樹液で甘味を加えたものなどは如何かしら？"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:387
@@ -4354,6 +4375,12 @@ msgid ""
 "— One of my fair young handmaidens.\n"
 "— A twisted metal dagger that menaces with spikes of..."
 msgstr ""
+"緑葉の28日目\n"
+"\n"
+"・・・Zhangor 卿という強力な味方を向こう側に得た今、Lady Dionli の時代は終わりを告げようとしている。私は彼のために小さな儀式をひとつ完遂するだけでよい。その詳細は、私が必要な素材を集めた後に、彼が教えてくれることになっている。備忘録として、ここに列挙しておく：\n"
+"—— 冷たい黒御影石の石板。\n"
+"—— 若く美しい侍女を１人。\n"
+"—— 無数の棘を纏う捻れた短剣・・・"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:478
@@ -4362,6 +4389,9 @@ msgid ""
 "\n"
 "...how was I to know Zhangor’s ritual would involve blood sacrifice?! Oh, if only the wicked “Lady” Dionli had not put me in this unenviable position. Now I shall need another unsalaried novice handmaiden willing to work for “experience”..."
 msgstr ""
+"緑葉の29日目\n"
+"\n"
+"・・・Zhangor の儀式が血の犠牲を伴うなど、どうすれば知り得ただろう？！ ああ、あの底意地の悪い「貴婦人」の Dionli にこんな境遇に追いやられさえしなければ。もうひとり、「経験」を積みたがっている無垢な侍女を雇い入れる必要が・・・"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:484
@@ -4370,6 +4400,9 @@ msgid ""
 "\n"
 "...still more of these dreadful rituals must be completed before Zhangor can place a curse upon my usurper. Yet if I stop now, everything I have sacrificed— <i>everyone</i> I have sacrificed —shall have been in vain! I owe it to them to continue..."
 msgstr ""
+"落葉の1日目\n"
+"\n"
+"・・・Zhangor があの簒奪者に呪いをかけるには、この一連の儀式をさらに進めて完遂する必要がある。しかし、もしも今それをやめたら、これまでの犠牲が —— 私が犠牲にしてきた<b>すべての者</b>が —— まったくの無駄になってしまう！ 彼女たちのためにも、この儀式を続けて・・・"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:490
@@ -4389,6 +4422,9 @@ msgid ""
 "\n"
 "...those saurians may smell of the swamp they crawl from, but they shall make a worthy sacrifice to Zhangor! I have extended a formal invitation to Arinexis, a saurian ambassador, or what passes for one amongst their primitive and malodorous kind. I shall show this saurian and its entourage every courtesy and tempt them with all the delights of elvish cuisine— seasoned with Shavings of the Yew..."
 msgstr ""
+"落葉の31日目\n"
+"\n"
+"・・・あのトカゲどもは、奴らが這い回ってきた沼地の臭いを放つかもしれないが、Zhangor への犠牲としては相応しいだろう！ 私は Arinexis に正式な招待を申し出た。原始的で悪臭を放つ連中の特使らしき１匹のトカゲに。そのトカゲと取り巻きを丁重に扱い、美味なるエルフの食事を尽くして魅了する —— イチイの削りくずで味付けをし・・・"
 
 #. [scenario]: id=07_Harvest
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:505
@@ -4590,7 +4626,7 @@ msgstr "Gorlack 、Resha 、Arinexis 、Zedrix が洞窟の出口に到達する
 msgid ""
 "Recruits and recalled veterans which exit before Gorlack does will survive, "
 "the rest will die"
-msgstr ""
+msgstr "雇用・召還されたユニットは、Gorlack が脱出する前に洞窟を抜けた者は生き残り、残りは死にます"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:242
@@ -4747,7 +4783,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:392
 msgid "Resha... about <b><i>that</i></b> cave... there is someth—"
-msgstr "Resha ・・・<b><i>あの</i></b>洞窟のことで・・・言うべきことが ——"
+msgstr "Resha ・・・<b>あの</b>洞窟のことで・・・言うべきことが ——"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:410
@@ -4826,11 +4862,24 @@ msgid ""
 "\n"
 "Mibbie ah shuid trade this cave tae that streenge “lich” cratur efter all. Whit ever it be ah dae nae care; if the elves ever come back then thay kin deal with it."
 msgstr ""
+"Gyldanwolf 氏族の Lodestane 鉱山\n"
+"\n"
+"Wirk 暦 368年、7の月\n"
+"\n"
+"エルフどもがまたキノコの林に戻ってきて、いげすがねぇ喋り方でもって手子たちに屁でもねぇ脅しをかげやがった。キノコのほだ木を採りに行ったら攻撃するとかぬかしゃあがるが、ただの松ぐれぇいいじゃねぇが！\n"
+"\n"
+"エルフの奴らを締め出すために、手子たちが鉄柵を作った。\n"
+"\n"
+"もし奴らがワシらじゃどうしようもねぇぐれぇの軍勢を連れて戻ってきやがったら、頑丈な壁の周りに閃光粉の樽を仕掛けてやる。エルフの奴ら、めんこい「魔法」に感動するだろう —— ドワーフの匠の技を見たときの奴らの顔を想像してみろってんだ！\n"
+"\n"
+"んだども、木こりたちがほだ木を採りに行きゃあ、エルフがちょっかい出してきやがるし、天然磁石の鉱脈もそろそろ尽きちまう。\n"
+"\n"
+"もしかしたらこの洞窟はあの「リッチ」とかいう変な生き物に売っちまったほうがいいがもしんねぇ。あいつの正体が何だろうが知ったこっちゃねぇし、エルフどもが戻ってきたら、どうにがすんだろう。"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:579
 msgid "Come to test your luck again, Khrakrahs?"
-msgstr ""
+msgstr "また運試しに来たのか？ Khrakrahs よ。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:583
@@ -4844,13 +4893,14 @@ msgid ""
 "shall all make fine additions to my new legion. The only question is — will "
 "you serve willingly?"
 msgstr ""
+"それはむしろ好都合だ。ああ、そいつは多くの友人を連れてきたようだな。なるほど。お前たちは皆、我が軍団の一員として迎えてやろう。唯一の問題はーーお前たちが望んで仕えるかどうかだな。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:593
 msgid ""
 "We sssaurians will never ssserve the likesss of a human monssster or your "
 "elf massstersss!"
-msgstr ""
+msgstr "我らトカゲはお前のような人間の怪物やエルフの<small>シシ</small>主人には決<small>シシ</small>して仕えない！"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:599
@@ -4862,6 +4912,8 @@ msgid ""
 "Wesmere. No living thing will remain standing between me and the Ruby of "
 "Fire."
 msgstr ""
+"エルフの主人だと？愚かで矮小なヒキガエルよ、私はたかが樹の主ごときの求めに応じてこの世界の半分を越えてきたのではないわ。彼奴らが我が所有物の一部を占有しておるから、ここまで取り立てに来てやったのだ。新月の訪れとともに巨人の地と通ずる我が門が開かれ、溢れ出す奔流が"
+" Wesmere からエルフどもを一掃するだろう。私と「炎のルビー」の間に立ち塞がる生者は唯の一人も残らぬ。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:603
@@ -4936,7 +4988,7 @@ msgid ""
 "\n"
 "Dragonsss! Gate behind talking boness ssmellsss of fresh air. That isss way through mountain. We mussst break through that gate! With hassste, dragonsss!"
 msgstr ""
-"<i>*舌打ち*</i>\n"
+"（チロチロ）\n"
 "\n"
 "ドラゴンの皆<small>ササ</small>様！ <small>シシ</small>しゃべる骨の向こうにある門から<small>シシ</small>新鮮な空気の匂いが<small>シシ</small>しま<small>スス</small>す。<small>ソソ</small>それが山を抜ける道で<small>スス</small>す。あの門を破らなければならない！ い<small>ソソ</small>そいで、ドラゴンたち！"
 
