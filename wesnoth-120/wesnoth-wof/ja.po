@@ -556,7 +556,7 @@ msgid ""
 "Gorlack, you have grown so very weak to this folly of Resha’s."
 msgstr ""
 "滑空者のお伽話に付き合って時間を無駄にしている暇はない。\n"
-"にもかかわらず、お前は<i>狩り</i>の真っ最中にそれをしている。\n"
+"にもかかわらず、お前は<b>狩り</b>の真っ最中にそれをしている。\n"
 "\n"
 "Gorlack 、お前は Resha の馬鹿話にずいぶんと感化されているな。"
 
@@ -4921,13 +4921,15 @@ msgid ""
 "You hatched your plan too late, human. We already sssacked Wesssmere, the "
 "elves are dealt with."
 msgstr ""
+"お前の計画は孵化が遅<small>スス</small>すぎだ、人間め。我らは<small>スス</small>既に Wesssmere "
+"を食い尽く<small>シシ</small>して、エルフどもを平らげた。"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:609
 msgid ""
 "You could never have done such a feat with even tenfold your motley warband."
 " Wait... what is all that clamour behind you...?"
-msgstr ""
+msgstr "お前達の如き烏合の衆が束になったとしても、左様な戦果は挙げられぬはずだが。待て・・・お前達の背後から聞こえる喧騒は何だ・・・？"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:615
@@ -4936,6 +4938,7 @@ msgid ""
 "plan will become clear to them if they so much as glimpse my unfinished "
 "portal with their faerie sight."
 msgstr ""
+"この愚か者どもめ、Wesmere の全軍をこの隠れ処まで連れてきたな！奴らが精霊の慧眼で我が門を一瞥でもすれば、未完のまま計画が露見するではないか。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:619
@@ -4960,6 +4963,9 @@ msgid ""
 "attention, so begone! Leave the way you came and they may yet follow you "
 "away from my lair!"
 msgstr ""
+"お前達の低俗な理解など遥かに超えるものだ。自らの意思を持つ強力な魔法の世界。そして、今この刹那、お前達は奴らの関心を一身に集めている。故に去れ！来し方へ引き返すのだ。さすれば、お前達を追ってこの隠れ処から遠ざかるやも知れぬ！\n"
+"\n"
+"「それはお前たちの粗野な理解を遥かに超えたものだ。独自の意思を持った強力な魔法の世界なのだ。そして今、お前たちは彼らの注目のすべてを浴びている、だから消え失せろ！ 来た道を引き返せ、そうすれば彼らはお前たちを追って私の隠れ家から離れていくかもしれない！」"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:633
@@ -4967,19 +4973,21 @@ msgid ""
 "Gorlack, it is an ancient foe that hunts us.\n"
 "You must get our flight through this mountain at any cost."
 msgstr ""
+"Gorlack 、それは我らを狩る古代からの宿敵だ。\n"
+"あなたはいかなる犠牲を払ってでも、この山を抜けて飛族を逃さねばならない。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:638
 msgid ""
 "I shall have passage through this mountain. You are advised to move aside."
-msgstr ""
+msgstr "俺は必ずこの山を抜けて見せる。脇へどいていろ。"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:644
 msgid ""
 "Proceed any further and you shall pass only to the land of the dead, where I"
 " am lord and master."
-msgstr ""
+msgstr "この先へ進むと言うのなら、それは死者の国へ赴くというだけのこと。この私が主として支配する場所だ。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:648
@@ -4988,7 +4996,7 @@ msgid ""
 "\n"
 "Dragonsss! Gate behind talking boness ssmellsss of fresh air. That isss way through mountain. We mussst break through that gate! With hassste, dragonsss!"
 msgstr ""
-"（チロチロ）\n"
+"（舌をチロチロして）\n"
 "\n"
 "ドラゴンの皆<small>ササ</small>様！ <small>シシ</small>しゃべる骨の向こうにある門から<small>シシ</small>新鮮な空気の匂いが<small>シシ</small>しま<small>スス</small>す。<small>ソソ</small>それが山を抜ける道で<small>スス</small>す。あの門を破らなければならない！ い<small>ソソ</small>そいで、ドラゴンたち！"
 
@@ -4999,6 +5007,7 @@ msgid ""
 "all, may your worst plans reach fruition so your descendants remember you "
 "with shame!"
 msgstr ""
+"火を吹くお邪魔虫どもめ、どの世紀でも目障りな存在だ。貴様ら全員に呪いあれ、その最悪な計画が成就し、子孫たちに恥辱の記憶として刻み込まれんことを！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:705
@@ -5061,7 +5070,7 @@ msgstr "Resha ・・・"
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:819
 msgid "My wings catch the Winds..."
-msgstr ""
+msgstr "我が翼は<b>風</b>を掴む・・・"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:23
