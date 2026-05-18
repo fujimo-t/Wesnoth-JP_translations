@@ -31,57 +31,57 @@ msgstr "欺瞞者の策謀"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:64
 msgid "1x enemies, 70% XP"
-msgstr ""
+msgstr "敵x1, XP 70%"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:64
 msgid "Easy"
-msgstr ""
+msgstr "易しい"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:65
 msgid "2x enemies, 90% XP"
-msgstr ""
+msgstr "敵x2, XP 90%"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:65
 msgid "Normal"
-msgstr ""
+msgstr "ノーマル"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:66
 msgid "3x enemies, 100% XP"
-msgstr ""
+msgstr "敵x3, XP 100%"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:66
 msgid "Hard"
-msgstr ""
+msgstr "難しい"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:67
 msgid "4x enemies, 100% XP"
-msgstr ""
+msgstr "敵x4, XP 100%"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:67
 msgid "Deadly"
-msgstr ""
+msgstr "絶望的"
 
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:74
 msgid "Campaign Design"
-msgstr ""
+msgstr "キャンペーンデザイン"
 
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:80
 msgid "Setting and Story"
-msgstr ""
+msgstr "設定とストーリー"
 
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:86
 msgid "Miscellaneous Graphics"
-msgstr ""
+msgstr "その他のグラフィック"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:137
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:164
 msgid "TDG"
-msgstr ""
+msgstr "TDG"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:148
@@ -91,6 +91,10 @@ msgid ""
 "Play a pivotal role during this time of turmoil, as despite a string of battlefield victories Wesnoth seems to be slipping inexorably into chaos...\n"
 "\n"
 msgstr ""
+"Alduin の魔術アカデミーで修行を終えたばかりの見習い魔術師は、冒険への憧れを胸に、北方のオークとの大戦において Wesnoth 王の傍らで戦うこととなる。\n"
+"\n"
+"だが、戦場で連勝を重ねているにもかかわらず、Wesnoth は抗いようもなく混沌へと引きずり込まれていく ・・・。この動乱の時代に、その重責を果たすのだ。\n"
+"\n"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:152
