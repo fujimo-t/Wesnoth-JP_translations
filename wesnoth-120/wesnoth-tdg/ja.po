@@ -99,7 +99,7 @@ msgstr ""
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:152
 msgid "(Intermediate level, 7 scenarios.)"
-msgstr ""
+msgstr "（中級レベル、7 シナリオ）"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:154
@@ -119,11 +119,13 @@ msgid ""
 "As losses continue to mount, Delfador embarks on a dangerous mission behind enemy lines. The journey will be perilous, but what awaits at its end will be worse still. What does it truly mean to be a hero?\n"
 "    \n"
 msgstr ""
+"戦力が損耗し続ける中、Delfador は敵陣のただ中での危険な任務を買って出る。その困難な旅路の果てには、さらなる苦難が待ち受けているだろう。英雄であることの真の意味とは何なのか？\n"
+"\n"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:177
 msgid "(Intermediate level, 8 scenarios.)"
-msgstr ""
+msgstr "（中級レベル、8 シナリオ）"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #. this campaign is not a direct continuation of the story and characters, but
@@ -132,7 +134,7 @@ msgstr ""
 msgid ""
 "The saga continues in\n"
 "<i>Liberty</i>"
-msgstr ""
+msgstr "物語は『<b>自由</b>』に続く"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
@@ -656,7 +658,7 @@ msgstr ""
 #. left edge of the map
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:178
 msgid "Faster, faster! The wraiths will soon be upon you!"
-msgstr ""
+msgstr "急げ、急ぐのだ！レイスが迫っておるぞ！"
 
 #. [message]: speaker=Delfador
 #. referencing events that happened minutes before the beginning of the
@@ -666,25 +668,26 @@ msgid ""
 "Hey, how was I supposed to know the halfway cave was warded! All I did was "
 "throw a few celebratory firebolts! For the spectators, you know?"
 msgstr ""
+"おい、途中の洞窟に結界が張られているなんて、分かるわけがないだろう！観客のために景気づけのファイアボルトを何発か撃っただけじゃないか！そうだろう？"
 
 #. [message]: speaker=Methor
 #. there's a blue orb at the east edge of the map, which will dispel the fire
 #. guardians that will soon appear to chase Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:198
 msgid "Just hurry and get to the dispel orb!"
-msgstr ""
+msgstr "つべこべ言わず、速やかに解呪のオーブの元へ向かうのだ！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:206
 msgid "Reach the blue orb at the east edge of the map"
-msgstr ""
+msgstr "マップの東端にある青いオーブに到達する"
 
 #. [objective]: condition=lose
 #. Delfador is currently just named "apprentice". He doesn't get his name
 #. until scenario 2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:211
 msgid "Death of the Apprentice"
-msgstr ""
+msgstr "見習い魔術師の死"
 
 #. [message]: speaker=Methor
 #. this tells the player that 1) Delfador is Methor's apprentice, and 2)
@@ -694,19 +697,20 @@ msgid ""
 "Out of all the masters in Alduin, why did the sages curse me with the most "
 "reckless apprentice in all Wesnoth?"
 msgstr ""
+"賢者達よ、Alduin には数多のマスターがいるというのに、何故にかような厄介者をこの私めに預け給うたか、Wesnoth 中で最も無鉄砲な見習いを。"
 
 #. [message]: speaker=Methor
 #. this line is spoken as soon as the fire guardians enter the map
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:246
 msgid "The wraiths are catching up! Keep moving!"
-msgstr ""
+msgstr "レイスに追いつかれるぞ！立ち止まるな！"
 
 #. [message]: speaker=Saegwylyn
 #. another of Delfador's instructors; implying Delfador has attempted to
 #. firebolt the fire guardians before, and it ended badly
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:251
 msgid "10 copper says he tries to firebolt them again..."
-msgstr ""
+msgstr "あの子がまたファイアボルトを放つほうに銅貨１０枚・・・"
 
 #. [message]: speaker=Methor
 #. Levitate is one of many spells that Delfador will have access to throughout
