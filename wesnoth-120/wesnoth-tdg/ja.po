@@ -352,7 +352,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:72
 msgid "Levitate"
-msgstr ""
+msgstr "浮揚魔法"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:74
 msgid ""
@@ -725,7 +725,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:260
 msgid "Levitate? Master, are you sure?"
-msgstr ""
+msgstr "浮揚魔法？本気ですか、マスター？"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:264
