@@ -589,7 +589,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:133
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:136
 msgid "Apprentice"
-msgstr ""
+msgstr "見習い魔術師"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:22
@@ -697,7 +697,7 @@ msgid ""
 "Out of all the masters in Alduin, why did the sages curse me with the most "
 "reckless apprentice in all Wesnoth?"
 msgstr ""
-"賢者達よ、Alduin には数多のマスターがいるというのに、何故にかような厄介者をこの私めに預け給うたか、Wesnoth 中で最も無鉄砲な見習いを。"
+"Alduin には数多のマスターがいるというのに、賢者達は何故にかような厄介者をこの私めに預け給うたか、Wesnoth 中で最も無鉄砲な見習いを。"
 
 #. [message]: speaker=Methor
 #. this line is spoken as soon as the fire guardians enter the map
@@ -721,6 +721,7 @@ msgid ""
 " the eyestalks! You may need to cast it several turns in a row to keep ahead"
 " of the wraiths."
 msgstr ""
+"惑わされるな。ここまでは順調に進んでいる――浮揚魔法を唱えて眼球草の間をすり抜けるのだ！レイスたちの先手を取り続けるためには、幾度か繰り返して唱える必要があるやも知れぬぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:260
@@ -7899,7 +7900,7 @@ msgstr ""
 #. [unit_type]: id=Eyestalk, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:4
 msgid "Eyestalk"
-msgstr ""
+msgstr "眼球草"
 
 #. [unit_type]: id=Eyestalk, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:22
@@ -7910,6 +7911,7 @@ msgid ""
 "against melee attacks, their deadly gaze from afar is not to be "
 "underestimated."
 msgstr ""
+"その外見から「眼球草」と名付けられたこの植物様の生物は、油断している餌食に視線を集中させることで、対象の生命力を吸収して取り込むことができる。火に弱く、近接攻撃に対してはほとんど無防備である一方、遠隔からの彼らの視線は致命的であり、侮ってはならない。"
 
 #. [attack]: type=arcane
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:27
