@@ -557,6 +557,11 @@ msgid ""
 "<span size='small'><i>The apprentice knows several useful spells, and will learn more as he levels-up automatically throughout the campaign. The apprentice does not use XP to level-up. Instead,\n"
 "he uses XP to cast certain spells. If you select spells that cost XP,<b>double- or right-click on the apprentice to cast them</b>. You can only cast 1 spell per turn.</i></span>"
 msgstr ""
+"<span "
+"size='small'>見習い魔術師は既にいくつかの有用な魔法を習得しており、キャンペーン中の自動的なレベルアップに応じて、さらに多くの魔法を習得していきます。レベルアップには"
+" XP を消費しませんが、特定の呪文の使用に XP "
+"を消費し、<b>見習い魔術師をダブルクリックまたは右クリックすることで詠唱が可能になります</b>。呪文の詠唱は 1 ターンに 1 "
+"回のみ可能です。</span>"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:131
@@ -733,17 +738,17 @@ msgstr "浮揚魔法？本気ですか、マスター？"
 msgid ""
 "Oh for the love of— remember what happened last time you tried to fight? "
 "Just do it!"
-msgstr ""
+msgstr "まったく、お前ときたら――先刻、戦いを挑んだ折に起きたことを忘れたのか？いいから、やるのだ！"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:269
 msgid "Casting Spells:"
-msgstr ""
+msgstr "呪文詠唱："
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:270
 msgid "Double- or right-click on the apprentice to cast spells."
-msgstr ""
+msgstr "見習い魔術師をダブルクリックまたは右クリックして呪文を詠唱する。"
 
 #. [message]: speaker=Methor
 #. spoken after Delfador attacks the fire guardians, referencing the "10
@@ -751,18 +756,18 @@ msgstr ""
 #. fire resistance, this is not a wise move by Delfador.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:287
 msgid "All right, all right! It’s just as you said."
-msgstr ""
+msgstr "わかった、わかった！お主の見立て通りであったわ。"
 
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:292
 msgid "10 more copper for me!"
-msgstr ""
+msgstr "銅貨10枚、また頂いちゃったわね！"
 
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:305
 msgid ""
 "So he does know proper magic after all. It only took four failed exams..."
-msgstr ""
+msgstr "あら、あの子もちゃんと魔法を選べるようになったのね。たった４回落第しただけで・・・"
 
 #. [message]: speaker=Methor
 #. if the levitate spell ends over impassable terrain (like lava), Delfador
