@@ -761,7 +761,7 @@ msgstr "わかった、わかった！お主の見立て通りであったわ。
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:292
 msgid "10 more copper for me!"
-msgstr "銅貨10枚、また頂いちゃったわね！"
+msgstr "また銅貨10枚、悪いわね！"
 
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:305
@@ -776,7 +776,7 @@ msgstr "あら、あの子もちゃんと魔法を選べるようになったの
 msgid ""
 "Almost there! Just fly across the chasm and touch the orb — and make sure "
 "your levitate spell doesn’t end over lava!"
-msgstr ""
+msgstr "あと一息ぞ！その裂け目を飛び越えてオーブに触れるのじゃ！――溶岩の上で浮揚魔法が切れぬよう、くれぐれも気をつけよ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:333
@@ -798,12 +798,12 @@ msgstr ""
 #. the end of the scenario0
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:460
 msgid "Yes! I’ve made it! This time has to be good enough."
-msgstr ""
+msgstr "よし！やったぞ！今度こそ合格だろう。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:465
 msgid "Well, what do you think?"
-msgstr ""
+msgstr "さて、どう思うかね？"
 
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:471
@@ -812,13 +812,14 @@ msgid ""
 "amusement. This one is a petty magician, not a wise sage or advisor of "
 "kings."
 msgstr ""
+"不合格。魔術師には知恵が必要だが、この見習いは己の愉悦しか頭にない。これでは凡庸な手品師がいいところ。賢者にも王の助言者にもなれそうにないわね。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:475
 msgid ""
 "I say yes. I admit my apprentice enjoys the spotlight more than most, but "
 "with this much magical aptitude who wouldn’t want to show off?"
-msgstr ""
+msgstr "合格。我が弟子が人一倍自己顕示欲が強いことは認めるが、あれほどの魔法の才があれば、ひけらかしたくなるのも詮無きことではないか？"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:479
@@ -826,11 +827,12 @@ msgid ""
 "I think it’s obvious this is one of the most gifted magi we’ve trained in "
 "years. The skill is innate; the wisdom will come with time."
 msgstr ""
+"ここ数年で我等が育てた者の中でも、最も天賦の才に恵まれているのは明白であろう。彼の者の技量は天性のものだ。時が経てば自ずと知恵は付いてこよう。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:484
 msgid "So mine is the deciding vote. Very well, I’ve made up my mind."
-msgstr ""
+msgstr "では、わしの票で合否が決まるわけだな。よし、決めたぞ。"
 
 #. [message]: speaker=narrator
 #. non sequitur. The screen has faded to black, and Delfador is hearing a
@@ -8136,7 +8138,7 @@ msgstr ""
 msgid ""
 "My levitate spell has ended over impassable terrain! I‘m falling to my "
 "death!"
-msgstr ""
+msgstr "浮揚魔法がマズいところで切れちまった！死んじまうよ！"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:598
