@@ -842,33 +842,33 @@ msgstr "では、わしの票で合否が決まるわけだな。よし、決め
 msgid ""
 "<i>The Deceiver weaves the twine encircling the puppets in the court of "
 "royals.</i>"
-msgstr ""
+msgstr "欺瞞者が宮廷で人形の繰糸を紡いでいる。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:515
 msgid ""
 "<i>Fatherless prince and sovereignless king, the balance of man hangs upon "
 "this thread.</i>"
-msgstr ""
+msgstr "父なき王子と主権なき王・・・人の世の命運はこの一筋に吊られている。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:519
 msgid ""
 "<i>Should force and fire brandish themselves where wisdom and pity are left "
 "wanting, this string of fate shall inexorably be sundered.</i>"
-msgstr ""
+msgstr "知恵と慈悲を見失い、浅慮のままに力と炎を振るうならば、この運命の糸は容赦なく断ち切られるであろう。"
 
 #. [message]: speaker=Leollyn
 #. the screen has faded back to normal, and master Leollyn is annoyed that
 #. Delfador wasn't paying attention
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:532
 msgid "Apprentice! Are you listening? I’m trying to congratulate you!"
-msgstr ""
+msgstr "おい、見習い！聴いとるのか？お前を祝福しようとしておるのだぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:536
 msgid "But who— what— um, yes, I must have drifted off."
-msgstr ""
+msgstr "しかし、誰が――何を――あぁ、はい、少し考え事をしておりました。"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:540
@@ -882,13 +882,13 @@ msgstr ""
 #. Delfador has just taken lethal damage
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:559
 msgid "Oh no! Master, help!"
-msgstr ""
+msgstr "あぁ、だめだ！師匠、助けてください！"
 
 #. [message]: speaker=Methor
 #. Methor casts a spell to save Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:564
 msgid "I’ll save you!"
-msgstr ""
+msgstr "助けてやろう！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:579
