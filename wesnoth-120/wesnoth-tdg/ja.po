@@ -888,7 +888,7 @@ msgstr "あぁ、だめだ！師匠、助けてください！"
 #. Methor casts a spell to save Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:564
 msgid "I’ll save you!"
-msgstr "助けてやろう！"
+msgstr "やれやれ、またか・・・いま助けるぞ！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:579
