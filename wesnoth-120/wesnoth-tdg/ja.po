@@ -803,7 +803,7 @@ msgstr "よし！やったぞ！今度こそ合格だろう。"
 #. [message]: speaker=Leollyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:465
 msgid "Well, what do you think?"
-msgstr "さて、どう思うかね？"
+msgstr "さて、皆はどう思うかね？"
 
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:471
