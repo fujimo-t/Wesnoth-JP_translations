@@ -27,7 +27,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:18
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:19
 msgid "The Deceiver’s Gambit"
-msgstr "欺瞞者の策謀"
+msgstr "逆賊の奸計"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:64
 msgid "1x enemies, 70% XP"
@@ -106,12 +106,12 @@ msgstr "（中級レベル、7 シナリオ）"
 msgid ""
 "The saga continues in\n"
 "<i>The Deceiver’s Gambit II</i>"
-msgstr ""
+msgstr "物語は『<b>逆賊の奸計II</b>』に続く。"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:163
 msgid "The Deceiver’s Gambit II"
-msgstr ""
+msgstr "逆賊の奸計II"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:175
