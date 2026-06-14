@@ -139,7 +139,7 @@ msgstr "物語は『<b>自由</b>』に続く"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
 msgid "Blast the fire elementals in <i>Graduation</i>."
-msgstr ""
+msgstr "<b>最終試練</b>において火の精霊に炎を放つ。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
@@ -585,7 +585,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:4
 msgid "Graduation"
-msgstr ""
+msgstr "最終試練"
 
 #. [leader]
 #. [event]
