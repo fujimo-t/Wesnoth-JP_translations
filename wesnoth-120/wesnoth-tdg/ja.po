@@ -383,7 +383,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:171
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:222
 msgid "Fireball"
-msgstr ""
+msgstr "ファイアボール"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:107
 msgid ""
