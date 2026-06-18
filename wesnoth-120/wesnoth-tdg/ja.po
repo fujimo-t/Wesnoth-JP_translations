@@ -448,7 +448,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:180
 msgid "Dancing Daggers"
-msgstr ""
+msgstr "剣の舞"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:182
 msgid ""
@@ -606,12 +606,12 @@ msgstr "見習い魔術師"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:38
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:27
 msgid "Isle of Alduin"
-msgstr ""
+msgstr "Alduin 島"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:36
 msgid "Summoned Monsters"
-msgstr ""
+msgstr "召喚モンスター"
 
 #. [message]
 #. an informational plaque on a statue of a female arch-mage
@@ -626,12 +626,12 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:108
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:172
 msgid "Leollyn"
-msgstr ""
+msgstr "Leollyn"
 
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:124
 msgid "Saegwylyn"
-msgstr ""
+msgstr "Saegwylyn"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:157
