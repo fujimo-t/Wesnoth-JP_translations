@@ -956,7 +956,7 @@ msgstr ""
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:127
 msgid "Weldyn"
-msgstr ""
+msgstr "Weldyn"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:148
@@ -1756,7 +1756,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:220
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "敵のリーダーを倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:224
@@ -1771,7 +1771,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:648
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1040
 msgid "Death of Delfador"
-msgstr ""
+msgstr "Delfador の死"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:241
