@@ -1902,13 +1902,13 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:101
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1295
 msgid "Kalenz"
-msgstr ""
+msgstr "Kalenz"
 
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:111
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1311
 msgid "Chantal"
-msgstr ""
+msgstr "Chantal"
 
 #. [message]: speaker=Delfador
 #. Delfador is trying to speak, but gets interrupted by an elvish marshal
@@ -2310,7 +2310,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1327
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:65
 msgid "Deoran"
-msgstr ""
+msgstr "Deoran"
 
 #. [message]
 #. referencing the mirror image of Deoran
@@ -2582,7 +2582,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:253
 msgid "90 gold"
-msgstr ""
+msgstr "90 ゴールド"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:253
