@@ -7395,7 +7395,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:644
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1036
 msgid "Defeat Eldred"
-msgstr ""
+msgstr "Eldred を倒す"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:724
@@ -8295,15 +8295,15 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:85
 msgid "Asheviere"
-msgstr ""
+msgstr "Asheviere"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:113
 msgid "Lionel"
-msgstr ""
+msgstr "Lionel"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:127
 msgid "Lord Maddock"
-msgstr ""
+msgstr "Maddock卿"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:135
 msgid "Colonel Dommel"
@@ -8319,7 +8319,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:212
 msgid "Garard II"
-msgstr ""
+msgstr "Garard II世"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:514
