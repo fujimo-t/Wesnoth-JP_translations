@@ -1073,7 +1073,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:320
 msgid "Defeat Ozgob"
-msgstr ""
+msgstr "Ozgob を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:324
@@ -1321,7 +1321,7 @@ msgstr ""
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:258
 msgid "Vidrug"
-msgstr ""
+msgstr "Vidrug"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:341
@@ -1393,13 +1393,13 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:395
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:521
 msgid "Garard defeats Vidrug, the orcish leader"
-msgstr ""
+msgstr "Garard がオークのリーダーである Vidrug を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:403
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:529
 msgid "Death of Garard or Lionel"
-msgstr ""
+msgstr "Garard または Lionel の死"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:418
@@ -1596,7 +1596,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1169
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:13
 msgid "Delfador"
-msgstr ""
+msgstr "Delfador"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:733
@@ -1886,7 +1886,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:48
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:53
 msgid "Lintanir"
-msgstr ""
+msgstr "Lintanir"
 
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:79
@@ -3215,7 +3215,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:16
 msgid "The Great River"
-msgstr ""
+msgstr "大いなる川"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:41
@@ -4319,7 +4319,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:89
 msgid "30 gold"
-msgstr ""
+msgstr "30 ゴールド"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:96
@@ -5404,7 +5404,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:490
 msgid "Death of Garard"
-msgstr ""
+msgstr "Garard の死"
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is female (probably "Lynyan")
@@ -6278,17 +6278,17 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:73
 msgid "Sir Grey"
-msgstr ""
+msgstr "Grey 卿"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:100
 msgid "Sir Johan"
-msgstr ""
+msgstr "Johan 卿"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:107
 msgid "Sir Gwido"
-msgstr ""
+msgstr "Gwido 卿"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:171
@@ -7551,7 +7551,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:94
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:103
 msgid "Eldred"
-msgstr ""
+msgstr "Eldred"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1003
