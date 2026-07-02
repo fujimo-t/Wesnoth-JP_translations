@@ -1,3 +1,5 @@
+# Translators:
+# tamanegi, 2026
 # 
 msgid ""
 msgstr ""
@@ -5,6 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
 "PO-Revision-Date: 2026-03-28 19:10+0000\n"
+"Last-Translator: tamanegi, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,19 +22,19 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:55
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:22
 msgid "Heir to the Throne"
-msgstr ""
+msgstr "王位継承者"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:58
 msgid "HttT"
-msgstr ""
+msgstr "HttT"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:65
 msgid ""
 "Seventeen years ago, the traitor queen Asheviere violently usurped the "
 "throne of Wesnoth. Now she rules tyrannically over her domain."
-msgstr ""
+msgstr "17年前に反逆者 Asheviere は力でもって Wesnoth の王位を簒奪しました。そして今、彼女は暴君として君臨しています。"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:67
@@ -39,192 +42,192 @@ msgid ""
 "You, the old king’s last legitimate living heir, must embark on a long and "
 "perilous journey to dismantle the dark queen’s armies and finally end her "
 "reign of terror."
-msgstr ""
+msgstr "あなたは亡き王の唯一で、正統な後継者です。闇の女王の軍勢を打ち破って恐怖の治世に終止符を打つべく、長く過酷な旅へと乗り出すのです。"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:69
 msgid "(Intermediate level, 14 scenarios.)"
-msgstr ""
+msgstr "（中級レベル、14 シナリオ）"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:71
 msgid "1x enemies, 15 scenarios"
-msgstr ""
+msgstr "敵数x1, 15 シナリオ"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:71
 msgid "Easy"
-msgstr ""
+msgstr "簡単"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:72
 msgid "2x enemies, 14 scenarios"
-msgstr ""
+msgstr "敵数x2, 14 シナリオ"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:72
 msgid "Normal"
-msgstr ""
+msgstr "ノーマル"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:73
 msgid "3x enemies, 13 scenarios"
-msgstr ""
+msgstr "敵数x3, 13 シナリオ"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:73
 msgid "Hard"
-msgstr ""
+msgstr "困難"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:74
 msgid "4x enemies, 12 scenarios"
-msgstr ""
+msgstr "敵数x4, 12 シナリオ"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:74
 msgid "Deadly"
-msgstr ""
+msgstr "絶望的"
 
 #. [about]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:86
 msgid "Campaign Design"
-msgstr ""
+msgstr "キャンペーンデザイン"
 
 #. [about]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:92
 msgid "Artwork and Graphics Design"
-msgstr ""
+msgstr "アートワークとグラフィックデザイン"
 
 #. [about]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:116
 msgid "Miscellaneous"
-msgstr ""
+msgstr "その他"
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:168
 msgid "summoned"
-msgstr ""
+msgstr "召喚"
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:169
 msgid "This elemental will dissipate at the end of the scenario."
-msgstr ""
+msgstr "この精霊はシナリオ終了時に消散します。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:224
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:233
 msgid "Brother $name_before_adding_brother"
-msgstr ""
+msgstr "$name_before_adding_brother 修道士"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:234
 msgid "Sister $name_before_adding_brother"
-msgstr ""
+msgstr "$name_before_adding_brother 修道女"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:26
 msgid "Delfador the Great"
-msgstr ""
+msgstr "偉大なる Delfador"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:26
 msgid ""
 "Personally defeat 10 enemies with Delfador during '<i>The Elves "
 "Besieged</i>'."
-msgstr ""
+msgstr "「包囲されたエルフ」で Delfador が 10 体の敵を倒す。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:27
 msgid "Complete <i>Flight of the Elves</i> with no elf deaths."
-msgstr ""
+msgstr "「エルフの集団逃走」でエルフを一人も死なせずにクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:27
 msgid "Elf-friend"
-msgstr ""
+msgstr "エルフの友人"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:28
 msgid "Calling in the Cavalry"
-msgstr ""
+msgstr "騎兵隊召集"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:28
 msgid "Defeat all enemy leaders during <i>Blackwater Port</i>."
-msgstr ""
+msgstr "「黒水港」で全ての敵リーダーを倒す。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:29
 msgid "Persuade an Arch Mage to join your army in <i>Isle of Alduin</i>."
-msgstr ""
+msgstr "「Alduin 島」で熟練魔術師を説得して自軍に参加させる。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:29
 msgid "Turncoat"
-msgstr ""
+msgstr "裏切り者"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:30
 msgid "A Friend in Need..."
-msgstr ""
+msgstr "お困りの友達…"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:30
 msgid "Complete <i>Muff Malal’s Peninsula</i> before freeing Moremirmu."
-msgstr ""
+msgstr "「Muff Malal の半島」を Moremirmu を解放する前にクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
 msgid "Kill an enemy with Delurin during <i>Isle of the Damned</i>."
-msgstr ""
+msgstr "「呪われた島」で Delurin が敵を倒す。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
 msgid "Town Guard"
-msgstr ""
+msgstr "町の衛兵"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
 msgid "Exterminator"
-msgstr ""
+msgstr "害虫駆除業者"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
 msgid "Kill all giant spiders during <i>Isle of the Damned II</i>."
-msgstr ""
+msgstr "「呪われた島 その２」で全ての巨大蜘蛛を殺す。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
 msgid "Complete <i>The Siege of Elensefar</i> on Deadly difficulty."
-msgstr ""
+msgstr "「Elensefar の包囲」を「絶望的」難易度でクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
 msgid "Probably Impossible"
-msgstr ""
+msgstr "多分無理"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
 msgid "Complete <i>The Silver City</i> without capturing any villages."
-msgstr ""
+msgstr "「銀の都市」を村を一つも占領せずにクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
 msgid "Laissez-faire"
-msgstr ""
+msgstr "自由放任"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
 msgid "Counter-Sniper"
-msgstr ""
+msgstr "狙撃迎撃"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
 msgid ""
 "Defeat the Master Bowman in <i>Fort Tahn</i> without attacking him with "
 "melee weapons."
-msgstr ""
+msgstr "「Tahn 砦」で熟練弓兵を近接武器で攻撃せずに倒す。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
@@ -707,12 +710,12 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:133
 msgid "Flight of the Elves - 2 turns remaining"
-msgstr ""
+msgstr "エルフの集団逃走 - 残り２ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:134
 msgid "Flight of the Elves - 1 turn remaining (last chance!)"
-msgstr ""
+msgstr "エルフの集団逃走 - 残り１ターン (最後のチャンス！)"
 
 #. [message]: race=elf
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:193
@@ -762,17 +765,17 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:271
 msgid "Blackwater Port"
-msgstr ""
+msgstr "黒水港"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:290
 msgid "Blackwater Port - 2 turns remaining"
-msgstr ""
+msgstr "黒水港 - 残り２ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:291
 msgid "Blackwater Port - 1 turn remaining (last chance!)"
-msgstr ""
+msgstr "黒水港 - 残り１ターン (最後のチャンス！)"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:353
@@ -944,11 +947,11 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:610
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:104
 msgid "Isle of Alduin"
-msgstr ""
+msgstr "Alduin 島"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:617
 msgid "The Isle of Alduin"
-msgstr ""
+msgstr "Alduin 島"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:621
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:548
@@ -1120,14 +1123,14 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:890
 msgid "Muff Malal’s Peninsula"
-msgstr ""
+msgstr "Muff Malal の半島"
 
 #. [side]: type=Dark Sorcerer, id=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:899
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:32
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:39
 msgid "Muff Malal"
-msgstr ""
+msgstr "Muff Malal"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:913
@@ -1182,7 +1185,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1041
 msgid "Isle of the Damned"
-msgstr ""
+msgstr "呪われた島"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1078
@@ -1250,7 +1253,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1139
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:9
 msgid "Isle of the Damned II"
-msgstr ""
+msgstr "呪われた島 その２"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1157
@@ -1424,27 +1427,27 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1445
 msgid "The Siege of Elensefar - 5 turns remaining"
-msgstr ""
+msgstr "Elensefar の包囲 - 残り５ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1446
 msgid "The Siege of Elensefar - 4 turns remaining"
-msgstr ""
+msgstr "Elensefar の包囲 - 残り４ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1447
 msgid "The Siege of Elensefar - 3 turns remaining"
-msgstr ""
+msgstr "Elensefar の包囲 - 残り３ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1448
 msgid "The Siege of Elensefar - 2 turns remaining"
-msgstr ""
+msgstr "Elensefar の包囲 - 残り２ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1449
 msgid "The Siege of Elensefar - 1 turn remaining (last chance!)"
-msgstr ""
+msgstr "Elensefar の包囲 - 残り１ターン (最後のチャンス！)"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1624
@@ -1471,7 +1474,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1674
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:8
 msgid "The Silver City"
-msgstr ""
+msgstr "銀の都市"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1678
 msgid ""
@@ -1520,7 +1523,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:9
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:15
 msgid "Fort Tahn"
-msgstr ""
+msgstr "Tahn 砦"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:18
 msgid ""
@@ -5801,7 +5804,7 @@ msgstr ""
 #. [scenario]: id=01_The_Elves_Besieged
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:10
 msgid "The Elves Besieged"
-msgstr ""
+msgstr "包囲されたエルフ"
 
 #. [part]
 #. notice that appears at the beginning of the scenario if you select Deadly
@@ -6317,7 +6320,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:17
 msgid "Flight of the Elves"
-msgstr ""
+msgstr "エルフの集団逃走"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:185
@@ -7429,7 +7432,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:10
 msgid "scenario name^The Isle of Alduin"
-msgstr ""
+msgstr "Alduin 島"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:50
@@ -7828,7 +7831,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:8
 msgid "scenario name^Muff Malal’s Peninsula"
-msgstr ""
+msgstr "Muff Malal の半島"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:226
@@ -7940,7 +7943,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:275
 msgid "Defeat Muff Malal"
-msgstr ""
+msgstr "Muff Malal を倒す"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:289
@@ -8092,7 +8095,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:8
 msgid "scenario name^Isle of the Damned"
-msgstr ""
+msgstr "呪われた島"
 
 #. [side]: type=Bone Shooter, id=leader3
 #. [side]: type=Necrophage, id=leader4
@@ -8578,7 +8581,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:11
 msgid "The Siege of Elensefar"
-msgstr ""
+msgstr "Elensefar の包囲"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:76
@@ -9444,12 +9447,12 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:10
 msgid "scenario name^Fort Tahn"
-msgstr ""
+msgstr "Tahn 砦"
 
 #. [side]: type=Master Bowman, id=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:39
 msgid "Fort Tahn Garrison"
-msgstr ""
+msgstr "Tahn 砦守備隊"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:152

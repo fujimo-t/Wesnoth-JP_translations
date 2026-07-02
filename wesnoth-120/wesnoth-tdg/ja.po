@@ -144,7 +144,7 @@ msgstr "<b>最終試練</b>において火の精霊に炎を放つ。"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
 msgid "Scenario 0: Sandbagger"
-msgstr ""
+msgstr "無駄撃ち"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
@@ -481,7 +481,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:396
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1772
 msgid "Contingency"
-msgstr ""
+msgstr "不測の事態"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:210
 msgid ""
@@ -620,6 +620,7 @@ msgid ""
 "<i>In honor of master Heryera, who gave her life in defense of Elensefar "
 "against the lich Ras-Tabahn.</i>"
 msgstr ""
+"<i>その身を捧げ、リッチ Ras-Tabahn から Elensefar を護り抜いた、マスター Heryera に敬意を表して。</i>"
 
 #. [unit]
 #. [event]
@@ -781,17 +782,17 @@ msgstr "あと一息ぞ！その裂け目を飛び越えてオーブに触れる
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:333
 msgid "Hello, my adoring fans!"
-msgstr ""
+msgstr "やあ、みんな。熱心な応援をありがとう！"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:337
 msgid "Hey, what’re you doing! This isn’t the normal route!"
-msgstr ""
+msgstr "ちょっと、何してるのよ！道を外してるわよ！"
 
 #. [message]: speaker=Rolyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:341
 msgid "We’d better get out of here. Remember what happened on his last exam?"
-msgstr ""
+msgstr "ここを離れたほうが良さそうだな。彼が前回の試練でやらかしたことを覚えてるか？"
 
 #. [message]: speaker=Delfador
 #. Delfador has just reached the end of the obstacle course / final exam (and
@@ -876,7 +877,7 @@ msgid ""
 "...as I was saying... apprentice, congratulations on your successful "
 "completion of the practical portion of your graduation exam! Now we proceed "
 "to the written section; please conjure your quill and parchment..."
-msgstr ""
+msgstr "・・・いま言った通り・・・見習いよ、最終試練の実技部門を修了したことを祝福する！次は筆記部門へ進むぞ。羽ペンと羊皮紙を魔法で呼び出せ・・・"
 
 #. [message]: speaker=Delfador
 #. Delfador has just taken lethal damage
