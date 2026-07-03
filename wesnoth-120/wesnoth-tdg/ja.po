@@ -291,11 +291,11 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:7
 msgid "Attack:"
-msgstr ""
+msgstr "攻撃："
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:8
 msgid "Spell:"
-msgstr ""
+msgstr "詠唱："
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:9
 msgid "Passive:"
@@ -303,7 +303,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:20
 msgid "Magic Missile"
-msgstr ""
+msgstr "魔弾"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:22
 msgid ""
@@ -664,7 +664,7 @@ msgstr ""
 #. left edge of the map
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:178
 msgid "Faster, faster! The wraiths will soon be upon you!"
-msgstr "急げ、急ぐのだ！レイスが迫っておるぞ！"
+msgstr "急げ、急ぐのだ！精霊が迫っておるぞ！"
 
 #. [message]: speaker=Delfador
 #. referencing events that happened minutes before the beginning of the
@@ -709,7 +709,7 @@ msgstr ""
 #. this line is spoken as soon as the fire guardians enter the map
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:246
 msgid "The wraiths are catching up! Keep moving!"
-msgstr "レイスに追いつかれるぞ！立ち止まるな！"
+msgstr "精霊に追いつかれるぞ！立ち止まるな！"
 
 #. [message]: speaker=Saegwylyn
 #. another of Delfador's instructors; implying Delfador has attempted to
@@ -727,7 +727,7 @@ msgid ""
 " the eyestalks! You may need to cast it several turns in a row to keep ahead"
 " of the wraiths."
 msgstr ""
-"惑わされるな。ここまでは順調に進んでいる――浮揚魔法を唱えて邪眼草の間をすり抜けるのだ！レイスたちの先手を取り続けるためには、幾度か繰り返して唱える必要があるやも知れぬぞ。"
+"惑わされるな。ここまでは順調に進んでいる――浮揚魔法を唱えて邪眼草の間をすり抜けるのだ！精霊たちを振り切るには、幾度か繰り返して唱える必要があるやも知れぬぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:260
@@ -782,7 +782,7 @@ msgstr "あと一息ぞ！その裂け目を飛び越えてオーブに触れる
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:333
 msgid "Hello, my adoring fans!"
-msgstr "やあ、みんな。熱心な応援をありがとう！"
+msgstr "やあ、みんな。熱烈な応援をありがとう！"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:337
@@ -8097,7 +8097,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:79
 msgid "missile"
-msgstr ""
+msgstr "魔弾"
 
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:237
@@ -8261,6 +8261,8 @@ msgid ""
 "The apprentice’s XP is useful for casting spells, but raising him to maximum"
 " XP has no special effect."
 msgstr ""
+"通常のユニットとは異なり、見習い魔術師はレベルアップに XP を使用せず、ストーリーの進行に合わせて自動的にレベルアップします。見習い魔術師の XP "
+"は呪文を唱えるために有用ですが、XP を最大にしても特別な効果はありません。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2471
@@ -8270,6 +8272,8 @@ msgid ""
 "Delfador’s XP is useful for casting spells, but raising him to maximum XP "
 "has no special effect."
 msgstr ""
+"通常のユニットとは異なり、Delfador はレベルアップに XP を使用せず、ストーリーの進行に合わせて自動的にレベルアップします。Delfador "
+"の XP は呪文を唱えるために有用ですが、XP を最大にしても特別な効果はありません。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2487

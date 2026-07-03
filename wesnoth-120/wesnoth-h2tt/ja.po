@@ -135,12 +135,12 @@ msgstr "偉大なる Delfador"
 msgid ""
 "Personally defeat 10 enemies with Delfador during '<i>The Elves "
 "Besieged</i>'."
-msgstr "「包囲されたエルフ」で Delfador が 10 体の敵を倒す。"
+msgstr "「包囲されたエルフ」で Delfador が 10 体の敵を倒す"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:27
 msgid "Complete <i>Flight of the Elves</i> with no elf deaths."
-msgstr "「エルフの集団逃走」でエルフを一人も死なせずにクリアする。"
+msgstr "「エルフの集団逃走」でエルフを一人も死なせずにクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:27
@@ -155,12 +155,12 @@ msgstr "騎兵隊召集"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:28
 msgid "Defeat all enemy leaders during <i>Blackwater Port</i>."
-msgstr "「黒水港」で全ての敵リーダーを倒す。"
+msgstr "「黒水港」で全ての敵リーダーを倒す"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:29
 msgid "Persuade an Arch Mage to join your army in <i>Isle of Alduin</i>."
-msgstr "「Alduin 島」で熟練魔術師を説得して自軍に参加させる。"
+msgstr "「Alduin 島」で熟練魔術師を説得して自軍に参加させる"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:29
@@ -175,12 +175,12 @@ msgstr "お困りの友達…"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:30
 msgid "Complete <i>Muff Malal’s Peninsula</i> before freeing Moremirmu."
-msgstr "「Muff Malal の半島」を Moremirmu を解放する前にクリアする。"
+msgstr "「Muff Malal の半島」を Moremirmu を解放する前にクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
 msgid "Kill an enemy with Delurin during <i>Isle of the Damned</i>."
-msgstr "「呪われた島」で Delurin が敵を倒す。"
+msgstr "「呪われた島」で Delurin が敵を倒す"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
@@ -195,12 +195,12 @@ msgstr "害虫駆除業者"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
 msgid "Kill all giant spiders during <i>Isle of the Damned II</i>."
-msgstr "「呪われた島 その２」で全ての巨大蜘蛛を殺す。"
+msgstr "「呪われた島 その２」で全ての巨大蜘蛛を殺す"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
 msgid "Complete <i>The Siege of Elensefar</i> on Deadly difficulty."
-msgstr "「Elensefar の包囲」を「絶望的」難易度でクリアする。"
+msgstr "「Elensefar の包囲」を「絶望的」難易度でクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
@@ -210,7 +210,7 @@ msgstr "多分無理"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
 msgid "Complete <i>The Silver City</i> without capturing any villages."
-msgstr "「銀の都市」を村を一つも占領せずにクリアする。"
+msgstr "「銀の都市」を村を一つも占領せずにクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
@@ -220,148 +220,148 @@ msgstr "自由放任"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
 msgid "Counter-Sniper"
-msgstr "狙撃迎撃"
+msgstr "狙撃手迎撃"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
 msgid ""
 "Defeat the Master Bowman in <i>Fort Tahn</i> without attacking him with "
 "melee weapons."
-msgstr "「Tahn 砦」で熟練弓兵を近接武器で攻撃せずに倒す。"
+msgstr "「Tahn 砦」で熟練弓兵を近接武器で攻撃せずに倒す"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
 msgid "Conservationist"
-msgstr ""
+msgstr "自然保護活動家"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
 msgid ""
 "Defeat the Mother Gryphon in <i>Gryphon Mountain</i> without killing any "
 "other gryphons."
-msgstr ""
+msgstr "「グリフォンの山」をマザー・グリフォン以外のグリフォンを倒さずにクリア"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
 msgid "Complete part 1 of <i>Valley of Death</i> AFTER completing part 2."
-msgstr ""
+msgstr "「死の谷」を「死の谷 その２」より後にクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
 msgid "Quest Unrequested"
-msgstr ""
+msgstr "頼まれていない任務"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:41
 msgid "Defeat both liches before turns run out in <i>Valley of Death II</i>."
-msgstr ""
+msgstr "「死の谷 その２」で時間切れ前に両方のリッチを倒す"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:41
 msgid "The Best Defense..."
-msgstr ""
+msgstr "最大の防御は…"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:42
 msgid "Best Served Hot"
-msgstr ""
+msgstr "熱いうちにどうぞ"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:42
 msgid ""
 "Get the finishing blow on Li’sar with Ulfdain during <i>Crossroads</i>."
-msgstr ""
+msgstr "「三叉路」で Ulfdain が Li’sar にとどめの一撃を与える"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
 msgid "Defeat all caravans by turn 20 in <i>The Highwaymen</i>."
-msgstr ""
+msgstr "「強盗団」で 20 ターン以内に全ての荷馬車を倒す"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
 msgid "Grand Theft Wagon"
-msgstr ""
+msgstr "荷馬車重窃盗罪"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
 msgid "Arrive on the north shore at the start of <i>The Ford of Abez</i>."
-msgstr ""
+msgstr "「Abez の浅瀬」で開始時に北の岸に到着する"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
 msgid "Switcheroo"
-msgstr ""
+msgstr "もう渡ったよ？"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:47
 msgid "Fight Fire With Fire"
-msgstr ""
+msgstr "火には火を"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:47
 msgid "Recruit a Troll Whelp in <i>Glamdrol</i>."
-msgstr ""
+msgstr "「Glamdrol」でトロルの子供を雇用する"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:48
 msgid "Complete the <i>Northern Winter</i> scenario."
-msgstr ""
+msgstr "「北部の冬」シナリオを完全にクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:48
 msgid "Poor Timing"
-msgstr ""
+msgstr "バッドタイミング"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:49
 msgid "Complete <i>An Old Friend</i> with the enemy leader above half health."
-msgstr ""
+msgstr "「親しい友人」を敵リーダーの HP を半分より多く残してクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:49
 msgid "Rest in Pieces"
-msgstr ""
+msgstr "安らかな眠りを"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:50
 msgid "(Temporarily) liberate <i>The Dwarven Doors</i>."
-msgstr ""
+msgstr "「ドワーフの戸口」を（一時的に）解放する"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:50
 msgid "Hold Fast Your Hope"
-msgstr ""
+msgstr "希望を捨てるな"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:51
 msgid "Cavefish"
-msgstr ""
+msgstr "洞窟魚"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:51
 msgid ""
 "Complete <i>The Lost General</i> while only recruiting or recalling Merfolk."
-msgstr ""
+msgstr "「行方不明の将軍」をマーフォークだけを雇用、召還してクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:52
 msgid "Bring the proper equipment to <i>Digging for Dwarves</i>."
-msgstr ""
+msgstr "「ドワーフ発掘」に適切な装備を持ち込んで使う"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:52
 msgid "Minecraft"
-msgstr ""
+msgstr "マインクラフト"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:55
 msgid "Complete <i>The Sceptre of Fire</i> on turn 40."
-msgstr ""
+msgstr "「炎の笏」を 40 ターンにクリアする"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:55
 msgid "Procrastination"
-msgstr ""
+msgstr "引き延ばし"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:56
@@ -1739,7 +1739,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:308
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:313
 msgid "Gryphon Mountain"
-msgstr ""
+msgstr "グリフォンの山"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:334
@@ -1798,7 +1798,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:415
 msgid "Valley of Death"
-msgstr ""
+msgstr "死の谷"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:419
 msgid ""
@@ -1828,7 +1828,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:481
 msgid "Valley of Death II"
-msgstr ""
+msgstr "死の谷 その２"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:490
@@ -2028,32 +2028,32 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:760
 msgid "Crossroads"
-msgstr ""
+msgstr "三叉路"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:764
 msgid "Crossroads - 5 turns remaining"
-msgstr ""
+msgstr "三叉路 - 残り５ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:765
 msgid "Crossroads - 4 turns remaining"
-msgstr ""
+msgstr "三叉路 - 残り４ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:766
 msgid "Crossroads - 3 turns remaining"
-msgstr ""
+msgstr "三叉路 - 残り３ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:767
 msgid "Crossroads - 2 turns remaining"
-msgstr ""
+msgstr "三叉路 - 残り２ターン"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:768
 msgid "Crossroads - 1 turn remaining (last chance!)"
-msgstr ""
+msgstr "三叉路 - 残り１ターン (最後のチャンス！)"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:806
@@ -2306,7 +2306,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1178
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1183
 msgid "The Ford of Abez"
-msgstr ""
+msgstr "Abez の浅瀬"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1209
@@ -2430,11 +2430,11 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:9
 msgid "Glamdrol Fortress"
-msgstr ""
+msgstr "Glamdrol 砦"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:17
 msgid "Glamdrol"
-msgstr ""
+msgstr "Glamdrol"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:20
 msgid ""
@@ -2504,7 +2504,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:181
 msgid "Horn of Glamdrol"
-msgstr ""
+msgstr "Glamdrol の角笛"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:182
 msgid ""
@@ -2640,7 +2640,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:370
 msgid "Northern Winter"
-msgstr ""
+msgstr "北部の冬"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:397
@@ -2741,7 +2741,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:544
 msgid "An Old Friend"
-msgstr ""
+msgstr "親しい友人"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:562
@@ -3001,11 +3001,11 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:921
 msgid "Dwarven Doors"
-msgstr ""
+msgstr "ドワーフの戸口"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:926
 msgid "The Dwarven Doors"
-msgstr ""
+msgstr "ドワーフの戸口"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:971
@@ -3070,7 +3070,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1073
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:9
 msgid "The Lost General"
-msgstr ""
+msgstr "行方不明の将軍"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1077
 msgid ""
@@ -3135,7 +3135,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1181
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:9
 msgid "Digging for Dwarves"
-msgstr ""
+msgstr "ドワーフ発掘"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1185
 msgid ""
@@ -3501,7 +3501,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:22
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:230
 msgid "The Sceptre of Fire"
-msgstr ""
+msgstr "炎の笏"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:155
 msgid ""
@@ -9653,7 +9653,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:8
 msgid "scenario name^Gryphon Mountain"
-msgstr ""
+msgstr "グリフォンの山"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:37
@@ -9937,7 +9937,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:7
 msgid "scenario name^Valley of Death"
-msgstr ""
+msgstr "死の谷"
 
 #. [side]: type=Shock Trooper, id=Kaelor
 #. [side]
@@ -10183,7 +10183,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:12
 msgid "scenario name^Valley of Death II"
-msgstr ""
+msgstr "死の谷 その２"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:58
@@ -10614,7 +10614,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:8
 msgid "scenario name^Crossroads"
-msgstr ""
+msgstr "三叉路"
 
 #. [side]: type=Knight, id=knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:52
@@ -11000,7 +11000,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:10
 msgid "scenario name^The Highwaymen"
-msgstr ""
+msgstr "強盗団"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:172
@@ -11352,7 +11352,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:8
 msgid "scenario name^The Ford of Abez"
-msgstr ""
+msgstr "Abez の浅瀬"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:34
@@ -11458,7 +11458,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:8
 msgid "scenario name^Glamdrol"
-msgstr ""
+msgstr "Glamdrol"
 
 #. [side]
 #. [side]: type={TYPE}, id=leader{SIDE}
@@ -12531,12 +12531,12 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:695
 msgid "scenario name^Northern Winter"
-msgstr ""
+msgstr "北部の冬"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:8
 msgid "scenario name^An Old Friend"
-msgstr ""
+msgstr "親しい友人"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:64
@@ -12742,7 +12742,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:8
 msgid "scenario name^The Dwarven Doors"
-msgstr ""
+msgstr "ドワーフの戸口"
 
 #. [message]: role=angry_orc
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:200
@@ -19628,7 +19628,7 @@ msgstr ""
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:5
 msgid "Caravan"
-msgstr ""
+msgstr "荷馬車"
 
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:19
@@ -20632,7 +20632,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:264
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:278
 msgid "sceptre of fire"
-msgstr ""
+msgstr "炎の笏"
 
 #. [object]: id=royal_chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:310
