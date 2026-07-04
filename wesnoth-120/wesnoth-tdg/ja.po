@@ -144,7 +144,7 @@ msgstr "<b>最終試練</b>において火の精霊に炎を放つ。"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
 msgid "Scenario 0: Sandbagger"
-msgstr "無駄撃ち"
+msgstr "シナリオ 0：無駄撃ち"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
