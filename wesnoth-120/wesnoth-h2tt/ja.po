@@ -678,7 +678,7 @@ msgstr "ああ、見ろ！ここの柵に緩んでいるところがあるぞ！
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:85
 msgid ""
 "Well done, Konrad! Fresh air at last; we have escaped the smoke and fire."
-msgstr ""
+msgstr "よくやったぞ、Konrad！やっと新鮮な空気が吸える。炎と煙から無事に抜け出せたようだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:89
@@ -686,6 +686,7 @@ msgid ""
 "But the rest of the elves have not; they’re still trapped in the battle! And"
 " look — even our friends at Blackwater Port are being attacked!"
 msgstr ""
+"しかし残されたエルフはそうではありません！彼らは未だ戦闘の渦中です！それに見てください ── 我々の友である黒水港までもが攻撃を受けています！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:93
@@ -694,13 +695,15 @@ msgid ""
 "western reaches have suffered less of the dark queen’s tyranny than have the"
 " rest of the realm. But it seems now even this has come to an end."
 msgstr ""
+"他の地域に比べて西部地域で闇の女王による暴政の影響が少なかったのは事実だ。しかしそれも Elensefar と Aethen "
+"の森の力があったからこそ。これからはそういうわけにもいかないであろうな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:97
 msgid ""
 "Then we must do something! Delfador, we can’t keep running away while others"
 " get hurt."
-msgstr ""
+msgstr "では何かしなければ！Delfador、皆が傷ついていると言うのに、我々がただ逃げ回るわけにはいかない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:101
@@ -710,17 +713,19 @@ msgid ""
 "hoped to wait until you were older... Hmph, I remember my own master telling"
 " me that once."
 msgstr ""
+"そうだな、その通りだ、Konrad。もはやそうするしかあるまいな。予定よりも早くなってしまったが、Asheviere "
+"への対抗作戦を始めよう。本音を言えばもう少しお主が経験を積むまで待ちたかったが…… ふむ、そういえばかつて私の師匠も同じことを私に言っていたな。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:105
 msgid ""
 "Don’t worry Delfador, I’m ready. Now come on, let’s go save the kingdom!"
-msgstr ""
+msgstr "心配は無用だよ、Delfador。準備はもうできている。さあ王国を救いに行こう！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:123
 msgid "Aethenwood"
-msgstr ""
+msgstr "Aethen の森"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:133
@@ -737,7 +742,7 @@ msgstr "エルフの集団逃走 - 残り１ターン (最後のチャンス！)
 msgid ""
 "Konrad, our war is lost! We have tried to flee but human forces encircle us."
 " If you don’t act now, none of us may escape!"
-msgstr ""
+msgstr "Konrad、私達は敗れた！今は逃げようとしているが、人間の軍勢に包囲されてしまっている。手を貸してくれ、このままじゃ誰も逃げられない！"
 
 #. [message]: race=elf
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:202
@@ -745,6 +750,7 @@ msgid ""
 "I’m glad you have escaped the attack, Konrad, but we cannot! Help us evade "
 "the human armies and flee our burning forest!"
 msgstr ""
+"Konrad、お前が逃げきれたことは喜ばしい。しかしこのままでは我々は逃げられない！人間の軍勢を掻い潜り、焼け落ちる森から逃げるのを手伝ってくれ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:223
@@ -753,6 +759,8 @@ msgid ""
 " the human army has returned to Weldyn... if only I had acted sooner, some "
 "of them might still have been saved."
 msgstr ""
+"森は静寂に包まれている。エルフ達は死んでしまったか、捕らわれるかして、人間の軍勢は Weldyn に戻ったのだろう…… "
+"もう少し早く行動できていれば、救うことができた人もいただろうに。"
 
 #. [message]: role=s02_speaker_1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:249
@@ -762,20 +770,23 @@ msgid ""
 "truly wise when he asked us to raise you as our own; he must have known you "
 "would someday save us."
 msgstr ""
+"Konrad、ありがとう！たくさんの仲間が炎から逃れることができたし、人間の軍勢も物資が尽きて Weldyn "
+"へ戻ったわ。あなたを自分たちの子供のように育てるように言った Kalenz "
+"様は本当に賢明だった。あのお方はあなたがいつか私達を助けてくれるということを知っていたのだわ。"
 
 #. [message]: role=s02_speaker_2
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:253
 msgid ""
 "Of course, raising Konrad is part of the reason we were attacked in the "
 "first place..."
-msgstr ""
+msgstr "まあ、お前を育てていたこと、それがそもそも攻撃を受けた原因の一つなんだろうけどね……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:261
 msgid ""
 "The elves have gone into hiding; safely escaped into the southern "
 "Aethenwood! May they prosper again once Asheviere is overthrown."
-msgstr ""
+msgstr "エルフを姿を隠してしまった。Aethen の森の南へ安全に逃れたのだろう。いつか Asheviere にかつての繁栄が戻りますように。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:271
@@ -797,7 +808,7 @@ msgstr "黒水港 - 残り１ターン (最後のチャンス！)"
 msgid ""
 "Konrad, I am hard-pressed by the dark queen’s forces! Without your aid, "
 "Blackwater Port shall soon fall to ruin!"
-msgstr ""
+msgstr "Konrad、私を闇の女王の軍勢に追い詰められている！お前の助けがなければ、黒水港が廃墟となる日も遠くないだろう！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:363
@@ -806,6 +817,8 @@ msgid ""
 "one of the few who is willing to oppose the Dark Crown. Rumor has it that "
 "his lance has slain fifty men and a hundred orcs."
 msgstr ""
+"Konrad、Kaylan 卿のことは知っておろう ── 最も力を持つ騎士侯の一人で、闇の女王への抵抗を躊躇わない数少ない勇者の一人だ。彼のランスは "
+"50 の人間と 100 のオークを倒したと言われている。"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:367
@@ -814,6 +827,7 @@ msgid ""
 "’round, but with your aid we can rout their attack and re-secure Blackwater "
 "Port!"
 msgstr ""
+"Delfador、絶妙のタイミングだ。闇の女王の軍勢は全方向から迫っている。しかし、我々が力を合わせれば、連中を打ち破り、黒水港を再び確保することも可能だ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:401
@@ -821,13 +835,14 @@ msgid ""
 "Blackwater Port has fallen, and poor Sir Kaylan is either a prisoner or "
 "dead. If only I had acted sooner, we might have saved him..."
 msgstr ""
+"黒水港は陥落した。Kaylan 卿も命を落とすか、捕らわれるかしてしまっただろう。もう少し早く行動できていれば、彼を救うこともできたかもしれない……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:435
 msgid ""
 "Alas, poor Sir Kaylan has perished! At least the good people of Blackwater "
 "Port are safe."
-msgstr ""
+msgstr "ああ、なんてことだ。Kaylan 卿が亡くなられてしまった！それでも、黒水港の良き人々の安全は確保できた。"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:441
@@ -836,28 +851,30 @@ msgid ""
 "of Garard’s Royal Cavalry stands at your service. May they serve you well, "
 "as you ride to claim your rightful place on the throne!"
 msgstr ""
+"若き後継者よ、助力に感謝します！港も使えるようになりました。それに、Garard "
+"陛下の親衛騎兵隊の生き残り達もあなたのお役に立つでしょう。彼らが良く働き、王位を取り戻さんとするあなたの一助となりますよう願っています！"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:449
 msgid ""
 "Thanks again for your aid, young Konrad! May my horsemen serve you well on "
 "your journey."
-msgstr ""
+msgstr "若き Konrad よ、助力に感謝します！我が騎兵達があなたの旅の一助となりますよう願っています。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:459
 msgid "Bay of Pearls"
-msgstr ""
+msgstr "真珠の入り江"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:464
 msgid "The Bay of Pearls"
-msgstr ""
+msgstr "真珠の入り江"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:476
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:431
 msgid "Nepba"
-msgstr ""
+msgstr "Nepba"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:492
@@ -866,49 +883,51 @@ msgid ""
 "overran our homes and took us prisoner! Now we slave away all day, pearl "
 "diving for the queen."
 msgstr ""
+"助けてくれ！Asheviere "
+"の軍勢が西へ向かった時、オークとナーガに住処を侵略され、捕まってしまったのだ！我々は奴隷にされて、毎日一日中女王のために真珠を取らされている。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:496
 msgid "Shut it, fish!"
-msgstr ""
+msgstr "黙れ魚野郎！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:509
 msgid "Midiriel"
-msgstr ""
+msgstr "Midiriel"
 
 #. [message]: speaker=Midiriel
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:521
 msgid ""
 "We swim free once more! Thank you Konrad. May our warriors serve you well on"
 " your quest."
-msgstr ""
+msgstr "また自由に泳げるようになったわ！ありがとう、Konrad。私達の戦士達もあなたのお役に立てますように。"
 
 #. [message]: speaker=Midiriel
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:527
 msgid "Thank you again, Konrad! Good luck on your quest."
-msgstr ""
+msgstr "ありがとう、Konrad！旅は順調ですか？"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:537
 msgid "Aldril"
-msgstr ""
+msgstr "Aldril"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:543
 msgid "Woodsman"
-msgstr ""
+msgstr "木こり"
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:554
 msgid "Don’ mind me. I’m jus’ a woodsman keeping ’is head down."
-msgstr ""
+msgstr "俺のことは放っとけ。ただ狩りのために身を潜めてるだけだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:558
 msgid ""
 "Asheviere is an evil queen, woodsman. This is a time for action — join me "
 "and help fight for liberty and justice!"
-msgstr ""
+msgstr "木こりよ、Asheviere は邪悪な女王なのだ。今こそ行動の時 ── 私と一緒に自由と正義のために戦おう！"
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:562
@@ -917,30 +936,31 @@ msgid ""
 "die. Funny, that. If you’ll excuse me, it’s huntin’ season and I have a "
 "family to feed."
 msgstr ""
+"女王サマは邪悪だと思われているだけ。しかし、お前は俺に戦って死ねと言っている。おかしな話だな。すまんが今は狩りの季節で、俺は家族にメシを食わせにゃならんのだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:569
 msgid ""
 "Please? They say there’s more magic in one kind word than in all of "
 "Delfador’s enchantments put together."
-msgstr ""
+msgstr "ダメだろうか？たった一言の優しい言葉には、Delfador の魔法よりも大きな力があると言われているんだ。"
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:573
 msgid "Get lost."
-msgstr ""
+msgstr "さっさと消えろ。"
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:578
 msgid ""
 "... okay, fine, here’s a few pieces from the town treasury. Go spend ’em on "
 "drink or girls or whatever you soldiers do."
-msgstr ""
+msgstr "……わかったわかった。町の金庫から少し出そう。その金で酒を飲むなり女を買うなり好きにするといい。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:586
 msgid "You have gained 8 gold!"
-msgstr ""
+msgstr "8 ゴールドを獲得しました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:595
@@ -949,13 +969,16 @@ msgid ""
 "make life better for everyone. But most just keep quietly to themselves... I"
 " guess I can’t blame them."
 msgstr ""
+"人々が一致団結できれば、Asheviere "
+"を簡単に玉座から引きずり落とせる。そうできれば皆の暮らしも楽になるだろうに。しかし、ほとんどの人々は黙って目立たないように閉じこもるばかり…… "
+"とは言え私には彼らを責められない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:599
 msgid ""
 "Maybe that’s what’s so important about being the heir — hope, and a symbol "
 "people can rally behind."
-msgstr ""
+msgstr "王位継承者の在り方として重要なことは ── 希望となること。その下ならば人々が結束できる、そんな象徴となることなのだろう。"
 
 #. [event]
 #. [side]: type=Arch Mage, id=Seimus
@@ -971,31 +994,31 @@ msgstr "Alduin 島"
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:621
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:548
 msgid "<b>-OR-</b> (choose one reward)"
-msgstr ""
+msgstr "<b>もしくは</b> （どちらかの報酬を選択）"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:629
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:174
 msgid "Elrian"
-msgstr ""
+msgstr "Elrian"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:632
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:52
 msgid "Aenic"
-msgstr ""
+msgstr "Aenic"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:638
 msgid "Where are you taking him? None of them have done anything wrong!"
-msgstr ""
+msgstr "彼をどこへ連れていくのですか？彼らは誰も何も間違ったことはしていません！"
 
 #. [message]: speaker=Aenic
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:642
 msgid ""
 "The queen will be the judge of that. Asheviere doesn’t look kindly on "
 "treasonous sentiment. Especially not from apprentices!"
-msgstr ""
+msgstr "それは女王陛下が判断されることだ。陛下は反逆的な思想に寛容ではない。ましてや見習い魔術師がそんなことを考えているのならば！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:648
@@ -1004,26 +1027,28 @@ msgid ""
 "It’s policed by Asheviere now, but is isolated from most of her armies. "
 "Perhaps we can find allies among the faculty or pupils."
 msgstr ""
+"Delfador は Alduin のことを色々話してくれた。Wesnoth の偉大な魔術アカデミーであると。今は Asheviere "
+"の軍が取り締まっているが、この軍は他の軍勢からは孤立している。もしかしたら、教員や生徒の中に仲間を見つけられるかもしれない。"
 
 #. [side]: type=Arch Mage, id=Seimus
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:662
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:97
 msgid "Seimus"
-msgstr ""
+msgstr "Seimus"
 
 #. [message]: role=alduin_mage_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:703
 msgid ""
 "Farewell, Delfador. We will liberate the Isle and finish what you and Konrad"
 " started!"
-msgstr ""
+msgstr "さらばだ、Delfador。我々は島を解放し、お前と Konrad が始めた仕事を完遂する！"
 
 #. [message]: role=alduin_justcompleted_mage
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:715
 msgid ""
 "Thank you, Konrad! Asheviere won’t forget what happened here today, and "
 "neither will we."
-msgstr ""
+msgstr "ありがとう、Konrad！私も、そして Asheviere も、今日ここで起きたことを忘れられないことでしょう。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:725
@@ -1032,6 +1057,8 @@ msgid ""
 "already done for us, but... I’ve been speaking with the others, and not "
 "everyone is ready to join your army."
 msgstr ""
+"これだけのことをしていただいておいて、こんなお願いをするのは心苦しいのですが…… "
+"他の者達とも話し合ったのですが、皆が皆、あなたの軍勢に参加する準備ができているわけではないのです。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:729
@@ -1039,18 +1066,20 @@ msgid ""
 "You’re a soldier, but most of us are just students. And some of us are "
 "afraid. Asheviere targets the families of those who oppose her."
 msgstr ""
+"あなたは戦士ですが、我々のほとんどはまだ学生であるのです。そして一部の者は恐れています。Asheviere "
+"が逆らった者の家族を標的にするのではないかと。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:731
 msgid ""
 "Can you find it in your heart to help us one more time, by releasing some of"
 " us from our duty to you?"
-msgstr ""
+msgstr "そこで、厚かましいお願いではありますが、何人かをこの崇高な義務から解放していただけないでしょうか？"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:745
 msgid "Dismiss Elrian from your army"
-msgstr ""
+msgstr "Elrian を軍勢から外す"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:749
@@ -1058,11 +1087,12 @@ msgid ""
 "I knew you’d understand. My friends will gladly stay and fight knowing that "
 "I’ve left to warn their families. Thank you, and good luck."
 msgstr ""
+"ご配慮感謝いたします。私が彼らの家族に警告してくれるとわかっていれば、友人達は喜んであなたと一緒に戦うでしょう。ありがとうございます。ご武運を。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:759
 msgid "Dismiss your other Mages (and lose recruitment)"
-msgstr ""
+msgstr "他の魔術師を解放する（雇用もできなくなります）"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:767
@@ -1070,19 +1100,19 @@ msgstr ""
 msgid ""
 "Thank you for understanding, Konrad. I’ll gladly stay and fight knowing my "
 "friends are safe elsewhere."
-msgstr ""
+msgstr "ご配慮ありがとうございます、Konrad 様。友人達がどこかで安全に過ごせるとわかっていれば、私は喜んであなたの下で戦えます。"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:772
 msgid ""
 "Konrad can no longer recruit Mages. Except for Elrian, his existing Mages, "
 "Red Mages, etc have been dismissed."
-msgstr ""
+msgstr "Konrad はもはや魔術師を雇用できません。Elrian 以外の魔術師、赤魔術師などは軍勢からいなくなります。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:794
 msgid "Dismiss your other Mages (not your White Mages)"
-msgstr ""
+msgstr "他の魔術師を解放する（白魔術師は含まれません）"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:807
@@ -1090,11 +1120,13 @@ msgid ""
 "Konrad can no longer advance Mages to Red Mages. Except for Elrian, his "
 "existing Mages, Red Mages, etc (not White Mages) have been dismissed."
 msgstr ""
+"Konrad の軍勢では今後魔術師は赤魔術師にレベルアップできません。Elrian "
+"以外の魔術師、赤魔術師など（白魔術師系は除く）は軍勢からいなくなります。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:825
 msgid "Refuse Elrian’s request"
-msgstr ""
+msgstr "Elrian の申し出を拒否する"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:832
@@ -1102,6 +1134,8 @@ msgid ""
 "I came here to help these people, not to force them to die for me. Refusing "
 "their request would make me little better than Asheviere."
 msgstr ""
+"ここへは人々を助けるために来た。私のために死ねと命令するためではない。この申し出を断ってしまったら、私も Asheviere "
+"と大差無い。それではダメだ。"
 
 #. [message]: role=alduin_justcompleted_mage
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:848
@@ -1110,6 +1144,7 @@ msgid ""
 "outright. We’re immensely grateful for your help, but you’re a soldier, and "
 "we’re just students."
 msgstr ""
+"正直に言えば、当初、私たちの中には、あなたの軍にそのまま加わることに躊躇していた者もいました。もちろん、あなたの助力にはみんな心より感謝しています。しかし、私達はまだ学生に過ぎません。あなたのような戦士ではないのです。"
 
 #. [message]: role=alduin_justcompleted_mage
 #. Elrian was another student Mage, who died in the previous scenario.
@@ -1118,23 +1153,25 @@ msgid ""
 "But after what Asheviere’s soldiers did to Elrian? We’d be cowards if we "
 "asked you to let us leave now. Let us take revenge against the dark queen."
 msgstr ""
+"しかし、Asheviere の兵士が Elrian にしたことを考えると…… "
+"ここで元の生活に戻りたい、と言ってしまえば、私達はただの臆病者です。そのようなわけにはいきません。どうか私達にも闇の女王への復讐の機会をいただけませんか。"
 
 #. [message]: role=alduin_mage_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:869
 msgid "Good luck, Konrad! The Isle of Alduin stands behind you."
-msgstr ""
+msgstr "ようこそ、Konrad！Alduin 島はあなたの味方です。"
 
 #. [message]: role=alduin_mage_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:874
 msgid "You’ve caused enough trouble here. Off with you!"
-msgstr ""
+msgstr "これ以上面倒を起こすつもりか？さっさと出て行け！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:878
 msgid ""
 "Delfador may have understood these people, but to them I’m just another "
 "outlaw..."
-msgstr ""
+msgstr "Delfador は彼らのことを良く理解していたのかもしれないが、彼らにとって私はただの無法者に過ぎないのだろう……"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:890
 msgid "Muff Malal’s Peninsula"
@@ -1152,7 +1189,7 @@ msgstr "Muff Malal"
 msgid ""
 "The Light rebukes you, foul necromancer! Flee as you may, you cannot escape "
 "my wrath!"
-msgstr ""
+msgstr "邪悪な降霊術師よ、光の神は貴様を許さない！逃げても無駄だ！私の怒りから逃れることはできない！"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:917
@@ -1160,11 +1197,12 @@ msgid ""
 "Well well, aren’t you a squeaky little toy! I wonder what new noises you’ll "
 "make after I kill you and raise your corpse."
 msgstr ""
+"はいはい、そんなにキーキー喚いて、お前は子供用のおもちゃか何かなのか？お前を殺して死体を起き上がらせたらどんな雑音を奏でてくれるのだろうな。"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:923
 msgid "Can’t you see I’m busy? Stay out of this or you’ll regret it!"
-msgstr ""
+msgstr "見ればわかるだろう？私は忙しいんだ！さっさとどっかへ行け！さもないと後悔することになるぞ！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:944
