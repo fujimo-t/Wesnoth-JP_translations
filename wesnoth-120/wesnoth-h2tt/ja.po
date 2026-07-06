@@ -1209,24 +1209,24 @@ msgstr "見ればわかるだろう？私は忙しいんだ！さっさとどっ
 msgid ""
 "Lo! We have cleansed a great evil here today, my friend. Together we shall "
 "fight onwards against evil!"
-msgstr ""
+msgstr "見よ！我等は今日此処で巨悪を滅ぼしたのだ、友よ。これからも共に悪と戦い続けよう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:951
 msgid ""
 "With Muff Malal defeated, in time this land may heal. We did a good deed "
 "here."
-msgstr ""
+msgstr "Muff Malal さえいなくなれば、この土地も時とともに癒されていくだろう。私達はここで良い仕事ができた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:975
 msgid "The Three Sisters"
-msgstr ""
+msgstr "三姉妹の島"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:976
 msgid "Elensefar Reef"
-msgstr ""
+msgstr "Elensefar 岩礁"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1032
@@ -1235,6 +1235,8 @@ msgid ""
 "weather — if we continue westwards we may have trouble getting back without "
 "a fight."
 msgstr ""
+"前方に嵐の雲が見える。このボートは荒れた海を航行できるようには造られていないだろう ── "
+"これ以上西へ進んでしまえば、容易には戻れないかもしれない。戦闘に強制的に巻き込まれる可能性もある。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1041
 msgid "Isle of the Damned"
@@ -1245,24 +1247,24 @@ msgstr "呪われた島"
 msgid ""
 "We’re caught in the storm! The wind is blowing us towards that island. "
 "Brace!"
-msgstr ""
+msgstr "嵐に捕まった！風はあの島に向かって吹きつけている。不測の事態に備えろ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1089
 msgid ""
 "Whew, we survived... but the boats are smashed to bits. Where is this place?"
-msgstr ""
+msgstr "ふう、なんとか生き延びた… しかしボートは粉々になってしまった。ここはどこだろう？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1096
 msgid "I suppose we may as well explore while we’re marooned."
-msgstr ""
+msgstr "遭難してしまったな。とりあえずは辺りを調べてみるとするか。"
 
 #. [unit]: type=Outlaw, id=Delurin, gender=male
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1104
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:170
 msgid "Delurin"
-msgstr ""
+msgstr "Delurin"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1110
@@ -1271,13 +1273,15 @@ msgid ""
 "of all places? There must be safer hideouts than foggy islands crawling with"
 " undead!"
 msgstr ""
+"あなたがたの住処を安全にする手助けができて光栄だ。しかし… "
+"どうしてこのような場所に住もうと？アンデッドが徘徊する霧に包まれた島々よりは安全な場所があるでしょう？"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1114
 msgid ""
 "Naw, weren’t always like this. The Three Sisters’ve always been good to us —"
 " tough, but fair. These undead be a new thing."
-msgstr ""
+msgstr "いや、ずっとこうだったわけじゃない。俺たちにとって三姉妹の島は良いところだ ── 厳しいが、公平だからな。それにアンデッドは新顔だ。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1118
@@ -1286,6 +1290,7 @@ msgid ""
 " down, hunting for weapons, treasure, magic and what have ye. But instead of"
 " her coming back out, all we got was hordes of the dead."
 msgstr ""
+"島の西に古い地下墓地があるだろう？俺たちのリーダーが武器や宝物、魔法の品なんかを漁りにそこへ入っていった。で、戻ってきたのは彼女じゃなくて、アンデッドの軍勢だったってわけだ。"
 
 #. [message]: speaker=Delurin
 #. "If’n" here just means "If"
@@ -1294,6 +1299,7 @@ msgid ""
 "Her and some of her girls are still down there, trapped — or dead. If’n you "
 "can help, we’d all be in yer debt."
 msgstr ""
+"リーダーとお付きの連中はまだ中にいるはずだ。出られなくなったのか、それとも死んだのか。もしそっちも手伝ってくれるってんならでかい借りになるな。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1125
@@ -1301,6 +1307,7 @@ msgid ""
 "If not... well, there’s our port. I’ve got some ships to take ye back to the"
 " mainland. We owe you that much."
 msgstr ""
+"それがダメなら… そうだな。俺たちの使う港がある。船を何艘か使ってお前たちを大陸まで送ってやっても良い。すでにそれだけのことはしてもらってるからな。"
 
 #. [scenario]: id=08b_Isle_of_the_Damned_part2
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1139
@@ -1313,13 +1320,13 @@ msgstr "呪われた島 その２"
 msgid ""
 "Our leader an’ some o’ her hunters are still down there underground, trapped"
 " — or dead. If’n you can help, we’d all be in yer debt."
-msgstr ""
+msgstr "俺たちのリーダーと彼女のお付きの狩人がまだ地下にいる。出られなくなったのか、それとも死んだのか。こっちも助けてくれたらみんな喜ぶ。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1175
 msgid ""
 "... a prince? No kiddin’. Never thought I’d be friends with blue blood."
-msgstr ""
+msgstr "……王子サマ？マジで？お貴族サマとオトモダチになるとか予想外にもほどがあるね。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1179
@@ -1327,10 +1334,12 @@ msgid ""
 "Well. Listen, if you’re fightin’ Asheviere, then me an’ my hunters are with "
 "you; we want to help. It’s about time someone did somethin’ ’bout her."
 msgstr ""
+"うーん。聞いてくれ。もしあんたが Asheviere "
+"と戦ってるんなら、アタシと狩人達が喜んで。手を貸そう。そろそろあのクソアマを誰かがなんとかしないとダメだろ。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1181
 msgid "Konrad can now recruit Poachers!"
-msgstr ""
+msgstr "Konrad は密猟者を雇用できるようになりました！"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1188
@@ -1339,18 +1348,20 @@ msgid ""
 "in your debt, now an’ ferever. Go an’ give Asheviere the thrashing she "
 "deserves."
 msgstr ""
+"Konrad、助けてくれてありがとうな！三姉妹の島がお前の恩を忘れることはないぞ、今もそしてこれからもずっと。さあ、Asheviere "
+"にキツいお仕置きを頼むぜ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1198
 msgid "Carcyn"
-msgstr ""
+msgstr "Carcyn"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1249
 msgid ""
 "There is a small port here, but most of the boats have been seized and "
 "sailed away! Those that remain are out in the river, filled with soldiers."
-msgstr ""
+msgstr "小さな港がある。しかし、ほとんどのボートは押収されてどこかへ行ってしまったようだ。川にはいくらか残っているが、こちらは兵士でいっぱいだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1253
@@ -1358,21 +1369,21 @@ msgstr ""
 msgid ""
 "Many of the townsfolk relied on those boats for their livelihood. We have to"
 " do something!"
-msgstr ""
+msgstr "町の人々は生計を立てるためにボートが必要なはずだ。私達がなんとかしないと！"
 
 #. [message]: role=merman2
 #. [message]: role=gryphon1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1262
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1296
 msgid "Leave it to us, Your Highness!"
-msgstr ""
+msgstr "我々にお任せください、殿下！"
 
 #. [message]: role=merman2
 #. [message]: role=gryphon1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1271
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1304
 msgid "Now bring the rest of the boats back to port."
-msgstr ""
+msgstr "良し、残りのボートを港に戻すぞ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #. [message]: speaker=Konrad
@@ -1381,14 +1392,14 @@ msgstr ""
 msgid ""
 "There is a small port here, but most of the ships have been seized and "
 "sailed away! Those that remain are out in the river, filled with soldiers."
-msgstr ""
+msgstr "小さな港がある。しかし、ほとんどの船は押収されてどこかへ行ってしまったようだ。川にはいくらか残っているが、こちらは兵士でいっぱいだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1320
 msgid ""
 "Many of the townsfolk relied on those boats for their livelihood. We have to"
 " do something — and with my magical water-walking sandals, maybe I can."
-msgstr ""
+msgstr "町の人々は生計を立てるためにボートが必要なはずだ。なんとかしないと ── 私の魔法の水上歩行のサンダルを使えばなんとかなりそうだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1345
@@ -1397,6 +1408,7 @@ msgid ""
 " back to port! Doing this by myself was very dangerous and I got very lucky,"
 " but I am glad to have taken the risk and helped this town."
 msgstr ""
+"一番面倒だった連中を追い払って、残りのボートは港に戻したぞ！自分で実行するのは危険だったが、幸運が味方してくれたな。なんとか町を助けられて良かった。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1355
@@ -1405,6 +1417,7 @@ msgid ""
 " away! Some hang just out of reach, as if to taunt us. If only I could "
 "reclaim them..."
 msgstr ""
+"小さな港がある。しかし、ほとんどの船は押収されてどこかへ行ってしまったようだ。手の届かないところに、まるで私達を馬鹿にしているかのように何艘かは残っている。もしあれらを手に入れることができれば……"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1380
@@ -1413,13 +1426,15 @@ msgid ""
 "old, Konrad. It were a nasty fight, but in the end we knocked the whole "
 "thing down, Baldras and I did. I miss him something fierce."
 msgstr ""
+"ほら、あれが Halstead の残骸だ。Konrad、お前がまだ 1-2 "
+"歳の頃のハナシか。あれはキッツい戦いだったが、最後にはアタシらが、Baldras とアタシで全部まとめて潰したんだ。あの人がいないのはすごく寂しいな。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1384
 msgid ""
 "Baldras was your uncle, is that right? Is he not back with the others on the"
 " Three Sisters?"
-msgstr ""
+msgstr "Baldras はあなたの叔父でしたよね？彼は皆と一緒に三姉妹の島に行かなかったのですか？"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1388
@@ -1429,20 +1444,21 @@ msgid ""
 "too, you know? But it’s been years, and not one of thems that went out has "
 "come back."
 msgstr ""
+"そうだ。彼と家族の一部は大勢の奴隷を助けるため、東へ旅立った。立派なことだし、新しい友達もできそうだと思わないか？しかし、もう何年も経ったけど、あの時旅立ったヤツらは誰一人戻らない。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1392
 msgid ""
 "Delurin says they’re probably all dead, but I refuse t’ believe it. My uncle"
 " Baldras is tougher than that..."
-msgstr ""
+msgstr "みんな死んでしまったのだろうと Delurin は言う。でもアタシはそうは思わない。Baldras はそんな簡単に死ぬタマじゃない……"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1414
 msgid ""
 "Dallben, my home. Might look like jus’ another ruined town to you, but this "
 "place was once full of life an’ adventure!"
-msgstr ""
+msgstr "Dallben、アタシの故郷だ。お前にとっては良くある廃墟の一つにしか見えないだろうが、ここにはかつて生命と冒険が満ち溢れていたんだ。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1418
@@ -1451,18 +1467,20 @@ msgid ""
 "an’ hide, an’ now all’s left is memories. Lotsa stories like ours these "
 "days."
 msgstr ""
+"もちろん、Asheviere "
+"が現れたとたんに全部がバラバラになっちまったんだ。アタシたちは命からがら逃げ隠れるしかなかった。そして残ったモンは思い出だけ。最近ではありふれたハナシになってるんだろうな。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1422
 msgid ""
 "Wait a moment, Konrad. I might still be able to scrounge up a li’l gold for "
 "us."
-msgstr ""
+msgstr "ちょっと待て、Konrad。ちょっとした小金を集めることくらいはできるかもだ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1427
 msgid "You have gained 25 gold!"
-msgstr ""
+msgstr "25 ゴールドを獲得しました！"
 
 #. [event]
 #. [side]
@@ -1470,12 +1488,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:145
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:166
 msgid "Elensefar"
-msgstr ""
+msgstr "Elensefar"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1444
 msgid "Halstead"
-msgstr ""
+msgstr "Halstead"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1445

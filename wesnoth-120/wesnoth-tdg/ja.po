@@ -843,7 +843,7 @@ msgstr "では、わしの票で合否が決まるわけだな。よし、決め
 msgid ""
 "<i>The Deceiver weaves the twine encircling the puppets in the court of "
 "royals.</i>"
-msgstr "欺瞞者が宮廷で人形の繰糸を紡いでいる。"
+msgstr "逆賊が宮廷で人形の繰糸を紡いでいる。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:515
@@ -889,26 +889,26 @@ msgstr "あぁ、だめだ！師匠、助けてください！"
 #. Methor casts a spell to save Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:564
 msgid "I’ll save you!"
-msgstr "やれやれ、またか・・・いま助けるぞ！"
+msgstr "やれやれ、いま助けるぞ！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:579
 msgid ""
 "(sigh) Not again! I suppose you’ll have to retry the exam next year... for "
 "the sixth time."
-msgstr ""
+msgstr "はぁ・・・今年もか！来年、また試験だな・・・６度目の。"
 
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:8
 msgid "Stirrings of War"
-msgstr ""
+msgstr "戦乱の胎動"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:26
 msgid ""
 "In the year 481 after the founding of Wesnoth, King Garard the Second grew "
 "discontent."
-msgstr ""
+msgstr "Wesnoth 建国後 481 年、国王 Garard II世は不満をつのらせていた。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:29
