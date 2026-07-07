@@ -1525,7 +1525,7 @@ msgstr "Elensefar の包囲 - 残り１ターン (最後のチャンス！)"
 msgid ""
 "Delfador, I’ve come to Elensefar to help! Together we can fight off the "
 "besieging armies!"
-msgstr ""
+msgstr "Delfador、私も Elensefar を救いに来ました！力を合わせれば包囲する軍勢も撃退できます！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1632
@@ -1533,13 +1533,14 @@ msgid ""
 "Don’t be daft, Konrad. You must be kept safe! This battle is too dangerous "
 "for you — keep your distance and do your good elsewhere."
 msgstr ""
+"馬鹿を言うな、Konrad。お前が死んでしまってはならんのだ！この戦いはお主には危険過ぎる ── ここから離れてどこか別の場所で力を蓄えるのだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1638
 msgid ""
 "Fighting here is a poor decision, Master Konrad. But if you insist on "
 "joining the battle, Maddock and I can certainly use your help."
-msgstr ""
+msgstr "ここで戦うのは得策ではないぞ、王位を継ぐ者よ。しかしどうしてもと言うのであれば、私と Maddock もその力を当てにさせてもらうぞ。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1674
@@ -1552,6 +1553,8 @@ msgid ""
 "Item for Konrad: <span color='#EFBF04'><b>full movement and 40% defense on "
 "water, swamp, & snow</b></span>"
 msgstr ""
+"Konrad 用アイテム: <span color='#EFBF04'><b>水、沼、雪の地形で 40 % の回避率 & "
+"移動コスト１</b></span>"
 
 #. [message]: role=elensefar_orc_leader2
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1731

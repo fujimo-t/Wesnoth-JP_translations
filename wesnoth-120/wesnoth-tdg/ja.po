@@ -918,6 +918,8 @@ msgid ""
 "secured him a queen, as well as the promise of an heir. Yet despite these "
 "achievements, the restless king could find no peace."
 msgstr ""
+"Estmarks を確保し、南部の蛮族を平定したことで、Wesnoth はその版図を広げ、強大な帝国へと成長した。Garard は年若い "
+"Asheviere を王妃として迎え、世継ぎの誕生も約束された。だが、斯くの如き隆盛を極めながら、荒ぶる王の心に平穏は訪れなかった。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:33
@@ -927,6 +929,8 @@ msgid ""
 " the orcs of the Heart Mountains, whose raids had long been a nuisance "
 "across his northern border."
 msgstr ""
+"王が愛を注いだのは剣と盾であり、戦いと血であった。Weldyn での退屈な生活に不満を募らせた Garard "
+"は、代わりに中心山脈のオークに目を向けた。北方の国境を越えて侵入し、掠奪を繰り返すオークは、長きに渡り悩みの種であった。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:37
@@ -935,6 +939,8 @@ msgid ""
 " an expeditionary force to cross the Great River and lay claim to orcish "
 "lands; a great show of power to secure Wesnoth’s might."
 msgstr ""
+"報復を熱望する王は各方に使者を送り、全土から遠征軍を召集した。大いなる川を渡り、オークの支配領域の領有権を主張することで、Wesnoth "
+"の武威を確固たるものにし、その力を誇示しようとしたのだ。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:41
@@ -943,11 +949,13 @@ msgid ""
 "summoning a contingent of magi to support Garard’s endeavor. A particular "
 "young apprentice was especially enthusiastic..."
 msgstr ""
+"使者の一人が Alduin の由緒あるアカデミーにも訪れ、Garard "
+"の遠征を支援する魔術師の部隊を召集した。その中に、一人特別に情熱をたぎらせる見習い魔術師がいたのだった・・・"
 
 #. [side]: type=Orcish Grunt
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:66
 msgid "Ozgob"
-msgstr ""
+msgstr "Ozgob"
 
 #. [side]: type=Orcish Grunt
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:71
@@ -1054,22 +1062,22 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:253
 msgid "Gumpnug"
-msgstr ""
+msgstr "Gumpnug"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:268
 msgid "Bork"
-msgstr ""
+msgstr "Bork"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:284
 msgid "Mirnik"
-msgstr ""
+msgstr "Mirnik"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:300
 msgid "Gump"
-msgstr ""
+msgstr "Gump"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:320
