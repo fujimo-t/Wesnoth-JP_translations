@@ -1560,38 +1560,38 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1731
 msgid ""
 "Look at all this gold! Tear up the floorboards; don’t let ’em hide a thing."
-msgstr ""
+msgstr "おい見ろよ、金だらけだぞ！床板を剥いじまえ。隠してるものも全部、根こそぎ持ってくぞ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1735
 msgid ""
 "Leave Elensefar alone, you villains! Rule under Asheviere would have been "
 "bad enough, but orcs?!"
-msgstr ""
+msgstr "悪党共、さっさと Elensefar から出て行け！Asheviere の支配も問題だが、オークだと？！"
 
 #. [message]: role=elensefar_orc_leader1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1739
 msgid ""
 "Don’t try anything stupid, wretch. Your queen gave us this place fair and "
 "square, and we’re not givin’ it up so easy!"
-msgstr ""
+msgstr "おいおい、どういうつもりだ。俺たちはお前たちの女王様から正式にこの場所をもらったんだぞ！手放す理由は無い！"
 
 #. [message]: role=elensefar_orc_leader1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1745
 msgid "Get lost, pinkskin! Elensefar is our city now."
-msgstr ""
+msgstr "失せろ、クソ人間！Elensefar は俺達のものだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1749
 msgid "Not if my sword has anything to say about it!"
-msgstr ""
+msgstr "私の剣がお前たちに伝えたいことがあるようだ！"
 
 #. [message]: role=elensefar_completed_thief
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1783
 msgid ""
 "Thanks again for saving our city, Konrad! Good luck in your fight against "
 "the dark queen — for all our sakes."
-msgstr ""
+msgstr "俺たちの都市を救ってくれてありがとうな、Konrad！闇の女王もなんとかしてくれよ ── 俺たちのためにも。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:9
@@ -1604,13 +1604,14 @@ msgid ""
 "Weapon for Konrad: <span color='#EFBF04'><b>+3 strikes, <i>slows</i> and "
 "<i>arcane</i> specials on bow attacks</b></span>"
 msgstr ""
+"Konrad の武器：<span color='#EFBF04'><b>弓に「攻撃回数+3」、「遅化」と「秘術」の特殊効果を追加</b></span>"
 
 #. [message]: role=fort_tahn_leader1
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:39
 msgid ""
 "Incredible craftsmanship! Just incredible! I’ve never seen a bow like this "
 "before in my life! From the Aethenwood, you say?"
-msgstr ""
+msgstr "素晴らしい職人技だ！本当に素晴らしいな！こんな素晴らしい弓は生まれて初めて見た！Aethen の森から来た品だったか？"
 
 #. [message]: role=fort_tahn_leader2
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:43
@@ -1619,6 +1620,8 @@ msgid ""
 "done testing it, we’re excited to get it back home to Westin along with the "
 "rest of our loot."
 msgstr ""
+"連中の集会所かなんかのでかい建物を焼き払っている時に出てきたらしいぞ。お前の試し射ちが終わったら、他の戦利品と一緒に Westin "
+"まで持っていくぞ。最高の気分だ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:49
@@ -1627,6 +1630,8 @@ msgid ""
 "treasure to be even touched by one of Asheviere’s villains, much less "
 "pillaged from the ruins of my home! We have to get it back!"
 msgstr ""
+"あの射手は Aethen の森の「月の弓」を持っている！あのような品が Asheviere "
+"の手下の手に渡ってしまうとは、まさに悲劇だ。ましてや、あれは私の住んでいた家の廃墟から略奪されたのだから！絶対に取り戻さなくては！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:69
@@ -1635,6 +1640,8 @@ msgid ""
 " with the sacking of Fort Tahn we are one step closer to our eventual "
 "victory over Asheviere."
 msgstr ""
+"皆、良い仕事だった！エルフの強力な宝物を取り戻すことができた。それに、Tahn 砦が陥落したことで Asheviere "
+"からの最終的な勝利にまた一歩近づいたぞ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:75
@@ -1642,35 +1649,37 @@ msgid ""
 "Fort Tahn will rebuild in time, but by driving off the garrison we have "
 "dealt a small, yet meaningful blow against Asheviere."
 msgstr ""
+"Tahn 砦はいずれ再建されてしまうだろう。しかし、守備隊を蹴散らしたことで Asheviere "
+"に対して小さいながらも確実にダメージを与えられただろう。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:88
 msgid "Dulatus Hills"
-msgstr ""
+msgstr "Dulatus 丘陵"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:92
 msgid "Merle"
-msgstr ""
+msgstr "Merle"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:124
 msgid "Hullo, stranger. What brings you to these forsaken parts?"
-msgstr ""
+msgstr "よお、よそ者。こんな辺鄙な場所に何の用だ？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:128
 msgid ""
 "I am Konrad, son of Arand and heir to Garard’s throne! I’m on a quest to "
 "depose the evil queen Asheviere!"
-msgstr ""
+msgstr "私は Konrad。Arand の子で、Garard の王位継承者だ。邪悪な女王 Asheviere を追い落とすために旅をしている。"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:132
 msgid ""
 "Here in the Dulatus, we don’ want no queen. Don’ much want no prince or king"
 " neither, though."
-msgstr ""
+msgstr "Dulatus には女王サマなんざいらねぇな。王子サマや王サマもいらんがな。"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:136
@@ -1679,13 +1688,15 @@ msgid ""
 "it to pay fer his wars, an’ his bride Asheviere took the rest. Now we’ve got"
 " nothin’ but empty mines an’ dusty vaults."
 msgstr ""
+"昔は金と花崗岩のおかげでこの丘陵も景気が良かったんだがな。Garard 王が戦争のためにほとんどを持っていって、残りはお后の Asheviere "
+"が持っていっちまった。ここに残っているのは空っぽの鉱山とホコリまみれの地下室だけさ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:140
 msgid ""
 "I’m sorry for your misfortunes, friend. Perhaps we can work together for the"
 " benefit of us both."
-msgstr ""
+msgstr "友よ、それは不運だったな。しかし、そういうことなら、お互いの利益になることがありそうだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:144
@@ -1695,13 +1706,15 @@ msgid ""
 "and guard our excess gold for us now, once I overthrow Asheviere and assume "
 "the throne I will be happy to help revitalize the Dulatus."
 msgstr ""
+"ここには貴重品をしまっておける設備がある。そして私達は運びきれないほどの資金や物資を獲得してしまう場合がある。もし、あなたがここでその余剰資金を保管してくれるのなら、私が"
+" Asheviere を倒して王位を取り戻した後、Dulatus の活性化に喜んで協力すると誓おう。"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:148
 msgid ""
 "Hmm... I suppose we’ve got nothin’ else to do. You’re not worried we’re "
 "gonna steal it, or sell ye out to the queen?"
-msgstr ""
+msgstr "むむむ… まあ、その提案には乗るしかないか。しかし、俺たちが盗むとか、女王に売り飛ばすとかの心配はいいのか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:152
@@ -1710,17 +1723,19 @@ msgid ""
 " squander my earnings, but I would rather take a risk and make a friend than"
 " live my life in distrust."
 msgstr ""
+"まず、あなたは Asheviere "
+"に好意や敬意を抱いてはいないようだ。私に金を無意味に浪費する趣味はもちろん無いが、友人を一人作るためならばリスクを冒す価値はあると思っている。周囲に不信感を抱いて怯えて生きるよりはずっと良いだろう？"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:156
 msgid ""
 "Alright, kid. It’s a deal. We’ll hang onto your extra gold, free of charge."
-msgstr ""
+msgstr "良い覚悟だ、小僧。取引といこう。余ったゴールドは手数料無しで預かってやろう。"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:165
 msgid "Welcome back, prince. What business have you here?"
-msgstr ""
+msgstr "よう、おつかれ。何か用か？"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:177
@@ -1729,13 +1744,15 @@ msgid ""
 "Asheviere. I don’ want no queen. Don’ much want no prince or king neither, "
 "though."
 msgstr ""
+"へー、それじゃあんたがどこでも噂になっている王子サマか。Asheviere "
+"と戦っているとかいう。俺には女王サマはいらねぇな。とはいえ、王子サマや王サマもいなくて構わんがな。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:182
 msgid ""
 "Konrad, we don’t have time to stop and chat with villagers; especially not "
 "ones who scoff at the very idea of royalty. Let’s keep moving."
-msgstr ""
+msgstr "Konrad、こんなところで村人とおしゃべりしている時間は無い。王家を軽んじるような輩ならなおさらだ。さっさと行こう。"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:192
@@ -1743,12 +1760,12 @@ msgid ""
 "Hullo again, Konrad! I thought you might have trouble getting back to our "
 "old hole in the Dulatus, so me an’ some of the boys set up shop here "
 "instead."
-msgstr ""
+msgstr "よう、Konrad！Dulatus にある拠点まで来るのは大変だろう？仲間に協力してもらってここに拠点を用意しておいたぜ。"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:200
 msgid "Welcome back, prince. Soon I might be calling you “king.”"
-msgstr ""
+msgstr "よう、王子様。そのうち「王様」って呼ぶことになるんだろうな。へへっ。"
 
 #. [message]: speaker=Konrad
 #. $bm_merle_stored_gold may be between 0 and 100. $gold may be between 0 and
@@ -1757,12 +1774,12 @@ msgstr ""
 msgid ""
 "I have $bm_merle_stored_gold gold stored with Merle, and $gold gold in my "
 "coffers."
-msgstr ""
+msgstr "Merle のところに $bm_merle_stored_gold ゴールドあって、手持ちは $gold ゴールドだ。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:223
 msgid "Deposit 10 gold"
-msgstr ""
+msgstr "10 ゴールド預ける"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:242
@@ -1772,6 +1789,8 @@ msgid ""
 "as me, an’ these days there’s bandits in th’ countryside too. You carry "
 "around the rest o’ yer coin yerself, alright?"
 msgstr ""
+"100 "
+"ゴールドを超えるって？Konrad、俺にはこんなに大量に抱えられねぇよ。俺は盗んだりしないが、他の連中はそこまで信用できねぇ。それに辺境では最近山賊も出るしな。だから、この金は自分でなんとかしてくれ、な？"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:246
@@ -1779,35 +1798,35 @@ msgid ""
 "Or, if ye really want, I thinks you’ve got enough money here to hire our "
 "whole village into yer army. If that’s the way ye wanted to go, I think most"
 " of us’d be willing."
-msgstr ""
+msgstr "それか、これだけの金があれば村全部を軍に入れることもできるな。お前が本当にそれを望めば、ほとんどの連中は喜んでついていくぜ。間違いない。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:251
 msgid "Hire Merle’s village (lose all stored gold, learn to recruit Ruffians)"
-msgstr ""
+msgstr "Merle の村を買う（全ての貯金を失い、悪漢を雇用可能）"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:255
 msgid ""
 "Alright, then, we’re with you. Whether this works out for us or not, at "
 "least it’s better than sittin’ around this old town waiting to rot."
-msgstr ""
+msgstr "良しわかった。ついていくぜ。これが吉と出るか凶と出るかはわからんが、この古い町でただ朽ち果てていくよりはずっとマシだろう。"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:258
 msgid "Konrad can now recruit Ruffians!"
-msgstr ""
+msgstr "Konrad は悪漢を雇用できるようになりました！"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:265
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:292
 msgid "Leave"
-msgstr ""
+msgstr "離れる"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:278
 msgid "Withdraw 10 gold"
-msgstr ""
+msgstr "10 ゴールド引き出す"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:308

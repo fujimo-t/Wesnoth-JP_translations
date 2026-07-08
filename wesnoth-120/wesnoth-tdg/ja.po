@@ -7937,7 +7937,7 @@ msgstr ""
 #. [unit_type]: id=Giant Crab, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:4
 msgid "Giant Crab"
-msgstr ""
+msgstr "巨大蟹"
 
 #. [unit_type]: id=Giant Crab, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:14
@@ -7997,7 +7997,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Shaman, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Shaman.cfg:5
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "オークのシャーマン"
 
 #. [unit_type]: id=Orcish Shaman, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Shaman.cfg:24
@@ -8010,7 +8010,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Sorceress, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:5
 msgid "Orcish Sorceress"
-msgstr ""
+msgstr "オークの女魔術師"
 
 #. [unit_type]: id=Orcish Sorceress, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:24
@@ -8300,11 +8300,11 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:49
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:57
 msgid "Methor"
-msgstr ""
+msgstr "Methor"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:76
 msgid "Arand"
-msgstr ""
+msgstr "Arand"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:85
 msgid "Asheviere"
