@@ -7276,7 +7276,7 @@ msgstr ""
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:69
 msgid "King Eldred"
-msgstr ""
+msgstr "Eldred 王"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:227
@@ -7691,7 +7691,7 @@ msgstr ""
 #. [unit_type]: id=Prince of Wesnoth, race=human, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Arand.cfg:4
 msgid "Prince of Wesnoth"
-msgstr ""
+msgstr "Wesnoth の王子"
 
 #. [unit_type]: id=Prince of Wesnoth, race=human, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Arand.cfg:14

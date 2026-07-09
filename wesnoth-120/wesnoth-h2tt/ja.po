@@ -123,7 +123,7 @@ msgstr "$name_before_adding_brother 修道士"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:234
 msgid "Sister $name_before_adding_brother"
-msgstr "$name_before_adding_brother 修道女"
+msgstr "シスター $name_before_adding_brother"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:26
@@ -1839,20 +1839,20 @@ msgstr "グリフォンの山"
 msgid ""
 "I’ve heard stories about the fabled Gryphon Mountain! I would much like a "
 "chance to gaze upon the majestic creatures."
-msgstr ""
+msgstr "伝説のグリフォンの山についての話を聞いたことがある！その堂々とした姿を見るせっかくの機会、逃したくはない！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:360
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:169
 msgid "Burlin"
-msgstr ""
+msgstr "Burlin"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:363
 msgid ""
 "Ah’m glad we could work together on this, kid. You collected the eggs, an’ "
 "now I’ll collect my profits!"
-msgstr ""
+msgstr "小僧、中々良い働きであったぞ。お主は卵を集めてくれた。さあ、ワシも稼がんとな！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:368
@@ -1862,32 +1862,34 @@ msgid ""
 "nobles, the army, the orcs... and it’s why peasants starve to death, their "
 "harvest all taken for taxes."
 msgstr ""
+"Asheviere は金で多くの人々の目を曇らせている。彼女はそうやって、貴族、軍勢、オークを支配する…… "
+"それを続けるため、農民達の収穫を税として全て奪い、支配のための原資とする。そんなことをしていれば当然農民は飢え死にしてしまう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:372
 msgid ""
 "That’s why we have to fight her. Not for my sake, but for the sake of all "
 "the peoples suffering under the dark queen’s lash."
-msgstr ""
+msgstr "だから私達は彼女と戦わねばならない。私のためではなく、闇の女王の圧政に苦しむ全ての人々のために。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:384
 msgid ""
 "Gryphon Mountain is at peace once again. I’m glad to see that the matriarch "
 "survived, and that her flock is recovering from the fighting..."
-msgstr ""
+msgstr "グリフォンの山には平和が戻った。マザーが生き残り、群れも戦いの傷から回復しつつあるようで良かった……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:389
 msgid ""
 "Gryphon Mountain is at peace once again. If only our fighting hadn’t killed "
 "the matriarch and driven away her flock..."
-msgstr ""
+msgstr "グリフォンの山には平和が戻った。マザーを生き残らせ、群れを追い散らさずに済ませられなかったことは残念だ…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:398
 msgid "Gryphon Mountain stands silent and empty. We got what we needed."
-msgstr ""
+msgstr "グリフォンの山は空っぽで静寂に包まれている。必要なものは手に入れたんだ。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:415
 msgid "Valley of Death"
@@ -1898,26 +1900,28 @@ msgid ""
 "Item for Konrad: <span color='#EFBF04'><b>Regenerate 1 HP each turn. This value doubles\n"
 "(2, 4, 8, etc) for each other magic item that Konrad wields.</b></span>"
 msgstr ""
+"Konrad 用アイテム：<span color='#EFBF04'><b>毎ターン HP +1 再生。この効果は Konrad\n"
+"が持つ魔法の品１つごとに倍増（+2, +4, +8, ...）します。</b></span>"
 
 #. [side]: type=Shock Trooper, id=Kaelor
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:426
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:31
 msgid "Brother Kaelor"
-msgstr ""
+msgstr "Kaelor 修道士"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:439
 msgid ""
 "Press forward, brothers! We must vanquish these abominations and summon aid "
 "for our brethren, lest they fall to the darkness below!"
-msgstr ""
+msgstr "前進だ！忌まわしき存在を打ち払い、援軍を呼ぶのだ！さもなくば同胞達が闇に飲まれてしまう！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:447
 msgid ""
 "Lo! Konrad, a fellow brother of the order stands in need! Shall we answer "
 "the call?"
-msgstr ""
+msgstr "見よ！修道会の仲間が助けを求めているぞ！手を貸すべきではないか？"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:481
 msgid "Valley of Death II"
@@ -1928,34 +1932,34 @@ msgstr "死の谷 その２"
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:551
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:118
 msgid "Sister Myrilell"
-msgstr ""
+msgstr "シスター Myrilell"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:491
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:123
 msgid "Gwatharry"
-msgstr ""
+msgstr "Gwatharry"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:516
 msgid ""
 "Fear not, Gwatharry, for Brother Kaelor has gone south to fetch help. May "
 "the Light speed him on his journey."
-msgstr ""
+msgstr "恐れることはありませんよ、Gwatharry。Kaelor 修道士が助けを求めて南へ向かいました。光が彼を導きますように。"
 
 #. [message]: speaker=Gwatharry
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:520
 msgid ""
 "And may he return soon. The sacred seal continues to weaken, and undead are "
 "starting to slip through..."
-msgstr ""
+msgstr "そして彼が早く戻ってきますように。神聖なる封印は弱まりつづけていて、アンデッドが現れ始めています…"
 
 #. [message]: speaker=Gwatharry
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:525
 msgid ""
 "The seal is broken! The texts are burned! Yea, the very Light itself has "
 "forsaken us..."
-msgstr ""
+msgstr "封印が壊れてしまった！ルーンが燃えた！ああ、光の神は我等を見捨てられたのか…"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:529
@@ -1963,20 +1967,21 @@ msgid ""
 "Doubt not, brother, for our faith is our shield. The warriors have gone for "
 "aid, and aid shall soon come."
 msgstr ""
+"疑ってはなりません、修道士よ。私達の信仰心こそが私達の盾なのですから。戦士達は助けを求めに行ってくれました。だからきっとすぐに助けは来ますよ。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:537
 msgid ""
 "Strangers... and do I see Brother Moremirmu among their number? Your are "
 "sorely needed, Brother!"
-msgstr ""
+msgstr "見知らぬ人たち… あなたは Moremirmu 修道士ですか？修道士よ、今こそまさにあなたの助力が必要なのです！"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:542
 msgid ""
 "Are you the help we have been waiting for, stranger? Your aid would be most "
 "welcome."
-msgstr ""
+msgstr "見知らぬ人、あなたがたが私達の待ち望んだ助けなのでしょうか？どうかそのお力をお貸しいただけないでしょうか。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:562
@@ -1985,6 +1990,8 @@ msgid ""
 "prince. May the Lords of Light shine their blessings down upon you as you "
 "journey forth on your quest of inheritance."
 msgstr ""
+"私達の家、そして Irdya "
+"の全ての生き物、あなたのおかげで皆が助かりました、正当なる王子よ。王位継承のために旅する貴方を光の神が祝福くださいますように。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:572
