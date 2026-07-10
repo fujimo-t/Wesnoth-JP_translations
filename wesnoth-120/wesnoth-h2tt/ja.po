@@ -1996,19 +1996,19 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:572
 msgid "Grey Wood"
-msgstr ""
+msgstr "灰色森"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:577
 msgid "Mya"
-msgstr ""
+msgstr "Mya"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:602
 msgid ""
 "There is a cloaked figure watching me from the edge of the Grey Woods... "
 "Hello! Who’s there?"
-msgstr ""
+msgstr "灰色森の端から、外套をまとった人物がこちらを見つめている… こんにちは！あなたは誰でしょうか？"
 
 #. [message]: speaker=Konrad
 #. this is a hint that there's a special event if the player brings Harper
@@ -2017,7 +2017,7 @@ msgstr ""
 msgid ""
 "She’s fled! I’ve no hope of tracking anyone through such an overgrown "
 "forest. We need someone who already knows the way..."
-msgstr ""
+msgstr "彼女が逃げた！私にはこんなに生い茂った森で追いかけるのは無理そうだ。しかし、誰かこの森を知っている人物がいればあるいは……"
 
 #. [message]: role=grey_woods_explainer
 #. this is a hint that there's a special event if the player brings Harper
@@ -2028,25 +2028,27 @@ msgid ""
 "never met one. I were too young back then. Only Baldras and Harper really "
 "knew them."
 msgstr ""
+"Konrad、あいつは影の魔術師のように見えたぞ！そいつらの話は聞いたことがあるが、実際に会ったことはなかった。まあ、俺はまだそのころ幼すぎたから仕方ないが。Baldras"
+" か Harper なら連中のことを良く知っているはずだ。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:659
 msgid ""
 "Hey, wait! You’re a Shadow Mage! One o’ Helicrom’s. Wait — it’s me, Harper!"
-msgstr ""
+msgstr "おい、待てって！お前は影の魔術師だろ？！Helicrom のところの。だから待てって ── アタシだ、Harper だ！"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:663
 msgid ""
 "Konrad, I’ve told you stories about them Shadow Mages. How they helped "
 "Baldras an’ me bring down Halstead?"
-msgstr ""
+msgstr "Konrad、前にあいつら影の魔術師の話をしたことがあっただろ？アイツらが Baldras を助けて Halstead をブチ壊した話だ。"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:671
 msgid ""
 "Little Harper? This is a surprise. You’re marching alongside Prince Konrad?"
-msgstr ""
+msgstr "Harper だって？こいつは驚いた。お前が Konrad 王子と並んで歩いているのか？"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:675
@@ -2055,19 +2057,20 @@ msgid ""
 "outlaws were helping us destabilize the crown, not fighting to supplant and "
 "restore it."
 msgstr ""
+"記憶が正しければ、王権を不安定にさせるため、無法者としてお前たちは以前に私たちを助けた。王位の復権のためではなかったはずだ。それなのに、今度は彼を私たちの目の前まで連れてきてしまったのか。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:679
 msgid ""
 "Hey now, it ain’t as bad as all that. Asheviere is the evil one, not Konrad!"
-msgstr ""
+msgstr "そんな大したハナシじゃないな。Asheviere はクソだけど、Konrad はそうじゃないってだけ！"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:683
 msgid ""
 "Be that as it may, a strong throne is not in the interest of the Grey Woods."
 " I believe Helicrom made that clear when you and he first met."
-msgstr ""
+msgstr "ともあれ、灰色森は強大な王家を望んでいない。Helicrom と初めて会った時、そのように聞いているはずだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:687
@@ -2075,6 +2078,7 @@ msgid ""
 "I understand that you want to be left alone, and I mean you no harm. Harper "
 "has vouched for me. Perhaps we can make a deal?"
 msgstr ""
+"あなたがたは放っておいて欲しいのでしょう？私もあなた方への敵意はありません。Harper も保証してくれましたし、私達は取引できるのではありませんか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:689
@@ -2083,6 +2087,8 @@ msgid ""
 "of the crown’s agents interfere with whatever your business is in the Grey "
 "Woods. Provided that business causes nobody any harm."
 msgstr ""
+"Asheviere "
+"を追い落とすのを手伝ってくれたら、私が王として、王家に関係する者が灰色森でのお仕事を邪魔しないことを保証しましょう。もちろん、そのお仕事が誰も傷つけないものであることが条件にはなりますが。"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:693
@@ -2091,11 +2097,12 @@ msgid ""
 "younger members care rather less about ideals and more about gold. They "
 "might be willing to follow you, if you can pay."
 msgstr ""
+"私はお前と協力しようとは思わないが、若いメンバーには理想よりも金が好きな奴がいることは否定できない。金を出すなら、連中は喜んでついていくだろうな。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:712
 msgid "80 gold: learn to recruit Rogue Mages."
-msgstr ""
+msgstr "80 ゴールド：ならず者魔術師を雇用可能"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:717
@@ -2104,26 +2111,26 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:807
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:505
 msgid "Decline"
-msgstr ""
+msgstr "断る"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:733
 msgid ""
 "I would like to agree to your offer, but I don’t have enough gold right now."
 " I’ll return when I can afford to pay."
-msgstr ""
+msgstr "その申し出に応じたいところだが、今は手持ちが足りない。出直すとしよう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:746
 msgid ""
 "I agree to your offer. Thank you for your willingness to work with us — I "
 "vow to keep my word."
-msgstr ""
+msgstr "取引成立ですね。ご協力に感謝します ── この剣にかけて、約束は守ると誓いましょう。"
 
 #. [else]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:748
 msgid "Konrad can now recruit Rogue Mages!"
-msgstr ""
+msgstr "Konrad はならず者魔術師を雇用できるようになりました！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:760
