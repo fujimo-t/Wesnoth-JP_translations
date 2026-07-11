@@ -2168,78 +2168,80 @@ msgid ""
 "Hello, “cousin” — if you really are Konrad and not an imposter. I am Li’sar,"
 " princess of Wesnoth and my mother’s most able commander."
 msgstr ""
+"こんにちは、「いとこ」さん ── もっとも、あなたが偽者ではなくて、本物の Konrad ならば、だけど。私は Li’sar、Wesnoth "
+"の王女で、母にとって最も有能な指揮官でもあるわ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:810
 msgid ""
 "I hear you are a man of the people, princeling. Will you rescue these "
 "helpless dwarven prisoners before I have them executed?"
-msgstr ""
+msgstr "あなたは民に寄り添う者だと言われているようね、王子様。それなら、この無力なドワーフを私が処刑する前に助けられるかしら？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:816
 msgid ""
 "Well, Konrad? Will you fight me, or leave my dwarven prisoners to a gruesome"
 " fate?"
-msgstr ""
+msgstr "さあ、どうするの Konrad？私と戦うの？それとも、悲惨な最期を目の前にしたドワーフの囚人を置き去りにして尻尾を巻いて逃げ出すの？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:827
 msgid ""
 "The princess Li’sar used to be here with some prisoners, but they have gone "
 "now."
-msgstr ""
+msgstr "Li’sar 王女が囚人達と共にここにいたが、もうどこかに行ってしまったようだ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:854
 msgid "You may have bested me today Konrad, but this isn’t over."
-msgstr ""
+msgstr "今日は負けたけど、これで終わりじゃないわ……"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:868
 msgid ""
 "Thank ye again for freein’ me! If I ever get my hands on that cowardly, "
 "sniveling, sissy, waste-o-space princess..."
-msgstr ""
+msgstr "ワシを助けてくれて感謝するぞ！あの王女、弱虫で泣き虫で 惰弱なロクでなしはいつか捕まえて…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:880
 msgid "Tath"
-msgstr ""
+msgstr "Tath"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:919
 msgid ""
 "Konrad, you’ll remember I told you my family lives in Tath? Well, they’re "
 "quite well off, financially speaking."
-msgstr ""
+msgstr "Konrad、私の家族が Tath に住んでいると言ったことを覚えておられますか？私の家族は経済的に裕福な方なのです。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:925
 msgid ""
 "Konrad, I never got around to telling you this, but my family lives in Tath."
 " And they’re quite well off, financially speaking."
-msgstr ""
+msgstr "Konrad、まだお伝えできていなかったことなのですが、私の家族が Tath に住んでいます。そして、家族は経済的に裕福なのです。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:931
 msgid ""
 "Give me a moment to reconnect and let them know I’m still alive. Maybe I can"
 " convince them to help support our cause."
-msgstr ""
+msgstr "ほんの少しだけお時間をいただけませんか？家族に私の無事を伝えたいのです。あわせて、我々の活動への支援をお願いしようと思います。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:946
 msgid ""
 "Great news! My grandparents have agreed to pledge 60 gold to our cause."
-msgstr ""
+msgstr "素晴らしい知らせです！祖父母より 60 ゴールドを工面することができそうです。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:951
 msgid ""
 "Well done, and my thanks. That’s a great deal of wealth for a single family "
 "to contribute. You and they have my gratitude for such a generous gift."
-msgstr ""
+msgstr "それは素晴らしい。一つの家族でこれほど巨額の財産を拠出するのは、大変なことなのでは？心より感謝する他ありません。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:955
@@ -2248,6 +2250,8 @@ msgid ""
 "interest once you assume the throne. I had to offer very generous terms — "
 "apparently you’re a “high-risk investment.”"
 msgstr ""
+"えーと、まあ、これは贈り物というより貸し付けですね。王位を継承したら、元金に利息を加えて返済してもらうことになります。申し訳ありませんが、好条件を提示せざるを得なかったんです"
+" ── あなたは「ハイリスクな投資対象」になりますので。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:959
@@ -2255,28 +2259,29 @@ msgid ""
 "You can accept the coin now, or wait for a more opportune time. Don’t worry "
 "about repayment: that can be dealt with after we defeat the queen."
 msgstr ""
+"今資金を受け取ることもできますが、少し時期を見計らってもいいかもしれません。後の支払いについてはご心配は不要でしょう。女王を倒してしまえばなんとでもなりますから。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:966
 msgid "Are you ready to make use of my family’s coin?"
-msgstr ""
+msgstr "私の家族からの資金を受け取りますか？"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:973
 msgid "Accept 60 gold from Elrian’s family"
-msgstr ""
+msgstr "Elrian の家族から 60 ゴールドを受け取る"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:982
 msgid ""
 "I accept the gold, and am grateful for it. Their generosity will be repaid "
 "in kind once I am king."
-msgstr ""
+msgstr "資金を受け取った。感謝いたします。私が王になった暁には、相応の恩で報いると誓います。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:989
 msgid "Not yet"
-msgstr ""
+msgstr "また後にする"
 
 #. [message]: speaker=Konrad
 #. referencing the tunnel used by Bazur and Isolde in Asheviere's Dogs
@@ -2285,6 +2290,8 @@ msgid ""
 "Delfador says that there was once a tunnel connecting Tath and Dan’Tonk. "
 "During the war it was used to great effect against the city defenders."
 msgstr ""
+"かつて Tath と Dan’Tonk をつなぐトンネルがあったと Delfador "
+"が言っていた。戦争中、そのトンネルが都市の防衛軍に対して非常に効果的に活用されたとも。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1005
@@ -2292,6 +2299,7 @@ msgid ""
 "But even if the tunnel still exists, and has not been deliberately collapsed"
 " by Asheviere, it is surely too well-guarded for us to attempt to use it."
 msgstr ""
+"しかし、例えそのトンネルがまだ存在していて、Asheviere に壊されていなかったとしても、そこの防衛は非常に堅固で、私達が使うことは無理だろう。"
 
 #. [message]: speaker=Konrad
 #. referencing the "discipline" scenario of Asheviere's Dogs
@@ -2301,6 +2309,8 @@ msgid ""
 "fighting over. It never fully recovered from the damage it took during "
 "Asheviere’s rise to power."
 msgstr ""
+"Tath は良い町だが、戦略的な重要度は低い。戦闘を仕掛ける意義は薄い。Asheviere "
+"が権力を奪う過程で受けた被害から完全に回復することもできていない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1066
@@ -2315,6 +2325,7 @@ msgid ""
 "Dan’Tonk. Delfador says this is the largest city in Wesnoth, and the source "
 "of most of Asheviere’s footmen."
 msgstr ""
+"Dan’Tonk。Wesnoth 最大の都市だと Delfador が言っていた。そして、Asheviere の歩兵のほとんどはここの出であると。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1097
@@ -2323,6 +2334,8 @@ msgid ""
 " we’ve helped Maddock repel her attack, they’ve begun transporting soldiers "
 "and weapons from the front back towards Dan’Tonk."
 msgstr ""
+"Asheviere にとっては Elensefar 攻略のための足場でもある。私達が Maddock "
+"を助け、女王の攻撃が失敗したため、女王の軍は兵や武器を前線からこの Dan’Tonk まで下げようとしている。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1103
@@ -2331,6 +2344,8 @@ msgid ""
 " she’s taken the city, they’ve begun transporting soldiers and weapons from "
 "the front back towards Dan’Tonk."
 msgstr ""
+"Asheviere にとっては Elensefar 攻略のための足場でもある。Elensefar の制圧は完了したため、女王の軍は兵や武器を前線からこの"
+" Dan’Tonk まで下げようとしている。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1109
@@ -2339,6 +2354,8 @@ msgid ""
 "attacks draw to a close, they’ve begun transporting soldiers and weapons "
 "from the front back towards Dan’Tonk."
 msgstr ""
+"Asheviere にとっては Elensefar 攻略のための足場でもある。攻撃も終わりに近づいているため、女王の軍は兵や武器を前線からこの "
+"Dan’Tonk まで下げようとしている。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1114
@@ -2347,13 +2364,14 @@ msgid ""
 "able to intercept and pilfer some of those inbound sabers, spears, and bows "
 "for our own arsenal!"
 msgstr ""
+"都市内部は兵士であふれているだろうが、到着する荷馬車を素早く鹵獲し、積荷のサーベル、槍、弓を奪えば、我々の軍で活用することができるかもしれない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1120
 msgid ""
 "A fog has rolled in and several weapon shipments are approaching Dan’Tonk. "
 "Everyone, are we ready?"
-msgstr ""
+msgstr "Dan’Tonk に武器を積んだ荷馬車が近づいている。そして運が良いことに霧も立ち込めている。みんな、準備はいいか？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1137
@@ -2363,10 +2381,12 @@ msgid ""
 "collection of sabres, spears, and bows — everything we need to outfit new "
 "Fencers, Spearmen, and Bowmen!"
 msgstr ""
+"私達は Wesnoth の中枢に進出し、女王の武器を奪い、そして生還した！荷馬車からは大量のサーベル、槍、そして弓を収集できた ── "
+"これで剣術士、槍兵、弓兵に必要な装備を揃えられたぞ！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1139
 msgid "Konrad can now recruit Fencers, Spearmen, and Bowmen!"
-msgstr ""
+msgstr "Konrad は剣術士、槍兵、弓兵を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1145
@@ -2376,10 +2396,12 @@ msgid ""
 "promote Bowmen, we’ve pillaged a large collection of sabres and spears for "
 "our Fencers and Spearmen!"
 msgstr ""
+"私達は Wesnoth の中枢へと進出し、撤退した ── "
+"来た時よりもずっと多くの武器を手にして！弓兵のための装備は手に入れられなかったが、剣術士と槍兵のための装備、サーベルと槍を大量に手に入れることができた！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1147
 msgid "Konrad can now recruit Spearmen and Fencers!"
-msgstr ""
+msgstr "Konrad は槍兵と剣術士を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1153
@@ -2389,10 +2411,13 @@ msgid ""
 "but we’ve at least obtained a large collection of sabres — perfect for "
 "training Fencers."
 msgstr ""
+"私達は Wesnoth の中枢へと進出し、撤退した ── "
+"来た時よりもずっと多くの武器を手にして！もっと多くの荷馬車を鹵獲できれば良かったが、少なくとも大量のサーベルを手に入れることができた ── "
+"これで剣術士の訓練は完全に行うことができる。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1155
 msgid "Konrad can now recruit Fencers!"
-msgstr ""
+msgstr "Konrad は剣術士を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1161
@@ -2401,13 +2426,15 @@ msgid ""
 "pillage to train even a single new soldier type! We shall have to make-do "
 "with the weapons and fighters we already have."
 msgstr ""
+"私達は Wesnoth の中枢へ進出し、撤退した ── "
+"充分に武器を奪うこともできずに！これでは新たな兵種を訓練することもできない！手持ちの武器と戦士達でなんとかしていくしかないか……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1169
 msgid ""
 "No point going back — the city surroundings are better-fortified now than "
 "ever, and we can’t expect the same trick to work twice."
-msgstr ""
+msgstr "戻っても仕方ない ── 以前よりも防備は固くなっているだろうし、そもそも同じ手を二度は使えない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1178
@@ -2420,48 +2447,48 @@ msgstr "Abez の浅瀬"
 msgid ""
 "Crossin’ through Stoneskin ford? Dat’ll be $bm_ford_cost gold for passage, "
 "whelp."
-msgstr ""
+msgstr "石皮の浅瀬を渡るか？なら通行料 $bm_ford_cost ゴールド払え、若造。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1216
 msgid "You know da deal, softskin. Pay up."
-msgstr ""
+msgstr "お前取引知ってるな、柔皮。払え。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1220
 msgid "What!? But I already paid you!"
-msgstr ""
+msgstr "何だって！？もう支払ったじゃないか！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1225
 msgid ""
 "Fee works every time, both ways. Das why Dosh be givin’ you the membership "
 "discount, see? Only $bm_ford_cost gold for repeat customers."
-msgstr ""
+msgstr "通行料毎回。片道あたり。でも Dosh はメンバーシップ割引を提供する？常連客はたった $bm_ford_cost ゴールド。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1238
 msgid "Pay ($bm_ford_cost gold)"
-msgstr ""
+msgstr "支払う（$bm_ford_cost ゴールド）"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1246
 msgid "You don’t got ’nuff gold, softskin. Come back later."
-msgstr ""
+msgstr "柔皮、お前金足りない。出直せ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1259
 msgid ""
 "This is practically highway robbery, but we don’t have time to stop and "
 "fight. Take your gold and let us through."
-msgstr ""
+msgstr "これは実質的に強盗だが、戦っている暇はない。金は渡す。通してくれ。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1275
 msgid ""
 "Wow. Two-hunnerd fifty gold... you make me richest troll who ever lived! "
 "Konrad good troll-friend."
-msgstr ""
+msgstr "おお。250 ゴールド… お前俺を一番リッチなトロルにした！Konrad トロルの良いトモダチ。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1279
@@ -2470,69 +2497,70 @@ msgid ""
 "join Konrad, help you out with throne. We done ’nuff time making friends. "
 "Now’s time for smashing bad guys."
 msgstr ""
+"Dosh リッチなったから通行料取らなくていい。Konrad の仲間なる。王位取るの助ける。トモダチなるのに十分時間使った。これからは悪い奴殴る。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1294
 msgid "You okay in da head, softskin? Das one-hunnerd gold you done paid me."
-msgstr ""
+msgstr "柔皮、お前頭大丈夫か？お前俺に 100 ゴールド払ってる。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1296
 msgid ""
 "Maybe Dosh otta be charging more... fifty gold next time. Only a real troll-"
 "friend would keep paying."
-msgstr ""
+msgstr "Dosh もっと高く請求すべき… 次 50 ゴールド。本物のトロルのトモダチだけ支払い続ける。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1303
 msgid ""
 "You payin’ Dosh a lot o’ coins, Konrad. My retirement fund got seventy gold "
 "in it now!"
-msgstr ""
+msgstr "Konrad、お前 Dosh にたくさんコイン払った。俺の退職金は今 70 ゴールドもある！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1309
 msgid "You a good customer, softskin. Das forty gold you done paid me so far."
-msgstr ""
+msgstr "柔皮、お前良い客。もう合計 40 ゴールドも払った。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1315
 msgid "Pleasure doin’ business with you."
-msgstr ""
+msgstr "お前と取引嬉しい。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1326
 msgid "Refuse"
-msgstr ""
+msgstr "拒否する"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1331
 msgid "The heir of Wesnoth does not bow to extortion. Have at you, troll!"
-msgstr ""
+msgstr "Wesnoth の王位継承者は強盗に頭を垂れることはない！さあ、かかってこい！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1337
 msgid "Paying once was bad enough. I’m taking my gold back!"
-msgstr ""
+msgstr "一度払うのもうんざりだったが… ゴールドは返してもらうぞ！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1362
 msgid ""
 "Dosh glad Konrad and he didn’t have to fight. Fighting with Konrad much "
 "better than fighting against him!"
-msgstr ""
+msgstr "Dosh、Konrad と戦わない嬉しい。Konrad 一緒戦う、Konrad と戦うよりずっといい。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1379
 msgid ""
 "We taught those highwaymen a lesson they won’t soon forget. Now the ford is "
 "free for all, as it should be."
-msgstr ""
+msgstr "我々は強盗にそう簡単には忘れられない教訓を与えた。これで、この浅瀬は誰もが自由に渡れるようになった。本来あるべき姿に戻ったんだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1385
 msgid "The ford is free for all to cross!"
-msgstr ""
+msgstr "この浅瀬は誰でも自由に渡れる！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:9
