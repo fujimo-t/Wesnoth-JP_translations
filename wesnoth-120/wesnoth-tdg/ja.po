@@ -980,7 +980,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:185
 msgid "Are we there yet?"
-msgstr ""
+msgstr "もう着いたかな？"
 
 #. [message]: speaker=Methor
 #. a "seeker spell" is a made-up word to describe some kind of spell that
@@ -989,7 +989,7 @@ msgstr ""
 msgid ""
 "Nearer than the last time you asked, yet further than we will be the next. "
 "Really apprentice, would it kill you to learn a proper seeker spell?"
-msgstr ""
+msgstr "前回お前が尋ねた時よりは近く、次に尋ねる時よりは遠い。まったく、まともな標定術を覚えたら死ぬとでも言うのか？見習いよ。"
 
 #. [message]: speaker=Delfador
 #. Delfador has never met King Garard II, but rather idolizes him
@@ -1000,16 +1000,17 @@ msgid ""
 " even get to counsel with the king himself! What I wouldn’t give for a "
 "chance to prove myself to him..."
 msgstr ""
+"そんなに陰気な顔をしないでくださいよ、マスター。派遣団の長として、王様に直接進言できるくらいのお立場なんですよ！私を推挙してくだされば、何がなんでも実力を証明して見せるのに・・・"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:200
 msgid "Do you hear that?"
-msgstr ""
+msgstr "聞こえるか？"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:200
 msgid "Quiet!"
-msgstr ""
+msgstr "静かに！"
 
 #. [message]: speaker=Ozgob
 #. 'stragglers' refers to soldiers (like Delfador and Methor) who are joining
@@ -1019,45 +1020,46 @@ msgid ""
 "“Kill the stragglers”, they says. “You’ll have our best warriors”, they "
 "says. N’ all I get are a bunch o’ lousy goblins? Lousy lazy lying—"
 msgstr ""
+"「のろま野郎どもを仕留めろ」とあいつは言った。「最高の戦士たちをつけてやる」とも言った。<small>ん</small>が、来たのは話にならねぇゴブリンどもだけか？使えねぇ、怠け者で、嘘つきの――"
 
 #. [message]: role=gobbo1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:215
 msgid "They’re here, they’re here! Humans on the clan road!"
-msgstr ""
+msgstr "来たぞ、来たぞ！人間どもがクランの道を！"
 
 #. [message]: speaker=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:219
 msgid ""
 "—then grab your spear, you loathsome lout! Don’t let them link up with the "
 "rest of their army!"
-msgstr ""
+msgstr "――だったら槍をつかめよ、このクソいまいましいウスノロが！奴らを本隊に合流させるんじゃねぇぞ！"
 
 #. [message]: role=gobbo1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:223
 msgid "No, no, no! No fight! I run away!"
-msgstr ""
+msgstr "ムリ、ムリ、ムリ！戦いムリ！俺は逃げる！"
 
 #. [message]: speaker=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:230
 msgid "Why you runtish, yellow—"
-msgstr ""
+msgstr "このクソチビの腰抜け野郎が――"
 
 #. [message]
 #. multiple goblins are running away
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:237
 msgid "Wait for me!"
-msgstr ""
+msgstr "待ってくれよ！"
 
 #. [message]: role=gobbo3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:241
 msgid "Run away! Back to the swamp!"
-msgstr ""
+msgstr "逃げろ！沼地まで下がるぞ！"
 
 #. [message]: speaker=Ozgob
 #. Ozgob has just killed one of the fleeing goblins
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:249
 msgid "I said FORM RANKS! Rousers, get these runts organized!"
-msgstr ""
+msgstr "俺は<b>隊列を組め</b>と言ったんだ！鼓舞兵、クソガキどもをまとめろ！"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:253
@@ -1088,17 +1090,17 @@ msgstr "Ozgob を倒す"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:324
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:399
 msgid "Death of Methor or the Apprentice"
-msgstr ""
+msgstr "Methor か 見習い魔術師の死"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:332
 msgid "Defeat a Goblin Rouser to rout their entourage."
-msgstr ""
+msgstr "ゴブリンの鼓舞兵を倒し、取り巻きを敗走させる。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:345
 msgid "Choosing Spells:"
-msgstr ""
+msgstr "呪文選択："
 
 #. [object]
 #. Delfador does not yet have a true name; he's only called "apprentice"
