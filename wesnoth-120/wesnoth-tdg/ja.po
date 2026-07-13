@@ -332,13 +332,15 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:49
 msgid "Animate Mud"
-msgstr ""
+msgstr "泥人形使役"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:51
 msgid ""
 "Learn to recruit <i><ref dst='unit_Mudcrawler'>Mudcrawlers</ref></i>. Mudcrawlers gain +100% damage and XP\n"
 "               while adjacent to you, but dissolve at the end of each scenario."
 msgstr ""
+"<b><ref dst='unit_Mudcrawler'>マッドクロウラー</ref></b>を雇用できるようになる。\n"
+"　　　　　　マッドクロウラーはあなたに隣接している間、与えるダメージと XP が 100% 加算されるが、各シナリオの終了時に消滅する。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:63
 msgid "Chill Touch"
@@ -363,13 +365,15 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:82
 msgid "Find Familiar"
-msgstr ""
+msgstr "使い魔召喚"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:84
 msgid ""
 "Begin each scenario with your trusty pet raven.\n"
 "               Your familiar’s level and XP persist across scenarios, but reset if it dies."
 msgstr ""
+"忠実なる使い魔のレイヴンと共に各シナリオを開始する。\n"
+"　　　　　　使い魔のレベルと XP はシナリオをまたいで維持されるが、死亡した場合はリセットされる。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:91
 msgid "Mnemonic"
@@ -1000,7 +1004,7 @@ msgid ""
 " even get to counsel with the king himself! What I wouldn’t give for a "
 "chance to prove myself to him..."
 msgstr ""
-"そんなに陰気な顔をしないでくださいよ、マスター。派遣団の長として、王様に直接進言できるくらいのお立場なんですよ！私を推挙してくだされば、何がなんでも実力を証明して見せるのに・・・"
+"そんなに陰気な顔をしないでくださいよ、マスター。派遣団の長として、王様に直接進言できるくらいのお立場なんですよ！俺を推挙してくれれば、何がなんでも実力を証明して見せるのに・・・"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:200
@@ -1110,6 +1114,7 @@ msgid ""
 "select which spells to equip for the upcoming battle. Remember, double- or "
 "right-click on the apprentice to cast chosen spells!"
 msgstr ""
+"このキャンペーンでは、各シナリオの前に次の戦闘に向けて準備する呪文を選択する機会があります。選択した呪文を詠唱するには、見習い魔術師をダブルクリックまたは右クリックしてください！"
 
 #. [message]: speaker=Methor
 #. Methor says this when Delfador stands on their keep. Delfador can only
@@ -8154,14 +8159,14 @@ msgstr "浮揚魔法がマズいところで切れちまった！死んじまう
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:598
 msgid "Familiar"
-msgstr ""
+msgstr "使い魔"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:633
 msgid ""
 "A familiar already, apprentice? Well done — that’s an impressive piece of "
 "magic even for experienced wizards."
-msgstr ""
+msgstr "使い魔を従えるようになったのか、見習いよ？よくやった――それは熟練の魔術師さえも感服する魔術だ。"
 
 #. [dummy]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:651

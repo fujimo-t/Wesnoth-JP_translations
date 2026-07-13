@@ -2576,11 +2576,13 @@ msgid ""
 "Item for Konrad: <span color='#EFBF04'><b>whenever one of Konrad’s living allies dies,\n"
 "all others gain regeneration for one turn.</b></span>"
 msgstr ""
+"Konrad 用アイテム：<span color='#EFBF04'><b>Konrad の友軍で命あるユニットが\n"
+"死ぬと、他のユニットは１ターンだけ再生を得ます。</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:68
 msgid "We approach the walls of a great orcish fortress. Glamdrol!"
-msgstr ""
+msgstr "巨大なオーク要塞の城壁が見える。あれが Glamdrol か！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:72
@@ -2588,6 +2590,8 @@ msgid ""
 "Most orcish tribes live a nomadic lifestyle, but Delfador says they take "
 "great pride in possessing Glamdrol — or in defeating the last possessor."
 msgstr ""
+"大抵のオークの氏族は定住をしない。しかし、Delfador によれば、Glamdrol "
+"を支配していることを大いに誇りに思っているらしい。あるいは、その前の支配者を倒したことを。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:78
@@ -2595,7 +2599,7 @@ msgid ""
 "Orcs often raid Wesnoth’s villages and towns, stealing whatever gold and "
 "valuables they can find. Perhaps it’s time we gave them a taste of their own"
 " medicine!"
-msgstr ""
+msgstr "オークは頻繁に Wesnoth の村や町を襲い、金や価値あるものを奪ってきた。そろそろ我々の気持ちを理解する機会を与えてもいいだろう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:148
@@ -2604,6 +2608,8 @@ msgid ""
 " paying our agreed-upon $bm_s22_gold_cost gold to our Stoneskin friends, we "
 "still have $gold gold remaining for our next battle."
 msgstr ""
+"オークの大要塞に侵入し、逃げ延びた！$bm_s22_gold_cost ゴールドを石皮の友人に支払っても、まだ $gold "
+"ゴールドは次の戦闘に使えそうだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:153
@@ -2613,6 +2619,8 @@ msgid ""
 "$bm_s22_gold_cost gold to our Stoneskin friends, we still have $gold gold "
 "remaining for our next battle."
 msgstr ""
+"オークの大要塞に侵入し、逃げ延びた！成果も上々だ！$bm_s22_gold_cost ゴールドを石皮の友人に支払っても、まだ $gold "
+"ゴールドは次の戦闘に使えそうだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:162
@@ -2620,7 +2628,7 @@ msgid ""
 "We have ventured into a great stronghold of the orcs and escaped! Although "
 "we only managed to pillage $gold gold for our next battle, at least we have "
 "survived."
-msgstr ""
+msgstr "オークの大要塞に侵入し、逃げ延びた！次の戦闘のために $gold ゴールドしか奪えなかったが、何とか生き延びることはできた。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:167
@@ -2628,7 +2636,7 @@ msgid ""
 "We have ventured into a great stronghold of the orcs and escaped! And we "
 "have been well-rewarded for it, for we now have $gold gold stockpiled for "
 "our next battle."
-msgstr ""
+msgstr "オークの大要塞に侵入し、逃げ延びた！成果も上々だ！次の戦闘のために $gold ゴールドも確保することができた。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:176
@@ -2636,6 +2644,7 @@ msgid ""
 "Perhaps most importantly, we defeated the orcs’ shaman and took her magical "
 "horn! I shall wear it myself, and blow it whenever its magic is in need."
 msgstr ""
+"しかしおそらく最も重要なことは、オークのシャーマンを倒し、魔法の角笛を奪ったことだ！これは私が身につけておこう。必要な時に吹き鳴らすために。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:181
 msgid "Horn of Glamdrol"
@@ -2646,50 +2655,51 @@ msgid ""
 "This nondescript horn is infused with powerful orcish magic. Whenever one of"
 " Konrad’s living soldiers dies, all others gain regeneration for one turn."
 msgstr ""
+"一見普通の角笛ですが、強力なオークの魔法がかけられています。Konrad の仲間の生きている兵士が死んだ時、他のユニットは１ターンだけ再生能力を得ます。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:189
 msgid ""
 "If only we had been able to defeat the orcs’ shaman and claim her magical "
 "horn..."
-msgstr ""
+msgstr "しかし、あのオークのシャーマンを倒し、角笛を奪うことができていたら…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:202
 msgid ""
 "With the original orcish owners wiped out, our friends in the Stoneskin clan"
 " now hold the city."
-msgstr ""
+msgstr "元の支配者のオークが一掃され、今は我々の友人の石皮の氏族が都市を支配している。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:207
 msgid "Glamdrol has been wiped clean of orcs!"
-msgstr ""
+msgstr "Glamdrol からオークは一掃された！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:213
 msgid ""
 "We’d best keep our distance. The orcs will be watching for any more raids!"
-msgstr ""
+msgstr "距離を取っておくべきだろう。これ以上の襲撃を許さないよう警戒しているはずだ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:230
 msgid "Jotha"
-msgstr ""
+msgstr "Jotha"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:248
 msgid ""
 "What do you want? You here to trade? Jotha’s got nothin’ to trade but some "
 "old fish."
-msgstr ""
+msgstr "何をしに来た？取引か？あいにく、Jotha のところには古くなった魚くらいしかない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:252
 msgid ""
 "Is this your home, strange merman? The bay is warm, but fishing alone so far"
 " north must make for a lonely life."
-msgstr ""
+msgstr "変わったマーマンの方、ここはあなたの家ですか？この湾は温かいですが、こんな北の果てで一人で釣りをして暮らすのは寂しいでしょう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:266
@@ -2698,6 +2708,8 @@ msgid ""
 " instead of slaving away as a trawler! We already have merfolk among our "
 "number — you’ll feel right at home."
 msgstr ""
+"提案があります。ひたすら魚を獲りつづけるのではなく、私の軍に加わり、正義のために戦いませんか？軍には既にマーフォークも参加しています ── "
+"疎外感を感じることもないでしょう。"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:270
@@ -2706,11 +2718,13 @@ msgid ""
 "still ain’t working fer free. 10 gold and I’ll join you, and you’ll still "
 "have to pay to recall me each battle."
 msgstr ""
+"他のマーフォークといったか？ふむ… タダで働く気はないが、そういうことなら安くしてやってもいいか。10 "
+"ゴールドくれれば参加しよう。ただし、戦闘で召還する際にも都度払ってもらうぞ。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:275
 msgid "Pay 10 gold"
-msgstr ""
+msgstr "10 ゴールド払う"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:295
@@ -2719,6 +2733,7 @@ msgid ""
 " instead of slaving away as a trawler! I would be glad to welcome one of the"
 " noble mermen to our ranks."
 msgstr ""
+"提案させていただけませんか？ひたすら魚を獲りつづけるのではなく、私の軍に加わり、正義のために戦いませんか？あなたのように高貴なマーマンに軍に加わっていただけましたら、私も光栄です。"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:299
@@ -2727,30 +2742,32 @@ msgid ""
 "but I still ain’t working fer free. 30 gold and I’ll join you, and you’ll "
 "still have to pay to recall me each battle."
 msgstr ""
+"軍に加われと言ったか？ふむ… この池を離れるのは問題ないが、タダで働く気にもならんな。30 "
+"ゴールドくれれば参加しよう。それに、戦闘で召還する際には都度払ってもらうぞ。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:304
 msgid "Pay 30 gold."
-msgstr ""
+msgstr "30 ゴールド払う"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:325
 msgid ""
 "I would like to agree to your offer, but I don’t have enough gold right now."
 " Would you consider lowering your price?"
-msgstr ""
+msgstr "その提案お受けしたいところですが、持ち合わせがありません。もう少しだけ金額をなんとかしていただけないでしょうか？"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:329
 msgid "No gold, no Jotha. Now go away and stop bothering me."
-msgstr ""
+msgstr "金が無いなら Jotha は参加しない。邪魔だからさっさとどっかへ行け。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:345
 msgid ""
 "Welcome to the rebellion against Asheviere, friend merman. I am glad to have"
 " you on our side."
-msgstr ""
+msgstr "Asheviere への反乱軍にようこそ、マーマンの友よ。あなたがお味方してくれたことに感謝します。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:358
