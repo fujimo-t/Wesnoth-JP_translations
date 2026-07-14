@@ -372,7 +372,7 @@ msgid ""
 "Begin each scenario with your trusty pet raven.\n"
 "               Your familiar’s level and XP persist across scenarios, but reset if it dies."
 msgstr ""
-"忠実なる使い魔のレイヴンと共に各シナリオを開始する。\n"
+"忠実なる従者のレイヴンと共に各シナリオを開始する。\n"
 "　　　　　　使い魔のレベルと XP はシナリオをまたいで維持されるが、死亡した場合はリセットされる。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:91
@@ -964,7 +964,7 @@ msgstr "Ozgob"
 #. [side]: type=Orcish Grunt
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:71
 msgid "Clan Whitefang"
-msgstr ""
+msgstr "Whitefang 氏族"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:127
@@ -1029,7 +1029,7 @@ msgstr ""
 #. [message]: role=gobbo1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:215
 msgid "They’re here, they’re here! Humans on the clan road!"
-msgstr "来たぞ、来たぞ！人間どもがクランの道を！"
+msgstr "来たぞ、来たぞ！人間どもが俺らの道を！"
 
 #. [message]: speaker=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:219
@@ -1123,7 +1123,7 @@ msgstr ""
 msgid ""
 "You’re not yet a journeyman, apprentice! Your mudcrawlers are not without "
 "use, but to recruit mages I’ll need to stand on our keep."
-msgstr ""
+msgstr "半人前の見習いにその任はまだ早い！お前のマッドクロウラーも役に立たぬではないが、魔術師たちを雇用するためには、私が主塔に立つ必要がある。"
 
 #. [message]: speaker=Methor
 #. Methor says this when Delfador stands on their keep. Delfador can not
@@ -1132,13 +1132,13 @@ msgstr ""
 msgid ""
 "You’re not yet a journeyman, apprentice! To recruit mages I’ll need to stand"
 " on our keep."
-msgstr ""
+msgstr "半人前の見習いにその任はまだ早い！魔術師たちを雇用するためには、私が主塔に立つ必要がある。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:389
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:515
 msgid "New Recruit:"
-msgstr ""
+msgstr "新規雇用："
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:390
@@ -1146,6 +1146,7 @@ msgid ""
 "The apprentice is the main character of this campaign, but right now he’s "
 "not your leader. Methor is your leader, and he can recruit Mages."
 msgstr ""
+"見習い魔術師はこのキャンペーンの主人公ですが、今はリーダーではありません。現在は Methor がリーダーであり、魔術師を雇用することができます。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:392
@@ -1295,7 +1296,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:50
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:63
 msgid "Whitefang Orcs"
-msgstr ""
+msgstr "Whitefang オーク"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:39
