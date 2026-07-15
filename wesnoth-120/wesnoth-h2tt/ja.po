@@ -3000,24 +3000,24 @@ msgstr ""
 msgid ""
 "I would like to agree to your offer, but I don’t have enough gold! Perhaps "
 "another time, lizard."
-msgstr ""
+msgstr "その申し出に応じたいところだが、今は手持ちが足りない！トカゲよ、またの機会に頼む。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:697
 msgid ""
 "Whew! This has been grueling, but I feel as light on my feet as a fencer. I "
 "am grateful for your tutelage, Tirix."
-msgstr ""
+msgstr "ふぅ！これは本当に過酷だった。しかし、剣術士のように足が軽やかに感じる。あなたの指導に感謝します、Tirix。"
 
 #. [object]: id=saurian_training, description={DESC}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:703
 msgid "Saurian Footwork"
-msgstr ""
+msgstr "トカゲの足さばき"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:717
 msgid "Tirix"
-msgstr ""
+msgstr "Tirix"
 
 #. [message]: speaker=Tirix
 #. Slow, slow! It is disgusting how all you tall ones are so slow!
@@ -3025,14 +3025,14 @@ msgstr ""
 msgid ""
 "Ssslow, ssslow! It isss disssgusssting how you tall onesss are all ssso "
 "ssslow!"
-msgstr ""
+msgstr "おそそそい、お遅そい！背せせの高い連中はみんなおそそ過すぎる！がっかりだ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:741
 msgid ""
 "What do you mean, lizard? Both my legs and my sword-arm are perfectly quick "
 "— as you will soon find out if you wish me any ill-intent."
-msgstr ""
+msgstr "トカゲよ、どういう意味だ？私の両足も剣を振るう腕も、十分に素早い ── もし私に悪意を抱いているなら、後悔することになるぞ。"
 
 #. [message]: speaker=Tirix
 #. Psssh... I know your kind; tall, and clumsy. Tirix can teach you speed...
@@ -3042,11 +3042,13 @@ msgid ""
 "Psssh... I know your kind; tall, and clumsssy. Tirix can teach you "
 "ssspeed... yesss, ssspeed... But only if you pay. It ssshall not be cheap."
 msgstr ""
+"ふん… お前らみたいなしし種族はよく知ししってる。せせ背が高くて、不器用。Tirix なら、すすスピードを教ししえられる… "
+"そそそうだ、スすすピードだ。金を払えばだ。安すくないぞ。"
 
 #. [message]: speaker=Tirix
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:751
 msgid "Have you returned to learn the waysss of ssspeed, human?"
-msgstr ""
+msgstr "ニンゲン、速さささを学びに戻ったのか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:765
@@ -3055,36 +3057,37 @@ msgid ""
 "have no time to spare for lengthy training. Perhaps we will meet again "
 "another day."
 msgstr ""
+"申し出に感謝する。しかし、私は師匠に会うため北へ急いでいる。だから今は時間のかかる訓練を受けることはできない。いつかまたどこかで会うことがあればお願いしたい。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:775
 msgid "50 gold; physical training: <b>Konrad gains +1MP</b>"
-msgstr ""
+msgstr "50 ゴールドで物理トレーニング：<b>Konrad の移動力 +1</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:778
 msgid ""
 "After rigorous physical training with the saurians of the Swamp of Dread, "
 "Konrad has gained <b>+1MP</b>."
-msgstr ""
+msgstr "恐怖の沼地のトカゲとの厳しいトレーニングで、Konrad は「<b>移動力 +1</b>」を獲得しました。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:784
 msgid "100 gold; magical training: <b>Konrad gains +2MP</b>"
-msgstr ""
+msgstr "100 ゴールドで魔法トレーニング：<b>Konrad の移動力 +2</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:787
 msgid ""
 "After rigorous physical and magical training with the saurians of the Swamp "
 "of Dread, Konrad has gained <b>+2MP</b>."
-msgstr ""
+msgstr "恐怖の沼地のトカゲとの厳しい物理と魔法のトレーニングで、Konrad は「<b>移動力 +2</b>」を獲得しました。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:794
 msgid ""
 "150 gold; legendary training: <b>Konrad gains +2MP and <i>skirmisher</i></b>"
-msgstr ""
+msgstr "150 ゴールドで伝説的トレーニング：Konrad が<b>移動力 +2</b>と<b>散兵能力</b> を獲得"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:797
@@ -3093,20 +3096,21 @@ msgid ""
 "of Dread, Konrad has gained <b>+2MP</b> and the <b><i>skirmisher</i></b> "
 "ability."
 msgstr ""
+"恐怖の沼地のトカゲとの厳しい物理と魔法のトレーニングで、Konrad は「<b>移動力 +2</b>」と<b>「散兵」能力</b>を獲得しました。"
 
 #. [message]: speaker=Tirix
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:820
 msgid ""
 "Good, good, much better. Not so ssslow any more! I have no time or "
 "interessst in more training."
-msgstr ""
+msgstr "いいぞ、いいぞ、良くなった。そそそんなにおそそくないぞ！これ以上の訓練をすすする興味も時間もない。"
 
 #. [message]: speaker={KONRAD_OR_NOBODY}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:837
 msgid ""
 "What happened here was such a tragedy... do you know anything more than I "
 "do, Ulfdain?"
-msgstr ""
+msgstr "ここでこんな悲惨なことが起こっていたとは…… Ulfdain、何か詳しいところを知っていますか？"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:841
@@ -3115,6 +3119,8 @@ msgid ""
 "slaughter. My father an’ his father alike perished defendin’ th’ West Gate, "
 "an’ soon after fell the Doors, an’ our King Thunedain with them."
 msgstr ""
+"おう… そいつは破滅と偉業、炎と血と殺戮の時だった。ワシの父もその父も西門を守って死んだ。それからすぐに戸口は陥落し、ワシらの王 Thunedain "
+"もまた倒れた。"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:845
@@ -3124,6 +3130,7 @@ msgid ""
 "once-proud people. Or betrayin’ their kin to start anew in human lands, like"
 " me..."
 msgstr ""
+"あの数年でワシらの魂は殆ど失われた。以来、ドワーフは衰退の一途、トンネルですすり泣くことしかできず、嘗ての誇り高い種族も今や瀕死の抜け殻だ。あるいはそんな同胞を見捨てて人間の国で出直そうとする裏切り者となるか。そう、ワシのように…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:849
@@ -3131,6 +3138,8 @@ msgid ""
 "I’ve never-before heard you speak so grimly, Ulfdain. I’m sorry for your "
 "loss. Is there nothing we can do to restore Knalga to its former glory?"
 msgstr ""
+"あなたがそんなに辛そうに話すのは初めてみました、Ulfdain。こんなことを話させてしまって申し訳ありません。Knalga "
+"がかつての栄光を取り戻すために、何か私達にできることはあるでしょうか？"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:853
@@ -3139,6 +3148,7 @@ msgid ""
 "besides. No, there ain’t no use cryin’ over it. Ah’ve given up hope; it’s "
 "only death in battle tha’ I wish fer now..."
 msgstr ""
+"北のオークを全て撃退することは能わぬであろう、ましてやトロルやアンデッドも居るのだ。泣いても仕方ない。希望はもう無いのだ。ワシは戦いの中で死ねれば良い、それだけだ…"
 
 #. [message]: speaker={KONRAD_OR_NOBODY}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:868
@@ -3146,14 +3156,14 @@ msgid ""
 "What happened here was such a tragedy... is there nothing we can do to "
 "restore Knalga to its former glory? Do you know anything more than I do, my "
 "dwarvish friend?"
-msgstr ""
+msgstr "ここでこんな悲惨なことが起こっていたとは…… ドワーフの友よ、Knalga のかつての栄光を取り戻すため、私達にできることはないだろうか？"
 
 #. [message]: speaker=$dwarf_id
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:872
 msgid ""
 "Aye, but ’tis not a time we dwarves like to talk about. The West Gate "
 "fallen, the Dwarven Doors sacked..."
-msgstr ""
+msgstr "そいつはドワーフが語りたくない話だがな。西門が破られ、ドワーフの戸口は破壊された…"
 
 #. [message]: speaker=$dwarf_id
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:876
@@ -3163,6 +3173,7 @@ msgid ""
 "people in decline, sniveling in our tunnels, th’ dyin’ dregs of a once-proud"
 " people..."
 msgstr ""
+"オークとトロルとアンデッドをまとめて駆逐できるってんなら話は別だが、それができないんだったらできることは無い。ワシらドワーフは衰退し、トンネルですすり泣き、嘗ては誇り高き種族であっても今や瀕死の抜け殻に過ぎない…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:921
@@ -3180,6 +3191,8 @@ msgid ""
 " orcish masters. We can fight our way north to reach the caves of Knalga, "
 "while freeing as many slaves as possible on our way!"
 msgstr ""
+"繁栄していた自由都市ドワーフの戸口は、奴隷とオークの主人で満たされている。我々は北の Kanlga "
+"の洞窟への道を戦って切り開く。道中で可能な限り奴隷を解放しながら！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:977
@@ -3188,6 +3201,8 @@ msgid ""
 " orcish masters. We can fight our way south to exit the caves of Knalga, "
 "while freeing as many slaves as possible on our way!"
 msgstr ""
+"繁栄していた自由都市ドワーフの戸口は、奴隷とオークの主人で満たされている。我々は Kanlga "
+"の洞窟を出るために南への道を切り開く。道中で可能な限り奴隷を解放しながら！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1008
