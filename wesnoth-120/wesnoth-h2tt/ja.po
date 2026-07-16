@@ -3209,7 +3209,7 @@ msgstr ""
 msgid ""
 "We have cleared the Doors of orcs! It sounds as though they mean to return "
 "in the future, but at least for now we will be able to pass unmolested."
-msgstr ""
+msgstr "私達は戸口からオークを駆逐した！連中はいつかまた戻ってくるつもりらしいが、少なくとも今は何の妨害も無く通過することができる。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1013
@@ -3219,20 +3219,21 @@ msgid ""
 " slaves while they are on alert. At least we will henceforth be able to pass"
 " unmolested."
 msgstr ""
+"戸口を突破することができた！オークが私達とまた戦おうとすることはないだろうが、私達も連中が警戒している中でこれ以上奴隷を解放することはできないだろう。ひとまず、今のところは何の妨害もなく通過することはできそうだ。"
 
 #. [message]: role=doors_orc
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1038
 msgid ""
 "Get back to work, pinkskin! Show your masters a proper work ethic and maybe "
 "you’ll be spared the lash!"
-msgstr ""
+msgstr "仕事に戻れ、奴隷！真面目に働けば鞭打ちを免除されるかもしれんぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1043
 msgid ""
 "Slaves? This is a travesty! Weren’t the Dwarven Doors once a great center of"
 " civilization?"
-msgstr ""
+msgstr "奴隷？なんということだ！ドワーフの戸口はかつて偉大な文明の中心地であったのでは？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1047
@@ -3241,11 +3242,13 @@ msgid ""
 " not stop the orcish war-horde. And now it’s a slave city under the heel of "
 "the orcs!"
 msgstr ""
+"彼らと Knalga "
+"の同盟は強固だった。では、人間とドワーフが力を合わせてもオークの大軍勢は止められなかったのか。そして今やオークの支配する奴隷の都市となってしまったのか！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1062
 msgid "Caverns of Chaincolt"
-msgstr ""
+msgstr "Chaincolt 洞窟群"
 
 #. [scenario]: id=28_The_Lost_General
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1073
@@ -3258,13 +3261,14 @@ msgid ""
 "Weapon for Konrad: <span color='#EFBF04'><b>+3 melee damage, <i>drains</i> "
 "special on melee attacks</b></span>"
 msgstr ""
+"Konrad の武器：<span color='#EFBF04'><b>近接攻撃にダメージ +3 と「生命吸収」を追加</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1096
 msgid ""
 "These old halls were ruined long ago, but there may still be something of "
 "value inside."
-msgstr ""
+msgstr "この古い大広間はずっと昔に廃墟となったようだ。しかし、中には何か貴重なものがあるかもしれない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1111
@@ -3273,20 +3277,21 @@ msgid ""
 " or merely moved. There might have been treasure here, once, but all that is"
 " left now is rubble and excrement."
 msgstr ""
+"かつてこの古い広間に住み着いていたトロルたちは姿を消した。殺されたか、あるいは単に去ったかのどちらかだろう。かつてはここに宝があったかもしれないが、今残っているのは瓦礫と排泄物だけだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1124
 msgid ""
 "I’m glad to be out into the sun and fresh air again. I may not despise caves"
 " so much as an elf, but I’m no dwarf either."
-msgstr ""
+msgstr "太陽の光と新鮮な空気の下に戻れて本当に喜ばしい。私はエルフほどには洞窟を厭わないが、ドワーフのようにもなれないな。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1131
 msgid ""
 "There’s nothing more of value here — at least nothing that we have the time "
 "or skill to unearth."
-msgstr ""
+msgstr "ここにはもう価値のあるものは無い ── 十分な時間や高度な掘削技術でもあれば話は別だろうが。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1150
@@ -3295,22 +3300,24 @@ msgid ""
 "tragedy when the kingdom of the dwarves was shattered by the orcs and their "
 "allies. Now all that’s left here are trolls and ruins."
 msgstr ""
+"Knalga の西門！聞いたことがある…  "
+"オークとその協力者によってドワーフの王国が壊滅した、そんな恐ろしい悲劇があったと。今ここに残るものはトロルと廃墟だけだ。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1164
 msgid "Greater Knalga"
-msgstr ""
+msgstr "Knalga 都市圏"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1169
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:189
 msgid "Geldar"
-msgstr ""
+msgstr "Geldar"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1170
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:460
 msgid "Relgorn"
-msgstr ""
+msgstr "Relgorn"
 
 #. [scenario]: id=29_Digging_for_Dwarves
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1181
@@ -3323,39 +3330,41 @@ msgid ""
 "New Recruits\n"
 "<i><b>Choose Two</b></i>:"
 msgstr ""
+"新しい雇用\n"
+"<b>２種を選択</b>："
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1216
 msgid ""
 "What now, human? I already told ye, no-one gets in without someone to vouch "
 "for ’em."
-msgstr ""
+msgstr "今度は何だ、人間？誰ぞ保証する者がおらねば通さぬと言ったであろう。"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1221
 msgid "Another attack! Up axes, and make ready to repel the invaders!"
-msgstr ""
+msgstr "また攻撃か！斧を持て、侵略者を打ち払うぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1225
 msgid ""
 "Peace, dwarves of Knalga! I am a man of Wesnoth, not an orc or a troll, and "
 "I come as a friend."
-msgstr ""
+msgstr "Knalga のドワーフよ、落ち着いてくれ！私は Wesnoth の人間です。オークやトロルではありません。友としてここへ来ました。"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1229
 msgid ""
 "A man? Haven’t seen many o’ yer kind since our friends at the Doors fell, "
 "an’ you ain’t one o’ their’s. Who says we should trust ye?"
-msgstr ""
+msgstr "人間？友たる戸口が陥落して後、久しく見ておらなんだ。しかしお主は戸口の者に非ず。誰ぞ保証する者はおるか？"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1245
 msgid ""
 "Let us in, ye chicken-hearted cad! Cannae a dwarf return to ’is home without"
 " bein’ set upon like some horde o’ trolls?"
-msgstr ""
+msgstr "さっさとワシらを中に入れい！鶏が如き臆病者めが！トロルなぞここに来るまでに飽きるほど戦ったわ！"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1249
@@ -3363,7 +3372,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1302
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1330
 msgid "I dunno..."
-msgstr ""
+msgstr "それが…"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1254
@@ -3372,13 +3381,15 @@ msgid ""
 " a Bloodaxe now too!? Get across th’ bridge then, quickly-now, afore th’ "
 "orcs find ye."
 msgstr ""
+"Ulfdain！？久しぶりだな、お主が Wesnoth に向かって以来か ── "
+"お主も血斧になったのか！？ならばさっさと橋を渡れ、はよう渡るのだ、オークに見つかる前に。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1259
 msgid ""
 "Ulfdain!? I ain’t seen you in years, not since you left fer Wesnoth! Get "
 "across th’ bridge then, quickly-now, afore th’ orcs find ye."
-msgstr ""
+msgstr "Ulfdain！？久しぶりだな、お主が Wesnoth に向かって以来か！ならばさっさと橋を渡れ、はよう渡るのだ、オークに見つかる前に。"
 
 #. [message]: speaker=Somf
 #. [message]: role=doors_vouch_peasant
@@ -3387,14 +3398,14 @@ msgstr ""
 msgid ""
 "I’m from the Doors, your old human allies! And I’m free now, thanks to this "
 "boy Konrad and his army! They’re good people, and I’ll vouch for ’em."
-msgstr ""
+msgstr "俺は戸口から来た人間だ！俺はこの Konrad の小僧とその軍勢のおかげで今は自由だ！こいつらは良い奴だ、俺が保証する。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1283
 msgid ""
 "Ah, let ’em in, Geldar. They ain’t orcs, trolls, or undead, an’ that’s good "
 "enough for now."
-msgstr ""
+msgstr "ああ、Geldar、入れてやれ。こやつらはオークでもトロルでもアンデッドでもない。今はそれで十分だ。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1306
@@ -3402,14 +3413,14 @@ msgstr ""
 msgid ""
 "Ah, let ’em in, Geldar. They ain’t orcs, trolls, or undead, an’ that’s good "
 "enough for me."
-msgstr ""
+msgstr "ああ、Geldar、入れてやれ。こやつらはオークでもトロルでもアンデッドでもない。それで十分だ。"
 
 #. [message]: role=doors_vouch_peasant
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1326
 msgid ""
 "Ah’m a dwarf, gatekeeper, an’ I’ll vouch for them. Lower yer axes an’ let us"
 " in, ye hear?"
-msgstr ""
+msgstr "ワシはドワーフだ、門番よ。ワシが保証する。斧を下げて中へ入れろ。わかったか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1347
@@ -3417,6 +3428,8 @@ msgid ""
 "I am Konrad, nephew of Garard, son of Arand and heir to the throne of "
 "Wesnoth! I give my word — you can trust me, dwarf."
 msgstr ""
+"私は Konrad。Arand の子で Garard の甥、Wesnoth の王位後継者だ！ドワーフよ、この名のもとに約束しよう ── "
+"私は信用に値する者だ。"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1351
@@ -3424,7 +3437,7 @@ msgid ""
 "Hmph. So you say. We’ve had pretenders workin’ for th’ orcs try an’ sneak in"
 " here before. Even if you really are a prince, you ain’t gettin’ ’cross the "
 "east bridge lest ye’ve got someone to vouch for ye."
-msgstr ""
+msgstr "ふん。以前、オークのために働く偽者がここに入らんとしたことがある。たとえ本当の王子であろうと、保証人なくば、東の橋を渡ることは許さぬ。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1366
@@ -13619,7 +13632,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:532
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Bloodaxe.cfg:4
 msgid "Dwarvish Bloodaxe"
-msgstr ""
+msgstr "ドワーフの血斧"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:533
@@ -19361,7 +19374,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Bloodaxe.cfg:32
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:399
 msgid "bloodaxe"
-msgstr ""
+msgstr "血斧"
 
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Witness.cfg:5
