@@ -3444,7 +3444,7 @@ msgstr "ふん。以前、オークのために働く偽者がここに入らん
 msgid ""
 "What brings you to th’ East Gate o’ Knalga, friends? You be wantin’ "
 "somethin’ from us, don’t you?"
-msgstr ""
+msgstr "して、Knalga の東門に何の用か？何ぞ欲しいものがあるのだろう？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1370
@@ -3453,6 +3453,7 @@ msgid ""
 "instead. I help with a problem someone is having, and then they send some "
 "spare fighters to join my army. Can you and I arrange anything like that?"
 msgstr ""
+"正直なところ、いつもは先に先に<b>私が</b>何かを求められていたのでちょっと驚いています。そうですね、私が何かお手伝いをするかわりに、予備戦力の一部を我が軍に参加させてもらいたいと願っています。あなたと私で何かそのような感じでできることはありませんか？"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1374
@@ -3462,6 +3463,8 @@ msgid ""
 "ruin, an’ ye got the gall to ask if we have extra axe-arms to send out with "
 "ye?"
 msgstr ""
+"予備戦力？ハッ！Durrasil "
+"がトロルに襲われて以来、かような冗談は聞いたことがなかったぞ！腐れ砕けたワシらの帝国の残骸を歩いてここまで来て、斧手が余っているかと聞くか？その糞度胸は褒めて欲しいか？"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1378
@@ -3469,18 +3472,19 @@ msgid ""
 "I’m afraid Geldar’s right. But problems — now problems we’ve got plenty of. "
 "Orc attacks, troll attacks, undead attacks. ’an now down in th’ mines—"
 msgstr ""
+"無念なれど Geldar の言う通りだ。されど、問題か。いくらでもあるな。オークの攻撃、トロルの攻撃、アンデッドの攻撃、そして鉱山の中に──"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1382
 msgid "Relgorn, hush. That ain’t somethin’ fer outsiders to hear about."
-msgstr ""
+msgstr "Relgorn、やめろ。外の者に聞かせることではなかろう。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1386
 msgid ""
 "Do ye got a better idea? We already tried t’ split ourselves up an’ help, "
 "an’ tha’s when trolls took the gatehouse!"
-msgstr ""
+msgstr "他に良い案があるか？手分けして助けまいとし、その間にトロルに門番小屋を乗っ取られたであろう！"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1391
@@ -3490,20 +3494,22 @@ msgid ""
 "cave-in down in th’ old mines. You get ’em out, we’ll make it worth yer "
 "while."
 msgstr ""
+"聞け、人間… "
+"ワシは保証する者がおったからお主等を信じておる。古い坑道で崩落があり、ワシらの仲間が閉じ込められた。これだけ知っておれば良い。連中を出してくれれば見返りは用意しようぞ。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1403
 msgid ""
 "Some o’ our people’re trapped in a cave-in down in th’ old mines. Tha’s all "
 "ye need to know. You get ’em out, an’ we’ll make it worth yer while."
-msgstr ""
+msgstr "古い坑道で崩落があり、ワシらの仲間が閉じ込められた。これだけ知っておれば良い。連中を出してくれれば見返りは用意しようぞ。"
 
 #. [message]: speaker=Ragaril
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1421
 msgid ""
 "Thank ye again, Konrad. May ye have better luck saving your home than we’ve "
 "had for ours."
-msgstr ""
+msgstr "Konrad、感謝するぞ。ワシらには運が無かったが、お主らの家を守る戦いには幸運あれ。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1455
@@ -3512,6 +3518,8 @@ msgid ""
 "trolls an’ undead squattin’ in our halls, and e’en trustworthily helped us "
 "in the heart o’ Knalga itself."
 msgstr ""
+"これはなんとしたことだ？Konrad、お主はオークを戸口から駆逐し、広間に蔓延るトロルとアンデッドを一掃し、Knalga "
+"の中心部でもワシらを力強く助けてくれた。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1459
@@ -3520,6 +3528,7 @@ msgid ""
 "many o’ the Doors-folk are still with ’em, enslaved. But ye’ve given us "
 "dwarves more breathin’ room than we’ve had in many a year."
 msgstr ""
+"トロルはいずれ戻ってこよう。オークもまた然り。戸口の民も未だ連中の元で奴隷となっておろう。されど、お主らはワシらドワーフに息つく暇を与えた。最近何年も無かった偉業だ。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1464
@@ -3527,14 +3536,14 @@ msgid ""
 "I know ye said ye dinnae want any reward fer helpin’ us, but yer gettin’ one"
 " anyway. I’m sendin’ the best lads in Knalga to help you fight that queen o’"
 " yers."
-msgstr ""
+msgstr "お主は礼はいらんと言ったが、それではワシらの気持ちが収まらん。女王と戦うために Knalga で最高の戦士共を送ろうぞ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1468
 msgid ""
 "Konrad can now recruit Dwarvish Steelclads, Stalwarts, Thunderguards, and "
 "Berserkers!"
-msgstr ""
+msgstr "Konrad はドワーフの装甲歩兵、守備兵、雷撃衛兵、狂戦士を雇用できるようになりました！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1494
 msgid ""
@@ -3550,23 +3559,35 @@ msgid ""
 "will disable all achievements (except for <i>“Asleep\n"
 "at the Wheel”</i>). Are you sure?"
 msgstr ""
+"この渦巻を通ると現実が歪んでしまうでしょう。\n"
+"Konrad がプレイ可能なシナリオ数が無限になり、\n"
+"そして移動を強制するタイマー付きイベントが\n"
+"無効化されます。\n"
+"\n"
+"通常の数を超えてシナリオをプレイすると、１つに\n"
+"つき +$s50_extra_income_per_scenario ゴールド、最終シナリオの Asheviere の\n"
+"収入が増加します。\n"
+"\n"
+"渦巻を使うとおそらくゲームバランスが崩れます。\n"
+"そして、実績の達成も無効化されます。（ただし、\n"
+"<b>「居眠り運転」</b>は除きます）本当にいいですか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1519
 msgid ""
 "There is a strange whirlpool here, clearly magical in nature... I wonder "
 "what would happen if we allowed ourselves to be pulled in?"
-msgstr ""
+msgstr "奇妙な渦巻がある。明らかに魔法のものだ… ここに飛び込んだら何が起きるだろう？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1540
 msgid "Oh... my head! What just happened?"
-msgstr ""
+msgstr "うわっ… 頭が！何が起きたんだ？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1547
 msgid "There is nothing here of note. Was there ever?"
-msgstr ""
+msgstr "ここには特に何も無い。そもそも何かあったのだろうか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:24
