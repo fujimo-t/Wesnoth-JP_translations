@@ -280,7 +280,7 @@ msgstr "「強盗団」で 20 ターン以内に全ての荷馬車を倒す"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
 msgid "Grand Theft Wagon"
-msgstr "荷馬車重窃盗罪"
+msgstr "グランド・セフト・ワゴン"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
@@ -3596,13 +3596,14 @@ msgid ""
 "miles on end. There’s no reason to wander any deeper this way, at least not "
 "right now."
 msgstr ""
+"このあたりには無数の洞窟や溶岩洞がある。延々と曲がりくねっていて、奥まで何 km も続いているようだ。少なくとも、今はこの奥に進む理由はない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:35
 msgid ""
 "The Sceptre is quite real, I assure you. Perhaps you have forgotten our "
 "lessons..."
-msgstr ""
+msgstr "笏は確実に存在する。保証する。私の授業の内容は覚えているか？"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:53
@@ -3612,6 +3613,8 @@ msgid ""
 "finest smiths years to make it, but soon after it was completed, the makers "
 "were chased underground, attacked by the elves."
 msgstr ""
+"そのルビー、いや、今は炎の笏か。それは Wesnoth の王の証で、Haldric II世の命令で Kanlga "
+"のドワーフに作られたものだ。最高の鍛冶師が何年もかけて製作したが、笏が完成して間もなく、彼ら鍛冶師はエルフの攻撃を受け、地下へと追いやられた。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:57
@@ -3620,6 +3623,7 @@ msgid ""
 "great caverns. Years have passed, and the fortunes of the dwarves have waxed"
 " and waned, but the Sceptre has never been found."
 msgstr ""
+"そこで起こったことは正確にはわかっておらん。しかし、笏が巨大洞窟群のどこかで失われたことは間違いない。年月が経ち、ドワーフも盛衰を繰り返しているが、笏はこれまで見つかっていない。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:68
@@ -3627,7 +3631,7 @@ msgid ""
 "Until now. The strands of prophecy are moving, Konrad — it has been foretold"
 " that if your mentor searches for the Sceptre here, his magic is sure to "
 "find it."
-msgstr ""
+msgstr "それもこれまで。予言の糸は動き始めている。Konrad、お前の師匠がここで笏を探せばその魔術で必ず見つけ出す、そう予言されているのだ。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:73
@@ -3636,6 +3640,7 @@ msgid ""
 " if your mentor searched for the Sceptre here, his magic would be sure to "
 "find it. And he has."
 msgstr ""
+"それもこれまで。予言の糸は動き始めている。Konrad、お前の師匠がここで笏を探せばその魔術で必ず見つけ出す、そう予言されていた。そして実際に見つかった。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:78
@@ -3644,6 +3649,7 @@ msgid ""
 "that you must someday hold the Sceptre if peace is ever to find Wesnoth... "
 "or the elves."
 msgstr ""
+"そして、私にはその理由や経緯はわからないが、Wesnoth とエルフに平和をもたらすには、お前が笏を手にしなければならない、とも予言されている。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:83
@@ -3652,6 +3658,7 @@ msgid ""
 " that if I searched for the Sceptre here, my magic would be sure to find it."
 " And I have."
 msgstr ""
+"それもこれまで。予言の糸は動き始めている。Konrad、私がここで笏を探せばその魔術で必ず見つけ出せる、そう予言されていた。そして実際に見つけたのだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:102
@@ -3660,6 +3667,7 @@ msgid ""
 " the Sceptre, and reclaim the kingdom! If there’s augury about it we’re "
 "guaranteed to succeed, right?"
 msgstr ""
+"そうであれば、早く行きませんか？洞窟を徹底的に調べて、笏を見つけ、王国を取り戻しましょう！そのように予言されているのであれば、成功は約束されているのでは？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:107
@@ -3667,14 +3675,14 @@ msgid ""
 "Well, all right then. What’re we waiting for? Let’s get the Sceptre and "
 "reclaim the kingdom! If there’s augury about it we’re guaranteed to succeed,"
 " right?"
-msgstr ""
+msgstr "そうであれば、早く行きませんか？笏を手に入れて、王国を取り戻しましょう！そのように予言されているのであれば、成功は約束されているのでは？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:112
 msgid ""
 "No, no, no! This is <b><i>precisely</i></b> what I was worried about. You "
 "are not guaranteed to succeed, nor are you invincible!"
-msgstr ""
+msgstr "ダメだダメだダメだ！「完全に」私の心配していた通りの反応をしよってからに…… お前は成功を約束されていないし、無敵でもないのだぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:116
@@ -3683,18 +3691,19 @@ msgid ""
 " and my haste, I ruined quite nearly everything. You already know the story "
 "of my folly."
 msgstr ""
+"私も若い時に同じような状況があった。しかし、傲慢さと性急さによって私はほとんど全てを台無しにしてしまった。私の愚行のことは良く知っているだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:120
 msgid "My father, Prince Arand."
-msgstr ""
+msgstr "私の父、Arand 王子。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:125
 msgid ""
 "Quite right. Do not become overconfident, Konrad. I am searching for the "
 "Sceptre now. Once it is found, I promise you shall most certainly have it."
-msgstr ""
+msgstr "そうだ、その通りだ。Konrad、過信は禁物だ。私は今、笏を探している。見つけたら、必ずやお前の手に収めてみせよう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:130
@@ -3702,13 +3711,14 @@ msgid ""
 "Quite right. Do not become overconfident, Konrad. We may be about to claim "
 "the Sceptre, but we have not done so yet. And you are not yet king."
 msgstr ""
+"そうだ、その通りだ。Konrad、過信は禁物だ。笏をもうすぐ手に入るだろう。しかし、手に入ったとしても、まだ何も終わってはいない。お前はまだ王ではないのだから。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:135
 msgid ""
 "But no matter what, please — be forgiving, be wise, and above all be kind. "
 "For that is where I failed."
-msgstr ""
+msgstr "何はともあれ、どうか ── 寛容で、賢明で、そして何よりも親切でありつづけて欲しい。それができれば私と同じ失敗をすることはない。"
 
 #. [scenario]: id=30_The_Sceptre_of_Fire
 #. [object]: id=sceptre_of_fire, type=fire, type=fire, type=fire, type=fire
@@ -3721,14 +3731,14 @@ msgstr "炎の笏"
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:155
 msgid ""
 "Weapon for Konrad: <span color='#EFBF04'><b>The Sceptre of Fire</b></span>"
-msgstr ""
+msgstr "Konrad の武器：<span color='#EFBF04'><b>炎の笏</b></span>"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:177
 msgid ""
 "Hello, Konrad! I am most glad to see you again. Have you and Kalenz been "
 "taking good care of yourselves?"
-msgstr ""
+msgstr "おお、Konrad！また会えて嬉しいぞ。お前も Kalenz も元気だったか？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:181
@@ -3736,20 +3746,21 @@ msgid ""
 "Delfador, at last! So this is where you went off to! What quest could "
 "possibly bring you into this maze of tiny caves and tunnels?"
 msgstr ""
+"Delfador、やっと会えた！こんなところへ来ていたのですね！一体なぜこんな小さな洞窟やトンネルが迷路のように入り組んだところへ来たのですか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:185
 msgid ""
 "Well, I suppose I must tell you eventually... Konrad, I am searching for the"
 " Sceptre of Fire."
-msgstr ""
+msgstr "まあ、いずれは話すことか… Konrad、私は「炎の笏」を探しているのだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:189
 msgid ""
 "The Sceptre of Fire? The youngfolk at Blackwater Port always said that was "
 "just an old myth."
-msgstr ""
+msgstr "炎の笏？黒水港の若者がそんなものはただの古い与太話、と言っていましたが。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:199
@@ -3757,20 +3768,21 @@ msgid ""
 "I have come, Delfador! So this is where you went off to! It is good to see "
 "you again, even if it is in such an unpleasant maze of caves and tunnels."
 msgstr ""
+"Delfador、来ましたよ！こんなところへ来ていたのですね！また会えて嬉しいですが、一体なぜこんな小さな洞窟やトンネルが迷路のように入り組んだところへ来たのですか？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:203
 msgid ""
 "You say you are searching for the Sceptre of Fire? The youngfolk at "
 "Blackwater Port always said that was just an old myth!"
-msgstr ""
+msgstr "「炎の笏」を探していると言っていましたね？黒水港の若者がそんなものは古い与太話、と言っていましたよ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:218
 msgid ""
 "I am glad to see you have returned, Konrad. Are you ready to proceed onto "
 "the next phase of your adventures?"
-msgstr ""
+msgstr "Konrad、戻ってくれて嬉しいぞ。さて、冒険の次のステージに進む準備はできたか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:229
@@ -3779,6 +3791,7 @@ msgid ""
 " messenger once we are ready to retrieve it — perhaps after your next "
 "battle."
 msgstr ""
+"まだ笏は見つけられていない。しかし、順調に進んでいる、発見し、回収に行く準備が整ったら伝令を送ろう ── おそらくは、次の戦いの後になるだろうか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:234
@@ -3787,6 +3800,8 @@ msgid ""
 " messenger once we are ready to retrieve it — perhaps in $( "
 "$bm_milestone_scepter - $bm_turns ) battles’ time."
 msgstr ""
+"まだ笏は見つけられていない。しかし、順調に進んでいる、発見し、回収に行く準備が整ったら伝令を送ろう ── おそらくは、あと $( "
+"$bm_milestone_scepter - $bm_turns ) 回の戦闘を行った後になるだろうか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:239
@@ -3796,6 +3811,7 @@ msgid ""
 "and continue exploring the Great Continent. You have done much good already,"
 " but there are countless others who still need your help."
 msgstr ""
+"笏の発見は我々の冒険の大きな転機になるであろう、Konrad。その前に自由な時間を活かして大陸を探索しておくのだ。既にいくつも善行を重ねているだろうが、お前の助けを必要とする者はいくらでもいるだろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:243
@@ -3804,6 +3820,7 @@ msgid ""
 "although doing so may afford us more time for our future endeavors, it will "
 "also mark the end of your deeds in this region."
 msgstr ""
+"望むなら、私と共に捜索を急ぐこともできる。そうすれば今後の活動に充てる時間に余裕を確保できる。一方で、この地域でのお前の活動はここで終わりとなってしまう。良く考えて判断するのだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:253
@@ -3812,6 +3829,7 @@ msgid ""
 "located the object of our search, but we will need to work together to "
 "retrieve it."
 msgstr ""
+"素晴らしい。あっという前にやってきたな。Konrad、ありがとう。探していたものは間違いなく見つけた。しかし、回収するためには我々が力を合わせねばならん。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:259
@@ -3820,20 +3838,21 @@ msgid ""
 " The surrounding caverns are crawling with all manner of monsters, doubtless"
 " drawn by its power."
 msgstr ""
+"王の証、炎の笏のありかに続くトンネルがここにある。周囲の洞窟には、ありとあらゆる種類のモンスターがうようよしている。間違いなく笏の力に惹きつけられたのであろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:263
 msgid ""
 "Together, we shall clear the tunnels and claim your birthright once and for "
 "all."
-msgstr ""
+msgstr "共にトンネルを掃除し、生来持つ権利を高らかに主張するのだ。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:335
 msgid ""
 "The lava continues to rise! Hurry, Konrad — I have cast a spell to hasten "
 "our flight, but you must decide in which direction we go!"
-msgstr ""
+msgstr "溶岩が上昇を続けている！急げ Konrad！飛行速度を上げる魔法はかけたが、進む方向を早く選ばねばならん！"
 
 #. [scenario]: id=31_Plunging_Into_Darkness
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:354
@@ -3843,13 +3862,15 @@ msgstr "闇へ飛び込んで"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:380
 msgid "<b>Replacement Weapons</b> — Permanent Modifier"
-msgstr ""
+msgstr "<b>武器交換</b> ── 永続的変更"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:381
 msgid ""
 "Your veteran recalls cost <span color='red'>twice as much</span>.\n"
 "Your level 0-1 recruits refund <span color='#00FF00'>half their cost</span>."
 msgstr ""
+"ベテランの召還コストが<span color='red'>２倍</span>になります。\n"
+"レベル 0-1 ユニットの雇用時、<span color='#00FF00'>半額返金</span>されます。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:383
 msgid ""
@@ -3857,39 +3878,43 @@ msgid ""
 "Troll excrement coats the walls while insects and vermin churn in the dirt, "
 "all with a horrifying buzz of flies and smell of rot."
 msgstr ""
+"このアーチの先ははるか昔に廃墟と化した古いドワーフの武器庫へと続いている。そこではトロルの排泄物が壁一面にこびりついていて、虫や害虫が土の中をうごめいている。"
+" そしてハエの不気味な羽音と腐敗臭に満たされている。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:385
 msgid ""
 "If we flee in this direction we can gather countless low-quality weapons, "
 "but the specialized equipment wielded by our veteran soldiers will surely "
 "suffer from decay."
-msgstr ""
+msgstr "こちらに向かえば無数の低品質な武具を回収できる。しかし、特殊な装備を扱うベテラン戦士は腐敗と劣化に苦しむことになるだろう。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:393
 msgid "No permanent modifier."
-msgstr ""
+msgstr "永続的変更無し。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:395
 msgid ""
 "This passageway is broad and even, with clear air and a gentle upwards "
 "slope. I even feel a slight breeze!"
-msgstr ""
+msgstr "この通路は広く、平坦で、空気は澄んでいて、緩い上り坂になっている。ほんのりと微風さえも感じられる！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:397
 msgid ""
 "This seems the perfect path for our escape — if we flee in this direction we"
 " shall gain no boon but suffer no penalty."
-msgstr ""
+msgstr "逃げ出すには絶好の経路に見える ── こちらに逃げれば何の恩恵も無いものの、何のペナルティもないだろう。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:405
 msgid "<b>Memory Magic</b> — Permanent Modifier"
-msgstr ""
+msgstr "<b>記憶の魔法</b> ── 永続的変更"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:406
 msgid ""
 "Your max-level units require <span color='#00FF00'>75% less XP</span> to advance.\n"
 "Your other units require <span color='red'>75% more XP</span> to advance."
 msgstr ""
+"最大レベルのユニットは昇格に要する経験が<span color='#00FF00'> 75 % 減</span>。\n"
+"他のユニットは昇格に要する経験が<span color='red'> 75 % 増</span>。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:408
 msgid ""
@@ -3897,18 +3922,19 @@ msgid ""
 "faint smell of lavender and cinnamon in the air. Is this magic? Some remnant"
 " of the Sceptre’s internment, perhaps?"
 msgstr ""
+"この方向の壁には、光の粒が舞い踊っており、ラベンダーとシナモンのほのかな香りが空気中に漂っている。これは魔法なのだろうか？もしかすると、長らくここにあった笏の残り香かもしれない。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:410
 msgid ""
 "I am not sure what will happen if we flee this way, but already I can feel "
 "something moving within my mind... affecting my memories..."
-msgstr ""
+msgstr "こちらに逃げると何が起こるのかはわからない。しかし、既に心で何かが動いている気配を感じる… 記憶に影響を及ぼしているような……"
 
 #. [floating_text]
 #. $recruit_cost will be half of unit's value unit; likely between 10 and 25
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:483
 msgid "$recruit_cost gold refunded"
-msgstr ""
+msgstr "$recruit_cost ゴールド返金"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:500
 msgid "The Swamp of Dread"
