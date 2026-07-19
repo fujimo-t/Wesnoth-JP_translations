@@ -1248,7 +1248,7 @@ msgid ""
 "slain our foe! I wasn’t making a mistake bringing Alduin into the fold after"
 " all. Who commands this detachment?"
 msgstr ""
-"だが、これはどういうことだ？魔術師の集団が我等に先んじて戦端を開き、既に敵を討ち取ったというのか！やはり、Alduin "
+"だが、これはどういうことだ？魔術師たちが我等に先駆けて戦端を開き、既に敵を討ち取ったというのか！やはり、Alduin "
 "を味方に引き入れた私の目に狂いはなかったな。この部隊の指揮官は誰だ？"
 
 #. [message]: speaker=Methor
@@ -1266,7 +1266,7 @@ msgstr ""
 msgid ""
 "A healer? Well, we’ll have need of your services soon enough. Follow me back"
 " to camp. We attack on the morrow!"
-msgstr "ヒーラーか？よし、すぐにもそなたの助力が必要となろう。駐屯地まで付いて参れ。明朝、攻勢をかけるぞ！"
+msgstr "ヒーラーか？ならば、すぐにもそなたの助力が必要となろう。本陣まで付いて参れ。明朝、攻勢をかけるぞ！"
 
 #. [message]: speaker=Garard
 #. Delfador has failed to defeat the goblins. Garard does not respect him.
@@ -1276,8 +1276,8 @@ msgid ""
 " even finish off a few goblins! Bah, go back to Alduin, you scholars have no"
 " place in war after all."
 msgstr ""
-"だが、これはどういうことだ？まだ首もすわっていないような見習い魔術師の集団が我等に先んじて戦端を開いたはいいものの、わずか数匹のゴブリンどもを仕留められずにいるとは！ふん、大人しく"
-" Alduin へ帰るがよい。やはり、お前たち学者風情は、戦いの場には相応しくない。"
+"だが、これはどういうことだ？まだ首もすわっていないような見習い魔術師なぞが抜け駆けした挙句、わずか数匹のゴブリンどもを仕留められずにいるとは！ふん、大人しく"
+" Alduin へ帰るがよい。やはり、お前たち学者風情には戦いの場は相応しくない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:683
