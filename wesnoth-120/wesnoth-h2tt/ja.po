@@ -3945,7 +3945,7 @@ msgstr "恐怖の沼地"
 msgid ""
 "Finally! Our journey under the mountains has been long and difficult, but at"
 " last we return to the open continent — and with a powerful new ally!"
-msgstr ""
+msgstr "やったぞ！山脈地下の旅は長く険しかったが、どうにか広大な大陸へと戻ることができた ── それも心強い新たな仲間と共に！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:515
@@ -3954,6 +3954,7 @@ msgid ""
 "enough. And she’s certainly not about to give up the throne just for my "
 "sake."
 msgstr ""
+"もしあなたが本当に母を追い落としたいのであれば、私の力だけでは足りないでしょうね。それと、私のために母が王位を手放すなんてことは絶対に有り得ないわ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:519
@@ -3962,6 +3963,8 @@ msgid ""
 "the orcish tribes — all these bolster Weldyn’s armies. The more we can "
 "defeat, the weaker Asheviere will become."
 msgstr ""
+"母の軍勢を切り崩すところから始めるべきでしょうね。Dan’Tonk、騎兵クラン、オークの氏族  ── 彼らが Weldyn "
+"の軍勢を支えている。それらを切り崩せば、それだけ母の力は弱まるでしょう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:523
@@ -3970,6 +3973,8 @@ msgid ""
 "among the elves of the Lintanir — I have spent time there before. There are "
 "woses in the east as well, and drakes; who knows what else may await us!"
 msgstr ""
+"あるいは、さらに我々の友軍を増やすことだな。Lintanir のエルフには力を貸してくれる者がいるかもしれない ── "
+"私は以前にあそこにいたことがあるからな。東にはウーズやドレークもいる。他にも誰か味方してくれる者たちもいるかもしれない！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:536
@@ -3977,6 +3982,8 @@ msgid ""
 "This was a difficult battle, but without it we would never have become "
 "allied with Li’sar. We should count ourselves lucky to have fought it."
 msgstr ""
+"難しい戦いだった。しかし、あれがあったからこそ我々は Li’sar "
+"と力を合わせることができた。我々は幸運だったと言うべきなのだろうな。あるいは、これも星の巡り合わせなのだろうか。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:11
 msgid "Snow Plains"
@@ -3987,26 +3994,26 @@ msgstr "雪原"
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1092
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1199
 msgid "Defeated Faction:"
-msgstr ""
+msgstr "打倒される兵種："
 
 #. [side]: type=Orcish Warlord, id=leader2
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:25
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:73
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:36
 msgid "Urag Fell-Handed"
-msgstr ""
+msgstr "Urag Fell-Handed"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:45
 msgid "Look there, in the cage! Is that who she seems to be?"
-msgstr ""
+msgstr "あそこを、檻の中を見てくれ！あれはあの魔術師だろう。しかしなぜあいつが檻の中に？"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:50
 msgid ""
 "Then it’s agreed? You’ll release and repatriate me to my queen’s service, in"
 " return for a to-be-negotiated ransom from the royal treasury?"
-msgstr ""
+msgstr "私を解放し、女王陛下の元へ送還してくれたら女王から身代金が支払われる、金額については応相談。こういうことでいいわね？"
 
 #. [message]: speaker=urag_tifer
 #. "witch" is a derogatory term here. Mirya (a Silver Mage) would probably
@@ -4017,13 +4024,15 @@ msgid ""
 "other chiefs feed like pigs in Wesnoth. Ha! Lucky for me that we happened to"
 " run into each other, witch."
 msgstr ""
+"うーっ… いいだろう。他の氏族が Wesnoth "
+"でブタのように餌を貪っているのに俺だけこんな雪山でウロウロしてられるか！しかし魔女よ、お前とここでちょうど出くわせて俺は本当にラッキーだったぜ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:61
 msgid ""
 "The fates must have a sense of humor — here is imprisoned the very mage who "
 "tried to burn us alive back in the volcano."
-msgstr ""
+msgstr "運命の神にはユーモアのセンスがあるらしい。まさか、火山で我々を焼こうとしてくれた張本人がこんなところで捕まっているとは。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:65
@@ -4031,11 +4040,13 @@ msgid ""
 "It sounds as though she stands on the verge of freedom. But if we strike "
 "now, we can prevent her from ever rejoining Asheviere."
 msgstr ""
+"どうやら放っておけばあの女は解放されてしまうようだ。ならば、ここで仕掛けてしまうか。そうすれば、あの女を二度と Asheviere "
+"の元に戻れなくできそうだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:82
 msgid "An ignominious end for a mage who’s caused us so much trouble."
-msgstr ""
+msgstr "散々迷惑をかけられたが、その所業に見合った無様な最期だったな。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:84
@@ -4044,16 +4055,18 @@ msgid ""
 " the past. It is good that we stopped her before she could bring this one "
 "into their fold too."
 msgstr ""
+"Li’sar によると、Mirya は以前 Asheviere "
+"のためにオーク氏族の引き込みを行っていたらしい。ならば、ここで彼女を止められたのは僥倖だったかもしれない。放っておけばどこかの氏族を引き込んで我々に襲いかかったかもしれないのだから。"
 
 #. [message]: speaker=urag_tifer
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:90
 msgid "Get out of here, humans. You already got what you came for!"
-msgstr ""
+msgstr "消えろ、ニンゲン。もう目的は果たしただろう！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:100
 msgid "Whitefang Mountains"
-msgstr ""
+msgstr "Whitefang 山地"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:108
 msgid "A Crisis of Leadership"
@@ -4065,7 +4078,7 @@ msgstr "リーダーシップの危機"
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:270
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1548
 msgid "Fagh-mok the Flattered"
-msgstr ""
+msgstr "お調子者 Fagh-mok"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:156
@@ -4105,6 +4118,8 @@ msgid ""
 "queen Asheviere told us all sorts of things about you, prince. But I’m sure "
 "it’s all lies."
 msgstr ""
+"俺は「高潔なる Fagh-mok」、族長の護衛を務める誠実な戦士だ！王子よ、女王 Asheviere "
+"とか言う不快な輩がお前のことを色々と言っていたが、それが単なる嘘であることは分かっている。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:179
