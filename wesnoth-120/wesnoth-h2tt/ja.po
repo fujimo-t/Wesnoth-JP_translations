@@ -4087,27 +4087,29 @@ msgid ""
 "orcish clan of the same name. They are allies of Asheviere’s, and powerful "
 "enemies of ours."
 msgstr ""
+"気をつけろ、Konrad。我々は Whitefang 山地に近づいている。あそこはその名前を冠する巨大な氏族の根城だ。連中は Asheviere "
+"と同盟を結んでおり、我々にとって強大な敵だ。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:160
 msgid ""
 "Even the great armies of yesteryear lacked the strength to defeat them in "
 "their home. We should do our best to slip quietly past."
-msgstr ""
+msgstr "往時の強力だった軍勢をもってしても連中の根城は落とせなかった。気付かれないように通り過ぎるのが最善であろうな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:164
 msgid ""
 "Your warning comes too late, Delfador. One of their leaders has already "
 "spotted us!"
-msgstr ""
+msgstr "Delfador、その警告はどうやら手遅れだったようです。連中の指揮官の一人が既に我々の存在に気づいています！"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:170
 msgid ""
 "Peace, pinkski— humans! Hah, don’t you look scared to see me. You must be "
 "the great Prince Konrad!"
-msgstr ""
+msgstr "騒ぐな、ピンク── 人間！俺を見てビビってるのか？お前は偉大なる Konrad 王子だろう！"
 
 #. [message]: speaker=Faghmok
 #. his real name is Fagh-mok the Flattered, but he's lying to make himself
@@ -4126,7 +4128,7 @@ msgstr ""
 msgid ""
 "You are no friend of the dark queen, then? Yet your clan fights alongside "
 "her as an ally."
-msgstr ""
+msgstr "ならばあなたは闇の女王の仲間ではないと？しかし、あなたの氏族は女王の友軍として振る舞っている。"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:183
@@ -4134,6 +4136,7 @@ msgid ""
 "They have been misled! Our foolish chief dares to oppose you, oh mighty "
 "Konrad! But if there were to be a new chief... myself, for example..."
 msgstr ""
+"あいつらは騙されている！バカな族長のせいで氏族は強大なる Konrad と戦おうとしているのだ！しかし、もし誰か別の者… 例えば俺が族長になれば……"
 
 #. [message]: speaker=Faghmok
 #. [message]: role=weldyn3
@@ -4163,17 +4166,17 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:120
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:207
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:191
 msgid "If you’re interested, come meet me just outside our camp."
-msgstr ""
+msgstr "興味があるなら、野営地のすぐ外に会いにきてくれ。"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:201
 msgid "Ha ha ha, I knew you’d come find me. Very good."
-msgstr ""
+msgstr "はっはっはっ、来ると思っていたぜ。こいつは良い。"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:205
@@ -4182,6 +4185,7 @@ msgid ""
 " our camp. Once you’re there, it’ll be up to you to kill the old chief — and"
 " then I can take over!"
 msgstr ""
+"お前自身と精鋭３人を野営地の中心部まで潜入させる手筈は整っている。後は自力であの老いぼれ族長を殺すんだ ── そこまでやれれば俺が氏族を支配できる！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:209
@@ -4189,6 +4193,8 @@ msgid ""
 "Or, once we’re separated from our army you will capture us and turn us over "
 "to Asheviere. Why should I take such a great risk on the word of a stranger?"
 msgstr ""
+"あるいは、軍勢から引き離したところで私を捕らえ、Asheviere "
+"に引き渡すのだろうな。見知らぬ者の言葉を信じてこんな大きなリスクを冒すと思っているのか？"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:213
@@ -4197,13 +4203,15 @@ msgid ""
 "have some guarantee... fine, I’ll stay prisoner with your army until you "
 "safely return. Now what do you say?"
 msgstr ""
+"フン、お前があの老いぼれを殺さなければ俺が族長になることはできん！何か保証が欲しいと言うのなら…… "
+"そうだな、お前が無事に戻るまで、俺が人質としてお前の軍勢に留まろう。これならどうだ？"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:218
 msgid ""
 "When you’re ready, I can sneak you and three of your best soldiers into the "
 "center of our camp. And then you can kill the chief! What do you say?"
-msgstr ""
+msgstr "準備はいいか？俺ならお前と精鋭３人を野営地の中央まで潜入させられる。あとは族長を殺すだけだ！さあどうする？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:223
@@ -4212,25 +4220,26 @@ msgid ""
 "accuracy and power to quickly defeat enemies even within their own "
 "fortifications. Are we prepared?"
 msgstr ""
+"うーむ… 敵の要塞の真っ只中での暗殺ということであれば、速やかに敵を処理できる力や正確さを持ったベテランが複数いないと厳しいだろう。いけるだろうか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:267
 msgid ""
 "With the Whitefangs embroiled in civil war, Asheviere is more vulnerable "
 "than ever! I wonder who the eventual victor will be..."
-msgstr ""
+msgstr "Whitefang 氏族が内戦に入ったことで、Asheviere はかつてないほど無防備な状態となった！最終的な勝者は誰となるのか…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:273
 msgid ""
 "With the Whitefangs embroiled in civil war, Asheviere is more vulnerable "
 "than ever."
-msgstr ""
+msgstr "Whitefang 氏族が内戦に入ったことで、Asheviere はかつてないほど無防備な状態となった。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:283
 msgid "Arkan-Thoria"
-msgstr ""
+msgstr "Arkan-Thoria"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:291
 msgid "Cliffs of Thoria"
@@ -4238,20 +4247,21 @@ msgstr "Thoria の断崖"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:294
 msgid "New Companion for Li’sar:"
-msgstr ""
+msgstr "Li’sar の新たな仲間："
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:297
 msgid ""
 "Reinforcements: <span color='#EFBF04'><b>Li’sar will start future scenarios "
 "with double income and +50 gold.</b></span>"
 msgstr ""
+"援軍：<span color='#EFBF04'><b>今後のシナリオで Li’sar の初期ゴールド +50、基礎収入２倍</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:313
 msgid ""
 "Look — winged shapes swooping on the horizon. And I hear the shouts and "
 "screams of men! A battle is being fought on the river!"
-msgstr ""
+msgstr "見ろ ── 地平線上で翼ある者が急降下している。それに人の叫び声や悲鳴が聞こえる！川で戦闘が起きている！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:320
@@ -4261,20 +4271,22 @@ msgid ""
 "evil creatures lurk along its banks, its waters are not fit to drink, and it"
 " runs over the Cliffs of Thoria."
 msgstr ""
+"これは人間には Longlier と呼ばれる川だが、私達エルフの古い言葉では Arkan-thoria "
+"と呼ばれる。「骨の川」という意味だ。川岸には巨大で邪悪な生物が潜み、その水は飲用に適さず、Thoria の断崖を流れ落ちている。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:324
 msgid ""
 "It has been many centuries since any man or elf has passed over the Cliffs "
 "and survived. Be cautious, prince."
-msgstr ""
+msgstr "この断崖を越えて生き延びた人間やエルフはもう何世紀も現れていない。注意するんだ、王子よ。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:345
 msgid ""
 "I can’t thank you enough for saving me, Your Highness. I would have been "
 "dead a dozen times over."
-msgstr ""
+msgstr "殿下、私を救ってくださり、心より感謝いたします。お助けがなければ確実に命を落としていたでしょう。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:349
@@ -4283,23 +4295,24 @@ msgid ""
 "bad state right now, but give me a few animals and some supplies to go "
 "relieve them, and we’ll be ready to reinforce you for your next battles."
 msgstr ""
+"他の生存者は一週間ほど川上に行った場所におります。現在、彼らの状況は相当厳しいです。ですが、数頭の動物といくらかの物資を分けていただければ、彼らを助け、今後の戦闘で殿下を支援できるでしょう。"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:356
 msgid "Reinforcements"
-msgstr ""
+msgstr "援軍"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:357
 msgid "Li’sar will start future scenarios with double income and +50 gold."
-msgstr ""
+msgstr "Li’sar は今後のシナリオで初期ゴールドが +50、基礎収入が２倍になります。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:363
 msgid ""
 "There are still some drakes here, but there’s no longer any reason to fight."
 " We did a good thing by rescuing Warven and his allies."
-msgstr ""
+msgstr "ここにはまだ少しドレークが残っているが、もはや戦う理由はない。ここで Warven とその仲間を救うことができてよかった。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:385
