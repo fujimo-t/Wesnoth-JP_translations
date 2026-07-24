@@ -4322,6 +4322,9 @@ msgid ""
 " the woses are, I expect the elves of Lintanir will have much to speak with "
 "us about."
 msgstr ""
+"私達は Lintanir の森へと近づいている。ここにはウーズの森があると以前に Delfador "
+"から聞いたことがある。しかし、今のところ森は静かだ。ウーズがどこにいるかはともかくとしても、Lintanir "
+"のエルフからは色々と教えてもらえるかもしれない。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:400
 msgid "Underground Channels"
@@ -4329,27 +4332,27 @@ msgstr "地下水路"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:404
 msgid "New Recruit for Delfador:"
-msgstr ""
+msgstr "Delfador の新たな雇用："
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:425
 msgid ""
 "The river travels underground here, and there is an awful stench of rot and "
 "decay. Has some undead creature taken up residence inside?"
-msgstr ""
+msgstr "このあたりでは川が地中を流れていて、あたりからひどい腐敗臭がしている。中にアンデッドでも住み着いているのだろうか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:429
 msgid ""
 "I am not sure what benefit we could gain from fighting in such a place, but "
 "it is always our duty to destroy evil."
-msgstr ""
+msgstr "こんなところで戦っても何の益にもならないかもしれないが、邪悪を滅ぼすことは私の責務だ。"
 
 #. [side]: id=Haralamdum, type=Ancient Wose
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:437
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:111
 msgid "Haralamdum"
-msgstr ""
+msgstr "Haralamdum"
 
 #. [message]: speaker=Haralamdum
 #. Goodbye young Master Delfador, and Prince Konrad. Good luck. I hope my gift
@@ -4359,27 +4362,28 @@ msgid ""
 "Goodbye ... young Master Delfador ... Prince Konrad ... hum dum da dum ... "
 "and good luck. I hope my gift will be useful to you."
 msgstr ""
+"さらばだ… 若き導師 Delfador… Konrad 王子… ハム・ダム・ダ・ダム … 幸運を祈る。そして私の贈り物が何かの役に立つよう願う。"
 
 #. [message]: speaker=Haralamdum
 #. Hello again.
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:451
 msgid "Hello ... again. Har alam dum ..."
-msgstr ""
+msgstr "久しぶり… だ。ハール・アラム・ダム…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:461
 msgid "Lintanir Forest"
-msgstr ""
+msgstr "Lintanir の森"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:469
 msgid "Eloreis"
-msgstr ""
+msgstr "Eloreis"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:470
 msgid "Parandra"
-msgstr ""
+msgstr "Parandra"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:507
@@ -4388,6 +4392,8 @@ msgid ""
 "North Elves. I was born not far east of here... more years ago than I care "
 "to remember."
 msgstr ""
+"ついにここまで来た！友よ、ここが Lintanir の森、北部エルフの本拠地だ。私もここから少し東へ行った場所で生まれた… "
+"いつのことだったのか、数えるにも難儀するほど昔のことではあるがな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:511
@@ -4396,27 +4402,29 @@ msgid ""
 "Aethenwood. Lord Kalenz has told me much about his home in the Lintanir. I "
 "am honored to meet you."
 msgstr ""
+"やあ、ごきげんよう！私は Konrad、Wesnoth の王位継承者で、Aethen の森の子です。Kalenz 殿から Lintanir "
+"のことは色々と聞いています。この森を訪ねることができて光栄です。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:515
 msgid ""
 "Greetings, Konrad. I have heard much about you as well. Welcome to the "
 "Lintanir Forest."
-msgstr ""
+msgstr "こんにちは、Konrad。私もお前のことを色々と聞いているぞ。ようこそ Lintanir の森へ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:524
 msgid ""
 "Hail, elves! I am Konrad, heir to the throne of Wesnoth, son of the "
 "Aethenwood and friend of Lord Kalenz."
-msgstr ""
+msgstr "やあ、ごきげんよう！私は Konrad、Wesnoth の王位継承者で、Aethen の森の子で、Kalenz 殿の友人でもあります。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:528
 msgid ""
 "Greetings, Konrad. I have heard much about you. Welcome to the Lintanir "
 "Forest, home of the North Elves."
-msgstr ""
+msgstr "こんにちは、Konrad。私もお前のことを色々と聞いているぞ。北部エルフの本拠地、Lintanir の森へようこそ。"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:540
@@ -4425,11 +4433,13 @@ msgid ""
 "since I last laid eyes on you, Konrad, yet you are now a grown man. A proven"
 " warrior stands before me!"
 msgstr ""
+"人間とはこんなに早く大きくなるのですね、Konrad！最後に見た時からたった 17 "
+"回の冬が過ぎただけなのに、もうこんなに大きくなって。もう立派な戦士だわ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:544
 msgid "Forgive me, Elf, but I’m afraid I do not recall meeting you before. "
-msgstr ""
+msgstr "申し訳ありません、どこかでお会いしたことがあったでしょうか？"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:548
@@ -4438,18 +4448,20 @@ msgid ""
 " rampaging across Wesnoth, Parandra helped me rescue you from the royal "
 "palace."
 msgstr ""
+"Konrad、この人は Parandra。Asheviere が権力を奪い、Wesnoth 中を荒らし回り始めた頃、Parandra "
+"は私が王宮からお前を助け出すのを手伝ってくれたのだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:552
 msgid "I had no idea! Thank you, my lady. It is a pleasure to meet you again."
-msgstr ""
+msgstr "まさかそんな方だったとは！ありがとうございます、レディ。またお会いできて光栄です。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:556
 msgid ""
 "Rescued him from my mother? Seventeen years ago Konrad would’ve been an "
 "infant. What is this you’re talking about?"
-msgstr ""
+msgstr "王宮から Konrad を救った？17 年前ならば Konrad はまだ赤子だったはず。まさか母が関係しているの？これは一体何の話？"
 
 #. [message]: id=Kalenz,Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:560
@@ -4458,6 +4470,8 @@ msgid ""
 "unjustly. When Konrad was an infant, she ordered all the princes put to "
 "death, so she could seize control."
 msgstr ""
+"お前の母の手は多くの血で汚れているのだよ、娘よ。奴は多くの者を不当に殺してしまっている。その一つがこれだ。奴は全ての王子を殺すように命令した。Konrad"
+" などまだ赤子であったのに。奴はそうして権力を奪ったのだ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:564
@@ -4466,20 +4480,22 @@ msgid ""
 " have shown me many things of which I didn’t wish to believe regarding my "
 "mother. I trust that you speak the truth."
 msgstr ""
+"ちょっと前だったら、こんなものは真っ赤な嘘だと切り捨てていたのでしょうね。でも、Konrad と Delfador "
+"に母の所業を色々と見せられてしまった今では… 信じたくはないけれど、それが真実なのでしょうね。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:574
 msgid ""
 "But now I hold the Sceptre — our symbol of rulership — and my mother’s time "
 "as queen draws short. I have a chance to do better!"
-msgstr ""
+msgstr "しかし、笏は私の手にある ── これこそが君主の証。母の世は間もなく終わる。私の手で改めてみせる！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:578
 msgid ""
 "Though you have the Sceptre, my lady, it is not your place to rule. Your "
 "line was tainted when Asheviere orchestrated her husband’s downfall."
-msgstr ""
+msgstr "娘よ、笏がその手にあってもお主が君主となる資格は無いだろう。Asheviere が夫の破滅を画策した時点でその血統は汚れてしまっている。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:583
@@ -4488,6 +4504,8 @@ msgid ""
 "of rulership. My mother’s time as queen draws short. With the Sceptre, as "
 "queen, I have a chance to do better."
 msgstr ""
+"だからこそ、私はあなたから笏を取り返さないといけないの、Konrad  ── "
+"それこそが君主の証なのだから。母の世は間もなく終わる。笏を手にし、女王として私がこの世を改めてみせる！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:587
@@ -4495,6 +4513,7 @@ msgid ""
 "My lady, there is some good in you, but the throne is not yours to claim. "
 "Your line was tainted when Asheviere orchestrated her husband’s downfall."
 msgstr ""
+"娘よ、お主にはたしかに見どころがある。しかし、玉座はお主のものではない。Asheviere が夫の破滅を画策した時点でその血統は汚れてしまっている。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:592
@@ -4503,11 +4522,13 @@ msgid ""
 "raised him as my own, as penance for my part in Garard’s fall. Konrad shall "
 "be king."
 msgstr ""
+"Arand 王子の子であり、Garard 陛下の甥である Konrad こそが正当なる後継者なのだ。Garard "
+"陛下を死なせてしまった罪を償うため、私は Konrad を立派な王となれるように育ててきたのだ。Konrad こそが王に相応しい。"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:602
 msgid "(gestures to Delfador)"
-msgstr ""
+msgstr "（Delfador に手招きする）"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:608
@@ -4516,6 +4537,9 @@ msgid ""
 "just. A warrior who has respect, and appreciates peace. Yet the throne is "
 "not the place for him. You know of what I speak, Delfador."
 msgstr ""
+"Delfador、あなたは Konrad "
+"を器用で、賢明で、高潔で、公正な人間に育てました。優れた戦士でありながらも、平和と愛する立派な者に。それでも、Konrad "
+"は玉座に座るべきではありません。あなたもわかっているでしょう、Delfador？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:612
@@ -4524,6 +4548,8 @@ msgid ""
 "speak to no-one of what we know, I see no reason why Konrad would not best "
 "have the throne."
 msgstr ""
+"Parandra、そなたの言葉に一理あることは認める。しかし、我々が口を噤んでいればよいことだろう。Konrad "
+"が王位に就くよりも良い選択肢があるとは思えない。"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:616
@@ -4532,16 +4558,18 @@ msgid ""
 "the world of men. But in this, you are mistaken. Li’sar is the heir. She "
 "should take the throne. Now that I have met her for myself, I am sure of it."
 msgstr ""
+"Delfador、大抵の場合あなたの言うことは正しいわ。あなたよりも知恵のある人間はいないでしょう。でもこの件についてだけは違う。あなたは間違っている。Li’sar"
+" こそが王位を継承する人物。彼女が王位に就くべきなの。今日ここで直接会って私は確信したわ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:620
 msgid "Hmph. Perhaps you are right, perhaps not. We shall see."
-msgstr ""
+msgstr "ふん… そうかもしれないな。しかし、もう少しだけ様子をみさせてくれ。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:630
 msgid "*Ahem*"
-msgstr ""
+msgstr "ゴホン"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:638
