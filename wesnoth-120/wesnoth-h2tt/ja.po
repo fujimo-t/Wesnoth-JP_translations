@@ -620,7 +620,7 @@ msgstr "項目を選択して詳細を確認"
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:436
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:798
 msgid "Wose Lore"
-msgstr "ウーズの伝承"
+msgstr "ウーズの知識"
 
 #. [lua]: wesnoth.wml_actions.select_lintanir_boon
 #. [event]: id=boon_flaming_sword # used in smalltalk.cfg, type=fire
@@ -4402,7 +4402,7 @@ msgid ""
 "Aethenwood. Lord Kalenz has told me much about his home in the Lintanir. I "
 "am honored to meet you."
 msgstr ""
-"やあ、ごきげんよう！私は Konrad、Wesnoth の王位継承者で、Aethen の森の子です。Kalenz 殿から Lintanir "
+"やあ、ごきげんよう！私は Konrad、Wesnoth の王位継承者で、Aethen の森の子です。Kalenz 公から Lintanir "
 "のことは色々と聞いています。この森を訪ねることができて光栄です。"
 
 #. [message]: speaker=Eloreis
@@ -4417,7 +4417,7 @@ msgstr "こんにちは、Konrad。私もお前のことを色々と聞いてい
 msgid ""
 "Hail, elves! I am Konrad, heir to the throne of Wesnoth, son of the "
 "Aethenwood and friend of Lord Kalenz."
-msgstr "やあ、ごきげんよう！私は Konrad、Wesnoth の王位継承者で、Aethen の森の子で、Kalenz 殿の友人でもあります。"
+msgstr "やあ、ごきげんよう！私は Konrad、Wesnoth の王位継承者で、Aethen の森の子で、Kalenz 公の友人でもあります。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:528
@@ -4578,6 +4578,8 @@ msgid ""
 "Now we have. The Lintanir has magic to offer you and your companions; aid on"
 " your quest against the dark queen."
 msgstr ""
+"……Konrad、ここまでたどり着けたら援助をすると以前に約束していたな。その約束を今果たそう。Lintanir "
+"にはお前と仲間達の役に立つ魔法の品がある。闇の女王との戦いの一助となろう。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:643
@@ -4586,6 +4588,8 @@ msgid ""
 " the elves. The Lintanir has magic to offer you and your companions; aid on "
 "your quest against the dark queen."
 msgstr ""
+"……Konrad、お前が Asheviere の敵であり、エルフの友であることを証明した。Lintanir "
+"にはお前と仲間達の役に立つ魔法の品がある。闇の女王との戦いの一助となろう。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:648
@@ -4593,14 +4597,14 @@ msgid ""
 "We hold in our possession three objects of legend: a tome of wose lore, a "
 "chestplate of black steel, and a great sword of fire. Choose one, and it "
 "shall be yours."
-msgstr ""
+msgstr "伝説的な品が３つある。ウーズの知識の書、黒鋼の胸甲、そして偉大なる炎の剣。どれか１つを選ぶのだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:652
 msgid ""
 "You are as generous as you are wise, Lord Kalenz. Please, tell us more about"
 " these artifacts you offer."
-msgstr ""
+msgstr "Kalentz 公、あなたは賢明で、さらに寛容でもあるのですね。もしよろしければこの秘宝についてもう少し教えていただけないでしょうか。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:657
@@ -4609,13 +4613,15 @@ msgid ""
 " go forth. Fortune has smiled upon us so far, despite great dangers. Perhaps"
 " she will continue to do so."
 msgstr ""
+"Konrad、そして "
+"Li’sar、幸運を祈る。一休みしたら行こう。これまで、大きな危険もいくつかあったが、幸運の女神は我々に微笑んでくれていた。今後もそうあって欲しいものだな。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:666
 msgid ""
 "But enough introductions. Konrad, is the Lord Kalenz with you? There is much"
 " that the three of us ought to speak about."
-msgstr ""
+msgstr "あいさつはこれくらいでいいだろう。それで Konrad、Kalenz 公は一緒ではないのか？三人で話すべきことがたくさんあると思うのだが。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:670
@@ -4624,6 +4630,8 @@ msgid ""
 "towards Lintanir Forest. He has not arrived safely? That is ill news, for he"
 " seemed a wise elf and a staunch ally."
 msgstr ""
+"親切な公はしばらく前に戦場で負傷し、東へ、Lintanir の森へと撤退しました。まだここへ来ていないのですか？それは心配ですね… "
+"公は賢明であり、信頼できる仲間だと思ってますから。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:674
@@ -4632,6 +4640,8 @@ msgid ""
 "represents the best of us, and has survived many trials in times past. But I"
 " fear he has been waylaid by some mischief."
 msgstr ""
+"それは不吉な知らせだな。しかし、Kalenz がそう簡単に命を落とすことはないだろう。Kalenz "
+"は最高の戦士であり、過去に数え切れないほどの試練をくぐり抜けているのだから。しかし、何か不測の事態に巻き込まれているのかもしれないな。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:678
@@ -4640,13 +4650,15 @@ msgid ""
 " forth. Fortune has smiled upon you so far, despite great dangers. Perhaps "
 "she will continue to do so."
 msgstr ""
+"私にできることは多くはないが、Konrad、そして "
+"Li’sar、幸運を祈っている。旅立つ前に一休みしていくと良い。多くの危険があったようだが、これまでのところ、幸運の女神はお前たちに微笑んでくれているようだ。これからもそうあって欲しいと願う。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:701
 msgid ""
 "I know little of woses, but I know they are not warriors. What secret lore "
 "might they have that could be of use on the battlefield?"
-msgstr ""
+msgstr "ウーズのことは良くは知りませんが、戦士でないことは知っています。戦場で役に立つ彼らの知識とは一体何でしょう？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:705
@@ -4655,6 +4667,7 @@ msgid ""
 "It is a magical tome; a record of the life-sap of Elilmaldur-Rithrandil, "
 "eldest of the Green Isle."
 msgstr ""
+"森の知恵だ。木々の間を気づかれずに素早く動く技術。これは魔法の知識、緑の島の長老 Elilmaldur-Rithrandil の生命の源の記録なのだ。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:709
@@ -4664,6 +4677,7 @@ msgid ""
 "I believe you will gain great affinity with the forest, its nature and ways,"
 " and all the creatures within it."
 msgstr ""
+"多くの者にとって、この分厚い本は、枝や葉っぱに関する意味のない物語で埋め尽くされているように見えるだろう。しかし、Konrad、森で育ったお前には違うものが見えるはずだ。これを手に取れば、森に、そしてその自然や営み、さらには森に生息するあらゆる生き物たちに深い親近感を覚えるようになるだろう。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:716
@@ -4672,20 +4686,21 @@ msgid ""
 "ability — invisibility in forest — as well as improved forest movement and "
 "70% forest defense."
 msgstr ""
+"ウーズの知識の書を取ると、<b>Konrad</b> が<b>伏兵</b>能力を獲得し、森での回避率が 70% になり、森での移動コストが減少します。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:730
 msgid ""
 "You called this a sword of fire, Kalenz, but it looks little different from "
 "my own. Is there a command word, perhaps?"
-msgstr ""
+msgstr "Kalenz、あなたはこれを炎の剣と言いましたが、私の目にはそのように見えません。何か合言葉でも必要なのでしょうか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:736
 msgid ""
 "This is a wizard’s sword, Konrad; I sense its power. With such an enchanted "
 "weapon, even one as old as me would make a capable swordsman."
-msgstr ""
+msgstr "Konrad、これは魔術師の使う剣だ。力を感じる。このような素晴らしい魔法の剣があれば、私のような老いぼれでも腕の立つ剣士となれるだろう。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:740
@@ -4694,6 +4709,8 @@ msgid ""
 "as a boon to her by your elvish friends in the south, but it brought her "
 "only disaster."
 msgstr ""
+"まさにその通り。これはかつて強力な女魔術師である Ila’alion "
+"の持ち物だった。それはお前の良く知る南のエルフの友人たちによって、贈り物として魔法がかけられたのだが、それが彼女に災難をもたらしてしまった。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:742
@@ -4703,13 +4720,15 @@ msgid ""
 "They resented her arrogance as the bearer of the sword, and indignation is a"
 " powerful force amongst my people at times."
 msgstr ""
+"Ila’alion "
+"はこの森を守り、オークの侵攻に立ち向かっていた。彼女の仲間の魔女たちはそこに遅れてやってきた。魔女達は、剣の持ち主としての彼女の傲慢さを憎んだ。私達の民の間では、怒りは時に強力な力となるのだ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:749
 msgid ""
 "Taking the Flaming Sword will grant <b>Delfador</b> a new melee attack, "
 "hitting for 7-4 fire damage."
-msgstr ""
+msgstr "炎の剣を取ると、<b>Delfador</b> が 7-4 火炎ダメージの新たな近接攻撃を獲得します。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:763
@@ -4718,6 +4737,8 @@ msgid ""
 "made. Not even among the best smiths of Weldyn have I seen its like. How did"
 " the Lintanir come by it?"
 msgstr ""
+"Kalenz、これは素晴らしい鎧ですね。しかし、これはエルフの作ではないでしょう。Weldyn "
+"の最高の職人でもこれほどのものはきっと作れない。Lintanir はどうやってこれを手にいれたのですか？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:767
@@ -4726,6 +4747,7 @@ msgid ""
 "clove our steel blades as if they were saplings, and its enchanted armor "
 "deflected our strongest magics and hottest fires."
 msgstr ""
+"ずいぶん前のことになるが、我々は強大な力を持ったアンデッドの王に悩まされていたことがあった。その斧は、我々の鋼の刃を若木のように切り裂き、その魔法の鎧は、我々の最強の魔法や灼熱の炎さえものともしなかった。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:771
@@ -4734,18 +4756,20 @@ msgid ""
 " lord of the undead and taking its armor as spoil. If you choose to wear it,"
 " Li’sar, do so humbly — it was paid for in blood."
 msgstr ""
+"長い時間と多大な犠牲を払って我々は勝利を手にした。アンデッドの王は倒れ、戦利品として鎧を手に入れた。Li’sar、それを身に付けるのであれば心しろ ──"
+" それは多くの血を犠牲に手に入れたものだ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:778
 msgid ""
 "Taking the Void Armor will grant <b>Li’sar</b> immunity to slows, poison, "
 "fire damage, cold damage, and arcane damage."
-msgstr ""
+msgstr "虚無の鎧を取ると、<b>Li’sar</b> が遅化、毒、火炎ダメージ、冷気ダメージ、秘術ダメージへの耐性を獲得します。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:793
 msgid "As you wish. The wose lore is yours."
-msgstr ""
+msgstr "では望み通りに。ウーズの知識はお前たちのものだ。"
 
 #. [event]: id=boon_wose_lore
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:799
@@ -4754,21 +4778,22 @@ msgid ""
 "gains the <i>ambush</i> ability, improved forest movement, and 70% forest "
 "defense."
 msgstr ""
+"重厚な本はウーズの知識と伝説で埋め尽くされています。Konrad は<b>伏兵</b>能力、森での回避率 70 %、森の移動コスト低下を獲得しました。"
 
 #. [dummy]: id=wose_lore
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:804
 msgid "wose lore"
-msgstr ""
+msgstr "ウーズの知識"
 
 #. [dummy]: id=wose_lore
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:805
 msgid "This unit has 70% defense, full movement, and invisibility in forest."
-msgstr ""
+msgstr "このユニットは伏兵能力を持ち、森での回避率が 70 %に、森の移動コストが 1 になります。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:839
 msgid "As you wish. The flaming sword is yours."
-msgstr ""
+msgstr "では望み通りに。炎の剣はお前たちのものだ。"
 
 #. [event]: id=boon_flaming_sword # used in smalltalk.cfg, type=fire
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:845
@@ -4777,16 +4802,18 @@ msgid ""
 "forgemasters, who imbued the bluish steel with an inner magical fire. "
 "Delfador gains a new melee attack, dealing 7-4 fire damage."
 msgstr ""
+"この巨大な剣は何世紀も前にその名を忘れ去られた名工達によって創られました。その剣の青みを帯びた鋼の内側には魔法の炎が宿っています。Delfador は "
+"7-4 火炎ダメージの新しい近接攻撃を獲得しました。"
 
 #. [event]: id=boon_flaming_sword # used in smalltalk.cfg, type=fire
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:849
 msgid "flaming sword"
-msgstr ""
+msgstr "炎の剣"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:864
 msgid "As you wish. The void armor is yours."
-msgstr ""
+msgstr "では望み通りに。虚無の鎧はお前たちのものだ。"
 
 #. [event]: id=boon_void_armor
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:870
@@ -4794,19 +4821,19 @@ msgid ""
 "This beautiful chest plate is crafted from shimmering black steel. Li’sar "
 "gains immunity to slows, poison, fire damage, cold damage, and arcane "
 "damage."
-msgstr ""
+msgstr "この美しい胸甲はきらめく黒鋼で作られています。Li’sar は遅化、毒、火炎ダメージ、冷気ダメージ、秘術ダメージへの耐性を獲得しました。"
 
 #. [dummy]: id=void_armor
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:875
 msgid "void armor"
-msgstr ""
+msgstr "虚無の鎧"
 
 #. [dummy]: id=void_armor
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:876
 msgid ""
 "This unit has immunity to slows, poison, fire damage, cold damage, and "
 "arcane damage."
-msgstr ""
+msgstr "このユニットは遅化、毒、火炎ダメージ、冷気ダメージ、秘術ダメージへの耐性を持ちます。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:901
