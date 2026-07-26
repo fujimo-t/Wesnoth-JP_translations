@@ -4838,12 +4838,12 @@ msgstr "このユニットは遅化、毒、火炎ダメージ、冷気ダメー
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:901
 msgid "Fort Garard"
-msgstr ""
+msgstr "Garard 砦"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:916
 msgid "The ruins of Fort Garard. This is where my father died."
-msgstr ""
+msgstr "Garard 砦の廃墟だ。ここが父が命を落とした場所。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:920
@@ -4852,31 +4852,32 @@ msgid ""
 " my haste and my arrogance. Had I been but a breath wiser that night, all "
 "might have been different..."
 msgstr ""
+"そうだ。何があったのかも知っているだろう。私にとって最悪の日、最悪の瞬間。私の逸る心と傲慢さがもたらして大きな罪。あの夜、私がもう少し賢ければ、こんなことにはなっていなかったはずだ…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:932
 msgid "Estmark Hills"
-msgstr ""
+msgstr "Estmark 丘陵"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:935
 msgid "N. Outpost"
-msgstr ""
+msgstr "北基地"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:937
 msgid "S. Outpost"
-msgstr ""
+msgstr "南基地"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:948
 msgid "Parthyn"
-msgstr ""
+msgstr "Parthyn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:949
 msgid "Soradoc"
-msgstr ""
+msgstr "Soradoc"
 
 #. [message]: role=soradoc_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:976
@@ -4884,6 +4885,8 @@ msgid ""
 "Halt! Your Highness Li’sar, by order of Queen Asheviere you are branded a "
 "traitor and an enemy of the state. Prepare to be apprehended."
 msgstr ""
+"止まれ！Li’sar 殿下、あなたは反逆者であり、Wesnoth の敵であると女王 Asheviere "
+"様から通達されております。逮捕させていただきます。"
 
 #. [message]: speaker=Lisar # no variation; use her default portrait (which
 #. now includes the Sceptre)
@@ -4891,7 +4894,7 @@ msgstr ""
 msgid ""
 "A traitor? This is the Sceptre of Fire, symbol of the kings of Wesnoth, and "
 "I return after claiming it at great cost from the caverns of the north."
-msgstr ""
+msgstr "反逆者？Wesnoth の敵？これは炎の笏、Wesnoth の君主たる証。北部の洞窟で多大な犠牲を払って手にいれた品。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:992
@@ -4900,13 +4903,15 @@ msgid ""
 " just general. And now I hold the Sceptre, not my mother. Stand aside or "
 "die, soldier."
 msgstr ""
+"Asheviere "
+"が統治能力に欠けることは知っているでしょう。私がただの将軍の一人であったことも知っているでしょう。そして今、笏は母ではなく私の手にある。兵士よ、死にたくなければ道を開けよ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1002
 msgid ""
 "Leave my cousin out of this. You know who I am. And now you see I hold the "
 "Sceptre."
-msgstr ""
+msgstr "私のいとこを巻き込まないでもらえるか。私が何者であるのかは知っているだろう。そして見よ、私の手にあるこの笏を。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1006
@@ -4915,6 +4920,9 @@ msgid ""
 "land is suffering. I know it, you know it, even Li’sar knows it; Asheviere’s"
 " own daughter driven to revolt."
 msgstr ""
+"お前たちは私の戦いについて Asheviere から嘘を教えられていたのだ ── "
+"しかしここで真実を知った。この大地は苦しんでいる。私も、お前たちもわかっているだろう。そして、Li’sar でさえもそれを知っている。Asheviere"
+" の実の娘ですらもこの状態を放置できなかったのだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1016
@@ -4924,41 +4932,43 @@ msgid ""
 "mine, it shall save you and I both from the terror that is Asheviere. You "
 "will let us pass."
 msgstr ""
+"私は王女と一緒に炎の笏を、王の証を手に入れた。建国の父 Haldric "
+"はこのルビーを携え、リッチの君主から皆を救った。私も、この笏を携え、Asheviere の恐怖から皆を救ってみせる。さあ、道を開けてくれ。"
 
 #. [message]: role=soradoc_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1025
 msgid "(whispering back and forth)"
-msgstr ""
+msgstr "（ささやき合っている）"
 
 #. [message]: role=soradoc_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1031
 msgid "Go. You were never here."
-msgstr ""
+msgstr "どうぞお進みください。あなたがたがここを訪れたりはしていません。"
 
 #. [message]: role=soradoc_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1035
 msgid ""
 "... and if you do win against Asheviere, please remember our actions today."
-msgstr ""
+msgstr "……あなたが Asheviere を打ち破った暁には、今日の我々の行動をお忘れなきよう、願います。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1054
 msgid "The Horse Plains"
-msgstr ""
+msgstr "馬平原"
 
 #. [event]
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1057
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:104
 msgid "Sir Alric"
-msgstr ""
+msgstr "Alric 卿"
 
 #. [event]
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1061
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:105
 msgid "Sir Daryn"
-msgstr ""
+msgstr "Daryn 卿"
 
 #. [event]
 #. [scenario]
@@ -4966,14 +4976,14 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:106
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1650
 msgid "Lord Bayar"
-msgstr ""
+msgstr "Bayar 公"
 
 #. [event]
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1069
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:107
 msgid "Sir Ruga"
-msgstr ""
+msgstr "Ruga 卿"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1089
 msgid "Test of the Clans"
@@ -4983,7 +4993,7 @@ msgstr "クランの試練"
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1106
 msgid ""
 "So! The young prince has found his way to the lands of the Horse Lords."
-msgstr ""
+msgstr "ほう！若き王子が騎兵貴族の地へとたどり着いたか。"
 
 #. [message]: speaker=Daryn
 #. "old stick" refers to the sceptre of fire
@@ -4991,21 +5001,21 @@ msgstr ""
 msgid ""
 "Do not expect us, too, to bend the knee just because the princess holds an "
 "old stick."
-msgstr ""
+msgstr "王女が古い棒を持っているからと言って、我らが簡単に跪くとは期待するな。"
 
 #. [message]: speaker=Daryn
 #. "old stick" refers to the sceptre of fire
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1122
 msgid ""
 "Do not expect us, too, to bend the knee just because you hold an old stick."
-msgstr ""
+msgstr "古い棒を持っているからと言って、我らが簡単に跪くとは期待するな。"
 
 #. [message]: speaker=Ruga
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1127
 msgid ""
 "You are two children and an old man. What right have you to challenge the "
 "throne?"
-msgstr ""
+msgstr "子供が二人と年寄りが一人いるだけ。お前達には王位に異議を唱える権利があるのか？"
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1142
@@ -5013,27 +5023,28 @@ msgid ""
 "We have come to the Horse Plains, Konrad — the lands of my birth and the "
 "home of my kin. Perhaps I can persuade them where you could not."
 msgstr ""
+"Konrad、馬平原まで来ることができました ── ここは私の故郷で、血族の本拠地でもあります。私ならば説得することもできるかもしれません。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1154
 msgid ""
 "The Horse Clans are powerful and proud. If we cannot prove ourselves to them"
 " now, we shall surely have to battle them later, when we attack Weldyn."
-msgstr ""
+msgstr "騎兵クランの力は強大で、誇り高い人々だ。ここで力を示さなければ、Weldyn を攻撃する時に戦うことになるだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1176
 msgid ""
 "Do not forget your pledge, lords of the clans. When Asheviere calls you for "
 "aid, let her pleas fall upon deaf ears."
-msgstr ""
+msgstr "クランの貴族たちよ、決して誓いを忘れるな。Asheviere が助けを求めてきても、その嘆願には耳を貸してはならない。"
 
 #. [message]: id=Alric,Daryn,Bayar,Ruga
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1182
 msgid ""
 "You have proven yourselves worthy, Your Royal Highnesses, worthy even to "
 "claim the throne. I bow my head."
-msgstr ""
+msgstr "両殿下、あなたがたは確かに力を示しました。王位を継ぐに相応しい力です。謹んで頭を垂れましょう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1249
@@ -5042,6 +5053,8 @@ msgid ""
 "conquest of my mother’s early days. Its conscripts have made up the bulk of "
 "her footmen ever since."
 msgstr ""
+"止まれ！私達は Dan’Tonk "
+"を囲む城壁に近づいている。この都市の確保は、母の権力初期における最大の成果だった。以来、母の軍の歩兵のほとんどはここから集められているわ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1254
@@ -5050,6 +5063,8 @@ msgid ""
 "tried again to seize their eggs, but thanks to our help the gryphons have "
 "become strong enough to fight back!"
 msgstr ""
+"あれは… グリフォンが城壁越しに強襲している？Asheviere "
+"はまた卵を奪おうとしたに違いない。しかし、あの時私達がグリフォンを助けたことで、反撃ができるほど力をつけたのだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1259
@@ -5058,6 +5073,7 @@ msgid ""
 " the end we chose to stand and fight — and it cost him his life. So many "
 "regrets..."
 msgstr ""
+"暗澹たる日であった… 忘れようもない。男爵には離脱を勧めたが、我々は最終的には留まって戦うことを選択した ── そして男爵は命を落とした。後悔ばかりだ…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1268
@@ -5066,20 +5082,22 @@ msgid ""
 "Dan’Tonk’s footmen to flank us. If we strike now, we can do enough damage to"
 " prevent them from marching against us later."
 msgstr ""
+"いずれ Weldyn を包囲攻撃する時、Asheviere は Dan’Tonk "
+"の歩兵に我々の側面から攻撃するよう命令するだろう。しかし、もしここで攻撃を行い、大きな損害を与えることができれば、最後の戦いで正面の敵に集中しやすくなるはずだ。"
 
 #. [message]: role=dantonk_contain_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1310
 msgid ""
 "We’re all set up, my lady, and we’ve blocked the roads with rubble. They "
 "won’t get through easily."
-msgstr ""
+msgstr "王女殿下、準備は万端です。さらに瓦礫で道路を封鎖しました。敵はそう簡単には通り抜けられません。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1314
 msgid ""
 "Well done, everyone — our flank is secure. Asheviere’s position in Weldyn "
 "grows weaker each day."
-msgstr ""
+msgstr "皆、良くやった ── これでこの方面は安全だ。Asheviere の Weldyn における地盤は日を追う毎に弱まっているぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1320
@@ -5089,11 +5107,14 @@ msgid ""
 "blocked the road and have left behind enough guards to make any sortie "
 "difficult."
 msgstr ""
+"Dan’Tonk "
+"は未だ敵の支配下ではあるが、その戦力は大きく削られた。我々にはこれ以上包囲を続ける時間も物資も無いが、かわりに道を封鎖して充分な衛兵を配備した。Dan’Tonk"
+" の軍事行動は極めて困難にはなっただろう。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1361
 msgid "Stockpiles"
-msgstr ""
+msgstr "貯蔵庫"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1387
@@ -5102,13 +5123,15 @@ msgid ""
 "farms suffer under Mother’s exorbitant taxes, those surrounding Weldyn — the"
 " core of her power base — have grown rich and fat."
 msgstr ""
+"Konrad、私達は Wesnoth の中枢奥深くまで入り込んでいるわ。西部の農場は母の課した法外な税に苦しんでいるけど、Weldyn の周囲 ── "
+"母の力の源泉であるこの地は、豊かで繁栄している。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1391
 msgid ""
 "It’s an unsavory proposal, but I believe our best strategy is to burn the "
 "locals’ farms to deprive my mother of their resources."
-msgstr ""
+msgstr "不名誉な提案をするわ。ここの農地を焼き払って母の持つ資源を奪うの。戦略的には極めて効果的な手段でしょう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1393
@@ -5117,6 +5140,8 @@ msgid ""
 "wealthy farmer can survive losing a few herds or a single year’s harvest. We"
 " won’t, if Asheviere defeats us in the end."
 msgstr ""
+"だからと言って兵を強制的に集めたり、人々を殺そうと提案しているわけじゃない ── "
+"彼らに罪があるわけではないから。裕福な農場主であれば、家畜をいくらか失ったり、一年分の収穫が失われてもやっていけるでしょう。でも、私達は母に破れてしまえばそれでおしまいよ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1404
@@ -5125,21 +5150,23 @@ msgid ""
 "strategy, but I am not enthused about the prospect. Of course, Weldyn will "
 "surely pose a frighteningly difficult challenge if we do not..."
 msgstr ""
+"たしかに不名誉な提案だ。軍事的には、この地域の畑を徹底的に破壊することは戦略的に正しい。しかし、気が乗らないことも事実だ。一方で、これをやらずに "
+"Weldyn に立ち向かうのは極めて困難であることも間違いない。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1406
 msgid "Burn the farms (default difficulty)"
-msgstr ""
+msgstr "農地を焼く（デフォルトの難易度）"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1424
 msgid "Don’t (extra difficulty)"
-msgstr ""
+msgstr "やらない（難易度上昇）"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1437
 msgid "★Weldyn"
-msgstr ""
+msgstr "★Weldyn"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1445
 msgid "The Battle for Wesnoth"
@@ -5148,7 +5175,7 @@ msgstr "The Battle for Wesnoth"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1489
 msgid "No turning back now."
-msgstr ""
+msgstr "もう退路は無い。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1517
@@ -5157,18 +5184,19 @@ msgid ""
 "we choose, but it may be wiser to first fight elsewhere and cut off her "
 "allies."
 msgstr ""
+"Wesnoth の首都が眼前にある。今すぐ Asheviere に挑むこともできるが、まずは他の場所にいる敵の友軍を倒して回った方が賢明だろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1521
 msgid ""
 "I suspect that no matter what we do, we will be forced into a final "
 "confrontation eventually."
-msgstr ""
+msgstr "どの道、我々はいずれここで最後の戦いに挑むことになるのだから。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:4
 msgid "scenario name^The Great Continent"
-msgstr ""
+msgstr "大陸"
 
 #. [event]
 #. [message]: role=lisar_skiff
@@ -5182,76 +5210,76 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:126
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:547
 msgid "Li’sar"
-msgstr ""
+msgstr "Li’sar"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:464
 msgid "Explore Wesnoth"
-msgstr ""
+msgstr "Wesnoth を探検する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:488
 msgid ""
 "Build up your army ($( $bm_milestone_scepter - $bm_turns ) battles "
 "remaining)"
-msgstr ""
+msgstr "自軍を強化する（残り戦闘数 ：$( $bm_milestone_scepter - $bm_turns ) ）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:496
 msgid "Build up your army (1 battle remaining)"
-msgstr ""
+msgstr "自軍を強化する（残り戦闘数：1 ）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:509
 msgid "Reunite with Delfador"
-msgstr ""
+msgstr "Delfador と合流する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:518
 msgid "Find Delfador"
-msgstr ""
+msgstr "Delfador を見つける"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:527
 msgid "Claim the Sceptre of Fire"
-msgstr ""
+msgstr "炎の笏を手に入れる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:535
 msgid "Choose a path and escape the rising lava"
-msgstr ""
+msgstr "道を選んで噴き上がる溶岩から逃げる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:548
 msgid ""
 "Prepare to fight Asheviere ($( $bm_milestone_finale - $bm_turns ) battles "
 "remaining)"
-msgstr ""
+msgstr "Asheviere との決戦に備える（残り戦闘数：$( $bm_milestone_finale - $bm_turns ) ）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:557
 msgid "Prepare to fight Asheviere (1 battle remaining)"
-msgstr ""
+msgstr "Asheviere との決戦に備える（残り戦闘数：1 ）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:564
 msgid "Defeat the Dark Queen and reclaim your throne."
-msgstr ""
+msgstr "闇の女王を倒し、王位を取り戻す"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:581
 msgid "Explore Wesnoth and build up your army"
-msgstr ""
+msgstr "Wesnoth を探検し自軍を強化する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:585
 msgid "When you’re ready, find Delfador and claim the Sceptre of Fire"
-msgstr ""
+msgstr "準備ができたら、Delfador を見つけて炎の笏を手に入れる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:597
 msgid "When you’re ready, defeat the Dark Queen and reclaim your throne"
-msgstr ""
+msgstr "準備ができたら、闇の女王を倒し王位を取り戻す"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:621
@@ -5260,13 +5288,14 @@ msgid ""
 "battles will have longer nights and shorter days, often with more snow and "
 "ice. Summer battles are the opposite."
 msgstr ""
+"ヒント：戦闘が終わるたびに季節が変わります。冬の戦闘は日が短く、夜が長くなり、さらに雪や氷の地形が増えたりもします。夏の戦闘の場合はこの逆になります。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:623
 msgid ""
 "Right now it’s winter. You can see the current season in the top-right-hand "
 "corner."
-msgstr ""
+msgstr "今は冬です。現在の季節は画面右上の角に表示されています。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:636
@@ -5275,20 +5304,22 @@ msgid ""
 "final battle. If you want to (non-canonically) remove that limit, there’s a "
 "secret in the Great Ocean that can help."
 msgstr ""
+"ヒント：最終決戦までに Konrad "
+"達が戦闘を行えるシナリオ数は限られています。もしこの制限を（非正規に）外したい場合は、大洋にある秘密を探すと良いでしょう。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:649
 msgid ""
 "Tip: Konrad will start most battle scenarios with 75 gold, plus any "
 "carryover from your last battle."
-msgstr ""
+msgstr "ヒント：大抵のシナリオでは、Konrad の所持金は 75 ゴールドに前の戦闘からの引き継ぎ分を加えた額になります。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:662
 msgid ""
 "Tip: This campaign’s difficulty setting affects both the strength of your "
 "enemies and the number of scenarios you can play before the final battle."
-msgstr ""
+msgstr "ヒント：このキャンペーンの難易度は、敵の強さに加えて、最終決戦までにプレイできるシナリオ数にも影響します。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:664
@@ -5296,6 +5327,7 @@ msgid ""
 "However, if you adjust the difficulty mid-campaign, the number of scenarios "
 "won’t change (or else you might end up stuck in an unplayable area)."
 msgstr ""
+"しかし、キャンペーンのプレイ中に難易度を変えた場合、プレイ可能なシナリオ数は変わりません（そうしておかないとプレイ不能になる可能性があるためです）。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:677
@@ -5303,6 +5335,8 @@ msgid ""
 "Tip: This campaign has many secrets and special interactions. Some are "
 "hinted at in the achievements list (viewable on the Wesnoth main menu)."
 msgstr ""
+"ヒント：このキャンペーンには多くの秘密や特別な交流イベントがあります。その内いくつかについては実績リストにヒントがあります。（Wesnoth "
+"のメインメニューなどで確認できます。）"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:690
@@ -5312,6 +5346,8 @@ msgid ""
 " eggs to major power-ups. Companion dialogue and backstories may hint as to "
 "where these events can be found."
 msgstr ""
+"ヒント：Konrad の同行者（Moremirmu、Haldiel "
+"など）には大抵の場合、特別なイベントが大陸マップや特定のシナリオに用意されています。その内容は隠しメッセージから戦力強化まで様々です。仲間達との会話や背景のストーリーから、イベントがどこで起きるか推測することもできるかもしれません。"
 
 #. [then]
 #. [event]
@@ -5321,7 +5357,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1300
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:219
 msgid "Familiar"
-msgstr ""
+msgstr "使い魔"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:734
@@ -5329,7 +5365,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1306
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:226
 msgid "Kraa! Kraa! Kraa!"
-msgstr ""
+msgstr "クラァァ！クラァァ！クラァァ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:738
@@ -5338,6 +5374,8 @@ msgid ""
 "Elensefar! Asheviere has broken the century-old treaty between Wesnoth and "
 "the Elense city-state."
 msgstr ""
+"何だ？ブラックウィングから不穏な知らせ ── Elensefar が王軍に包囲されただと！Asheviere は Wesnoth と Elensefar"
+" とその周辺都市群が結んだ、一世紀の歴史を持つ条約を反故にしたのか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:742
@@ -5347,11 +5385,13 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere."
 msgstr ""
+"Maddock 公は確実に信頼できる味方とは言えないが、公とその資金は、西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar"
+" が落ちれば、Asheviere に立ち向かう上で重要な味方を失うことになる。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:746
 msgid "Then we must go to his aid at once!"
-msgstr ""
+msgstr "ならばすぐに救援に向かいましょう！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:750
@@ -5360,43 +5400,45 @@ msgid ""
 "aid Elensefar, but to do so would mean leaving you to face the Continent "
 "alone..."
 msgstr ""
+"若き王子よ、それはダメだ。このような危険な戦闘はお主にはまだ早い。私が Elensefar "
+"の救援に赴くことはできるが、そうするとお主は一人で大陸を旅することになってしまう…"
 
 #. [message]: speaker=Delfador
 #. Konrad has something to day, and Delfador is promting him.
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:758
 msgid "What is it, Konrad?"
-msgstr ""
+msgstr "それは何だ、Konrad？"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:771
 msgid "Ask Delfador to stay with Konrad for one more battle"
-msgstr ""
+msgstr "あと一戦だけ Konrad の元に留まるよう Delfador にお願いする"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:775
 msgid ""
 "Yes, you’re quite right. We shall fight one more battle together, and secure"
 " allies for you before I depart."
-msgstr ""
+msgstr "うむ、それがいいだろうな。もう一戦だけ一緒に戦い、私が離れる前に友軍を確保しよう。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:787
 msgid "Ask Delfador to leave (gain Delfador’s raven as a loyal companion)"
-msgstr ""
+msgstr "Delfador がすぐに行くよう促す（Delfador のカラスが忠実な仲間として加入）"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:791
 msgid ""
 "Very well. You will have to do without my elementals, but I can at least "
 "leave with you my familiar — the venerable Blackwing. Care for him well."
-msgstr ""
+msgstr "立派な考えだ。私の精霊なしで戦うことになるが、せめてこの齢を重ねた使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:803
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:920
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:955
 msgid "Cooo..."
-msgstr ""
+msgstr "クゥゥ……"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:831
