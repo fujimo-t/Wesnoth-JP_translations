@@ -5431,7 +5431,8 @@ msgstr "Delfador がすぐに行くよう促す（Delfador のカラスが忠実
 msgid ""
 "Very well. You will have to do without my elementals, but I can at least "
 "leave with you my familiar — the venerable Blackwing. Care for him well."
-msgstr "立派な考えだ。私の精霊なしで戦うことになるが、せめてこの齢を重ねた使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
+msgstr ""
+"立派な考えだ。精霊は私がおらねば扱うことはできないが、せめてこの齢を重ねた使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:803
@@ -5446,18 +5447,19 @@ msgid ""
 "Well done, Konrad! I couldn’t be more proud of your wisdom in battle; you’re"
 " truly well on your way to becoming the prince you were always meant to be."
 msgstr ""
+"良くやったぞ、Konrad！戦場におけるお主の知恵は見事なものであった、私も誇りに思うぞ。王子としてあるべき姿、そこに向けて極めて順調に歩みを進めているな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:842
 msgid ""
 "I had a good teacher! And now that we’ve helped the people here, all kinds "
 "of new places are suddenly open to us. Where shall we go to next?"
-msgstr ""
+msgstr "師匠が良いですからね！それで、ここで人々を助けましたが、次に行ける場所の選択肢が急に広がってしまいました。次はどこに向かうべきでしょう？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:856
 msgid "What’s going on, Delfador? Is something the matter?"
-msgstr ""
+msgstr "Delfador、どうしたのですか？何かあったのですか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:860
@@ -5466,6 +5468,8 @@ msgid ""
 " have been confirmed — Asheviere lays siege to Elensefar, breaking the "
 "century-old treaty between Wesnoth and the Elense city-state."
 msgstr ""
+"どうやらそのようだ。ブラックウィングが不吉な知らせを運んできた。懸念していたことがまさに現実となった ── Asheviere は Elensefar "
+"を包囲させた。Wesnoth と Elensefar とその周辺都市群が結んだ、一世紀の歴史を持つ条約を反故にしたのか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:864
@@ -5475,13 +5479,15 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere. I must depart at once to aid in the defense!"
 msgstr ""
+"Maddock 公は確実に信頼できる味方とは言えないが、公とその資金は西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar "
+"が落ちれば Asheviere との戦争で重要な味方を失うことになる。私は今すぐここを離れて防衛に協力しなければ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:868
 msgid ""
 "Then I am to journey on alone? I fear my quest will be difficult without "
 "your guidance and magic... but what must be must be."
-msgstr ""
+msgstr "ならば私は一人で旅するということですか？師匠の案内と魔術がなくては私の冒険は困難を極めるのでは…… しかし、そうする他ないのですね。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:879
@@ -5490,6 +5496,8 @@ msgid ""
 "the Aethenwood — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"一人ではないぞ、Konrad。お主はすでに新たな仲間を見つけているだろう ── Aethen "
+"の森の立派なエルフ達だ。それに、この大陸には他にも仲間になってくれる者たちがいるはずだ。間違いないぞ。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:887
@@ -5498,6 +5506,8 @@ msgid ""
 "Blackwater Port — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"一人ではないぞ、Konrad。お主はすでに新たな仲間を見つけているだろう ── "
+"黒水港の王立騎士団の面々だ。それに、この大陸には他にも仲間になってくれる者たちがいるはずだ。間違いないぞ。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:896
@@ -5506,6 +5516,8 @@ msgid ""
 "Pearls merfolk — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"一人ではないぞ、Konrad。お主はすでに新たな仲間を見つけているだろう ── "
+"真珠の入り江の高潔なマーフォーク達だ。それに、この大陸には他にも仲間になってくれる者たちがいるはずだ。間違いないぞ。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:903
@@ -5513,6 +5525,7 @@ msgid ""
 "Not alone, Konrad. Already you have gained new allies, and you will "
 "doubtless find many more among the other denizens of the Great Continent."
 msgstr ""
+"一人ではないぞ、Konrad。お主はすでに新たな仲間達を見つけているではないか。それに、この大陸には他にも仲間になってくれる者たちがいるはずだ。間違いないぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:911
@@ -5521,34 +5534,35 @@ msgid ""
 "for you to recruit — perhaps elves, horsemen, or merfolk — but it was not to"
 " be."
 msgstr ""
+"残念ながら、そうなる。どこかで友軍を得られていればよかったのだが ── エルフ、騎兵、あるいはマーフォーク。しかし、いないものはしょうがない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:915
 msgid ""
 "You will have to do without my elementals, but I can at least leave with you"
 " my familiar — the venerable Blackwing. Care for him well."
-msgstr ""
+msgstr "精霊は私がおらねば扱うことはできないが、せめてこの齢を重ねた使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:936
 msgid ""
 "I had a good teacher! And now that I’ve gained new allies, you are free to "
 "travel to Elensefar and aid in its defense."
-msgstr ""
+msgstr "師匠が良いですからね！さて、新たな仲間も加わりました。師匠は Elensefar の防衛に向かってもらって大丈夫です。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:940
 msgid ""
 "As we agreed. I am loathe to leave you without my magic, but right now Lord "
 "Maddock needs it more."
-msgstr ""
+msgstr "そうだな。今お主の元を離れるのは心配ではあるが、Maddock 公を見捨てることはできない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:946
 msgid ""
 "I had a good teacher! But although we’ve fought a battle, I still have no "
 "allies for me to recruit. Must you still leave?"
-msgstr ""
+msgstr "師匠が良いですからね！しかし、一戦を終えましたが、雇用できる味方がまだいません。それでも師匠は行ってしまうのですか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:950
@@ -5557,13 +5571,14 @@ msgid ""
 "least leave with you my familiar — the venerable Blackwing. Care for him "
 "well."
 msgstr ""
+"残念ながら、そうなる。精霊は私がおらねば扱うことはできないが、せめてこの齢を重ねた使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:973
 msgid ""
 "Without any soldiers to recruit, I must advise selecting an easy battle for "
 "your next fight. Perhaps one of the islands will be appropriate."
-msgstr ""
+msgstr "雇用できる戦士がおらぬ今、次は難しい戦闘を選ばない方が良いであろう。島々の一つを選ぶのが良いのではないだろうか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:979
@@ -5572,6 +5587,8 @@ msgid ""
 "utmost to prepare you for the difficult quest that lies ahead. You have "
 "trusted me, and for that I am grateful."
 msgstr ""
+"そして、私が助言するとしたら、そうだな…… "
+"私はできる限りの力を尽くしてお主を育てた。待ち受ける困難な旅路に負けぬように。お主はそんな私を信頼してくれた。私はそのことを心から嬉しいと思う。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:983
@@ -5580,11 +5597,13 @@ msgid ""
 "succeed where I failed; my trust that you shall yet restore the throne of "
 "Wesnoth! I know that you will make me proud."
 msgstr ""
+"そしてついに、私がお主を信頼するべき時が来たのだろう。私にできなかったことをお主がやりとげてくれると。さあ、Wesnoth "
+"の王位を取り戻すのだ！今のお主なら、きっとやれるぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:987
 msgid "Farewell, my young friend. Until we meet again."
-msgstr ""
+msgstr "さらばだ、若き友よ。また会う日まで。"
 
 #. [event]
 #. [message]: speaker=Kalenz
@@ -5597,24 +5616,24 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:248
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:467
 msgid "Delfador"
-msgstr ""
+msgstr "Delfador"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1023
 msgid "It’s up to me then. I won’t let Wesnoth down."
-msgstr ""
+msgstr "後は私次第か。Wesnoth をこのままにはしておけない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1066
 msgid "Well?"
-msgstr ""
+msgstr "うん？"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1070
 msgid ""
 "Battle plan approved, Your Highness. And your mother adds — remember what "
 "happened to Eldred."
-msgstr ""
+msgstr "殿下、作戦が承認されました。加えて、母君よりお言葉を ── Eldred がどうなったのかを忘れるな、と。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1074
@@ -5622,6 +5641,8 @@ msgid ""
 "I know the risks, but Elensefar has dragged on for far too long already. "
 "Wizard or no, we have to finish things before we overextend."
 msgstr ""
+"危険は承知よ。しかし、Elensefar "
+"にはすでにかなり粘られてしまっている。たとえあの魔術師が居ようが居まいが、私達が手一杯になる前に終わらせるしかない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1104
