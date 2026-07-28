@@ -4569,7 +4569,7 @@ msgstr "ふん… そうかもしれないな。しかし、もう少しだけ�
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:630
 msgid "*Ahem*"
-msgstr "ゴホン"
+msgstr "ふむ。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:638
@@ -5647,7 +5647,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1104
 msgid "Well done, Konrad. We must now consider how to proceed."
-msgstr ""
+msgstr "良くやったぞ、Konrad。さて、ここからどう進めていくのか、良く考えねばならん。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1108
@@ -5657,34 +5657,36 @@ msgid ""
 "strength to challenge her in her domain. Even if we did, such a war would "
 "kill untold numbers."
 msgstr ""
+"Elensefar での勝利は Asheviere にとって大きな痛手であろう。しかし、Wesnoth "
+"中心部の中核都市は依然女王の手の内にある。そこに飛び込んでどうにかできるほどの力はまだ我々には無い。それに、勝ち負け以前の問題として、そんな戦争をしてしまえば、数え切れないほどの死者が出てしまうだろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1112
 msgid "This is a crucial moment. We must be sure to act rightly..."
-msgstr ""
+msgstr "ここは肝心な所だ。適切な行動を取らねばならない…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1126
 msgid "Look there! A boat approaches!"
-msgstr ""
+msgstr "あそこを見てください！ボートが近づいてきます！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1138
 msgid "Look there! Someone comes!"
-msgstr ""
+msgstr "あそこを見てください！誰か来ます！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1153
 msgid ""
 "Not just someone! Konrad, this is Kalenz, High Lord of all elves and a close"
 " ally and friend."
-msgstr ""
+msgstr "誰かと思えば！Konrad、これが Kalenz だ。全エルフの上に立つ者で、我々の仲間だ、そして親しい友人でもある。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1157
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1228
 msgid "Kalenz! Delfador has told me so much about you!"
-msgstr ""
+msgstr "Kalenz！Delfador からあなたの話をたくさん聞きました！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1161
@@ -5692,6 +5694,8 @@ msgid ""
 "Thank you for offering us asylum — even the elves of the Aethenwood "
 "recognize your authority. It’s a high honor to finally meet you in person."
 msgstr ""
+"私達の亡命を助けていただき感謝しております ── Aethen "
+"の森のエルフ達でさえ、あなたの判断を認めておりました。こうして直接お会いできて大変光栄です。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1165
@@ -5700,6 +5704,9 @@ msgid ""
 "young, shortly after the deaths... of your brothers. From what I hear of "
 "your actions, Delfador would be proud of the king you are becoming."
 msgstr ""
+"それはこちらも同じだ、友よ。お前の… "
+"兄弟達が亡くなったすぐ後、今よりもずっと小さかった時に会って以来になるからな。これまでの行動を聞いた限りでは、王となるべく歩みを進めるお前の姿を "
+"Delfador も誇らしく思っているだろう。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1169
@@ -5708,37 +5715,39 @@ msgid ""
 "Forest. Your mentor called upon the advice of the elvish sages some weeks "
 "ago, Konrad."
 msgstr ""
+"しかし、今日は思い出話のために訪れたわけではない。Lintanir "
+"の森からの伝言がある。Konrad、数週間前、お前の師匠はエルフの賢者たちに助言を求めたのだ。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1173
 msgid ""
 "Delfador, the strands of prophecy are moving — you know she of whom I speak."
 " May we take a moment in private?"
-msgstr ""
+msgstr "Delfador よ、予言の糸が動き始めている ── 彼女のことだ、わかっているだろう？少しだけ二人で話せないか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1188
 msgid "Then it shall be done. I depart for the Heart Mountains at once."
-msgstr ""
+msgstr "ならばそうしよう。私はすぐに中心山脈へ向かう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1192
 msgid ""
 "You’re leaving just like that? We’ve hardly had a moment of peace together "
 "since the Aethenwood!"
-msgstr ""
+msgstr "そんな急に行ってしまうのですか？Aethen の森を出て以来、久方ぶりにゆっくり話すことができるようになったのに！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1196
 msgid ""
 "I am afraid so, Konrad. An urgent matter has come up that demands my "
 "attention. It is something you need not concern yourself with just yet."
-msgstr ""
+msgstr "Konrad、すまんがそのようだ。私が自ら対応しなければならない緊急の用事が発生したのだ。お前がまだ気にしなくてもいい事柄だ。"
 
 #. [message]: speaker=Konrad KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1210
 msgid "Gone! And with hardly a word. What’s this quest about, Kalenz?"
-msgstr ""
+msgstr "行ってしまった！まだロクに話してもいないのに。一体どんな用事なのですか、Kalenz？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1220
@@ -5746,13 +5755,15 @@ msgid ""
 "Who are you, stranger? Your ears are forked, but I don’t recognize you from "
 "the Aethenwood — even your clothes look foreign. Friend or foe?"
 msgstr ""
+"見知らぬ方、あなたは誰ですか？尖った耳ですが、Aethen の森であなたを見たことはありません ── "
+"衣類も見慣れない様式に見えます。味方ですか？それとも…？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1224
 msgid ""
 "Friend, Konrad. I am Kalenz, eldest in the Lintanir and High Lord of all "
 "elves. Greetings."
-msgstr ""
+msgstr "味方だ、Konrad。私は Kalenz、Lintanir の長老で、全エルフの上に立つ者だ。こんにちは。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1232
@@ -5761,6 +5772,8 @@ msgid ""
 "recognize your authority. I am sorry for the price they paid. It’s a high "
 "honor to finally meet you in person."
 msgstr ""
+"私達の亡命を助けていただき感謝しております ── Aethen "
+"の森のエルフ達でさえ、あなたの判断を認めておりました。彼らに多大な犠牲をもたらしてしまい申し訳ありません。しかし、こうして直接お会いできて大変光栄です。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1236
@@ -5769,6 +5782,8 @@ msgid ""
 "young, shortly after the deaths of your brothers. From what I hear of your "
 "actions, you should be proud of the king you are becoming."
 msgstr ""
+"それはこちらも同じだ、友よ。お前の… "
+"兄弟達が亡くなったすぐ後、今よりもずっと小さかった時に会って以来になるからな。これまでの行動を聞いた限りでは、王となるべく、正しく歩みを進めているようだな。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1240
@@ -5777,20 +5792,22 @@ msgid ""
 "of Elensefar — that which was defended so staunchly by your mentor Delfador "
 "and Lord Maddock — has been conquered."
 msgstr ""
+"しかし、今日は思い出話のために訪れたわけではない。Elensefar が陥落した ── お前の師匠の Delfador と Maddock "
+"公が頑強に抵抗していたあの都市だ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1244
 msgid ""
 "No! Has Delfador been taken prisoner? Is he hurt? We must march at once to "
 "his aid!"
-msgstr ""
+msgstr "そんな！Delfador は捕まったのですか？怪我をしているのですか？一刻も早く助け出さねば！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1248
 msgid ""
 "Your mentor is alive and well, Konrad. He could not rejoin you here today, "
 "but he left you a brief message. Ahem..."
-msgstr ""
+msgstr "お前の師匠は健在だ、Konrad。今日はここには合流できないが、メッセージを預かっている。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1254
@@ -5799,13 +5816,14 @@ msgid ""
 "up that demands my attention. It is something you need not concern yourself "
 "with just yet."
 msgstr ""
+"Konrad、私はすぐに中心山脈へ向かわねばならない。私が自ら対応しなければならない緊急の用事が発生したのだ。お前がまだ気にしなくてもいい事柄だ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1259
 msgid ""
 "That’s it? We’ve hardly had a moment of peace together since the Aethenwood,"
 " and this is all he has to say. Kalenz, what is this quest about?"
-msgstr ""
+msgstr "それだけですか？Aethen の森を出て以来、ロクに話もできていないのに、それだけなんて。Kalenz、一体どんな用事なのですか？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1266
@@ -5814,6 +5832,7 @@ msgid ""
 "matter. But in his absence, I shall be glad to accompany you on your "
 "travels."
 msgstr ""
+"Delfador はお前の守護者だ。この件に関しては沈黙を望むというその意向に従う。しかし、Delfador の代わりに私が喜んでお前の旅に同行しよう。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1270
@@ -5822,6 +5841,8 @@ msgid ""
 "brightening hearts, kindling hope, and freeing still more of your kind from "
 "their oppressive queen."
 msgstr ""
+"お前たちが始めた仕事に私も協力しよう。この仕事を止めるわけにはいかない ── "
+"人々の心を癒し、希望の光を灯し、女王の圧政からもっと多くの人々を解放するのだ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1293
