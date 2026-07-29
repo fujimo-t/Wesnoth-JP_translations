@@ -5848,37 +5848,37 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1293
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:205
 msgid "Messenger"
-msgstr ""
+msgstr "伝令"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1297
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:211
 msgid "Fsss... crackle crackle hiss!"
-msgstr ""
+msgstr "フーッ… パチパチ シュー！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1321
 msgid "A message from Delfador. He has found the Sceptre of Fire!"
-msgstr ""
+msgstr "Delfador からのメッセージだ。Delfador が炎の笏を見つけたぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1327
 msgid ""
 "We must go at once! Once we hold the sceptre of my fathers; the symbol of "
 "the kings of Wesnoth, surely Asheviere can no longer hope to oppose us."
-msgstr ""
+msgstr "すぐに行かねば！父祖の笏を手にできれば、Asheviere も我々に立ち向かうことはできない。笏は Wesnoth の王の証なのだから。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1331
 msgid "Indeed. Let us make haste, before some misfortune befalls it..."
-msgstr ""
+msgstr "その通りだ。急ごう、邪魔の入る前に……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1336
 msgid ""
 "The Sceptre of Fire? I thought that was just a myth! This is the quest he’s "
 "been off doing so secretly?"
-msgstr ""
+msgstr "炎の笏？おとぎ話だと思っていた！師匠がひっそりやろうとしていたことはこれだったのか？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1340
@@ -5886,18 +5886,20 @@ msgid ""
 "Indeed. Delfador will explain more once we three reunite. He is deep in the "
 "Heart Mountains to the northeast — you must go to him at once, Konrad."
 msgstr ""
+"まさに。我ら三人が揃えば Delfador が詳しいことを話してくれるだろう。Delfador は北東にある中心山脈の奥深くにいるらしい ── "
+"Konrad、急いで向かわねば。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1351
 msgid "A message from Delfador! He has found the Sceptre of Fire!"
-msgstr ""
+msgstr "Delfador からの伝言だ！師匠は炎の笏を見つけたんだ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1355
 msgid ""
 "We must go at once! Once we hold the sceptre of my fathers; the symbol of "
 "the king of Wesnoth, surely Asheviere can no longer hope to oppose us."
-msgstr ""
+msgstr "すぐに行かないと！父祖の笏を手にできれば、Asheviere も我々に立ち向かうことはできない。笏は Wesnoth の王の証なのだから。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1360
@@ -5905,25 +5907,26 @@ msgid ""
 "A message from Delfador! He has found... the Sceptre of Fire?! I thought the"
 " Sceptre was just a myth! This is the quest he’s been off doing so secretly?"
 msgstr ""
+"Delfador からの伝言だ！ええと…… 炎の笏を見つけただって？！それはおとぎ話だと思っていた！師匠がひっそりやろうとしていたことはこれだったのか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1364
 msgid ""
 "I suppose Delfador will explain more once we reunite. The message says he is"
 " deep in the Heart Mountains to the northeast — I must go to him at once."
-msgstr ""
+msgstr "合流できれば師匠がもっと詳しい話を聞かせてくれるだろう。今、北東にある中心山脈の奥深くにいるらしい ── すぐに向かわないと。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1385
 msgid "You already been paid for by da wizzard. Go on thru, softskin."
-msgstr ""
+msgstr "お前の通行料魔術師払った、通れ柔皮。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1410
 msgid ""
 "Any other time I would have insisted on stopping to help these poor people! "
 "But I’ve been instructed to meet with Delfador at once."
-msgstr ""
+msgstr "通常ならこのかわいそうな人々を助けるために立ち止まろうと言っただろうに！しかし今は一刻も早く Delfador の元に向かわねばならない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1414
@@ -5932,6 +5935,8 @@ msgid ""
 "closed to us. But I can still loop around to the west, north, then east, "
 "through the Caverns of Chaincolt."
 msgstr ""
+"Delfador はここのすぐ北にいる。しかし、多くのオークがいる戸口を我々が通ることはできない。一旦西に向かい、北、そして Chaincolt "
+"洞窟群のあたりを抜けて東へ向かえば迂回できるはずだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1432
@@ -5939,31 +5944,32 @@ msgid ""
 "There is no time to stop and fight — I must meet with Delfador and claim the"
 " Sceptre. He is deep within the Heart Mountains, somewhere to the northeast."
 msgstr ""
+"ここで立ち止まって戦う時間は無い ── 早く Delfador と合流し、炎の笏を手に入れなければ。師匠は北東にある中心山脈のどこか奥深くにいる。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1474
 msgid ""
 "Crossin’ through Stoneskin ford? Dat’ll be $ford_cost gold for passage, "
 "whelp."
-msgstr ""
+msgstr "石皮の浅瀬を渡るか？なら通行料 $ford_cost_gold ゴールド払え、若造。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1478
 msgid ""
 "Clan Stoneskin is an ally of the crown. Let me by or face the consequences."
-msgstr ""
+msgstr "石皮氏族は王家の仲間だ。通せ、さもなくば覚悟しろ。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1482
 msgid ""
 "Das right, miss princess. An bein’ our allies, I’m sure you wooden mind "
 "donatin’ dem $ford_cost gold pieces."
-msgstr ""
+msgstr "そうだ仲間だ、姫。仲間だから $ford_cost ゴールドくらい払え。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1515
 msgid "Good news or bad news, Mirya. Are we too late?"
-msgstr ""
+msgstr "Mirya、良い知らせか、悪い知らせか。もう手遅れか？"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1519
@@ -5972,11 +5978,12 @@ msgid ""
 "Highness. But your “cousin” has only just arrived. They can’t yet have "
 "reached it."
 msgstr ""
+"彼らは笏の確実な手がかりを得た模様 ── 間違いありません、殿下。しかし、あなたの「いいとこ」はまだ到着したばかり。まだ見つけてはいないはず。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1523
 msgid "Then there’s still a chance. Double-quick, men!"
-msgstr ""
+msgstr "ならばまだチャンスはある。兵達よ、さらに急ぐぞ！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1549
