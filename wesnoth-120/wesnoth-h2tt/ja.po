@@ -2879,7 +2879,7 @@ msgstr "Wesmere の番人よ、それは私であってもか？"
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:512
 msgid "High Lord Kalenz! Speaking to me!?"
-msgstr "Kalenz 様！私にお声がけくださるとは！？"
+msgstr "Kalenz 公！私にお声がけくださるとは！？"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:516
@@ -4976,7 +4976,7 @@ msgstr "Daryn 卿"
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:106
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1650
 msgid "Lord Bayar"
-msgstr "Bayar 公"
+msgstr "Bayar 候"
 
 #. [event]
 #. [scenario]
@@ -5385,7 +5385,7 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere."
 msgstr ""
-"Maddock 公は確実に信頼できる味方とは言えないが、公とその資金は、西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar"
+"Maddock 候は確実に信頼できる味方とは言えないが、公とその資金は、西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar"
 " が落ちれば、Asheviere に立ち向かう上で重要な味方を失うことになる。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
@@ -5479,7 +5479,7 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere. I must depart at once to aid in the defense!"
 msgstr ""
-"Maddock 公は確実に信頼できる味方とは言えないが、公とその資金は西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar "
+"Maddock 候は確実に信頼できる味方とは言えないが、公とその資金は西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar "
 "が落ちれば Asheviere との戦争で重要な味方を失うことになる。私は今すぐここを離れて防衛に協力しなければ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
@@ -5555,7 +5555,7 @@ msgstr "師匠が良いですからね！さて、新たな仲間も加わりま
 msgid ""
 "As we agreed. I am loathe to leave you without my magic, but right now Lord "
 "Maddock needs it more."
-msgstr "そうだな。今お主の元を離れるのは心配ではあるが、Maddock 公を見捨てることはできない。"
+msgstr "そうだな。今お主の元を離れるのは心配ではあるが、Maddock 候を見捨てることはできない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:946
@@ -5793,7 +5793,7 @@ msgid ""
 "and Lord Maddock — has been conquered."
 msgstr ""
 "しかし、今日は思い出話のために訪れたわけではない。Elensefar が陥落した ── お前の師匠の Delfador と Maddock "
-"公が頑強に抵抗していたあの都市だ。"
+"候が頑強に抵抗していたあの都市だ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1244
@@ -5992,18 +5992,20 @@ msgid ""
 "Weldyn, will your decision hold? You would do well to learn the lesson on "
 "loyalty that your mother did not."
 msgstr ""
+"Li’sar、我々と手を組むと決めてくれたことは喜ばしい。しかし、Weldyn "
+"に近づいてもその決意は変わらないと言えるのか？お前の母親が決して学ぶことが無かった、「誠実さ」を期待してもいいのか？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1553
 msgid ""
 "I am not a fool. I fought you because I believed it was best for Wesnoth. "
 "Now I fight my mother for the same reason."
-msgstr ""
+msgstr "私はバカじゃないわ。あなたたちと戦ったのも、それが Wesnoth のために最善だと思ったから。これからは同じ理由で母と戦うのよ。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1557
 msgid "Indeed..."
-msgstr ""
+msgstr "そうだな…"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1561
@@ -6013,6 +6015,7 @@ msgid ""
 " truth and righteousness are but scrolls that can be rewritten when a queen "
 "grows tired of them?"
 msgstr ""
+"ねえ、あなたはその美しい瞳の奥に虚無を隠している。その力が人の魂に何をもたらすか、私が知らないとでも思っているの？真実と正義が女王が飽きた途端に書き換えられる無意味な落書きと化した時、人はどれほどの悪事を犯すの？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1565
@@ -6022,6 +6025,8 @@ msgid ""
 " generals. I now know she was having people killed... entire towns of people"
 " killed!"
 msgstr ""
+"母が命令を下し、軍隊を指揮するのを聞きながら、私は幼少期を過ごした。母が将軍たちと会談している間、私は玉座の間で隠れていたのよ。今になってわかった。あの時、母は人々を殺させていた……"
+" 町ごと皆殺しにしていたのよ！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1569
@@ -6029,6 +6034,7 @@ msgid ""
 "You are all lucky. You do not know what Wesnoth has been like these past "
 "many years. There is no peace. I have never known peace."
 msgstr ""
+"あなたたちは幸運だわ。ここ何年もの間、Wesnoth がどのような状況だったのか知らないのでしょう。そこに平和はなかった。私は平和というものを知らない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1573
@@ -6038,6 +6044,9 @@ msgid ""
 "Undead can feel it. Large armies of men march across the plains hunting each"
 " other, and when no men remain, outsiders will claim Wesnoth as their home."
 msgstr ""
+"お前の母によって、Wesnoth "
+"に注がれた毒については良く知っているぞ。この地は引き裂かれてしまった。エルフも知っている。オークも知っている。アンデッドですら感じているであろう。大勢の兵士が平原を闊歩し、互いに殺し合っている。このまま誰もいなくなれば、よそ者が空き家となった"
+" Wesnoth に住み着くであろうな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1577
@@ -6047,65 +6056,67 @@ msgid ""
 "and my brothers. Asheviere’s masterwork of treachery will end, and it will "
 "end by my blade!"
 msgstr ""
+"もういいでしょう！これ以上聞きたくない。Li’sar、あなたは女王の治世を終わらせたいのでしょう。しかし、私は女王の命を奪うつもりだ。女王が父や兄弟の命を奪ったように。Asheviere"
+" の生み出した背信で満ち溢れた世は終わる。私の剣で終わらせてみせる！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1595
 msgid "Crier"
-msgstr ""
+msgstr "呼び出し人"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1599
 msgid ""
 "Hear ye, hear ye! I bring tidings to the Lord Konrad from Her Majesty the "
 "Queen!"
-msgstr ""
+msgstr "心して聞け！女王陛下より Konrad 卿への知らせであるぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1605
 msgid ""
 "A message from Asheviere? I wonder what new trickery this is. Speak what you"
 " have come to say, courier."
-msgstr ""
+msgstr "Asheviere からの知らせ？今度は一体どんな策略か。急使よ、用件を述べよ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1626
 msgid "Kalenz, Lord of the Lintanir."
-msgstr ""
+msgstr "Kalenz、Lintanir の主。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1627
 msgid "Ethiliel, Lady of the Aethenwood."
-msgstr ""
+msgstr "Ethiliel、Aethen の森の貴婦人。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1628
 msgid "Kaylan, Lord of Blackwater."
-msgstr ""
+msgstr "Kaylan、黒水港の領主。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1629
 msgid "Maddock, Lord of Elensefar."
-msgstr ""
+msgstr "Maddock、Elensefar の領主。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1630
 msgid "Galdrad, Champion of the Aethenwood."
-msgstr ""
+msgstr "Galdrad、Aethen の森の英雄。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1631
 msgid "Delurin, Three Sisters outlaw."
-msgstr ""
+msgstr "Delurin、三姉妹の島の無法者。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1632
 msgid "Reglok, Elensefar thieves’ guildmaster."
-msgstr ""
+msgstr "Reglok、Elensefar の盗賊ギルドの首領。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1633
 msgid "Harper, Three Sisters outlaw."
-msgstr ""
+msgstr "Harper、三姉妹の島の無法者。"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1639
@@ -6115,6 +6126,8 @@ msgid ""
 "righteous execution of the following condemned criminals and rebel "
 "sympathizers:"
 msgstr ""
+"聞くのだ！Konrad 卿とその支持者に周知する！今より３週間後、Weldyn "
+"で公正かつ正当な裁きにより死刑判決を受けた犯罪者と反乱の支持者に対する処刑を執り行う！処刑する者達の名は、"
 
 #. [message]: speaker=crier
 #. $message is a list of names and titles, generated depending on Konrad's
@@ -6124,7 +6137,7 @@ msgstr ""
 msgid ""
 "$message|And one thousand twenty-eight other rebel partisans from the "
 "western and northern reaches."
-msgstr ""
+msgstr "$message|そして、西部および北部地域の反逆者 1,028 名。"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1648
@@ -6134,6 +6147,8 @@ msgid ""
 "righteous execution of one thousand twenty-eight condemned partisans and "
 "rebel sympathizers from the western and northern reaches."
 msgstr ""
+"聞くのだ！Konrad 卿とその支持者に周知する！今より３週間後、Weldyn で公正かつ正当な裁きにより死刑判決を受けた西部および北部地域の反逆者 "
+"1,028 名の処刑を執り行う！"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1654
@@ -6141,6 +6156,7 @@ msgid ""
 "The Queen laments such a loss of life as regrettable, but necessary in Her "
 "Judgement to ensure the continued safety and stability of Her Kingdom."
 msgstr ""
+"女王陛下はこれほど多くの命が失われることを嘆き悲しんでおられる！されど、女王の国の安全と安定のため、必要不可欠な措置であると判断なされたのだ！"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1656
@@ -6148,23 +6164,25 @@ msgid ""
 "The Lord Konrad is warned to discontinue his campaign of terror and keep "
 "well away from Weldyn, lest the same tragic fate befall him as well."
 msgstr ""
+"Konrad 卿は王国に恐怖を振りまくのを止め、Weldyn "
+"に絶対に近づかないよう警告いたします！さもなくば、卿も悲劇的な結末を迎えることとなりましょう！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1667
 msgid "A mass execution!? Sweet Haldric, all those people. We have to act!"
-msgstr ""
+msgstr "大量処刑！？なんてことだ。すぐに動かないと！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1671
 msgid ""
 "... but what did Asheviere hope to gain by telling us? Could she mean to "
 "catch us in some trap?"
-msgstr ""
+msgstr "……しかしこれを我々に言って Asheviere は何がしたいのだ？何か罠にでもかけるつもりだろうか？"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1675
 msgid "How naïve can you be? Of course it's a trap!"
-msgstr ""
+msgstr "何を寝ぼけたことを言っているの？罠に決まっているでしょう！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1679
@@ -6173,6 +6191,8 @@ msgid ""
 "where she and all her allies will be ready to catch us and crush us. We "
 "don’t even know if these people really have been captured."
 msgstr ""
+"あなたがどのように考えるのか、母にはわかっているわ。母とその配下が待ち構える Weldyn "
+"にあなたがまっすぐ向かってきて、それを一網打尽にしようとでも思っているのでしょう。そもそも、さっき名前をあげられた人たちが本当に捕まっているかもはっきりしていないのよ。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1683
@@ -6180,7 +6200,7 @@ msgid ""
 "We should ignore her taunt. Our wisest course of action would be to do as "
 "she says and stay well away, while we continue whittling down her base of "
 "power."
-msgstr ""
+msgstr "母の挑発には乗るべきではないわ。言われたとおりに Weldyn からは距離を取り、権力の基盤を切り崩していくのが賢明でしょう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1687
@@ -6189,6 +6209,7 @@ msgid ""
 "oppose the dark queen. Even ignoring our morals, what message would such an "
 "act send? Who would still support us after such a display?"
 msgstr ""
+"宣告を受けたのは私の友人と仲間たちです。すべてを投げ打ち闇の女王に逆らった勇者達。私達の気持ちを無視したとしても、彼らを見捨ててしまったら人々はどう思うでしょう？それを見てもまだ我々を支援してくれるでしょうか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1691
@@ -6196,25 +6217,27 @@ msgid ""
 "If we are to rule Wesnoth, we must prove ourselves better than Asheviere, "
 "not equal. We must defeat her before she can carry out her executions."
 msgstr ""
+"Wesnoth を統べるのであれば、Asheviere "
+"と似たりよったりでは足りません、今の女王よりずっと立派であると示さねばなりません。だから、私達は処刑の前に女王を倒さねばならないのです。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1695
 msgid ""
 "Konrad speaks wisdom. Risky though it may be, we should march at once to "
 "Weldyn. There is no time to spare."
-msgstr ""
+msgstr "まさに知恵ある言葉であるな。リスクは大きいが、それでも我らは Weldyn へ行かねばならん。一刻の猶予もない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1699
 msgid "Very well. This is it, then."
-msgstr ""
+msgstr "ええそうね、たしかにその通りだわ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1723
 msgid ""
 "Asheviere has left us no time to stop and fight. We must reach Weldyn before"
 " she can carry out her executions."
-msgstr ""
+msgstr "ここで立ち止まって戦う時間は無い。Asheviere が処刑を始める前に Weldyn に行かなければ。"
 
 #. [scenario]: id=01_The_Elves_Besieged
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:10
