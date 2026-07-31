@@ -6254,13 +6254,14 @@ msgid ""
 "this is your first time playing Heir to the Throne, you may want to try a "
 "lower difficulty."
 msgstr ""
+"メモ：「絶望的」難易度は、このキャンペーンの秘密を多く知ったプレイヤーであっても目をむくほどの難易度を意図しています。もし、「王位継承者」を初めてプレイするのであれば、もっと低い難易度を試した方がよいかもしれません。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:39
 msgid ""
 "In the twenty-eighth year of the reign of Garard II, King of Wesnoth, the "
 "kingdom was plunged into a bitter war with the Orcs of the North."
-msgstr ""
+msgstr "Wesnoth の王である Garard II世の治世の 28 年目、王国は北部オークとの激しい戦争に突入しました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:44
@@ -6270,6 +6271,8 @@ msgid ""
 "ruin, but at long last victory was won through the actions of Garard’s arch-"
 "mage, Delfador."
 msgstr ""
+"北部の軍勢は Abezの浅瀬近くの Galcadar に陣取り、王は軍を率いてそれを迎え撃ちました。数年に渡る戦争で Wesnoth "
+"は滅亡の瀬戸際まで追い詰められましたが、Garard 配下の大魔術師 Delfador の活躍により最終的に勝利を手にしました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:48
@@ -6279,6 +6282,9 @@ msgid ""
 " grown into a wise ruler. Unfortunately for Garard, his son was also "
 "ambitious... and treacherous."
 msgstr ""
+"王が勝利を祝う宴には Garard の息子、皇太子 Eldred も姿をみせました。Eldred "
+"は聡明で、意欲的で、いつかは賢明な統治者となると期待されていました。しかし、Garard にとって残念なことに、その息子は野心的でもあり… "
+"そして裏切り者でもありました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:52
@@ -6287,6 +6293,8 @@ msgid ""
 "blood. Proclaiming himself heir, the young prince led his father’s army "
 "south towards Weldyn."
 msgstr ""
+"Garard の勝利の宴が最高潮を迎えたまさにその時、Eldred は冷酷にも老王を斬り伏せました。そして Eldred "
+"は自らを後継者と宣言し、父の軍を率いて Weldyn へと向かいました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:56
@@ -6295,6 +6303,9 @@ msgid ""
 "her son’s treachery. The rule of Eldred would surely satisfy her lust for "
 "power far better than her husband’s had."
 msgstr ""
+"Eldred の裏切りのほとんどを計画したのは、Garard "
+"の王妃、Asheviere。彼女はその様子を嬉しそうに見守っていました。彼女の権力への渇望をより大きく満たしてくれるのは、夫の統治よりも Eldred "
+"の統治なのですから。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:60
@@ -6304,6 +6315,8 @@ msgid ""
 "prince and avenge the King’s death. The loyalist army marched south to meet "
 "Eldred."
 msgstr ""
+"しかし、大魔術師 Delfador は王の側で倒れたわけではありませんでした。Delfador "
+"は遠方の戦場から舞い戻り、王の仇を取るために忠誠者の軍勢を組織しました。そして、Eldred に戦いを挑むべく、南へと向かいました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:64
@@ -6312,6 +6325,8 @@ msgid ""
 "ears: <i>“Fight no one great or small except the old mage, whose head should"
 " be severed from his shoulders.”</i>"
 msgstr ""
+"Eldred "
+"は忠誠者の軍勢との戦いに臨みました。<b>「他は無視してあの老魔術師とだけ戦え。必ず奴の首を落とせ」</b>、という母の助言を脳裏に刻みながら。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:68
@@ -6320,6 +6335,8 @@ msgid ""
 "road to Weldyn. Sword clashed against staff, as the wise old mage fought the"
 " brash young warrior."
 msgstr ""
+"そして Eldred と Delfador は戦場で対峙しました。Weldyn "
+"へと続く、主要な街道上で。老いた賢明な魔術師と豪放な若い剣士は激しい戦いを繰り広げました。剣と杖が何度も何度も激しくぶつかり合いました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:72
@@ -6327,6 +6344,7 @@ msgid ""
 "In the end Delfador’s men were defeated and routed, but Asheviere found her "
 "son’s lifeless body, fixed to the ground by the great mage’s staff."
 msgstr ""
+"やがて Delfador の軍勢は破れ、敗走しました。一方で、Asheviere も息子の身体を見つけました。大魔術師の杖で大地に縫い付けられた亡骸を。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:76
@@ -6336,6 +6354,8 @@ msgid ""
 "ordered them all killed and declared herself Queen of Wesnoth, striking down"
 " any lord bold enough to oppose her."
 msgstr ""
+"Asheviere は自ら指揮を執り、軍勢を Weldyn へと戻しました。王の若い甥達が次の王位継承者となることを知っていた Asheviere "
+"は、彼らを皆殺しにするように命じ、自身を Wesnoth の女王と称しました。彼女に逆らおうとする勇敢な領主達はことごとく打ち倒されました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:80
@@ -6344,6 +6364,8 @@ msgid ""
 "the palace and stole away Konrad, the youngest of Garard’s nephews, thereby "
 "saving him from death."
 msgstr ""
+"Asheviere の命令が Delfador の耳に入ると、Delfador はすぐに王宮に忍び込み、Garard の甥で最も若い Konrad "
+"を連れ去ってその命を守りました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:84
@@ -6352,6 +6374,8 @@ msgid ""
 "Delfador raised the child Konrad under the protection of the elves, watching"
 " sadly as Asheviere’s reign of terror over the land began..."
 msgstr ""
+"Delfador はWesnoth の南の国境を越えて Aethen の森へと逃れ、そこでエルフの庇護の元で Konrad "
+"を育てました。Asheviere がもたらす恐怖が広がり続ける様子を悲しそうに見つめながら…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:148
