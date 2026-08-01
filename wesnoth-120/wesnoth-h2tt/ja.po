@@ -6380,27 +6380,27 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:148
 msgid "10 gold"
-msgstr ""
+msgstr "10 ゴールド"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:148
 msgid ""
 "A little gold for use in magical experiments. I’m sure it won’t be missed."
-msgstr ""
+msgstr "魔法の実験に使うための、ほんの少しのゴールドです。きっと誰にも気づかれないでしょう。"
 
 #. [message]: speaker=narrator
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from
 #. Konrad's perspective
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:197
 msgid "Konrad!"
-msgstr ""
+msgstr "Konrad！"
 
 #. [message]: speaker=narrator
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from
 #. Konrad's perspective
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:203
 msgid "Konrad, wake up!"
-msgstr ""
+msgstr "Konrad、起きろ！"
 
 #. [message]: speaker=Konrad
 #. the "dream" Konrad refers to is the intro storytext. This is a
@@ -6410,14 +6410,14 @@ msgstr ""
 msgid ""
 "<i>(yawn)</i> What a vivid dream. Asheviere and Eldred, Delfador and Garard,"
 " just like in the histories..."
-msgstr ""
+msgstr "ふわぁ…… 妙に鮮明な夢だったな。Asheviere に Eldred、Delfador に Garard、まるで歴史書のようで…"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:228
 msgid ""
 "Wake up, wake up, wake up! Curse you Konrad, get up and get out here! We’re "
 "under attack!"
-msgstr ""
+msgstr "起きろ、起きろ、さっさと起きろ！Konrad の馬鹿者め！さっさと起きて外に出ろ！襲撃を受けているのだぞ！"
 
 #. [message]: speaker=Konrad
 #. Konrad has heard Delfador calling him but is not concerned. In the past,
@@ -6428,12 +6428,13 @@ msgid ""
 "I’m up, I’m up. What’s the “attack” today, Delfador? Orcs in the walls? Magi"
 " under my bedsheets?"
 msgstr ""
+"起きた、起きた、それで Delfador 今日の襲撃は何だい？オークが防壁の中に入り込んだ？それとも私のベッドのシーツの下に魔術師でも潜んでいる？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:250
 msgid ""
 "No, you daft child, nothing like that! Grab your sword and come outside!"
-msgstr ""
+msgstr "ええい、ふざけた小僧め、そんなものではない！さっさと剣を持って外へ出ろ！"
 
 #. [message]: speaker=Konrad
 #. the intent of this is to show that 1) Konrad trains regularly with Delfador
@@ -6444,22 +6445,24 @@ msgid ""
 "Well, I’d better do as he says. Last time I missed battle training, Ethiliel"
 " made me spend all week transcribing her poetry. <i>(shudder)</i>"
 msgstr ""
+"うーん、まあ言う通りにした方がよさそうだ。この前戦闘訓練をサボった時は、Ethiliel が怒って、Ethiliel "
+"が作った詩の書き写しをさせられたしなぁ。それも丸一週間もの間。あれは絶対にもうやりたくない……"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:300
 msgid "Explore your home"
-msgstr ""
+msgstr "自宅を探索しましょう"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:304
 msgid "Meet Delfador"
-msgstr ""
+msgstr "Delfador に会う"
 
 #. [message]: speaker=Konrad
 #. the player has moved Konrad to his bed
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:335
 msgid "No time to rest! Got to train hard if I ever want to be a good king."
-msgstr ""
+msgstr "休んでいる暇は無い！立派な王となるためには訓練に手を抜いてはダメだ。"
 
 #. [message]: speaker=Konrad
 #. the player has moved Konrad near a writing desk. This foreshadows
@@ -6470,11 +6473,13 @@ msgid ""
 "missive finds you well. Lord Maddock’s latest report is worrying: the recent"
 " mobilization suggests...</i>”"
 msgstr ""
+"Delfador が書いている手紙の一部のようだ。<i>「Kaylan 卿、そちらはどうでしょうか。Maddock "
+"候からの最新の情報によると、不穏な動きが見られるようです。最近の動員状況からは…」</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:355
 msgid "The letter trails off there."
-msgstr ""
+msgstr "手紙はここで途切れている。"
 
 #. [message]: speaker=Konrad
 #. Konrad has moved near a bookshelf. These are the names of some of the books
@@ -6484,36 +6489,39 @@ msgid ""
 "“<i>Basics of Swordsmanship, feat. Sergeant Mari</i>”\n"
 "“<i>An Abridged History of Wesnoth, by Delfador</i>”"
 msgstr ""
+"『<i>若き政治家のための政治入門</i>』\n"
+"『<i>剣術の基礎   Mari 軍曹編</i>』\n"
+"『<i>Wesnoth 略歴   著：Delfador</i>』"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:378
 msgid ""
 "My textbooks, courtesy of the Aethenwood. The shelves get fuller every day."
-msgstr ""
+msgstr "Aethen の森で提供してくれた私用の教科書だ。棚には既にたくさん本があるというのに、日に日に本が追加されている。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #. Konrad is attacking a quintain
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:411
 msgid "Hi-ya! Take that Eldred! Take that Asheviere!"
-msgstr ""
+msgstr "いやぁぁ！これでも喰らえ、Eldred！これでも喰らえ、Asheviere！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:424
 msgid "This is good practice! I’m starting to tire myself out."
-msgstr ""
+msgstr "良い練習だった！ちょっと疲れたな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:443
 msgid ""
 "Whew... I’m bruised and exhausted. It’s been good training so far, but if I "
 "keep throwing myself at this dummy I’m worried I might faint!"
-msgstr ""
+msgstr "ふう… 体中あざだらけで、もうくたくただ。今のところは良い訓練になっているけど、これ以上人形に体当たりしていると、気絶してしまいそうだ。"
 
 #. [message]: speaker=Konrad
 #. Konrad is leaving home, kicking off the main scenario
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:487
 msgid "Well, time to see what Delfador’s so excited about."
-msgstr ""
+msgstr "さて、Delfador がなんであんなに興奮していたのか確認してみるか。"
 
 #. [side]: type=Red Mage, id=redmage, gender=female
 #. [side]
@@ -6554,14 +6562,14 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:62
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:82
 msgid "Army of Wesnoth"
-msgstr ""
+msgstr "Wesnoth 軍"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:754
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:775
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:137
 msgid "Aethenwood Elves"
-msgstr ""
+msgstr "Aethen の森のエルフ"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1096
@@ -6569,6 +6577,7 @@ msgid ""
 "I’m here, Delfador! I thought you were calling me for more training, but "
 "there’s smoke rising from the forest. What’s going on?"
 msgstr ""
+"Delfador、私はここです！何か訓練をするために呼んでいたのだと思っていましたが、森から煙が上がっています。一体何が起こっているのですか？"
 
 #. [message]: speaker=Ethiliel
 #. human armies have surrounded the Aethenwood and are burning it
@@ -6578,25 +6587,28 @@ msgid ""
 "throughout your youth. Now she comes bearing fiery retribution, and the dawn"
 " of a dark age for the Aethenwood."
 msgstr ""
+"女王 Asheviere "
+"が送ってくれた厄介事よ！私達がずっとあなたを匿っていたことを奴は知っていたようね。そして今日、燃え盛る報復の念を抱いて軍を差し向け、Aethen "
+"の森に暗黒の時代をもたらそうとしているわ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1106
 msgid ""
 "I have already been injured. I fear she is after you personally, Master "
 "Konrad!"
-msgstr ""
+msgstr "私もすでに傷を負っている。女王が狙っているのはお主やもしれぬぞ、Konrad！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1110
 msgid ""
 "They have us nearly surrounded, but we can still flee to the west. I will "
 "protect you!"
-msgstr ""
+msgstr "我々はほぼ包囲されているが、西にならばまだ逃げられそうだ。私がお主を守ろう！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1114
 msgid "But what about the elves? They are our friends! We have to help fight!"
-msgstr ""
+msgstr "しかしエルフの皆はどうするのです？彼らは友人です！協力して戦わねば！"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1118
@@ -6605,27 +6617,29 @@ msgid ""
 "escape, Konrad. Lord Kalenz has commanded your safety. It is imperative that"
 " you escape!"
 msgstr ""
+"Asheviere は我々全員の敵だ。侵略者と戦うのは我々に任せるのだ。Konrad、お前だけは絶対に逃げきらねばならんのだ！Kalenz "
+"公からもお前を守れと言われている。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1122
 msgid ""
 "Galdrad is right. Do not throw your life away so easily, Your Highness."
-msgstr ""
+msgstr "Galdrad が正しい。殿下、安易に命を捨ててはならん。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1126
 msgid "There can be no looking back. We must go quickly!"
-msgstr ""
+msgstr "もう後戻りはできぬ。急いで行くぞ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1138
 msgid "Move Konrad and Delfador to the west edge of the map"
-msgstr ""
+msgstr "Konrad と Delfador をマップの西端まで移動させる"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1172
 msgid "Watch out for the fire!"
-msgstr ""
+msgstr "火に気をつけろ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1183
@@ -6633,6 +6647,7 @@ msgid ""
 "Konrad, it took you some time to rise this morning. I’m not angry, but I am "
 "worried. I won’t always be here to keep you safe!"
 msgstr ""
+"Konrad、今日はなかなか起きられなかったな。いや、怒っているわけではない。心配しているのだ。いつでも私が側にいて、守ることができるわけではないのだから。"
 
 #. [message]: speaker=Konrad
 #. Asheviere and her army are burning the Aethenwood and killing Konrad's
@@ -6642,6 +6657,7 @@ msgid ""
 "I know, Delfador, and I’m sorry. This is horrible! How did the fires get so "
 "close without me noticing!?"
 msgstr ""
+"Delfador、わかっています。それに申し訳ありませんでした。それにしてもひどい！どうして、気づかないうちに火がここまで迫ってしまったのだ！？"
 
 #. [message]: speaker=Konrad
 #. Asheviere and her army are burning the Aethenwood and killing Konrad's
@@ -6650,7 +6666,7 @@ msgstr ""
 msgid ""
 "I’ve never seen so many humans all in one place before. I can’t believe you "
 "and I are really the same as them..."
-msgstr ""
+msgstr "こんなにたくさんの人間が一つの場所にいるのは初めて見ました。私と師匠がこの連中と同族であるとは全く信じられない……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1197
@@ -6659,6 +6675,8 @@ msgid ""
 "Our kind can be a little crude, but we aren’t usually so bad — it’s "
 "Asheviere who’s stirred up all this mischief."
 msgstr ""
+"同族の中でお主を育てられなかったことはすまないと思っている。我々の種族は少し粗野なところはあるが、普段はさすがにこれほどではない ── "
+"このようになってしまったのは Asheviere のせいだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1201
@@ -6667,23 +6685,24 @@ msgid ""
 "whole of her armies! We must get out of this forest so we can see what else "
 "is going on."
 msgstr ""
+"それに、私の推測が正しければ、ここの部隊は女王の軍勢のほんの一部に過ぎないのだ！この森を抜け出し、他の場所で何が起きているのか確認しなければ。"
 
 #. [message]: type=Cavalryman # their armored helm looks more intimidating
 #. than our Bowman or Spearman portraits
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1213
 msgid "Surround the enclaves! Don’t let anyone escape!"
-msgstr ""
+msgstr "敵を取り囲め！誰一人逃がすな！"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1232
 msgid "I am Galdrad. You will have to fight me to get any further!"
-msgstr ""
+msgstr "私は Galdrad。先に進みたいのなら私を倒してからにしろ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #. said when Konrad attacks / is attacked
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1253
 msgid "Leave my home alone, you villain!"
-msgstr ""
+msgstr "悪党め、私の家から出て行け！"
 
 #. [message]
 #. Asheviere's official stance is that Konrad is a fraud. At this point, the
@@ -6692,26 +6711,26 @@ msgstr ""
 msgid ""
 "You’re just an imposter! Everyone knows the real Prince Konrad died long "
 "ago."
-msgstr ""
+msgstr "黙れ偽者め！本物の Konrad 王子はずっと前に死んでいる！"
 
 #. [message]: speaker=second_unit
 #. said when Delfador attacks. The unit flees off the map before Delfador can
 #. deal damage
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1271
 msgid "Oh no, it’s HIM, it’s Delfador THE GREAT! Get me out of here!"
-msgstr ""
+msgstr "そんな。これは、こいつは Delfador！<b>偉大なる Delfador</b>だ！嫌だ、死にたくない！"
 
 #. [message]: speaker=Delfador
 #. an enemy has just fled, even before Delfador got a chance to attack
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1294
 msgid "My reputation precedes me."
-msgstr ""
+msgstr "私の名も捨てたものではないな。"
 
 #. [message]: speaker=Delfador
 #. Delfador has killed 10 enemies, and the player has earned an achievement
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1317
 msgid "Only fools dare oppose me."
-msgstr ""
+msgstr "死にたい者だけ前に出よ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1331
@@ -6721,63 +6740,65 @@ msgid ""
 " exceeded all expectations! (or you’re cheating to see what happens / using "
 "overpowered add-ons)"
 msgstr ""
+"おお、全ての侵略者を倒し、Aethen "
+"の森を守りきりましたか！こんなことが起きるとは思っていませんでした。ゲーム中でこのメッセージを読んでいるのであれば、あなたは我々の予想を完全に上回ったことになります！（さもなくば、何かチートを使ったり、特殊なアドオンを使ったのでしょう）"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1336
 msgid ""
 "Unfortunately this breaks the story, so for the rest of the campaign we’re "
 "going to have to pretend that this never happened, okay?"
-msgstr ""
+msgstr "とはいえ、これでは物語が台無しですので、こんなことは起きなかったという体で物語を進めますよ。良いですね？"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1349
 msgid "Impossible! I must report back to the queen."
-msgstr ""
+msgstr "ありえない！女王陛下に報告しなければ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1372
 msgid "Hurry, Delfador! I’m not leaving without you."
-msgstr ""
+msgstr "Delfador、急いで！師匠を置いて行くことはできない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1386
 msgid "Hurry along, Konrad! We leave together, or not at all."
-msgstr ""
+msgstr "Konrad、急ぐのだ！共に行かねば意味が無い。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1412
 msgid "Time to go, Konrad! Come on!"
-msgstr ""
+msgstr "行くぞ、Konrad！急ぐのだ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1416
 msgid ""
 "Of course you are right, Delfador. But what will become of our friends here?"
-msgstr ""
+msgstr "Delfador、あなたが正しいことは理解しています。しかし、我々の友はどうなってしまうのでしょう？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1420
 msgid ""
 "The elves will fight. They may even prevail. But I fear things do not bode "
 "well for them. Let us not speak of it now. Onward!"
-msgstr ""
+msgstr "エルフは戦うであろう。勝ち残れるかもしれないが、果たしてそううまく転ぶだろうか。ともあれ、今は前に進め！全ては生き延びてからだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1436
 msgid "Hurry, hurry! We have but a moment left."
-msgstr ""
+msgstr "急げ、急ぐのだ！もう余裕がないぞ。"
 
 #. [message]: role=halberdier
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1447
 msgid ""
 "General, we’ve seized the western forest and occupied the elf-roads! The "
 "rest of the men will be here shortly."
-msgstr ""
+msgstr "将軍、西の森を押さえ、エルフの道を封鎖しました！増援もすぐに到着します。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1451
 msgid "We have run out of time! There can be no more escape..."
-msgstr ""
+msgstr "間に合わなかったか！もう逃げられぬ……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:17
