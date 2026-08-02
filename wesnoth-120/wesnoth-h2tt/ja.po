@@ -6808,19 +6808,19 @@ msgstr "エルフの集団逃走"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:185
 msgid "Quillan"
-msgstr ""
+msgstr "Quillan"
 
 #. [unit]: id=Tanyth, type=Elvish Avenger, gender=female
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:203
 msgid "Tanyth"
-msgstr ""
+msgstr "Tanyth"
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:244
 msgid ""
 "Master Konrad, I am pleased to see that you have escaped! And even more "
 "pleased to see that you have returned."
-msgstr ""
+msgstr "Konrad 坊ちゃん、うまく逃げ出せたのか！それはよかった。それに、こうして戻ってきてくれて、本当に嬉しい。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:249
@@ -6829,6 +6829,7 @@ msgid ""
 "after Konrad and I fled, if you could not defeat the attackers. Yet the "
 "fighting continues."
 msgstr ""
+"Quillan、何があったのだ？侵略者を撃退できなかった場合、Konrad と私を逃がしたら全員で身を隠す予定だったはずだ。なぜ戦闘が継続している？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:251
@@ -6836,6 +6837,8 @@ msgid ""
 "I suspect Elensefar to be under siege as well — I cannot leave Maddock to "
 "fight alone, yet neither can I leave you elves to be slaughtered."
 msgstr ""
+"今頃は Elensefar も包囲されているかもしれぬ ── Maddock "
+"を一人で戦わせるわけにもいかないが、エルフが虐殺されるのを見過ごすこともできぬ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:256
@@ -6844,25 +6847,26 @@ msgid ""
 "fled, if you could not defeat the attackers, but I still see fires and "
 "fighting in the distance!"
 msgstr ""
+"Quillan、一体どういうことだろう？侵略者を撃退できない場合、私を逃がしたら皆で身を隠す予定だったはず。しかし、あちらではまだ炎が残っていて、戦闘も続いている！"
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:261
 msgid ""
 "Our lines have been broken; men pour into the Aethenwood. The marshals are "
 "coordinating a retreat, but are being harried at every step."
-msgstr ""
+msgstr "人間が Aethen の森に押し寄せ、我らの戦線は崩壊した。将軍達は撤退を指揮しているが、執拗に妨害を受けている。"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:265
 msgid "Don’t let them get away! The queen demands a total victory!"
-msgstr ""
+msgstr "奴らを逃がすな！女王陛下は完全な勝利をお望みだ！"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:269
 msgid ""
 "Kill any who resist, but take the rest alive. We need prisoners for "
 "interrogation and slaves for the mines!"
-msgstr ""
+msgstr "逆らう者は殺せ、それ以外は生け捕りにしろ。情報を取るためにも、鉱山で使い潰すためにも、囚人や奴隷は必要だ！"
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:275
@@ -6870,20 +6874,20 @@ msgid ""
 "My riders and I are the first to break free of our encirclement! We are "
 "swift enough to escape the spears, but our slower brethren may be caught as "
 "they retreat."
-msgstr ""
+msgstr "私と騎兵達は真っ先に包囲を突破した！素早い我々であれば敵の槍をかいくぐることもできるが、他の仲間たちはそう容易く撤退できない。"
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:279
 msgid ""
 "They will be here soon. Konrad, you must help us all reach safety across the"
 " river!"
-msgstr ""
+msgstr "Konrad、仲間たちもすぐにここまでやってくるだろう。我々が川を渡るのを手助けしてくれ！"
 
 #. [objective]: condition=win
 #. $dead_elves is a number; probably between 0 and 20
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:290
 msgid "Survive until all elves escape or die ($dead_elves dead so far)"
-msgstr ""
+msgstr "全てのエルフが逃げるか死ぬかするまで生き延びる（これまでに $dead_elves 人が死亡）"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'
@@ -6892,7 +6896,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:296
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:303
 msgid "15 or fewer deaths: recruit Elvish Archers"
-msgstr ""
+msgstr "死者 15 人以下：「エルフの射手」を雇用可能"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'
@@ -6901,7 +6905,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:312
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:319
 msgid "10 or fewer deaths: recruit Elvish Scouts"
-msgstr ""
+msgstr "死者 10 人以下：「エルフの斥候」を雇用可能"
 
 #. [objective]: condition=win, description=
 #. [objective]: condition=win, description=<span strikethrough='true'
@@ -6910,26 +6914,26 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:329
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:336
 msgid "5 or fewer deaths: recruit Elvish Fighters"
-msgstr ""
+msgstr "死者 5 人以下：「エルフの戦士」を雇用可能"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:373
 msgid ""
 "The elves are going south across the river, but we must stand our ground and"
 " help them escape!"
-msgstr ""
+msgstr "エルフたちは川を渡って南へ向かっている。私たちはここで踏ん張り、脱出を助けるのだ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:396
 msgid "I have reached the southern shore! Scatter into the deep forest!"
-msgstr ""
+msgstr "南岸に着いたぞ！森の深部へ、散り散りになって逃げるぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:410
 msgid ""
 "Will none of you stay and help fight? If we all stand together, surely we "
 "can resist the invaders!"
-msgstr ""
+msgstr "誰もここにとどまって戦わないのか？力を合わせれば侵略者に抵抗できるはず！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:414
@@ -6938,6 +6942,7 @@ msgid ""
 "east as best we could, but now the decision has been made to scatter, not to"
 " fight."
 msgstr ""
+"Konrad、一緒に戦えば一緒に死ぬだけだ。我々も死に物狂いで東にある住処を守ろうとしていた。それでも逃げるという決断が下されたのだ。今は戦うべきじゃない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:418
@@ -6946,65 +6951,67 @@ msgid ""
 "might of Wesnoth is beyond our capacity to withstand. We must scatter and "
 "hide if we wish any hope of evading your kin."
 msgstr ""
+"Aethen には Wesmere や Lintanir ほどの規模は無い。Wesnoth "
+"の力に対抗することは不可能だ。お前の同族から逃れるには散らばって身を隠す他無い。"
 
 #. [message]: role=speaker {FILTER_LOCATION x,y,radius=44,7,4}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:442
 msgid ""
 "Be swift, friends. We must cross the river and vanish into the southern "
 "woods before our pursuers catch us!"
-msgstr ""
+msgstr "急ごう。追っ手に捕まる前に、川を渡って南の森へ身を隠さないと！"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:463
 msgid "Where are my fencers? They should have started their attack by now."
-msgstr ""
+msgstr "剣術士共は何をしている？今頃には攻撃を始めている予定だったはずだ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:468
 msgid "Aramis"
-msgstr ""
+msgstr "Aramis"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:475
 msgid ""
 "Sorry for the delay, Lieutenant! We’re finally in position, and ready to "
 "help intercept the elves."
-msgstr ""
+msgstr "遅参してしまい誠に申し訳ありません、指揮官殿！ようやく配置につけました。エルフを足止めする準備は万端です。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:511
 msgid ""
 "How many more elves are left to evacuate from the east-halls? We cannot keep"
 " fighting forever!"
-msgstr ""
+msgstr "東から避難するエルフはあとどれくらいいるんだ？我々も、いつまでも戦いつづけることはできない！"
 
 #. [message]: role=speaker {FILTER_LOCATION x,y,radius=44,7,4}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:516
 msgid ""
 "Not many. Galdrad is managing the rest of the retreat — you will see him "
 "soon!"
-msgstr ""
+msgstr "あと少しだけ。Galdrad が率いている一団が最後のはず ── もうすぐここまで来るでしょう！"
 
 #. [message]: role=speaker {FILTER_LOCATION x,y,radius=44,7,4}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:522
 msgid ""
 "Not many. Ethiliel is managing the rest of the retreat — you will see her "
 "soon!"
-msgstr ""
+msgstr "あと少しだけ。Ethiliel が率いている一団が最後のはず ── もうすぐここまで来るでしょう！"
 
 #. [message]: role=speaker {FILTER_LOCATION x,y,radius=44,7,4}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:528
 msgid ""
 "Not many. Tanyth is managing the rest of the retreat — you will see her "
 "soon!"
-msgstr ""
+msgstr "あと少しだけ。Tanyth が率いている一団が最後のはず ── もうすぐここまで来るでしょう！"
 
 #. [message]: id=$elf_leader.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:557
 msgid ""
 "Konrad, I lead the last of the evacuees — we shall make for the ford at "
 "once. But be wary, for the human general comes nipping at our heels!"
-msgstr ""
+msgstr "Konrad、これが最後の避難者だ ── 我々は速やかに川を渡る。だが油断するな。人間の将軍が我々のすぐ後を追って来ている！"
 
 #. [message]: id=$elf_leader.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:558
@@ -7012,25 +7019,26 @@ msgid ""
 "female^Konrad, I lead the last of the evacuees — we shall make for the ford "
 "at once. But be wary, for the human general comes nipping at our heels!"
 msgstr ""
+"Konrad、これが最後の避難者よ ── 私達も速やかに川を渡るつもり。でも、気をつけなさい。人間の将軍が私達のすぐ後を追って来ているから！"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:570
 msgid ""
 "Keep pushing forward — don’t let any more of them escape. Twenty gold pieces"
 " for whoever takes the head of their leader!"
-msgstr ""
+msgstr "前へ進み続けるのよ ── これ以上は逃すな！奴らの指揮官を倒した者には 20 ゴールドを出すわよ！"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:574
 msgid ""
 "... is that Konrad? The pretender prince!? He’s returned! We have an "
 "opportunity to make up for our previous failure — men, seize him at once!"
-msgstr ""
+msgstr "…あれは Konrad？偽者の王子！？戻ってきたのね！兵よ、奴を捕らえろ ── これは失敗を挽回する絶好の機会よ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:641
 msgid "You should never have attacked my home, you villain!"
-msgstr ""
+msgstr "私の家を襲ったことを後悔するがいい、この悪党め！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:649
@@ -7038,87 +7046,89 @@ msgid ""
 "That’s the last of their leaders defeated! With Wesnoth beaten back, even if"
 " only temporarily, the rest of the elves can safely evacuate."
 msgstr ""
+"これが最後の敵リーダーだ！一時凌ぎにしかならないだろうが、ここの Wesnoth "
+"軍は撃退することができた。これで残りのエルフ達は安全に避難できるだろう。"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:675
 msgid ""
 "Scatter to the south; scatter to the west! Spread ourselves in hiding across"
 " the entire wood, and they shall never be able to root us out."
-msgstr ""
+msgstr "南へ散れ、西へ散れ！森の隅々に散らばって身を隠せば、奴らに我々は見つけられない。"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:703
 msgid ""
 "You have my gratitude, friend Konrad. Without your help, this would surely "
 "have been a great slaughter. Allow us to aid you in return."
-msgstr ""
+msgstr "Konrad、本当に感謝する。お前の助けがなければ、もっとひどい虐殺となっていたはずだ。このお礼として、我々にもお前を助けさせてくれ。"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:708
 msgid ""
 "With so many of our number safely escaped, our archers, fighter, and scouts "
 "all stand ready to join you on your journey!"
-msgstr ""
+msgstr "これだけ多くの者が無事に逃れられたのだから、射手、戦士、そして斥候達をお前の旅に同行させよう！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:710
 msgid "Konrad can now recruit Elvish Archers, Fighters, and Scouts!"
-msgstr ""
+msgstr "Konrad は「エルフの射手」、「エルフの戦士」、「エルフの斥候」を雇用できるようになりました！"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:715
 msgid ""
 "Though some of our number have fallen, many have escaped to safety! Our "
 "archers and scouts both stand ready to join you on your journey."
-msgstr ""
+msgstr "何人かは残念なことになったが、それでも多くの者が逃れることができた！そこで、射手と斥候をお前の旅に同行させたいと思う。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:717
 msgid "Konrad can now recruit Elvish Archers and Scouts!"
-msgstr ""
+msgstr "Konrad は「エルフの射手」と「エルフの斥候」を雇用できるようになりました！"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:722
 msgid ""
 "Though many of our number have fallen, at least some have escaped. Our "
 "archers stand ready to join you on your journey."
-msgstr ""
+msgstr "多くの者が倒れたが、何人かは避難することができた。そこで、射手達をお前の旅に同行させたいと思う。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:724
 msgid "Konrad can now recruit Elvish Archers!"
-msgstr ""
+msgstr "Konrad は「エルフの射手」を雇用できるようになりました！"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:729
 msgid ""
 "Yet even with your aid, only a scant few of us elves have escaped. I fear "
 "that none of our number can be spared to join you on your journey."
-msgstr ""
+msgstr "しかし、お前の手を借りても、わずかな者しか逃げ延びられなかった。申し訳ないが、これではお前の旅に人手を出すことはできそうにない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:738
 msgid ""
 "Now, young prince, it is time for us to make our escape as well. Be swift — "
 "make for the western forest!"
-msgstr ""
+msgstr "さて、若き王子よ。我々もそろそろ引き際であろう。急ぐぞ ── 西の森へ向かうぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:739
 msgid ""
 "Now it’s time for us to make our escape too. Quick, make for the western "
 "forest!"
-msgstr ""
+msgstr "では我々もそろそろ逃げ出さなければ。急げ、西の森へ向かうんだ！"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:15
 msgid "scenario name^Blackwater Port"
-msgstr ""
+msgstr "黒水港"
 
 #. [side]: type=Orcish Warrior, id=Mokolo Qimur
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:82
 msgid "Mokolo Qimur"
-msgstr ""
+msgstr "Mokolo Qimur"
 
 #. [side]: type=Orcish Warrior, id=Mokolo Qimur
 #. [side]: type={TYPE}, id={ID}
@@ -7126,17 +7136,17 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:72
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:38
 msgid "Clan Foxtail"
-msgstr ""
+msgstr "Foxtail 氏族"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:163
 msgid "Rebels"
-msgstr ""
+msgstr "反乱軍"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:262
 msgid "Uncle Kaylan, we’re here! Are you alright? What can I do to help?"
-msgstr ""
+msgstr "Kaylan 叔父さん、我々も来ました！ご無事ですか？どうすればお役に立てますか？"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:267
@@ -7146,6 +7156,8 @@ msgid ""
 "unprepared, but the bulk of my riders shall soon return to rout the enemy "
 "and seize our victory!"
 msgstr ""
+"Delfador に Konrad、よく来てくれた！Wesnoth "
+"の真の後継者と再び対面できて大変光栄だ。偽りの女王の軍勢に不意を突かれたが、我が軍の主力もすぐに戻る。それまで耐えれば容易に敵を撃退できよう！"
 
 #. [message]: speaker=Delfador
 #. after the player completes this scenario, Delfador leaves. Foreshadow that
@@ -7155,6 +7167,8 @@ msgid ""
 "How soon, Kaylan? I suspect Elensefar to be under siege as well — I cannot "
 "leave Maddock to fight alone, yet neither can I leave the prince unguarded."
 msgstr ""
+"Kaylan、どの程度かかる？今頃は Elensefar も包囲されているかもしれぬ ── Maddock "
+"を一人で戦わせるわけにもいかないが、王子をここに無防備に残すわけにもいかぬ。"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:277
@@ -7164,13 +7178,15 @@ msgid ""
 " bulk of my riders shall soon return to rout the enemy and seize our "
 "victory!"
 msgstr ""
+"Konrad、よく来てくれた！Wesnoth "
+"の真の後継者と再び対面できて大変光栄だ。偽りの女王の軍勢に不意を突かれたが、我が軍の主力もすぐに戻る。それまで耐えれば容易に敵を撃退できよう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:281
 msgid ""
 "I’m glad to be here, but sorry we couldn’t come sooner. For how long must we"
 " defend before your reinforcements arrive?"
-msgstr ""
+msgstr "無事なようで安心しました。ここへ来るのが遅れてしまって申し訳ありません。それで、援軍が戻るまでどの程度耐えればよいのでしょうか？"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:286
@@ -7180,6 +7196,8 @@ msgid ""
 "siege can be broken. Hearken to my words, Konrad, and Blackwater Port shall "
 "yet endure!"
 msgstr ""
+"黒水港をあと数日保たせれば、勝利は確実だ！私は港で包囲され、身動きが取れないが、Konrad "
+"の助けがあれば包囲も崩せよう。Konrad、どうか私の言葉に耳を傾けてくれ、そうしてくれれば黒水港は今後も安泰だ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:295
@@ -7188,7 +7206,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:342
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:316
 msgid "Survive until turns run out"
-msgstr ""
+msgstr "ターンが尽きるまで生き残る"
 
 #. [objective]: condition=win
 #. [objective]: description=<span strikethrough='true' color='#A9A9A9'>,
@@ -7198,7 +7216,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:302
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:310
 msgid "Protect Sir Kaylan: recruit Cavalrymen and Horsemen"
-msgstr ""
+msgstr "Kaylan 卿を守る：竜騎兵と騎兵を雇用可能"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:323
@@ -7208,14 +7226,14 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:303
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:235
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "全ての敵リーダーを倒す"
 
 #. [objective]: condition=win
 #. This is an objective note. Completing this objective will be very hard, but
 #. you gain an early finish bonus and a loyal unit.
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:325
 msgid "(very hard: early finish bonus &#38; loyal companion)"
-msgstr ""
+msgstr "（極めて困難：早期終了ボーナス &#38; 忠実な同行者）"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:345
@@ -7224,6 +7242,8 @@ msgid ""
 " have I felt this way, young Konrad. If I have but one regret in my life, it"
 " is that I could not raise you here as my own."
 msgstr ""
+"戦友たちよ、肩を並べて戦おうぞ！若き Konrad "
+"よ、このような気持ちになったのは先王が身罷って以来だ。人生で唯一後悔していることがあるとすれば、あなたをここで我が子のように育てられなかったことだな。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:349
@@ -7231,13 +7251,14 @@ msgid ""
 "Master Delfador told me: You wanted to raise me in Blackwater Port among "
 "other humans, but he felt it was too dangerous."
 msgstr ""
+"この黒水港で、人間の町であなたが私を育てたいと願っていたと、Delfador 師匠からも聞いています。しかし、師匠はそれが危険すぎると思ったようです。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:353
 msgid ""
 "I don’t mind though. I like elves, and we still got to come visit you "
 "sometimes."
-msgstr ""
+msgstr "何、構わない。エルフのことも気に入っているし、たまには会いにいっていたしな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:357
@@ -7245,24 +7266,24 @@ msgid ""
 "And I was quite right, too. A military town is no place for a young child; "
 "Blackwater Port has seen its fair share of battles since I first rescued "
 "you, Konrad."
-msgstr ""
+msgstr "そして私の予感も正しかった。軍隊の町は子供にはあまりよろしくない。Konrad  を救ったあの日以降、黒水港では多くの戦いがあったからな。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:368
 msgid "Vygwyn"
-msgstr ""
+msgstr "Vygwyn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:369
 msgid "Gaebryn"
-msgstr ""
+msgstr "Gaebryn"
 
 #. [message]: speaker=Vygwyn
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:373
 msgid ""
 "Hail, Sir Kaylan! We rode as swiftly as we could, and come to aid in the "
 "defense! The others will arrive soon — do not despair!"
-msgstr ""
+msgstr "Kaylan 卿！防衛に助力すべく、全速力で戻りました！他の者達もすぐに戻ります ── まだまだこれからです！"
 
 #. [message]: speaker=Vygwyn
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:378
@@ -7270,42 +7291,42 @@ msgid ""
 "Hail, is anyone still alive? We rode as swiftly as we could, and come to aid"
 " in the defense. Do not despair — the rest of your reinforcements will soon "
 "arrive!"
-msgstr ""
+msgstr "まだ生き残りはいるか？防衛に助力すべく全速力で戻った。諦めるな ── 他の者達もすぐに戻ってくるぞ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:425
 msgid "Yredd"
-msgstr ""
+msgstr "Yredd"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:426
 msgid "Tarcyn"
-msgstr ""
+msgstr "Tarcyn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:427
 msgid "Syryn"
-msgstr ""
+msgstr "Syryn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:428
 msgid "Cicyn"
-msgstr ""
+msgstr "Cicyn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:429
 msgid "Ginvan"
-msgstr ""
+msgstr "Ginvan"
 
 #. [unit]: id=Haldiel, type=Horseman
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:433
 msgid "Haldiel"
-msgstr ""
+msgstr "Haldiel"
 
 #. [unit]: type=Knight, id=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:448
 msgid "Simyr"
-msgstr ""
+msgstr "Simyr"
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:475
@@ -7313,45 +7334,45 @@ msgstr ""
 msgid ""
 "Your promised reinforcements have arrived! Time to drive back the false "
 "queen’s troops from the port!"
-msgstr ""
+msgstr "待たせたな、援軍の到着だ！さあ、港から偽りの女王の軍勢を駆逐するぞ！"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:480
 msgid ""
 "Our promised reinforcements have arrived! Time to drive back the false "
 "queen’s troops from the port!"
-msgstr ""
+msgstr "やっと戻ってきたか！それでは港から偽りの女王の軍勢を排除するぞ！"
 
 #. [message]: speaker=Mokolo Qimur
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:485
 msgid ""
 "So many foul humans riding on horses! Asheviere isn’t paying me nearly "
 "enough for this. Let’s get out of here!"
-msgstr ""
+msgstr "馬に乗ったクソ人間がこんなにたくさん！Asheviere からもらった金じゃ割に合わん。さっさとずらかるぞ！"
 
 #. [message]: speaker=enemy1
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:490
 msgid "The enemy has been reinforced! Quick, we must make our escape!"
-msgstr ""
+msgstr "敵の援軍だ！急げ、我々も早く撤退するぞ！"
 
 #. [message]: speaker=enemy2
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:495
 msgid "Retreat! Fall back!"
-msgstr ""
+msgstr "撤退だ！退くぞ！"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:521
 msgid ""
 "Reinforcements have arrived, but lo! Together we have already managed to "
 "repel the false queen’s attack!"
-msgstr ""
+msgstr "援軍が到着したか。しかし遅かったな。見よ！偽りの女王の軍勢は我々だけで撃退してしまったぞ！"
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:548
 msgid ""
 "Victory is ours — but at such cost! Where is the lord of the town? What has "
 "become of Sir Kaylan?"
-msgstr ""
+msgstr "我々の勝利だ ── しかしなんということだ！この町の領主はどこに？Kaylan 卿は一体どうなってしまったのか？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:552
@@ -7360,6 +7381,8 @@ msgid ""
 "pierced by Asheviere’s spears. It is thanks to his sacrifice that Blackwater"
 " Port still stands free."
 msgstr ""
+"叔父さん── Kaylan 卿は勇敢に戦い… そして Asheviere の槍に倒れました。Kaylan "
+"卿の犠牲があったからこそ、黒水港は今も自由を保つことができています……"
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:559
@@ -7369,6 +7392,8 @@ msgid ""
 "with his passing we cannot afford to send the Horsemen and Cavalrymen he had"
 " hoped to."
 msgstr ""
+"なんということだ。英雄的な死だ。それでも死であることに変わりはない。Kaylan は騎兵や竜騎兵をあなたの旅に同行させたいと願っていたが、Kaylan "
+"亡き今、我々にそのような余裕は無い。"
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:563
@@ -7378,12 +7403,15 @@ msgid ""
 " behind to guard the port, we can still partially fufill Sir Kaylan’s last "
 "wish, Sir Simyr."
 msgstr ""
+"しかし、Asheviere "
+"の軍勢を今日打ち破ったのですから、少数ならばなんとかならないでしょうか？もちろん、港の防衛を考えると多くは出せませんが、Kaylan "
+"卿のご遺志を少しだけでも叶えることはできませんか、Simyr 卿。"
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:567
 msgid ""
 "Very well. Haldiel and I shall join you on your quest, Your Royal Highness."
-msgstr ""
+msgstr "そうだな。それでは Haldiel と私が同行することにしよう。よろしくお願いいたします、殿下。"
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:577
@@ -7393,6 +7421,8 @@ msgid ""
 "with his passing we can no longer afford to. Konrad, you will have to "
 "journey on from here with only Peasants and Woodsmen by your side."
 msgstr ""
+"なんということだ。英雄的な死だ。それでも死であることに変わりはない。Kaylan は騎兵や竜騎兵をあなたの旅に同行させたいと願っていたが、Kaylan "
+"亡き今、我々にそのような余裕は無い。Konrad、ここから先、あなたは農民と木こりだけを伴って旅を続けなければならない。"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:585
@@ -7402,11 +7432,14 @@ msgid ""
 "of my riders are free to accompany you on your quest. Konrad, may they serve"
 " you well!"
 msgstr ""
+"輝かしい勝利だ ── "
+"同胞よ、協力に感謝する！さて、私はここで港を守らねばならないが、ここで偽りの女王の軍勢を撃退できたのだから、部下達をあなたに同行させても大丈夫だろう。Konrad"
+" のために力を尽くしてくれよう！"
 
 #. [else]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:587
 msgid "Konrad can now recruit Cavalrymen and Horsemen!"
-msgstr ""
+msgstr "Konrad は「竜騎兵」と「騎兵」を雇用できるようになりました！"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:596
@@ -7416,6 +7449,7 @@ msgid ""
 "forward! I place your lances in the service of His Highness here. May you "
 "help him restore order to the country."
 msgstr ""
+"……そうだな、ここまで完全に打ち負かしたのだから、当初の予定よりも多くの騎兵を送っても大丈夫であろう。Haldiel、Simyr、前に出よ！これより、お前たちは殿下のためにランスを振るうのだ。殿下をお助けし、この国の秩序を取り戻す一助となって欲しい。"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:601
@@ -7425,38 +7459,39 @@ msgid ""
 "place your lance in the service of His Highness here. May you help him "
 "restore order to the country."
 msgstr ""
+"……そうだな、ここまで完全に打ち負かしたのだから、当初の予定よりも多くの騎兵を送っても大丈夫であろう。Haldiel、前に出よ！これより、お前は殿下のためにランスを振るうのだ。殿下をお助けし、この国の秩序を取り戻す一助となって欲しい。"
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:614
 msgid "Greetings, young master. I pledge myself to your service."
-msgstr ""
+msgstr "若様、ご挨拶申し上げます。これより若様にお仕えすることを誓います。"
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:619
 msgid "It is my pleasure and honor to serve, my liege."
-msgstr ""
+msgstr "お仕えすることを大変光栄に存じます、我が君よ。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:638
 msgid "I have failed in my duty to protect the rightful heir and the port..."
-msgstr ""
+msgstr "正当なる後継者とこの港を守るという責務を果たせぬとは…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:645
 msgid ""
 "Kaylan, no! Please, you have to get back up! You have to keep fighting!"
-msgstr ""
+msgstr "そんな、叔父さん！お願いだから立ち上がって！負けちゃダメだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:652
 msgid ""
 "I’m sorry, Konrad. He is lost to us now... Today we mourn a good man..."
-msgstr ""
+msgstr "Konrad、すまない。卿は逝ってしまった… 今はこの立派な男の死を悼もう…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:659
 msgid "He’s gone, isn’t he... Today we mourn a good man."
-msgstr ""
+msgstr "逝ってしまったのか… 今はただこの立派な人を悼もう…"
 
 #. [message]: speaker=1Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:133
