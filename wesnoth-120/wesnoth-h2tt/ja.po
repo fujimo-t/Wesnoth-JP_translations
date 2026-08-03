@@ -7497,198 +7497,198 @@ msgstr "逝ってしまったのか… 今はただこの立派な人を悼も�
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:133
 msgid ""
 "Are you coming to liberate us? Finally, we stand a chance against the orcs!"
-msgstr ""
+msgstr "私たちを解放しに来てくれたのですか？ついにオークに立ち向かうチャンスが巡ってきた！"
 
 #. [message]: speaker=4Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:140
 msgid "Now that we are free, together we can defeat our oppressors!"
-msgstr ""
+msgstr "自由になれたぞ、さあ、一緒にあいつらをぶちのめそうぜ！"
 
 #. [message]: speaker=5Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:147
 msgid "Let’s take back the Trident the orcs stole from us!"
-msgstr ""
+msgstr "オークに取られたトライデントを取り戻すぞ！"
 
 #. [message]: speaker=6Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:154
 msgid ""
 "Death to the orcs! Come, my brethren, let us fight the orcs and drive them "
 "from our shores!"
-msgstr ""
+msgstr "オークに死を！同胞よ、奴らを俺たちの海岸から追い払うぞ！"
 
 #. [message]: speaker=8Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:161
 msgid "Thank you for rescuing us! Now we can help you fight the evil orcs!"
-msgstr ""
+msgstr "助けてくれてありがとうな！俺達もクソオークとの戦いを手伝うぞ！"
 
 #. [message]: speaker=9Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:168
 msgid "Freedom! Now where are those orcs? Let me at ’em!"
-msgstr ""
+msgstr "やっと自由になれた！さて、オークはどこだ？ぶっ飛ばしてやる！"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:273
 msgid "scenario name^The Bay of Pearls"
-msgstr ""
+msgstr "真珠の入り江"
 
 #. [side]: type=Orcish Crossbowman, id=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:304
 msgid "Dverag-Kukai"
-msgstr ""
+msgstr "Dverag-Kukai"
 
 #. [side]: type=Orcish Crossbowman, id=Dverag-Kukai
 #. [side]: type=Orcish Warrior, id=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:312
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:334
 msgid "Orcs"
-msgstr ""
+msgstr "オーク"
 
 #. [side]: type=Orcish Warrior, id=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:323
 msgid "Managa’Gwin"
-msgstr ""
+msgstr "Managa’Gwin"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:384
 msgid "Merfolk"
-msgstr ""
+msgstr "マーフォーク"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:412
 msgid "Bugg"
-msgstr ""
+msgstr "Bugg"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:413
 msgid "Drasha"
-msgstr ""
+msgstr "Drasha"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:430
 msgid "Gwaba"
-msgstr ""
+msgstr "Gwaba"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:432
 msgid "Triram"
-msgstr ""
+msgstr "Triram"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:433
 msgid "Mriram"
-msgstr ""
+msgstr "Mriram"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:434
 msgid "Aigaion"
-msgstr ""
+msgstr "Aigaion"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:435
 msgid "Nethuns"
-msgstr ""
+msgstr "Nethuns"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:436
 msgid "Earooa"
-msgstr ""
+msgstr "Earooa"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:437
 msgid "Mabooa"
-msgstr ""
+msgstr "Mabooa"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:438
 msgid "Elcmar"
-msgstr ""
+msgstr "Elcmar"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:439
 msgid "Gwarloa"
-msgstr ""
+msgstr "Gwarloa"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:440
 msgid "Gwimli"
-msgstr ""
+msgstr "Gwimli"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:441
 msgid "Kwaboo"
-msgstr ""
+msgstr "Kwaboo"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:442
 msgid "Kaba"
-msgstr ""
+msgstr "Kaba"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:443
 msgid "Apalala"
-msgstr ""
+msgstr "Apalala"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:444
 msgid "Heldaga"
-msgstr ""
+msgstr "Heldaga"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:445
 msgid "Jarla"
-msgstr ""
+msgstr "Jarla"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:446
 msgid "Tini"
-msgstr ""
+msgstr "Tini"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:485
 msgid "Are all the fishmen in cages yet?"
-msgstr ""
+msgstr "魚はもう全部檻に入れたか？"
 
 #. [message]: speaker=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:489
 msgid "Almost."
-msgstr ""
+msgstr "ほとんどは。"
 
 #. [message]: speaker=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:491
 msgid ""
 "UP, SEA LICE! Drag your slimy hides from the deep! Drop the pearls, then "
 "scuttle back to your cages!"
-msgstr ""
+msgstr "上がれ、フナムシども！そのヌメった体を海から出すんだ！真珠を落としたらさっさと檻へ戻れ！"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:511
 msgid "+120 gold"
-msgstr ""
+msgstr "+120 ゴールド"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:511
 msgid "+160 gold"
-msgstr ""
+msgstr "+160 ゴールド"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:511
 msgid "+40 gold"
-msgstr ""
+msgstr "+40 ゴールド"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:511
 msgid "+80 gold"
-msgstr ""
+msgstr "+80 ゴールド"
 
 #. [message]: speaker=Gwaba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:528
 msgid "Nepba, it’s noon. The orcs are groggy and sleepy. This is our moment!"
-msgstr ""
+msgstr "Nepba、もう午後だ。オークはぼんやりして眠そうにしている。やるなら今だろう！"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:532
 msgid "Let’s just take a look around for now. We must not act rashly."
-msgstr ""
+msgstr "まずは周囲の様子を確認しよう。軽率に動いてはいけない。"
 
 #. [message]: speaker=Gwaba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:536
@@ -7697,51 +7697,52 @@ msgid ""
 " open! When the others see that we’ve reclaimed it, they’ll rise up and "
 "we’ll finally drive out the orcs!"
 msgstr ""
+"今朝、ストームトライデントがある洞窟の入り口が開いているのを見た。俺たちがあれを取り戻したところを見せれば、みんなもやる気を出すだろう。そうすればオークを追い出せるぞ！"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:540
 msgid ""
 "I don’t like our odds. Someone could shoot us from the castle while we swim "
 "to the entrance."
-msgstr ""
+msgstr "そんなにうまくいくか？入り口まで泳いでいく間に城から射たれてしまうだろう。"
 
 #. [message]: speaker=Gwaba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:544
 msgid ""
 "Let’s try swimming around the cave. There are cliffs and kelp that are easy "
 "to hide in."
-msgstr ""
+msgstr "洞窟のまわりを泳いだらどうか。これなら崖や海草で身を隠すこともできる。"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:550
 msgid "Gwaba, wait!"
-msgstr ""
+msgstr "Gwaba、待て！"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:573
 msgid ""
 "Chief, I went to throw some trash in the sea and shot a fishman creeping up "
 "on the Trident!"
-msgstr ""
+msgstr "ボス、海にゴミを捨てに行ったら、トライデントに忍び寄っていた魚がいたから射ったぞ！"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:577
 msgid ""
 "They’re planning an uprising! Drasha, have you managed to harness the power "
 "of the Trident yet?"
-msgstr ""
+msgstr "反乱を企てているのか！Drasha、トライデントの力は使えるようになったか？"
 
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:581
 msgid "Not yet, no."
-msgstr ""
+msgstr "いや、まだだ。"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:585
 msgid ""
 "Lock yourself in the cave until you can get the Trident to send a storm that"
 " destroys their villages. They need to be punished."
-msgstr ""
+msgstr "ひとまず洞窟にとじこもってトライデントの力を掌握するんだ。できたら、嵐を呼び起こして連中の村を破壊しろ。奴らには罰が必要だ。"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:645
@@ -7749,18 +7750,20 @@ msgid ""
 "Your Highness! Thank you for answering our plea for help. I am Nepba. We are"
 " all grateful you have come, but you must hurry!"
 msgstr ""
+"王子殿下！私たちの助けに応えてくださり、感謝いたします。私は Nepba "
+"と申します。殿下がお越しくださったことに皆は深く感謝しておりますが、どうかお急ぎください！"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:649
 msgid ""
 "The orcs have stolen our Trident of Storms and are now trying to harness its"
 " power to destroy our villages. They already killed my cousin Gwaba!"
-msgstr ""
+msgstr "オークは私達のストームトライデントを奪い、その力で村を破壊しようとしています。すでに、私のいとこの Gwaba は殺されてしまいました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:654
 msgid "Delfador, can you do anything to stop them?"
-msgstr ""
+msgstr "Delfador、あなたの力でどうにかできませんか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:658
@@ -7769,6 +7772,8 @@ msgid ""
 "spells could break it, but the power unleashed would do immeasurable damage "
 "to this place."
 msgstr ""
+"トライデントの魔力を感じる… "
+"古いが非常に強力だ。おそらく、私の魔術でなんとかすることは可能だ。しかし、その時に放出されるエネルギーでこの地は計り知れないほどのダメージを受けてしまうだろう。"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:663
@@ -7776,131 +7781,132 @@ msgid ""
 "We can take the Trident back from the orcs, but it is locked away in a cave."
 " They keep the key on land, where my kind cannot easily go."
 msgstr ""
+"我々ならば洞窟に入り、オークからトライデントを取り戻すことができます。しかし、トライデントのある洞窟の入り口がロックされており、鍵は我らが自由に動けない地上に保管されています。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:670
 msgid "We’ll help you, Nepba. Let’s get the key and reclaim your Trident."
-msgstr ""
+msgstr "手を貸すぞ、Nepba。鍵を手に入れ、トライデントを取り戻そう。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:679
 msgid "Get the key on 32,28; then attack the Orcish Shaman"
-msgstr ""
+msgstr "(32,38) にある鍵を手に入れ、オークのシャーマンに攻撃する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:686
 msgid "Attack the Orcish Shaman"
-msgstr ""
+msgstr "オークのシャーマンに攻撃する"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:711
 msgid ""
 "Konrad, we merfolk are eager to fight for our freedom. My people will join "
 "you when you liberate our villages."
-msgstr ""
+msgstr "Konrad、我々マーフォークは自由のために戦いたいと思っています。村を解放すれば味方として戦ってくれるでしょう。"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:729
 msgid "But chief, why are we only using bats and nagas?"
-msgstr ""
+msgstr "ボス、俺たちはなんでコウモリとナーガだけを使っているんだ？"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:733
 msgid ""
 "Because we need to control the seas and the merfolk, and nagas and bats are "
 "best for doing that!"
-msgstr ""
+msgstr "海やマーフォークを管理するなら、コウモリとナーガが最適だからだ！"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:737
 msgid "But orcs are the most powerful race in all of..."
-msgstr ""
+msgstr "でも、オークが一番強い種族で…"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:741
 msgid "Shut up, worm! I’m the boss!"
-msgstr ""
+msgstr "ザコは黙ってろ！俺がボスだ！"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:751
 msgid "Look at me!"
-msgstr ""
+msgstr "俺を見ろ！"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:761
 msgid "Ha ha ha! Now orcs will rule over land and sea!"
-msgstr ""
+msgstr "ハッハッハッ！これでオークが陸も海も支配できるぞ！"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:768
 msgid "(Sigh) Will someone kill this fool for me, please?"
-msgstr ""
+msgstr "ハァ…… 誰かあのバカを殺してくれないかな？"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:777
 msgid "But... but... how can this be happening to me?"
-msgstr ""
+msgstr "でも… でも… どうして俺がこんなことに？"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:787
 msgid "That’s for Gwaba!"
-msgstr ""
+msgstr "Gwaba の仇！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:801
 msgid "Who was that fool?"
-msgstr ""
+msgstr "あの馬鹿は一体何だったんだ？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:818
 msgid ""
 "We have the key to the cave now! Let’s stop the shaman before it’s too late."
-msgstr ""
+msgstr "洞窟の鍵を手に入れたぞ！手遅れになる前にシャーマンを止めるんだ！"
 
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:845
 msgid ""
 "Arrgh! No! They broke my concentration — the Trident is out of control!"
-msgstr ""
+msgstr "うがぁー！なんだと！集中が乱された ── トライデントが暴走してしまう！"
 
 #. [message]: race=merman
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:851
 msgid "It was never rightfully yours."
-msgstr ""
+msgstr "そもそもこれはお前たちの物じゃないんだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:857
 msgid "I am sure the Trident will yield to <i>me</i> much more readily."
-msgstr ""
+msgstr "このトライデントも、私にはもっと素直に従ってくれるだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:892
 msgid ""
 "We’re running out of time. If we cannot reclaim the Trident of Storms soon, "
 "the orcs will use it to wreak great destruction upon the merfolk!"
-msgstr ""
+msgstr "もう余裕がない。早くストームトライデントを手に入れなければ、オークがその力でマーフォークに大災害をもたらしてしまう！"
 
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:908
 msgid "Finally!"
-msgstr ""
+msgstr "来たぞ！"
 
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:910
 msgid "The trident has yielded to my power!"
-msgstr ""
+msgstr "トライデントが私の力に屈したぞ！"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:916
 msgid "No!"
-msgstr ""
+msgstr "そんな！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:932
 msgid ""
 "We were too slow, and the merfolk’s villages have been destroyed! How could "
 "I let this happen?"
-msgstr ""
+msgstr "間に合わなかった。マーフォークの村々は破壊されてしまった！どうして止められなかったのか…"
 
 #. [message]: race=merman
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:974
@@ -7908,23 +7914,24 @@ msgid ""
 "Your Royal Highness, Prince Konrad, protector of the oppressed! Thank you "
 "for saving us from our enemies and helping us to reclaim our sacred Trident!"
 msgstr ""
+"王子 Konrad 殿下は虐げられた人々の守護者だ！我々をオークから救っていただき、そして神聖なトライデントを取り戻していただき、心より感謝しています！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:978
 msgid "From now on, your pearls belong to you and you alone."
-msgstr ""
+msgstr "これからは、この真珠はあなただけのものです。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:980
 msgid ""
 "Konrad can now recruit Merman Fighters, Hunters, Brawlers, and Initiates!"
-msgstr ""
+msgstr "Konrad は「マーマンの戦士」、「マーマンの漁師」、「マーマンの喧嘩屋」、「マーメイドの下級術師」が雇用可能になりました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:983
 msgid ""
 "Can we take the Trident with us? It seems like it could be very useful."
-msgstr ""
+msgstr "トライデントを持っていくことはできますか？これは非常に強力な武器に見えます。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:988
@@ -7933,6 +7940,7 @@ msgid ""
 "Trident of Storms helps maintain the delicate balance of the Bay of Pearls "
 "and protects the merfolk from the fierce power of the sea."
 msgstr ""
+"ダメだ、Konrad。トライデントは岩にしっかり固定されている。そしてそれには理由がある！ストームトライデントは真珠の入り江の繊細なバランスを保ち、恐ろしい海の力からマーフォークを護っているのだ。"
 
 #. [message]: race=merman
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:994
@@ -7941,11 +7949,12 @@ msgid ""
 "can pry it from the rock in which it is embedded. It is just as well, for "
 "its power protects my people from the often terrible power of the sea."
 msgstr ""
+"もしそんなことができるなら、オークもとっとと持ち去っただろうが、誰も岩から引き剥がすことはできていない。それに、トライデントの力は海の恐ろしい力からしばしばマーフォークを護ってくれてもいるのだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:999
 msgid "(sigh) I knew it wouldn’t be that easy."
-msgstr ""
+msgstr "ふう… まあ、そう簡単なことではないと思っていました。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:10
@@ -7955,12 +7964,12 @@ msgstr "Alduin 島"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:50
 msgid "Yaerby"
-msgstr ""
+msgstr "Yaerby"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:175
 msgid "Alyra"
-msgstr ""
+msgstr "Alyra"
 
 #. [message]: speaker=leader2lieutenant
 #. ship can't be from Weldyn, because Elensefar might still be held by Maddock
@@ -7969,7 +7978,7 @@ msgstr ""
 msgid ""
 "They’re all locked up? Good. The ship from Fort Tahn will be here any day "
 "now, and then we can finally get these troublemakers off the Isle."
-msgstr ""
+msgstr "全員閉じ込めたか？良し。Tahn 砦からの船ももうすぐ到着する。そうすればようやくこの厄介者共を島から追い出せる。"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:203
@@ -7977,6 +7986,7 @@ msgid ""
 "Is all this really necessary? I mean— back in my day... Just a few drunken "
 "words... Hardly worth being press-ganged, I don’t think..."
 msgstr ""
+"本当にここまでする必要はあるのですか？いえ… 私の若い頃は、酔っ払って口走った言葉程度で… 強制徴用などにはならなかったと記憶していますが…"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:207
@@ -7984,20 +7994,21 @@ msgid ""
 "If we let a few apprentices speak ill of the queen, how long until they all "
 "do? Don’t forget whose royal endorsement secured you your position, Seimus."
 msgstr ""
+"数人の見習いの悪口を見逃せば、そのうち全員が言いだすだろう。Seimus、王室の援助がなければお前はその地位にとどまれない。そのことを努々忘れるなよ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:226
 msgid ""
 "Hail, scholars of Alduin! I’ve heard much about your home! I’ve even heard "
 "that there are some of you brave enough to stand up to the dark queen."
-msgstr ""
+msgstr "こんにちは、Alduin の学生さん！ここの話は色々と聞いています！中には、闇の女王に立ち向かうほど勇敢な方もいるとか？"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:230
 msgid ""
 "Who’re you to ask, stranger? That kind of talk can be dangerous. Did you see"
 " what happened to our locked-up friends?"
-msgstr ""
+msgstr "他所者がなぜそのようなことを聞く？その発言は危ないんだ。収監されてしまった連中のことを知らないのか？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:234
@@ -8006,19 +8017,21 @@ msgid ""
 "Wesnoth! I am Asheviere’s sworn enemy, and would welcome to my cause all who"
 " would oppose her!"
 msgstr ""
+"私が誰かと？では、自己紹介を。私は Konrad。Arand の王子の子で、Wesnoth の王位後継者です！Asheviere "
+"の宿敵で、女王に逆らう方々であれば喜んで迎え入れますよ！"
 
 #. [message]: speaker=Alyra
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:238
 msgid ""
 "Konrad? The one they call “the false prince”! I— I wasn’t even sure you "
 "existed!"
-msgstr ""
+msgstr "Konrad？連中の言う、「偽りの王子」！そんな… 実在するとは思ってなかった！"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:242
 msgid ""
 "Do you really think you can beat the queen? Is your whole rebel army here?!"
-msgstr ""
+msgstr "本当に女王を倒せるとお考えなのですか？あなたの反乱軍はここにいるだけですか？"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:246
@@ -8027,6 +8040,7 @@ msgid ""
 "are Konrad then you’d best leave right now, before the queen’s soldiers "
 "catch you."
 msgstr ""
+"まあ、まあ、みんな落ち着け。問題はもうたくさんだ。もしあなたが本当に Konrad なら、女王の兵士に見つかる前にすぐにここを離れた方が良い。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:250
@@ -8035,55 +8049,57 @@ msgid ""
 "friends. They dared to criticize the throne, and now they’ve been both "
 "expelled and imprisoned."
 msgstr ""
+"Konrad、こいつの言うことは聞かないでください。私達の友人が Wesnoth "
+"の兵士に捕まってしまったのです。彼らを大胆にも王権を批判したのですが、それにより退学処分を受けた上、さらに収監されてしまったのです。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:254
 msgid ""
 "You have to help us rescue them! Many of the older apprentices here think "
 "like Seimus, but my friends and I will fight with you!"
-msgstr ""
+msgstr "どうか彼らを助けてください！年長の者達は Seimus のように考えていますが、私と友人達はあなたと共に戦います！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:258
 msgid "You can now advance Mages to Red Mages!"
-msgstr ""
+msgstr "魔術師は赤魔術師に昇格できるようになりました！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:259
 msgid "Konrad can now recruit Mages, and advance them to (only) Red Mages!"
-msgstr ""
+msgstr "Konrad は魔術師を雇用できるようになりました。魔術師は赤魔術師にだけ昇格できます。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:263
 msgid "Of course I will help. To battle!"
-msgstr ""
+msgstr "もちろん手を貸そう。さあ戦いだ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:271
 msgid "Reach the prisoner mages, then move one near Konrad’s keep."
-msgstr ""
+msgstr "捕らわれた魔術師のところまで行き、その内一人を Konrad の主塔まで移動させる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:280
 msgid "Move any prisoner mage to one of the marked hexes."
-msgstr ""
+msgstr "捕らわれた魔術師の誰か一人をマークされたヘクスまで移動させる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:290
 msgid "(gain a loyal Arch Mage)"
-msgstr ""
+msgstr "（忠実な熟練魔術師を獲得）"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:298
 msgid "Death of all prisoner mages"
-msgstr ""
+msgstr "捕らわれた魔術師が全員死ぬ"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:325
 msgid ""
 "Seimus! My old colleague, what has come over you? There are soldiers "
 "occupying the Isle and you do nothing?"
-msgstr ""
+msgstr "Seimus！かつての同僚よ、お主に何があった？島が兵士に占領されているというのに、それを黙って見過ごすのか？"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:329
@@ -8092,6 +8108,8 @@ msgid ""
 "position to oppose the crown. I mean, we’re not all cut out to be rebels "
 "like you."
 msgstr ""
+"Delfador！？君までいるのか？……そうだな、Alduin "
+"は王家に逆らうような立場でないことは君もよく分かっているだろう。つまりだ、誰もが君のように反逆者になれるわけではないのだ。"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:333
@@ -8100,77 +8118,79 @@ msgid ""
 "that I wouldn’t like to help. I would! But Alduin has a future to think "
 "about!"
 msgstr ""
+"それに、捕まった連中は本当に厄介者だった。本当だ！手を貸したくないからこんなことを言っているわけじゃない。できれば手を貸したい！しかし、私は "
+"Alduin の未来も考えねばならないのだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:337
 msgid ""
 "You’ll recall that I was a troublemaker once. How many atrocities will "
 "happen because good men like you stay silent?"
-msgstr ""
+msgstr "私がかつて厄介者だったことは覚えているだろう？それに、お主のような善良なる者が何もしなければ、この先どれほどの悲劇が起きるだろうか？"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:341
 msgid "Ignore him, Seimus. Attack, or I will have you charged with treason!"
-msgstr ""
+msgstr "Seimus、話す必要は無い！さっさと攻撃しろ！さもなくば反逆罪で告発するぞ！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:345
 msgid ""
 "The Seimus I knew would never stoop so low! What good is a master who "
 "abandons his apprentices!"
-msgstr ""
+msgstr "私の知る Seimus はそのようにさもしい者ではなかったぞ！自分の弟子を見捨てるような下衆に成り下がったのか！"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:349
 msgid "Oh... well..."
-msgstr ""
+msgstr "ああ… ええと……"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:359
 msgid ""
 "Alright. Okay! Lieutenant, I will not assist you against our own students. "
 "If I am to be branded a rebel, so be it."
-msgstr ""
+msgstr "そうだな。わかったぞ！指揮官よ、生徒に危害を加えるというのなら、私は手を貸すことはできない。反逆者と呼びたいのであれば、好きにしろ。"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:363
 msgid "Traitor!"
-msgstr ""
+msgstr "裏切り者！"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:367
 msgid ""
 "Delfador, I cannot fight alongside you now, but neither will I fight against"
 " you. I must assemble the faculty and make clear Alduin’s new allegiance."
-msgstr ""
+msgstr "Delfador、今は共に戦えない。しかし、君と戦うこともない。私は教師たちを集め、Alduin の新しい形を作らねばならん。"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:371
 msgid ""
 "And, if you can clear Asheviere’s soldiers off the Isle entirely, I promise "
 "to personally join your army!"
-msgstr ""
+msgstr "しかし、もし君たちが Asheviere の兵士を島から完全に排除できれば。私が個人的に反乱軍に加わると約束しよう！"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:389
 msgid ""
 "Seimus, don’t just stand there. There are rebels on the Isle! Put that magic"
 " training to good use and throw some fireballs!"
-msgstr ""
+msgstr "Seimus、何を呆けている。島に反乱軍がいるぞ！これまでの魔術の訓練を活かして、ファイアボールでも放ってみせろ！"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:393
 msgid ""
 "Rebels? Well... I mean... the worst of the trouble is more or less "
 "apprentices, isn’t it? You can hardly expect faculty to fight students!"
-msgstr ""
+msgstr "反乱軍？ええと… つまり… 一番厄介なのは見習い達だったのでは？教師を生徒と戦わせるなんてありえない！"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:397
 msgid ""
 "That’s precisely what I expect, provost. There are no students in Konrad’s "
 "army — only rebels. Prove your loyalty to the queen."
-msgstr ""
+msgstr "ありえるのだよ、学長。それに Konrad の軍勢に生徒はいない ── いるのは反逆者だけだ。さあ、女王陛下への忠誠を示せ。"
 
 #. [message]: id=Elrian,Alyra
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:410
@@ -8178,16 +8198,17 @@ msgid ""
 "Academy housing is down this way, Konrad. There’re many other students "
 "there, but I think most of them are trying to keep their heads down."
 msgstr ""
+"Konrad、アカデミーの宿舎がこちらにあります。たくさんの生徒がいますが、ほとんどの生徒は目立たないようにしてやり過ごそうと思っているでしょう。"
 
 #. [message]: type=Shackled Mage, gender=male
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:425
 msgid "I hear sounds of fighting outside! Should we do something?"
-msgstr ""
+msgstr "外で戦闘音が聞こえる！何かした方がいいか？"
 
 #. [message]: type=Shackled Mage, gender=female
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:430
 msgid "I would if I could get out of these manacles..."
-msgstr ""
+msgstr "そうしたいところだけど、この手枷がね…"
 
 #. [message]: speaker=unit
 #. [message]: speaker=leader3
@@ -8200,38 +8221,38 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:788
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1417
 msgid "Urgh..."
-msgstr ""
+msgstr "うぐっ…"
 
 #. [message]: type=Shackled Mage
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:465
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:482
 msgid "Who are you! What’s going on?"
-msgstr ""
+msgstr "誰だ！何が起きている？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:469
 msgid ""
 "I’m a friend. We have to go — there’s no time to cut loose your shackles. "
 "Are you willing to help us fight Asheviere?"
-msgstr ""
+msgstr "仲間だ。ここから出なければ… しかし、その手枷を緩めている時間はなさそうだ。Asheviere との戦争に参加するつもりはあるか？"
 
 #. [message]: type=Shackled Mage
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:473
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:490
 msgid "Better than rotting in here. Come on, everyone, we’re leaving!"
-msgstr ""
+msgstr "ここで腐っているよりはマシでしょう。みんな、行こう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:486
 msgid ""
 "I’m a friend. Come — let us cut loose your shackles. Are you willing to help"
 " us fight Asheviere?"
-msgstr ""
+msgstr "仲間だ。さあ、手枷を緩めてあげよう。それで、Asheviere との戦争に参加するつもりはあるか？"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:525
 msgid "We need more gold! Send in the reserves."
-msgstr ""
+msgstr "資金が足りない！予備も投入するぞ。"
 
 #. [message]: speaker=unit
 #. the speaker is a level 1 "Shackled Mage", who's just received an AMLA
@@ -8242,18 +8263,18 @@ msgstr ""
 #. this scenario, so we lampshade it with this line of dialogue
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:546
 msgid "I’m going to be so strong if I ever get out of these shackles..."
-msgstr ""
+msgstr "この手枷を外せれば、もっと強くなれるはずだ…"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:547
 msgid ""
 "female^I’m going to be so strong if I ever get out of these shackles..."
-msgstr ""
+msgstr "この手枷が外れれば、もっと強くなれるはず…"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:576
 msgid "Wait! Stop! Please don’t kill me!"
-msgstr ""
+msgstr "待て！止めてくれ！どうか殺さないでくれ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:580
@@ -8262,11 +8283,12 @@ msgid ""
 " And as long as you live, never forget what would’ve happened to your "
 "apprentices had I not been here to help."
 msgstr ""
+"学長、殺しはしない。しかし、お前は臆病者だ。さっさと消えろ。それと、我々がここに来なかったら自分の弟子達がどうなったのか、想像したか？生きている限りそれを忘れるな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:610
 msgid "Asheviere’s armies are defeated! We’ve won!"
-msgstr ""
+msgstr "Asheviere の軍勢を倒した！我々の勝利だ！"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:618
@@ -8274,20 +8296,21 @@ msgid ""
 "You... you really did it! Incredible! Alduin is in your debt, Delfador. And "
 "Konrad. And you apprentices too!"
 msgstr ""
+"君たちは… 本当にやったのか！信じられない！Alduin は君たちに借りができた。Delfador に、Konrad に、そして生徒達にも！"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:622
 msgid ""
 "And, well, I made a promise to join you if you wiped those soldiers out. And"
 " I intend to keep it. I place myself at your service, young master."
-msgstr ""
+msgstr "それと、兵士を駆逐したら私が加わると約束していたな。約束は守ろう。どうぞなんなりとご命令ください、若様。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:641
 msgid ""
 "We’ve done well to defeat Asheviere’s leaders on the isle, but we still need"
 " to rescue the prisoners and escape before reinforcements arrive."
-msgstr ""
+msgstr "Asheviere の軍の指揮官を倒すことはできた。しかし、敵の援軍が到着する前に、囚人を逃がし、脱出しなければならない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:657
@@ -8296,18 +8319,20 @@ msgid ""
 " couldn’t do better, but at least we’ve shown the people here that Asheviere"
 " can be beaten."
 msgstr ""
+"人命を救うために立ち上がったのに、救った数よりも救えなかった数の方が多くなってしまった。もう少しうまくやれればよかったのだが。それでも、Asheviere"
+" を倒すことはできるのだと人々に示すことはできた。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:663
 msgid "We’ve saved everyone we could! Now it’s time for us to save ourselves."
-msgstr ""
+msgstr "全員を救うことができた！さて、我々自身もそろそろ救い出すとしようか。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:670
 msgid ""
 "Live not in fear, Alduin! Once I’m king I will return here to set things "
 "right."
-msgstr ""
+msgstr "Alduin よ、恐怖に負けるな！私はいずれ王となってここに戻り、物事を正しましょう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:676
@@ -8315,13 +8340,14 @@ msgid ""
 "Live not in fear, Alduin, for today proves that Asheviere can be beaten! "
 "Once I’m king I will return here to set things right."
 msgstr ""
+"Alduin よ、恐怖に負けるな！今日、Asheviere を倒すことはできると証明された！私はいずれ王となってここに戻り、物事を正してみせます。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:697
 msgid ""
 "All of the prisoners we set out to rescue are dead! This has been a "
 "disaster..."
-msgstr ""
+msgstr "助けようとした囚人達がみんな死んでしまった！なんてことだ…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:711
@@ -8330,13 +8356,15 @@ msgid ""
 "mages away. If we take too long to finish our work here, that ship will "
 "surely arrive with reinforcements and defeat us."
 msgstr ""
+"Asheviere "
+"の兵士が、捕らわれた魔術師を連れ去るため、王家の船が来るという話をしていた。その船には敵の兵士も多く乗っているだろう。船が来る前に終わらせなければ。"
 
 #. [message]: role=ship
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:720
 msgid ""
 "Hail, Alduin! We’re here on schedule with a fresh rotation of guards for the"
 " garrison. It looks like you need them!"
-msgstr ""
+msgstr "Alduin よ！駐屯地の交代要員を予定通り運んできたぞ。早速だが、どうやらこいつらの出番のようだな！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:724
@@ -8344,7 +8372,7 @@ msgid ""
 "Oh no! Asheviere’s soldiers have been reinforced! We cannot flee while their"
 " ship controls the waters, and we cannot afford the time to stop and "
 "fight..."
-msgstr ""
+msgstr "そんな！敵の援軍が到着してしまった！ここで立ち止まって戦う余裕は無いが、海を敵船に抑えられている以上、逃げることもできない…"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:8
