@@ -8382,7 +8382,7 @@ msgstr "Muff Malal の半島"
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:226
 msgid "What’s going on here? Stop attacking that helpless man!"
-msgstr ""
+msgstr "一体何が起きているんだ？その無抵抗の男に攻撃をするな！"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:230
@@ -8390,6 +8390,7 @@ msgid ""
 "I warned you not to interrupt! I’m BUSY! And for the record, HE attacked ME,"
 " while I was peacefully minding my own business killing innocent townsfolk."
 msgstr ""
+"邪魔をするなと言っただろう！私は忙しいんだ！！それと、正確にはこいつ「が」私「を」攻撃したんだ。まったく、私は無実の町民を殺すことにのんきに集中していただけだというのに。"
 
 #. [message]: speaker=Moremirmu
 #. vague reference to the events of UtBS
@@ -8397,26 +8398,26 @@ msgstr ""
 msgid ""
 "For at the end of days, the texts prophesy a great destruction, yea, the sun"
 " itself shall rain down from the heavens as sulfur and fire!"
-msgstr ""
+msgstr "終末の日には、大いなる破壊が起こると聖典によって予言されている。太陽そのものが、硫黄と炎となって天から降り注ぐのだ！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:239
 msgid ""
 "And lo! The unclean dead shall be smitten down, and lo! There shall be peace"
 " eternal for all men. So readeth the texts."
-msgstr ""
+msgstr "そしてなんと！不浄なる不死者は打ち倒される！そしてなんと！全ての人々に永久なる平和が訪れるのだ。聖典にはそう記されている。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:243
 msgid "Yet until then, it falls to those such as me to do the smiting!"
-msgstr ""
+msgstr "しかしその日が訪れるまでは私のような者が悪を滅ぼさねばならないのだ！"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:248
 msgid ""
 "Such an annoyance. Just stay out of my way until I’ve dealt with these "
 "newcomers, will you? I’ll have plenty of time to finish you off later!"
-msgstr ""
+msgstr "ああ、うざい。新参者の相手をしているんだから邪魔をするな。お前は後でゆっくり片付けてやるからな！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:254
@@ -8427,13 +8428,14 @@ msgid ""
 "power in him, but one man alone will not prevail against the hordes of "
 "undead that roam this peninsula."
 msgstr ""
+"Konrad、あの戦士を助けたいのであれば、急がねば！あの男からは魔力を感じる。しかし、たった一人ではこの大量のアンデッドがひしめく半島で生き残ることはできないだろう。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:256
 msgid ""
 "20 against 1 is pretty long odds, Konrad. If we’re goin’ to help that "
 "warrior before he’s overwhelmed, we’d better hurry things up."
-msgstr ""
+msgstr "20 対 1 はかなり厳しいぞ、Konrad。もしあの戦士が押し潰される前に助けたいのであれば、急ぐ必要があるな。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:257
@@ -8442,6 +8444,7 @@ msgid ""
 " a skilled fighter, but one man alone will not prevail against the hordes of"
 " undead that roam this peninsula."
 msgstr ""
+"Konrad、あの戦士を助けるのであれば、素早く駆け抜けねばなりません！彼は優れた戦士のようですが、たった一人ではこの大量のアンデッドがひしめく半島で生き残ることはできないでしょう。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:258
@@ -8450,6 +8453,7 @@ msgid ""
 "magical power in him, but one man alone will not prevail against the hordes "
 "of undead that roam this peninsula."
 msgstr ""
+"Konrad、あの戦士を助けたいのであれば、急がねばなりません！あの戦士からは魔力を感じます。しかし、たった一人ではこの大量のアンデッドがひしめく半島で生き残ることはできないでしょう。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:260
@@ -8458,6 +8462,7 @@ msgid ""
 " Tha’ long-staff sixpenny sorcerer’ll be having a change o’ heart — "
 "literally! — once we’re through with ’im!"
 msgstr ""
+"20倍の数の敵が相手とあらば、あやつがドワーフであっても厳しいぞ！あの長杖を持った貧弱な魔術師の心を改めさせるぞ、物理的に！フハハハ、奴を片付けるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:261
@@ -8465,26 +8470,26 @@ msgid ""
 "Oh, oh my. That magical warrior looks rather, err, powerful, doesn’t he? But"
 " that’s also a lot, really quite many undead surrounding him. We’d better "
 "hurry if we want to save him."
-msgstr ""
+msgstr "あらあら。あの魔法戦士は中々できますね。でも、まわりにいるアンデッドも大変な数ですよ。急がないとあの方を助けられませんね。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:262
 msgid ""
 "Dat holy man be lookin’ mighty strong, but Dosh is thinking there’s too many"
 " o’ dem undead e’en for him. We’d better be helpin’ him out, Konrad."
-msgstr ""
+msgstr "あの神聖男強そう。でも Dosh アンデッド多すぎと思う。Konrad、俺たちあいつ助けた方良い。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:263
 msgid ""
 "We’d better move quickly and help fight! That warrior looks powerful, but "
 "the necromancer has the advantage of numbers."
-msgstr ""
+msgstr "速やかに進出し、支援しよう！あの戦士は手練のようだが、数ではやはり降霊術師に圧倒的に分がある。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:267
 msgid "Get ready for battle, everyone!"
-msgstr ""
+msgstr "準備はいいか、みんな！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:275
@@ -8494,7 +8499,7 @@ msgstr "Muff Malal を倒す"
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:289
 msgid "Moremirmu will join you if you move any unit adjacent to him."
-msgstr ""
+msgstr "Moremirmu の隣にユニットを移動させると仲間になります。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:304
