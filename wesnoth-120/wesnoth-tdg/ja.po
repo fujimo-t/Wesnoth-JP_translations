@@ -1358,20 +1358,21 @@ msgid ""
 "Methor, command the camp in my absence — those goblin raiders are still "
 "being a nuisance."
 msgstr ""
+"決戦の時は来たれり！作戦は覚えておろうな。Lionel将軍は、我が騎兵隊が隙を伺う間、オークの戦士どもを漸減せしめよ。Methor、私の不在時はそなたが陣営を指揮するのだ――あのゴブリンの遊撃隊が鬱陶しいからな。"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:348
 msgid ""
 "M’lord, weren’ we waiting for the queen? Your wife had expressed an interest"
 " in seeing an orc."
-msgstr ""
+msgstr "陛下、王妃を待たなくてよろしいので？妃殿下はオークを見たいと仰せだったはずですが。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:352
 msgid ""
 "We can brook no delay, Lionel. The opposing army is finally ready for "
 "pitched battle. Ere dusk, my lance will be stained with orcish blood!"
-msgstr ""
+msgstr "我等には一刻の猶予も許されておらぬのだ、Lionel！敵軍は最早会戦の準備を整えておる。日暮れ前には、この槍がオークの血で染まるであろう！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:358

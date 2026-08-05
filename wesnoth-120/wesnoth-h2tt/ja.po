@@ -8509,6 +8509,9 @@ msgid ""
 "fishers... Muff Malal must have killed them all, while the queen’s armies "
 "did nothing to help."
 msgstr ""
+"Delfador "
+"の本でこの地のことを読んだことがある。真珠の半島にはかつていくつかの町があり、真珠の交易で繁栄していたと。女王の軍が放置している間に、Muff "
+"Malal は農家に漁師…  彼ら町の人々を皆殺しにしたに違いない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:307
@@ -8520,6 +8523,8 @@ msgid ""
 "to protecting the townsfolk — time we can no longer spend fighting her "
 "directly."
 msgstr ""
+"無為ではなく、故意の可能性もある。西部地域で降霊術師を暴れさせておいたことで、我々は人々を守るために時間と資源を向けねばならなくなった。結果、我々が直接"
+" Asheviere の戦力を削る時間と機会が奪われている…"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:310
@@ -8528,6 +8533,8 @@ msgid ""
 "“necromancy”. And here Asheviere won’t even act when an entire town is "
 "destroyed. She’ll work with anyone she finds useful."
 msgstr ""
+"Alduin では、生徒が「降霊術」という言葉を口にしただけで追放されるのを見ました。一方、ここでは町が丸ごと滅ぼされても Asheviere "
+"は何もしていない。女王は自分に取って役に立つか立たないか、それだけで物事を判断しているのでしょう。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:311
@@ -8536,6 +8543,8 @@ msgid ""
 "“necromancy”. And here Asheviere won’t even act when an entire town is "
 "destroyed. She’ll work with anyone she finds useful."
 msgstr ""
+"ふん。Alduin では、「降霊術」と口にしただけで生徒を追放していたのに、ここでは町が丸ごと破壊されても Asheviere "
+"は何もしないのか。女王は自分の都合だけで物事を判断しているのであろうな。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:312
@@ -8543,7 +8552,7 @@ msgid ""
 "Aye, tha’ human-queen ’o yers is a filthy, white-livered, chicken-hearted "
 "skinflint o’ a poltroon, she is! Dinnae you worry son, when we git our hands"
 " on her ah’ll tear her queenly flesh t’ shreds!"
-msgstr ""
+msgstr "フン、人間の女王とは卑劣で惰弱で臆病で小心で腰抜けか！安心しろ、小僧！女王を捕まえたらば粉々に引き裂いてみせようぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:313
@@ -8552,27 +8561,29 @@ msgid ""
 "purpose, to keep all us rebels busy while she be livin’ luxury up in Weldyn."
 " If’n not for Baldras and Relana, one o’ these dead folk could’ve been me..."
 msgstr ""
+"女王とは厄介な奴だな。賭けてもいいが、これは故意だとアタシは思う。自分が Weldyn "
+"でぜいたく三昧の間、アタシら反逆者を引っ張り回すつもりだろう。Baldras と Relana がいなかったら、アタシもあの死体みたいになってたのかも…"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:314
 msgid ""
 "I’ve visited this place before, to buy supplies from the fishermen... It’s "
 "rather terrible to see what’s become of it now."
-msgstr ""
+msgstr "漁師から物資を買うため、以前にここを訪れたことがあります… こんなことになっていたとは残念です。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:334
 msgid ""
 "Lo and behold! I stood in need of aid, and so aid has come! What brings you "
 "to Muff Malal’s peninsula, pilgrims?"
-msgstr ""
+msgstr "とくと見よ！私は助けを必要としていた！それゆえ助けが来たのだ！さて、どうして Muff Malal の半島に来たのだ？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:338
 msgid ""
 "I am Konard, heir to the throne of Wesnoth, and seeking to reclaim my seat "
 "from the evil queen Asheviere! Who are you?"
-msgstr ""
+msgstr "私は Konrad、Wesnoth の王位継承者です。邪悪な女王 Asheviere から玉座を取り戻す方法を求めています。あなたは？"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:342
@@ -8581,44 +8592,46 @@ msgid ""
 " the strands of fate have brought us here together, that we may unite in "
 "arms towards the vanquishing of evil!"
 msgstr ""
+"修道士 "
+"Moremirmu、放浪中の戦士だ。お役に立ちましょう。なんという僥倖か！運命の糸が我らをこの場所に導いたのだ！今こそ力を合わせ、共に悪を打ち倒さん！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:347
 msgid ""
 "Aid me in my quest against this foul necromancer, and I shall ever-more be "
 "your loyal companion in the eternal war against the darkness!"
-msgstr ""
+msgstr "まずは、邪悪な降霊術師の討伐に力を貸してもらえるか。さすれば、これから続く闇との戦いに於いて一層忠実に働いてみせましょうぞ！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:363
 msgid ""
 "The Light rebukes you, foul creature of the night! In a blaze of brilliance "
 "shall you be purged!"
-msgstr ""
+msgstr "闇夜の忌み者よ、光の裁きを受けよ！眩い輝きに清められ、消え去るが良い！"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:378
 msgid "Curse you all! The queen promised I would be left in peace here..."
-msgstr ""
+msgstr "チクショウ！女王は私を放っておいてくれると約束していたのに…"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:394
 msgid ""
 "Ugh, forget this! I’m not wasting any more time here with you — time for my "
 "dashing escape!"
-msgstr ""
+msgstr "ううっ、もういい！お前らのためにこれ以上時間を浪費してられるか ── さっさと逃げるぞ！"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:411
 msgid ""
 "Gah, where did all these piranhas come from? There’s too much rotting meat "
 "in the water!"
-msgstr ""
+msgstr "うげっ、このピラニアども、どこから来た？腐った肉なら水中にいくらでもあるだろう！"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:417
 msgid "(Gurgle gurgle gurgle...)"
-msgstr ""
+msgstr "ゴボ… ゴボ… ゴボ……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:432
@@ -8626,14 +8639,14 @@ msgstr ""
 msgid ""
 "The necromancer is defeated, and the countryside is safe once more! Good "
 "work, everybody."
-msgstr ""
+msgstr "降霊術師を倒したぞ。これでこの地域もまた平和になるだろう！みんな、よくやってくれた。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:444
 msgid ""
 "The Light shall always find the Light, and so have I found you! Let us quest"
 " on together in opposition to the dark queen!"
-msgstr ""
+msgstr "光はお互い引き合う。だからこそ我らは出会えたのだ！これからも共に闇の女王と戦おう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:449
@@ -8642,6 +8655,7 @@ msgid ""
 "sorry that Moremirmu has perished, but at least he did not die in vain. Now "
 "we must continue onwards!"
 msgstr ""
+"降霊術師を倒した。これでこの地域もまた平和になるだろう！Moremirmu は命を落としてしまったが、少なくともその死は無駄ではなかった。先へと進もう！"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:8
@@ -8671,39 +8685,39 @@ msgstr "呪われた島"
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:51
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:39
 msgid "Undead"
-msgstr ""
+msgstr "アンデッド"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:141
 msgid "Hello? Is anybody here?"
-msgstr ""
+msgstr "こんにちは？誰かいませんか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:151
 msgid ""
 "I’m nearly blind in this fog, but I think I see a hovel off in the distance."
-msgstr ""
+msgstr "こんなに霧が濃いとほとんど何も見えない。しかし、遠くに小さな小屋のようなものが見える気がする。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:179
 msgid "Freeze! Drop the sword, or we won’t hesitate to run ye through."
-msgstr ""
+msgstr "動くな！剣を置け。さもなくば死ぬことになるぞ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:183
 msgid "(This keeps getting worse...)"
-msgstr ""
+msgstr "（事態は悪化する一方だ…）"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:187
 msgid ""
 "How many of ye are there? How did she find out about us! Speak, vermin!"
-msgstr ""
+msgstr "何人連れてきた？あの女はどうやって俺たちを見つけたんだ！言え、ネズミ野郎！"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:189
 msgid "This is the worst timing... an’ us fighting without Harper too..."
-msgstr ""
+msgstr "最悪のタイミングだ… Harper もいないってのに…"
 
 #. [message]: type=Thug
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:193
@@ -8711,7 +8725,7 @@ msgid ""
 "I dunno, Delurin. They’re a mean lot, but they don’t much look like "
 "Asheviere’s. It’s been a long time since we ’ad to put down any of her "
 "goons."
-msgstr ""
+msgstr "おい Delurin。こいつらは色々ありそうだが Asheviere の手下に見えるか？近頃はその手の連中もまったく来てねぇだろう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:197
@@ -8720,17 +8734,19 @@ msgid ""
 "name is Konrad. I’m a prince, nephew of Garard, son of Arand and rightful "
 "heir to Wesnoth!"
 msgstr ""
+"落ち着いて、友よ！危害を加えるつもりはないし、Asheviere の手下でもない！私は Konrad。Garard の甥で Arand "
+"の息子である王子で、Wesnoth の正当な後継者だ！"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:201
 msgid ""
 "Konrad? I’ve heard of Prince Konrad... You might be he, or you mightn’t."
-msgstr ""
+msgstr "Konrad？Konrad 王子の名前は聞いたことはあるが… 本物か？"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:209
 msgid "You say you’re a friend, an’ that’s worth something at least."
-msgstr ""
+msgstr "友だと言うのなら、話を聞く価値くらいはあるか。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:213
@@ -8739,6 +8755,7 @@ msgid ""
 " some bestial undead on the isle. Our leader is missing, and without ’er "
 "we’re struggling to fight back."
 msgstr ""
+"小僧、身分を証明するチャンスをやろう。この島では野良アンデッドが問題になっているが、間が悪いことに俺たちのリーダーは行方不明。そんな中でアンデッドを撃退しようと俺たちはもがいている。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:217
@@ -8747,46 +8764,48 @@ msgid ""
 "the dead. Lead us against the corpses, prince, and we’ll see just how "
 "genuine you are. I’ll be watching."
 msgstr ""
+"しかし、本物の Konrad "
+"なら、死体の群れ程度は簡単に倒せるはずだ。俺たちを指揮して死体をどうにかしてみろ、それができれば本物だと認めてやろう。俺は見物させてもらう。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:262
 msgid "Konrad can now recruit Thugs and Footpads!"
-msgstr ""
+msgstr "Konrad は「悪党」と「追いはぎ」を雇用できるようになりました！"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:290
 msgid "Death of Delurin"
-msgstr ""
+msgstr "Delurin の死"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:317
 msgid ""
 "Undead in th’ heart o’ town! I’m glad Baldras didn’t live to see this..."
-msgstr ""
+msgstr "アンデッドが町の中心にまで！Baldras がこんな光景を見ずに済んでよかったぜ…"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:333
 msgid ""
 "This crypt was once grand, but now all has gone to rot. There’s nothing of "
 "value here."
-msgstr ""
+msgstr "この地下墓所は以前は立派だったようだが、今では完全に朽ち果てている。価値のありそうな物は何もない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:345
 msgid "This crypt is shallow and dry, and there’s 20 gold inside!"
-msgstr ""
+msgstr "この地下墓所は浅くて、乾燥している。そして中に 20 ゴールドあったぞ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:362
 msgid ""
 "This crypt is deep, and a foul stench wafts up from below. There’s something"
 " near the entrance."
-msgstr ""
+msgstr "この地下墓所は深くて、下の方から悪臭が漂ってくる。何かが入り口にいる。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:370
 msgid "Gah, undead!"
-msgstr ""
+msgstr "うわ、アンデッドだ！"
 
 #. [message]: speaker=Delurin
 #. hint to the player that one crypt contains gold, but another contains
@@ -8795,28 +8814,28 @@ msgstr ""
 msgid ""
 "Watch out around those crypts, Konrad. This whole undead problem only "
 "started after our leader went down into one of them looking for treasure."
-msgstr ""
+msgstr "Konrad、地下墓地の周辺では気をつけろよ。今回の騒ぎは、俺たちのリーダーがお宝を探して墓の一つに入った後に起こっているからな。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:427
 msgid ""
 "She’s still down in there, somewhere. But we can’t do much to help now, not "
 "till we deal with them that’s up here an’ fightings us."
-msgstr ""
+msgstr "彼女はまだ地下のどこかにいる。だが、ここらにいる連中をどうにかするまでは助けにはいけねぇな。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:444
 msgid ""
 "Not bad, prince. Maybe you is who you says you is after all. But there’s "
 "still more of ’em out there to fight."
-msgstr ""
+msgstr "やるな、王子サマ。お前は本物なのかもしれねぇな。だが、まだ掃除は終わってねぇぞ。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:458
 msgid ""
 "That’s the last of ’em! The Three Sisters is safe. You done well, kid — I’m "
 "sorry we threatened you."
-msgstr ""
+msgstr "そいつで最後だ！三姉妹の島はこれで平和だ。やってくれたな、小僧 ── さっきは脅かしてすまなかった。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:462
@@ -8825,6 +8844,7 @@ msgid ""
 "I understand: you’ve been out here so long that you’ve forgotten what a "
 "friendly face looks like."
 msgstr ""
+"あのままやっていたらそっちが死んでいたさ。だが理解できた、あなたはここであまりに長く過ごしていたから、敵じゃない者が存在するってことを忘れかけていたんだろう。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:466
@@ -8833,25 +8853,27 @@ msgid ""
 "that stinker Asheviere warned us to swear fealty or die. We ain’t no friends"
 " of hers, and we’d be honored to join you on the rest of yer journey."
 msgstr ""
+"そうだな、そのとおりだ。クソ Asheviere が俺たちに忠誠か死の二択を押し付けてから、そして俺たちが故郷から逃げ出してから、もう 20 "
+"年になるか。俺たちは女王の仲間なんかじゃねぇ。だから喜んでお前の旅に協力するぜ。"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:484
 msgid "Some leader you are. I’m glad Baldras didn’t live to see this..."
-msgstr ""
+msgstr "よくもそれで指揮官を名乗れたな。Baldras がこんな光景を見ずに済んでよかったぜ…"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:498
 msgid ""
 "Hurry it up, “Prince Konrad”! There’s friends of mine in trouble, and we "
 "can’t do naught about it until these undead are finished!"
-msgstr ""
+msgstr "急げよ、「Konrad 王子サマ」！俺たちのダチも困っているんだが、ここのアンデッドをどうにかしないと助けにもいけねぇんだ！"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:505
 msgid ""
 "This is taking too long. ’s what I get for trusting a “prince”; we should’ve"
 " dealt with these dead by ourselves from the beginning."
-msgstr ""
+msgstr "時間をかけすぎた。「王子サマ」なんぞを信じた俺がバカだったか。こんなことなら、はじめから自力でやった方がマシだったな。"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:89
