@@ -1311,7 +1311,7 @@ msgstr "Whitefang オーク"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:39
 msgid "Khavur"
-msgstr ""
+msgstr "Khavur"
 
 #. [message]: speaker=Khavur
 #. after Delfador kills several goblins, the goblin leader calls the retreat.
@@ -1333,17 +1333,17 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:239
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:302
 msgid "Army of Wesnoth"
-msgstr ""
+msgstr "Wesnoth軍"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:234
 msgid "Ushnug"
-msgstr ""
+msgstr "Ushnug"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:246
 msgid "Gusush"
-msgstr ""
+msgstr "Gusush"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:258
@@ -1379,14 +1379,14 @@ msgstr "我等には一刻の猶予も許されておらぬのだ、Lionel！敵
 msgid ""
 "This may prove a learning experience for you, apprentice. Keep your eyes "
 "sharp as we guard the fort."
-msgstr ""
+msgstr "此度の戦は良き修練の場となろうぞ、見習いよ。砦を守る間、両の目をよくよく見開いておくがよい。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:362
 msgid ""
 "The king commanded us to handle the goblins, master. We could do that by "
 "guarding... or we could take a risk and assault the goblin camp."
-msgstr ""
+msgstr "陛下はゴブリンどもに対処せよと命じられました。番兵も大事な任務です・・・けど、あえて打って出て、ゴブリンの野営地を急襲する手もあるかと。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:366
@@ -1395,6 +1395,7 @@ msgid ""
 "master, not just another wandering healer or village mage. Proving ourselves"
 " to the king here could be the first step."
 msgstr ""
+"いつもマスターが説かれている深慮とは違う行動だってわかってはいます。ですが、俺は何者かになりたいんです。流浪のヒーラーとか村の魔術師なんかじゃなく。ここらで俺達の力を証明して陛下に認めていただくのが、その第一歩となるはずなんです。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:370
@@ -1403,12 +1404,13 @@ msgid ""
 "guards against the goblins I won’t stop you, but I’m afraid I can’t help you"
 " either. My place is here, tending to the sick and injured."
 msgstr ""
+"やれやれ、若人よ、どうしたものかのう・・・もしもお前が守備隊を率いてゴブリンに立ち向かうというのなら、止めはせぬ、が、助けてやることもできぬぞ。私はここに留まり、傷病者の手当をせねばならぬ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:387
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:507
 msgid "Defeat Khavur, the goblin leader"
-msgstr ""
+msgstr "ゴブリンのリーダーである Khavur を倒す"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:391

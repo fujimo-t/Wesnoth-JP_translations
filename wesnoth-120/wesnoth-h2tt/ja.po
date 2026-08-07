@@ -9125,7 +9125,7 @@ msgid ""
 "Sure, aye, when trolls fly! Ah ain’t never heard such a lot o’ "
 "ninnyhammerin’ tripe since th’ last time my pa’ got too deep in ’is drink. "
 "We got nothin’ to worry about."
-msgstr ""
+msgstr "そうだな、その頃にはきっとトロルも空を飛んでいるぞ！酒を飲みすぎた親父の戯言と似たようなモンだろ。気にしても無駄だ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:504
@@ -9133,21 +9133,21 @@ msgstr ""
 msgid ""
 "Whatever powers she had in life or undeath, there’s no magic that can revive"
 " the dead. I don’t think we have anything to worry about."
-msgstr ""
+msgstr "不死となってどんな力を得たにせよ、ここから復活できるような魔術はありません。心配無用でしょう。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:506
 msgid ""
 "An accursed curse by an accursed creature, Konrad! Even in death, she still "
 "aims to beguile us with her foul lies."
-msgstr ""
+msgstr "呪われた存在に呪われてしまったな、Konrad！死んでもなお卑劣な嘘で我々を惑わそうとしているのだろう。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:510
 msgid ""
 "C’mon, let’s be gettin’ back to the village. And on the way, you boys better"
 " be tellin’ me just who exactly you all are."
-msgstr ""
+msgstr "さあ、アタシらの村に戻るよ。戻る間にあんたらが誰なのか詳しく教えてくれ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:527
@@ -9155,14 +9155,14 @@ msgid ""
 "We musn’t take too long down here. The air is foul and growing fouler by the"
 " minute; if we cannot defeat the leader of the undead, we shall soon be "
 "forced to return to the surface."
-msgstr ""
+msgstr "ここに長居はできない。空気は刻一刻と不穏な気配を濃くしている。アンデッドのリーダーを倒せなければ、我々も地表に戻らざるを得なくなるだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:534
 msgid ""
 "I can barely continue to breathe in air so foul, much less fight. I am sorry"
 " to flee, but if we stay here any longer we shall surely suffocate."
-msgstr ""
+msgstr "この不快な空気をこれ以上吸うことはできない。ましてや戦うなんて。すまないが撤退だ。これ以上ここにいたら窒息してしまう。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:11
@@ -9173,42 +9173,42 @@ msgstr "Elensefar の包囲"
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:76
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:43
 msgid "Agadla"
-msgstr ""
+msgstr "Agadla"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:77
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:44
 msgid "Drodrish"
-msgstr ""
+msgstr "Drodrish"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:367
 msgid "The Daneth"
-msgstr ""
+msgstr "Daneth 号"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:368
 msgid "Elyn's Folly"
-msgstr ""
+msgstr "Elyn の道楽"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:369
 msgid "Charlock"
-msgstr ""
+msgstr "Charlock"
 
 #. [message]: speaker=wesnoth4
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:430
 msgid ""
 "Push, you blaggards! We take the isle or it’s back to the gallows for us "
 "all!"
-msgstr ""
+msgstr "進め、ロクでなし共！この島を奪れなきゃ俺たち全員絞首台行きなんだぞ！"
 
 #. [message]: speaker=wesnoth4
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:451
 msgid ""
 "Damnations, still no progress! The defenders can’t keep this up forever — "
 "prepare another assault."
-msgstr ""
+msgstr "チクショウ、これだけやって成果無しか！しかし敵もいつまでも耐えられないはず ── 次の攻撃の準備だ。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:511
@@ -9217,6 +9217,8 @@ msgid ""
 "you over the years! If you truly possess the potential that he claims, now "
 "is the time to start living up to it."
 msgstr ""
+"Elensefar にようこそ、若き王子よ。ここ数年、Delfador から君のことは色々と聞いているぞ！Delfador "
+"が言うとおりに君が素晴らしい可能性を秘めているのであれば、その力を今ここで発揮してもらえると助かるな。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:517
@@ -9226,6 +9228,9 @@ msgid ""
 "repelled, but that lieutenant of theirs is right about one thing — we can’t "
 "keep it up forever."
 msgstr ""
+"見てのとおり我々は追い詰められている。Asheviere "
+"の下僕が南の橋を包囲している一方、オークも北から迫っている。これまでその攻撃を全て撃退しているが、あの指揮官も一点だけは正しい ── "
+"我々はいつまでも耐えられるわけではない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:521
@@ -9233,27 +9238,28 @@ msgid ""
 "Sir Kaylan sends his regards, Lord Maddock. Konrad has brought the knights "
 "of Blackwater Port to stand with you."
 msgstr ""
+"Maddock 候、Kaylan 卿に代わってご挨拶させていただきます。黒水港の騎士達も Konrad 殿下と共にお手伝いさせていただきます。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:522
 msgid ""
 "Got yourself into trouble again, Maddock? Ain’t no cursed soldiers this "
 "time, but we’re still here to help."
-msgstr ""
+msgstr "今度もまた大変そうだね、Maddock？今回は呪われた兵士はいないけど、アタシらも手を貸すよ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:523
 msgid ""
 "Ah’m not afraid! Jus’ give the word an’ I’ll see them chicken-hearted pox "
 "wrinklers clear back to Weldyn!"
-msgstr ""
+msgstr "ワシは何者も恐れぬ！さあ、「行け」と言え！惰弱で臆病な軟弱者共を Weldyn に追い返してやろうぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:524
 msgid ""
 "The dark queen’s shadow spreads, but the Light shall burn her back! We shall"
 " stand together against the darkness!"
-msgstr ""
+msgstr "闇の女王が影を広げている。しかし光は必ず女王を焼き清めるであろう！さあ共に闇と戦おうぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:525
@@ -9261,53 +9267,55 @@ msgid ""
 "We’re here to help, Lord Maddock. Elensefar has long been a bastion of "
 "freedom against Asheviere’s tyranny. We can’t let it fall!"
 msgstr ""
+"Maddock 候、ここへは救援に来ました。Elensefar は長きに渡って Asheviere "
+"の暴政に対抗する自由の砦で有り続けています。ここを落とさせるわけにはいきません！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:529
 msgid ""
 "Exposing yourself here is a great risk, Master Konrad. But your position "
 "behind enemy lines does afford us opportunity for a counterattack."
-msgstr ""
+msgstr "その身を晒すのは大いに危険だぞ、Konrad よ。しかし、敵の背後におぬしたちが陣取れば、反撃の機会も得られるな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:533
 msgid ""
 "If you can defeat enough of their leaders to break the siege, the remainder "
 "will most certainly be forced to withdraw."
-msgstr ""
+msgstr "敵の指揮官を何人か倒せれば、残りは撤退するしかないであろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:537
 msgid "I won’t let you down, Delfador. Prepare for battle!"
-msgstr ""
+msgstr "Delfador、あなたを倒れさせるわけにはいきません。さあ、行くぞ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:548
 msgid "Defeat any $leaders_to_kill enemy leaders"
-msgstr ""
+msgstr "敵リーダーを $leaders_to_kill 人倒す"
 
 #. [objective]: condition=win
 #. $leaders_to_kill is always 3. $leaders_killed will be either 1 or 2.
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:556
 msgid "Defeat any $leaders_to_kill enemy leaders ($leaders_killed defeated)"
-msgstr ""
+msgstr "敵リーダーを $leaders_to_kill 人倒す（$leaders_killed 人を倒しています）"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:568
 msgid "Death of Lord Maddock"
-msgstr ""
+msgstr "Maddock 候の死"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:587
 msgid "It’s good to see you again, Delfador. I’m glad you’re still okay!"
-msgstr ""
+msgstr "久しぶりですね、Delfador。元気そうでなによりです！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:591
 msgid ""
 "Alive and kicking indeed, young master. But there is no time for idle "
 "chatter."
-msgstr ""
+msgstr "お主も元気いっぱいだな。しかし、おしゃべりしている暇はなさそうだな。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:605
