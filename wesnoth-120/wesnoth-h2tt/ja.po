@@ -9322,7 +9322,7 @@ msgstr "お主も元気いっぱいだな。しかし、おしゃべりしてい
 msgid ""
 "Tried t’ tell you this would happen, Maddock. You shoulda fought with us "
 "back when the going was better."
-msgstr ""
+msgstr "こうなるって言っただろ、Moddock。まだマシだったあの時、アタシ達と一緒に戦っとくべきだったな。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:609
@@ -9331,6 +9331,8 @@ msgid ""
 "Elensefar has been kept free thus far, and nor is it by chance that it will "
 "stay that way today."
 msgstr ""
+"戦ったさ、息子を通して。覚えているだろう？Elensefar "
+"がこれまで自由だったのは、単なる偶然などではない。そして、今日も自由が保たれるかどうか、それも運などで決まるわけではない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:643
@@ -9339,27 +9341,29 @@ msgid ""
 "down the river! An ill tiding indeed, for they carry fresh fighters from "
 "Weldyn."
 msgstr ""
+"なんだこれは？Maddock 候に Konrad、川から小さな船がたくさん下ってくるという占いの結果が出たぞ！これはまずい。船は Weldyn "
+"から来た無傷の戦士達を運んでいるぞ。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:647
 msgid ""
 "Impossible! What remains of the royal fleet already withdrew to the "
 "blockade; they don’t have the numbers for another amphibious attack."
-msgstr ""
+msgstr "有り得ない！王室艦隊はすでに封鎖線まで退いたはずだ。水陸両面から攻撃を行えるような余剰戦力はなかったはず。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:688
 msgid ""
 "Damn... converted smallcraft. I shouldn’t have committed so many warships to"
 " the bridge defense."
-msgstr ""
+msgstr "ちっ… 小型船を改造したのか。橋の防衛にあれほどの軍艦を投入するべきではなかったな。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:690
 msgid ""
 "Charlock, move to intercept! Those transports must not be allowed to land on"
 " the isle!"
-msgstr ""
+msgstr "Charlock、迎撃しろ！あの輸送船を島に上陸させてはならん！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:727
@@ -9367,13 +9371,14 @@ msgid ""
 "Elensefar Isle. Good work everyone — they weren’t ready for us to press the "
 "Carcyn fishers into service. But our fight’s not done yet."
 msgstr ""
+"Elensefar 島。よくやったぞ、皆 ── 敵は我々が Carcyn の漁師を動員することを想定できていなかった。しかし、私たちの戦いはこれからよ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:735
 msgid ""
 "Secure a beachhead and prepare to receive the rest of the boats. We must act"
 " swiftly, before they can pivot their defenses."
-msgstr ""
+msgstr "上陸地点を確保し、残りのボートを迎え入れるのよ。急ぎなさい！敵の守備が整う前にやるしかないのだから！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:745
@@ -9381,13 +9386,14 @@ msgid ""
 "We meet again, princess! I’ve beaten you before, and I’ll do so again. "
 "Elensefar deserves a better ruler than you."
 msgstr ""
+"お久しぶりですね、王女様！先日は私の勝ちでした。今回も勝たせてもらいますよ。Elensefar にはあなたよりもずっとふさわしい領主がいますからね。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:749
 msgid ""
 "Konrad. I underestimated you once before — never again. You should have "
 "picked a different battle, princeling."
-msgstr ""
+msgstr "Konrad。あの時はあなたを侮っていた ── でも二度はない。ここに来たことを後悔させてあげるわ、王子様。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:754
@@ -9395,20 +9401,22 @@ msgid ""
 "Your Highness, we meet at last! I’ve heard stories about the battles you’ve "
 "won in your mother’s name. I won’t let Elensefar be one of them!"
 msgstr ""
+"王女殿下、やっとお会いできましたね！あなたが女王の名のもとに勝利を収めた戦いの話をいくつか耳にしました。しかし、Elensefar "
+"ではそうはならないでしょう！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:758
 msgid ""
 "Hello, “Konrad.” I think you’re a little out of your depth, pretender — the "
 "battlefield is no place for a con man."
-msgstr ""
+msgstr "こんにちは、「Konrad」。あまり無理はしない方がいいのでは、偽者さん？この戦場に詐欺師の居場所はない。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:762
 msgid ""
 "Your lies have sown enough discord and chaos among my people. How convenient"
 " that you’re here; I can capture both you and Maddock at the same time."
-msgstr ""
+msgstr "お前の嘘は人々に大きな混乱と不和をもたらした。しかし、お前がここにいるとは、何という幸運だ。Maddock とお前をまとめて捕らえられる。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:774
@@ -9417,55 +9425,56 @@ msgid ""
 " about your city. If it’s any consolation, when all’s said and done I intend"
 " to make sure you stand a fair trial."
 msgstr ""
+"Maddock、あなたは優れた領主だ。私の目から見ても、あなたはこの街のことを本当に大切に思っているようだ。慰めになるかどうかはわからないが、全てが片付いた時、公正な裁判を受けられるよう、私が全力を尽くすと誓おう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:778
 msgid ""
 "As for you, Delfador... you’re going to regret what you did to my brother."
-msgstr ""
+msgstr "そして Delfador… お前は私の兄にしたことを後悔することになるだろう。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:782
 msgid ""
 "Elensefar has weathered countless storms, Your Highness. Your queen will be "
 "neither the first nor the last that breaks upon our shores."
-msgstr ""
+msgstr "Elensefar はこれまで数え切れないほどの嵐を耐え抜いてきたのだ、王女殿下。女王も我らの岸に押し寄せた嵐の一つに過ぎない。"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:803
 msgid "{ON_DIFFICULTY4 15 25 30 40} gold"
-msgstr ""
+msgstr "{ON_DIFFICULTY4 15 25 30 40} ゴールド"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:814
 msgid "{ON_DIFFICULTY4 10 15 20 25} gold"
-msgstr ""
+msgstr "{ON_DIFFICULTY4 10 15 20 25} ゴールド"
 
 #. [message]: role=lisar_skiff
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:860
 msgid "—how did you know?! It seems I’m not half so clever as I thought."
-msgstr ""
+msgstr "──どうして気づいた？！私は自分で思っていたほど優れた戦術家ではなかったようだ。"
 
 #. [message]: role=lisar_skiff
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:866
 msgid ""
 "You win this round, Konrad. I need to get out of here before this boat takes"
 " any more damage."
-msgstr ""
+msgstr "今日のところはお前の勝ちだ、Konrad。船がこれ以上のダメージを受ける前に退かせてもらう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:885
 msgid ""
 "My last landed boat is badly damaged! I hate to retreat, but I can’t risk "
 "being trapped here and captured."
-msgstr ""
+msgstr "最後に岸につけたボートがひどいダメージを受けている！ここで退きたくはないが、ここ留まって虜囚となるリスクは避けねばならない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:902
 msgid ""
 "You prove your skills once again, cousin. A worthy foe indeed... Elensefar "
 "survives another day."
-msgstr ""
+msgstr "我が従兄弟よ、ここでもその力を示したな。手強い相手だ… 今日のところは Elensefar に勝ちを譲ろう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:907
@@ -9474,13 +9483,14 @@ msgid ""
 " and a pretty face. I may be forced to flee the field today, but this isn’t "
 "over."
 msgstr ""
+"お前を見くびっていたようだ、我が「従兄弟」よ ── 顔と演技力だけの男ではないということか。今日のところはここで退くが、これで終わりではないぞ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:943
 msgid ""
 "That’s the first of the besieging leaders defeated! Keep pressing the "
 "attack!"
-msgstr ""
+msgstr "包囲の指揮官をまずは一人倒したぞ！まだまだ行くぞ！"
 
 #. [message]: race=orc
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:974
@@ -9488,13 +9498,14 @@ msgid ""
 "Forget this! I was promised an easy fight full of plunder, not a flank and a"
 " rout! Deal with your problems yourselves, pink-skins."
 msgstr ""
+"もういい！楽な戦いで自由に略奪できるって言われたから俺たちは来たんだ！側面から攻撃されて敗走するためじゃない！てめぇのケツはてめぇで拭いとけ、ニンゲン共め。"
 
 #. [message]: id=(self.hitpoints>0)
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:980
 msgid ""
 "They’ve gone. I hate to retreat, but without support I can’t risk being "
 "trapped here and captured. We came so, so close to taking the city!"
-msgstr ""
+msgstr "奴等が逃げたか。退きたくはないが、連中の支援がなければここで捕らえられる可能性がある。もう少しで街を押さえられたというのに！"
 
 #. [message]: id=(self.hitpoints>0)
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:985
@@ -9502,12 +9513,12 @@ msgid ""
 "They’ve gone. I hate to retreat, but without support I can’t risk being "
 "trapped here and captured. We already pushed dangerously hard just to get "
 "this far."
-msgstr ""
+msgstr "奴等が逃げたか。退きたくはないが、連中の支援がなければここで捕らえられる可能性がある。我々もここまでやるのにだいぶ無理をしてしまっている。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:997
 msgid "Useless orcs! You were hired for a siege, not a rout!"
-msgstr ""
+msgstr "オークの役立たずめ！貴様等は包囲のために雇ったのだぞ！敗走させるためじゃない！"
 
 #. [message]: id=Lisar {OR( side=2,3,4 {AND canrecruit=yes} )}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1002
@@ -9516,6 +9527,7 @@ msgid ""
 "city. With the north shore fallen, I can’t risk the whole army any further. "
 "We came so, so close to taking the city!"
 msgstr ""
+"退きたくはないが、ここまでやるのにだいぶ無理をしてしまっている。北岸が解放されてしまった今、これ以上リスクを取る意味がない。あと少しで街を抑えられたのに！"
 
 #. [message]: id=Lisar {OR( side=2,3,4 {AND canrecruit=yes} )}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1007
@@ -9524,11 +9536,13 @@ msgid ""
 "taking the city. We already pushed dangerously hard just to get this far — I"
 " can’t risk things any further."
 msgstr ""
+"退きたくはないが、北岸が解放されてしまった今、街を抑えられる可能性はほとんどない。それに、ここまでやるのにだいぶ無理をさせてしまっている ── "
+"これ以上リスクは取れないか。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1026
 msgid "We’ve driven them back! The siege of Elensefar is over!"
-msgstr ""
+msgstr "撃退に成功したぞ！Elensefar の包囲もこれで終わりだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1030
@@ -9537,13 +9551,15 @@ msgid ""
 "Maddock and I could not have carried the day without your help. Together we "
 "have won a great victory over tyranny."
 msgstr ""
+"Konrad、よくやった。お主がここで戦うと決めた時には気が気でなかったが、Maddock "
+"と私だけでは今日を切り抜けられなかったのも事実。力を合わせて女王の暴虐から勝利をもぎ取ることができたな。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1034
 msgid ""
 "Pigs will fly before the silver city bows to any queen. After the thrashing "
 "we gave them, they won’t return anytime soon."
-msgstr ""
+msgstr "銀の街が女王に頭を下げるよりは、豚が空を飛ぶ方がまだありえる話だ。これだけ痛めつければ、連中もすぐにまたやって来ることはないだろう。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1038
@@ -9552,30 +9568,32 @@ msgid ""
 "yours to command — as well as many of the Elensefar thieves’ guild’s more "
 "enterprising young robbers."
 msgstr ""
+"Konrad、Elensefar は君に借りができた。私から予備の兵士達を出すから連れていってくれ ── それと、Elensefar "
+"の盗賊ギルドのやつらも連れていくといい。やる気のある若い盗賊がたくさんいるらしいぞ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1040
 msgid "Konrad can now recruit Swordsmen, Pikemen, and Thieves!"
-msgstr ""
+msgstr "Konrad は「剣士」、「熟練槍兵」、「盗賊」が雇用できるようになりました！"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1043
 msgid "May they serve you well. Keep up the good fight, my lord."
-msgstr ""
+msgstr "彼らが君の役に立てることを願っている。今後の活躍にも期待している、未来の王よ。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1065
 msgid ""
 "Sirs, we’re running low on supplies. We have only a few more chances to take"
 " Elensefar castle’s storerooms before we’ll be forced to retreat!"
-msgstr ""
+msgstr "物資が底を尽きかけている。すぐに Elensefar 城の倉庫を確保できないようであれば、撤退するしかないぞ！"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1069
 msgid ""
 "Bah, this is starting to get ridiculous. I’m not sticking around forever, no"
 " matter what your queen promises me!"
-msgstr ""
+msgstr "クソっ、バカバカしくなってきやがったぜ。俺もいつまでもここにいるわけじゃないぞ！女王が何と言おうと知ったことか！"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1080
@@ -9583,6 +9601,7 @@ msgid ""
 "Forget this! I was promised an easy fight full of plunder, not this siege "
 "that never ends! Deal with your problems yourselves, pink-skins."
 msgstr ""
+"もういい！楽な戦いで自由に略奪できるって言われたから俺たちは来たんだ！永遠に終わらない包囲のためじゃねぇ！てめぇのケツはてめぇで拭いとけ、ニンゲン共め。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1084
@@ -9590,17 +9609,17 @@ msgid ""
 "I hate to retreat, but we’re already overextended pushing just this far. We "
 "already exerted ourselves dangerously hard — I can’t risk things any "
 "further."
-msgstr ""
+msgstr "退きたくはないが、ここまでやるのにだいぶ無理をさせてしまっている。これ以上リスクを取るべきではないか。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1098
 msgid "I surrender! I am beaten!"
-msgstr ""
+msgstr "降伏する！私の負けだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1102
 msgid "Alas, Maddock has capitulated. Elensefar is lost!"
-msgstr ""
+msgstr "ああ、Maddock が降伏してしまった。Elensefar の負けだ！"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:219

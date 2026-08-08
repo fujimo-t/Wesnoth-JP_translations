@@ -1436,7 +1436,7 @@ msgstr "Garard または Lionel の死"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:429
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:442
 msgid "New Recruits:"
-msgstr ""
+msgstr "新規雇用："
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:419
