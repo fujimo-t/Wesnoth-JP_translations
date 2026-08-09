@@ -9559,7 +9559,7 @@ msgstr ""
 msgid ""
 "Pigs will fly before the silver city bows to any queen. After the thrashing "
 "we gave them, they won’t return anytime soon."
-msgstr "銀の街が女王に頭を下げるよりは、豚が空を飛ぶ方がまだありえる話だ。これだけ痛めつければ、連中もすぐにまたやって来ることはないだろう。"
+msgstr "銀の都市が女王に頭を下げるよりは、豚が空を飛ぶ方がまだありえる話だ。これだけ痛めつければ、連中もすぐにまたやって来ることはないだろう。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1038
@@ -9624,26 +9624,26 @@ msgstr "ああ、Maddock が降伏してしまった。Elensefar の負けだ！
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:219
 msgid "Fine, you idiots can keep the north shore! Orcs, retreat to the city."
-msgstr ""
+msgstr "よし、お前らバカ共は北岸を好きにしろ！オークは都市に戻れ。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:225
 msgid "Fine, you idiots can keep the south shore! Orcs, retreat to the city."
-msgstr ""
+msgstr "よし、お前らバカ共は南岸を好きにしろ！オークは都市に戻れ。"
 
 #. [message]: speaker=foxtail1
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:280
 msgid ""
 "Hahaha, this town is great! Top-quality slaves, houses made with real "
 "shingles, and all the gold and silver in the world!"
-msgstr ""
+msgstr "ハッハッハッ！この都市は素晴らしいぞ！最上の奴隷、屋根板付きの家、そして金や銀が山ほどあるぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:307
 msgid ""
 "If Asheviere has truly given Elensefar to the orcs like they claim, it can "
 "only be because she expects them to ravage it."
-msgstr ""
+msgstr "もし Asheviere が本当にオークに Elensefar を与えたのであれば、都市が略奪されることを期待しているとしか思えない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:311
@@ -9651,26 +9651,27 @@ msgid ""
 "She must believe the people will never submit to her rule, and would rather "
 "ruin them entirely than risk another revolt. How awful."
 msgstr ""
+"女王は、人々が自分の支配に従わないことを理解しているのだろう。だから、また反乱されるくらいなら、いっそ徹底的に破壊してしまった方が良いと思っているのだろう。恐ろしい。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:315
 msgid "We can’t let that happen. To arms, warriors!"
-msgstr ""
+msgstr "しかしそうはさせない。戦士達よ、行くぞ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:321
 msgid "Five"
-msgstr ""
+msgstr "5"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:321
 msgid "Four"
-msgstr ""
+msgstr "4"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:321
 msgid "Three"
-msgstr ""
+msgstr "3"
 
 #. [note]
 #. $thief_count will be the word "Three" "Four" or "Five"
@@ -9678,14 +9679,14 @@ msgstr ""
 msgid ""
 "$thief_count thieves/rogues will join your attack once you capture any "
 "village on one of Elensefar’s islands."
-msgstr ""
+msgstr "Elensefar の島にある村のいずれかを占領すると、$thief_count 人の盗賊もしくは熟練盗賊があなたの攻撃に加わります。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:352
 msgid ""
 "Look, Konrad! I see a human fording the river, sneaking out of the city "
 "towards us."
-msgstr ""
+msgstr "Konrad、見ろ！川を渡って都市からこっそりと抜け出し、我々のところに向かってくる人物の姿が見える。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:353
@@ -9694,74 +9695,74 @@ msgstr ""
 msgid ""
 "Look, Konrad! A man is fording the river, sneaking out of the city towards "
 "us."
-msgstr ""
+msgstr "Konrad、あそこを！男が川を渡って都市をこっそり抜け出し、我々のところに向かっているようです。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:356
 msgid ""
 "Look there, boy! One o’ ’em city-folk’s gone yellow. I think he’s sneakin’ "
 "out to see us."
-msgstr ""
+msgstr "あれを見よ、小僧！街の臆病者だ。我らの元に秘密裏に接近しておるな。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:357
 msgid ""
 "Look, Konrad! Someone’s fording the river, sneakin’ out to see us. How is he"
 " movin’ across the deep water?!"
-msgstr ""
+msgstr "Konrad、あれを見ろ！誰かが川を渡ってアタシらのとこにこっそり近づいているよ。あいつ、どうやって深水領域を移動したんだ？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:358
 msgid ""
 "Hark, Konrad! One of the cityfolk steals across the river towards our shore!"
-msgstr ""
+msgstr "Konrad、聞け！街の者が一人、秘密裏に渡河して抜けだし、我らの元に向かっておるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:359
 msgid ""
 "Oh, hello? Err... I think I see — yes, Konrad, someone’s sneaking across the"
 " river towards us."
-msgstr ""
+msgstr "あら、もしもし？えーっと… そうですねぇ… ああやっぱり。Konrad、誰かが川を渡って私たちのところにやってきたようですよ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:360
 msgid ""
 "Look there, Konrad. Dosh is seein’ a softskin sneakin’ across dis river "
 "towards us."
-msgstr ""
+msgstr "あれ見ろ、Konrad。柔皮が一人、秘密に川を渡って Dosh 達のところに来るぞ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:361
 msgid ""
 "Look, someone’s fording the river! I think he’s sneaking out of the city "
 "towards us."
-msgstr ""
+msgstr "見ろ、誰かが川を渡っている！街から抜け出して我々のところに向かっているようだな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:372
 msgid "Halt! Who goes there, friend or foe?"
-msgstr ""
+msgstr "止まれ！誰だ？敵か味方か？"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:376
 msgid ""
 "Greetings, friend. I am Reglok, guildmaster of the Elensefar thieves. We "
 "would like to help you against the orcs."
-msgstr ""
+msgstr "こんにちは、友よ。俺は Reglok。Elensefar 盗賊ギルドのギルドマスターだ。オークとの戦いに協力したい。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:380
 msgid ""
 "I know the sort of aid offered by a thief, Reglok. We do not trust you and "
 "we do not need you."
-msgstr ""
+msgstr "Reglok、盗賊の提供できるものが何なのかはわかっている。お前たちのことは信用しないし、必要ともしていない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:381
 msgid ""
 "Is that so? What honor is there among thieves? We do not trust you and we do"
 " not need you."
-msgstr ""
+msgstr "それで？盗賊に何の名誉があるのだ？我々はお前を信用しないし、必要ともしていない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:382
@@ -9769,7 +9770,7 @@ msgstr ""
 msgid ""
 "I don’t like the idea of working with thieves. Who says we can trust you? We"
 " should send him on his way, Konrad."
-msgstr ""
+msgstr "盗賊との協力は気が進みません。どうしてあなたがたを信用できるのか？追い返すべきでしょう、Konrad。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:384
@@ -9777,38 +9778,38 @@ msgid ""
 "Aye, sure ye do. An’ as soon as our backs are turned we’ll find yer fingers "
 "down our purses an’ yer knives stickin’ out o’ our spleens! What sort o’ "
 "chucklehead do ye take me for?"
-msgstr ""
+msgstr "おお、そうか。それで、ワシらが背を向けるとその手が財布に伸びて、そのナイフがワシらの背中に刺さるのだな！ワシらをマヌケだと思っているのか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:385
 msgid "Uh huh. I’ve dealt with thieves before. What’s in it for you, Reglok?"
-msgstr ""
+msgstr "うんうん、アタシは前に盗賊と取引したことがあるぞ。何を狙っている、Reglok？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:386
 msgid ""
 "There is no Light within you, thief. You lie and you steal and you kill. Who"
 " says we can trust such as you?"
-msgstr ""
+msgstr "貴様の内に光は無いぞ、盗賊め。嘘を吐き、盗み、そして殺す。誰が貴様等を信用しようか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:387
 msgid ""
 "That’s very kind of you to offer! But, well, you’re a thief? The lying and "
 "stealing and... killing kind of thief?"
-msgstr ""
+msgstr "それはありがたい申し出ですね！でも、あなたは盗賊なのでしたっけ？嘘をついたり、盗んだり…… 殺しちゃったりするタイプですか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:388
 msgid ""
 "Dosh not be trustin’ any thief. Dosh know what thieves do. Lie and steal and"
 " kill."
-msgstr ""
+msgstr "Dosh 盗賊信用しない。Dosh 盗賊やることわかる。嘘、盗み、殺し。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:389
 msgid "Thieves, hmmm? Who says we can trust such as you?"
-msgstr ""
+msgstr "盗賊、むむ？そのような者が信用されるわけがないだろう？"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:393
@@ -9818,6 +9819,8 @@ msgid ""
 "off in chains, our new overlords have done nothing but riot and steal. That "
 "infringes on our monopoly."
 msgstr ""
+"信用されないのは当然ではあるが、お互いの利益のために都市からオークを駆逐したい。Maddock "
+"候の後釜の将軍サマは暴力と略奪にしか興味が無いと来ている。奴等は俺たちのシマを荒らしている。"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:397
@@ -9825,26 +9828,28 @@ msgid ""
 "You shall find that there is honor, even among thieves. We served Maddock "
 "well, and if you can liberate Elensefar we shall do the same for you."
 msgstr ""
+"俺たちのような薄汚れた盗賊にも名誉はある。そのことをきっと理解できるだろう。今まで俺たちは Maddock のために良く働いていた。Elensefar "
+"を解放してくれれば、あんたたちのためうに働こう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:401
 msgid "Yes, but where is your fighting force? How can you help us?"
-msgstr ""
+msgstr "そうか。しかし戦力はどこに？どのように協力するつもりだ？"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:407
 msgid "five"
-msgstr ""
+msgstr "5"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:407
 msgid "four"
-msgstr ""
+msgstr "4"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:407
 msgid "three"
-msgstr ""
+msgstr "3"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:413
@@ -9852,7 +9857,7 @@ msgid ""
 "There is a hidden ford on the southwest side of the city, but coming from "
 "the north that shall be of little use. Instead, we shall lay in wait until "
 "you give us a signal then ambush the orcs’ rear."
-msgstr ""
+msgstr "都市の南西に秘密の浅瀬がある。しかし、北から来る場合はあまり意味がない。代わりに、合図があるまで待って、オークの背後から奇襲をかけよう。"
 
 #. [message]: speaker=Reglok
 #. $thief_count will be the word "three" "four" or "five"
@@ -9861,13 +9866,13 @@ msgid ""
 "When you raise your blue banner over any village in the city proper, we will"
 " see the sign and attack from the city’s center. Expect $thief_count of us "
 "to join the attack."
-msgstr ""
+msgstr "市街地のどこかの村に青い旗が掲げられたら、俺たちは街の中心から攻撃を開始する。$thief_count 人の仲間が攻撃をする予定だ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:422
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:507
 msgid "Agreed. But, will you be able to see our flag if it’s dark?"
-msgstr ""
+msgstr "承知した。しかし、もし夜だった場合、我らの旗を確認できるのか？"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:426
@@ -9875,7 +9880,7 @@ msgstr ""
 msgid ""
 "Yes, we will see it. In fact, we prefer to fight at night. I pray you do not"
 " lead us into slaughter."
-msgstr ""
+msgstr "問題無い。そもそも、俺たちは夜の方が戦いやすい。俺たちが皆殺しにならないようにしてくれると期待する。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:430
@@ -9883,7 +9888,7 @@ msgstr ""
 msgid ""
 "Do not fear, friends. There will be a slaughter here, but it will be orcish "
 "blood staining the streets."
-msgstr ""
+msgstr "友よ、心配するな。これからここで皆殺しになるのはオークだ。街をオークの血で汚してしまうが、そこは容赦してくれ。"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:442
@@ -9891,7 +9896,7 @@ msgid ""
 "Information, child. There is a hidden ford on the southwest side of the "
 "city. Very few people know about it, least of all the orcs. I can show you "
 "how to cross."
-msgstr ""
+msgstr "情報だ、小僧。都市の南西に秘密の浅瀬がある。これを知る者はほとんどいない。オークはまず知らないだろう。渡り方の見本は俺が見せてやる。"
 
 #. [message]: speaker=Reglok
 #. $thief_count will be the word "three" "four" or "five"
@@ -9900,16 +9905,18 @@ msgid ""
 "Alternatively, we can lay in wait until you give us a signal then ambush the"
 " orcs’ rear. Expect $thief_count of us to join the attack."
 msgstr ""
+"あるいは、市街地のどこかの村に青い旗が掲げられたら、それを合図として俺たちがオークの背後を突くこともできる。$thief_count "
+"人の仲間が攻撃をする予定だ。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:456
 msgid "Help us infiltrate the city. We can do the rest."
-msgstr ""
+msgstr "街への潜入を助けてくれ、後は私たちでなんとかする。"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:460
 msgid "Very well. Watch exactly where I step."
-msgstr ""
+msgstr "わかった。俺と同じ場所を歩け。"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:489
@@ -9918,35 +9925,36 @@ msgid ""
 "wide enough for two soldiers to march shoulder-to-shoulder. The orcs know "
 "not where to step. Now you do."
 msgstr ""
+"わかったか？干潮時、荒れ狂う水の流れの中に、兵士二人が肩を並べて行進できるほど幅の広い浅瀬が現れる。オークはこの場所を知らないが、お前たちは知っている。"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:493
 msgid "Good luck. You shall see me again if you succeed."
-msgstr ""
+msgstr "幸運を祈る。成功したらまた会おう。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:499
 msgid "I want you to reinforce us once we break through their line."
-msgstr ""
+msgstr "敵の前線を突破したら背後を突いてくれ。"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:503
 msgid ""
 "Very well. When you raise your blue banner over any village in the city "
 "proper, we will see the sign and attack from the city’s center."
-msgstr ""
+msgstr "承知した。市街地のどこかの村に青い旗が掲げられたら、俺たちは街の中心から攻撃を開始する。"
 
 #. [message]: speaker=foxtail1
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:535
 msgid "What!? How are you walking on water?"
-msgstr ""
+msgstr "なんだと？！どうやって水の中を歩いている？"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:555
 msgid ""
 "That’s their banner! Let’s expel these invaders. Today, the city is ours "
 "again!"
-msgstr ""
+msgstr "旗が上がった！侵略者を排除するぞ。都市を取り戻すぞ！"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:597
@@ -9954,18 +9962,20 @@ msgid ""
 "We tried t’ tell Maddock this would happen. We had a real chance after "
 "Halstead fell, back when his son helped us fight."
 msgstr ""
+"こういうことになると Maddock には言ったのにな。あいつの息子の支援もあって、Halstead "
+"が陥落した後、アタシ達には本当にチャンスがあったんだけどな。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:601
 msgid ""
 "I suppose he kept his city safe for a while. But were it worth it in the "
 "end?"
-msgstr ""
+msgstr "あいつもしばらくの間は都市を守れたんだろう。その束の間の安定を求めることにどれほどの価値があったんだろうね？"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:623
 msgid "Arrgh! Lousy humans..."
-msgstr ""
+msgstr "うぐっ！クソ人間共め…"
 
 #. [message]: speaker=Konrad
 #. I say that the orc wasn't actually wearing the sandals, because otherwise
@@ -9976,18 +9986,20 @@ msgid ""
 "likely looted from some wealthy merchant or ship captain. They seem oddly "
 "dry, despite the water all around."
 msgstr ""
+"見ろ ── "
+"このオークは袋に不思議な魔法の品に見えるサンダルを持っていた。裕福な商人か船長から奪ったんだろう。周囲は水浸しだというのに、奇妙に乾いている。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:642
 msgid "Seafarer’s Sandals"
-msgstr ""
+msgstr "船乗りのサンダル"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:643
 msgid ""
 "This enchanted footwear repels nearby water, allowing\n"
 "its wearer to walk on water, swamp, or snow as if standing on solid ground."
-msgstr ""
+msgstr "この魔法の履物は周囲の水を弾きます。これを履いた者は水、沼、雪の地形でも固い大地に立っているように歩けるでしょう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:649
@@ -9996,24 +10008,25 @@ msgid ""
 "myself, and be grateful for the boon. Now, to finish off the remaining "
 "orcish leader."
 msgstr ""
+"このレベルの魔法の品は極めて希少で、なかなか手に入らないものだ！私が自分で使うことにする。この恩恵に感謝しよう。さあ、残りのオークのリーダーを片付けるぞ。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:663
 msgid "I’m not dying! Orcs never die! I just... need a moment..."
-msgstr ""
+msgstr "俺はまだやれる！オークは死なない！ちょっとだけ… 休ませてくれ……"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:671
 msgid ""
 "Well done, well done! Elensefar is finally rid of those loathsome beasts."
-msgstr ""
+msgstr "やった、やったぞ！Elensefar からあの忌まわしい獣がいなくなったぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:675
 msgid ""
 "You walk free once more! But for how long? Once we leave, who will remain to"
 " defend the bridges?"
-msgstr ""
+msgstr "これでまた自由に歩けるようになった！しかしこの状況を保てるのか？我々がここを離れた後、誰が橋を守るんだ？"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:679
@@ -10022,17 +10035,18 @@ msgid ""
 "Elensefar in your service, your exaltedness, ready to take the fight to the "
 "dark queen."
 msgstr ""
+"攻撃は最大の防御、だろう？高貴なる者よ、Elensefar の盗賊ギルドはあなたにお仕えします。闇の女王との戦いに身を投じる準備はできている。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:681
 msgid "Konrad can now recruit Thieves!"
-msgstr ""
+msgstr "Konrad は「盗賊」を雇用できるようになりました！"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:684
 msgid ""
 "I myself must of course remain behind to oversee the city. You understand."
-msgstr ""
+msgstr "ただ、俺自身は街を監督するためにここに留まらなきゃならない。わかってくれ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:688
@@ -10041,13 +10055,15 @@ msgid ""
 " once Asheviere is defeated and I am king. Prove yourself a better lord than"
 " the orcs."
 msgstr ""
+"ああ、わかっている。街を頼む、野心家の Reglok。私も Asheviere を倒し、王となったら Elensefar "
+"に必ず戻る。オークよりも良い領主であることを証明してくれ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:707
 msgid ""
 "Between the siege and our attack, Elensefar has been badly damaged. "
 "Countless townsfolk will die if we cannot finish things off soon!"
-msgstr ""
+msgstr "包囲と我々の攻撃の間に Elensefar は大きなダメージを受けてしまっている。早く片付けなければ、数多の人々の命が失われてしまう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:714
@@ -10055,7 +10071,7 @@ msgid ""
 "Our battle has dragged on too long; Elensefar is all but destroyed. Even if "
 "we defeat these orcs, the city will never-again return to its former "
 "splendor..."
-msgstr ""
+msgstr "戦闘が長引きすぎた。Elensefar はほぼ壊滅状態だ。たとえオークを倒せたとしても、この都市がかつての栄華を取り戻すことはできない…"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:10
