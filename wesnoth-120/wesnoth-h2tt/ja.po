@@ -10088,45 +10088,45 @@ msgstr "Tahn 砦守備隊"
 msgid ""
 "Villains! You have pillaged a great treasure from the halls of my home. "
 "Return it at once, and your lives may yet be spared!"
-msgstr ""
+msgstr "悪党共！よくも私の家の大事な宝物を奪い去ってくれたな。すぐに返せ、さもなくば貴様等の命ごと持っていくぞ！"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:156
 msgid "You— you’re Konrad! The false prince himself, here?!"
-msgstr ""
+msgstr "お前は── お前は Konrad！偽者の王子、自らここに？！"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:160
 msgid ""
 "I’m not about to surrender myself nor my property to a rebel! To arms, "
 "loyalists, and make ready to repel the invaders!"
-msgstr ""
+msgstr "私の財産や命を反乱軍に差し出すつもりはない！忠誠者達よ、武器を取れ！侵入者を排除するぞ！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:164
 msgid ""
 "It is war, then. Such an insult against my Aethenwood kin shall not go "
 "unpunished."
-msgstr ""
+msgstr "ならば戦争だ。同胞として、Aethen の森への侮辱を見過ごすわけにはいかない。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:172
 msgid "Defeat the Master Bowman"
-msgstr ""
+msgstr "熟練弓兵を倒す"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:206
 msgid ""
 "Seeing all this stolen gold and broken treasures kindles a great coldness in"
 " my heart. Asheviere has much to pay for..."
-msgstr ""
+msgstr "奪われたゴールドや壊れた宝物を見ると、私の心に冷たい感情が湧き起こる。Asheviere に償わせねばならない…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:231
 msgid ""
 "You dare use that bow against us? The Moonbows belong to the elves; you know"
 " nothing about them and have no right to lay a hand on one!"
-msgstr ""
+msgstr "その弓をよりによって私たちに使うつもりか？月の弓はエルフのものだ。エルフを知らないお前にはその弓を握る資格は無い！"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:235
@@ -10134,18 +10134,19 @@ msgid ""
 "I know enough: I’ve trained in archery my entire life and never seen a bow "
 "to rival this one. Fighting with it is my best chance at beating you!"
 msgstr ""
+"そうでもないぞ。これでも、この人生をこれまで弓術に捧げてきたのだから。だからわかる、これほどの弓はこれまで一度も見たことがない。だから貴様等に勝つためにはこの弓を使うのが最善なのだ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:266
 msgid "One leader has been defeated, but he is not the one who holds the bow."
-msgstr ""
+msgstr "敵のリーダーを一人倒した。しかし、月の弓を持っているのは別の者だ。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:286
 msgid ""
 "The rebels are too powerful! Mercy, Konrad! I’m just doing my duty to defend"
 " my country, as ordered by my sovereign, the queen!"
-msgstr ""
+msgstr "反乱軍は強すぎる！Konrad、見逃してくれ！俺は支配者、女王に言われたとおりに国を守る仕事をしていただけだ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:290
@@ -10154,6 +10155,7 @@ msgid ""
 "against me or my allies. I am the true sovereign in Wesnoth, and will give "
 "you but one chance at redemption."
 msgstr ""
+"そのエルフの武器を明け渡し、私と仲間達に二度と逆らわないと誓え。正当なる Wesnoth の支配者として、お前に一度だけ贖罪の機会を与えてやろう。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:294
@@ -10162,68 +10164,69 @@ msgid ""
 " heir, and an elf-lover besides, then I suppose our pillage does most "
 "rightfully belong to you. Here, take it, and leave the rest of us alive!"
 msgstr ""
+"それでは女王に殺されてしまう！……しかし、ここで逆らっても結局死ぬのか。あなたが本当に後継者で、エルフの友であるのなら、この略奪品はあなたのものであると考えるのが妥当だろう。持っていってくれ。だからこれ以上俺たちを殺さないでくれ！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:309
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:472
 msgid "You have gained 300 gold!"
-msgstr ""
+msgstr "300 ゴールドを獲得しました！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:332
 msgid ""
 "As for the rest of you — begone! Return to your homes in Westin and never "
 "again trouble my people, lest the wrath of the elves fall upon you!"
-msgstr ""
+msgstr "残りの者共よ ── 立ち去れ！Westin の家に戻って二度と我らに面倒をかけるな。さもなくば、エルフの怒りに触れることになるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:333
 msgid ""
 "Your master has fled — now begone, servants of the false queen! Return to "
 "your homes in Westin, and trouble the true heir no more."
-msgstr ""
+msgstr "お前たちのリーダーは逃げたぞ ── さっさと消えろ、偽りの女王の下僕共！Westin の家に戻り、二度と正当なる後継者に迷惑をかけるな。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:334
 msgid ""
 "Hah! Yeah, you’d better run! And that goes for the rest of you, too, now "
 "that your leader has fled!"
-msgstr ""
+msgstr "ああ、さっさと逃げた方がいいですよ！リーダーが逃げ出したのだから、あなたたちも同じ扱いですからね！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:335
 msgid ""
 "An’ that goes for th’ rest o’ you too! Get out o’ here, an’ tell Westin we "
 "sent you!"
-msgstr ""
+msgstr "お前らも同じ扱いだぞ！さっさとここから消えろ！Westin には、アタシたちに紹介されたとでも言っとけ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:336
 msgid ""
 "And the rest of you — begone! For lo! The Light stands with Konrad, and only"
 " those of darkness dare to oppose him."
-msgstr ""
+msgstr "残った者共よ ── 消え失せろ！見よ、光は Konrad と共にある！それでもあえて逆らうのであれば、その者は闇に堕ちたとみなす。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:337
 msgid ""
 "An’ that goes for th’ rest o’ you too, ye horse-faced sons o’ elves! Run "
 "back to Westin afore I boil yer kneecaps inside yer skulls!"
-msgstr ""
+msgstr "貴様等残り物共もさっさと去ね！膝頭を頭蓋骨の中で煮込まれる前に Westin に逃げ出すがいい！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:339
 msgid ""
 "Da rest of you better be leavin’ now too. Konrad good troll-friend. You don’"
 " wanna see what troll do to you if you keep fightin’ Konrad."
-msgstr ""
+msgstr "残った奴等さっさと消えろ。Konrad トロルのトモダチ。Konrad に逆らうやつトロル許さない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:340
 msgid ""
 "And that goes for the rest of you too! Return to your homes in Westin, and "
 "trouble the Aethenwood no more."
-msgstr ""
+msgstr "残った者達も同様だ！Westin の家に戻り、二度と Aethen の森に迷惑をかけるな。"
 
 #. [message]: speaker=Konrad
 #. Konrad is level 1, and does not have a bow attack. Once he reaches level 2
@@ -10235,6 +10238,8 @@ msgid ""
 " someday wield it in battle against the dark queen. May its silver never "
 "tarnish."
 msgstr ""
+"これで Tahn 砦は我らのものだ。Aethen "
+"の森の資金と月の弓も取り戻した！弓がもう少しうまく使えるようになったら、私がこの弓を使おう。そしていつの日か、この弓を手に闇の女王に戦いを挑むのだ。この銀が曇ることがありませんように。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:357
@@ -10244,18 +10249,20 @@ msgid ""
 "Aethenwood, but for now I choose to wield it in battle against the dark "
 "queen. May its silver never tarnish."
 msgstr ""
+"これで Tahn 砦は我らのものだ。Aethen の森の資金と月の弓も取り戻した！弓については平和が戻ったら Aethen "
+"の森に返すつもりだが、今はこの弓を手に闇の女王に戦いを挑もうと思う。この銀が曇ることがありませんように。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:366
 msgid "Elvish Moonbow"
-msgstr ""
+msgstr "エルフの月の弓"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:367
 msgid ""
 "This magical weapon adds 3 strikes, the <i>slows</i> special, and the "
 "<i>arcane</i> special to Konrad’s bow attacks."
-msgstr ""
+msgstr "この魔法の武器は Konrad の弓の攻撃回数を 3 回増やし、「遅化」と「秘術」の特殊効果を追加します。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:382
@@ -10263,21 +10270,21 @@ msgid ""
 "The false prince is proving a more difficult foe that I had expected. Some "
 "soldiers left for Westin not long ago — I’d better send a messenger and call"
 " them back to help."
-msgstr ""
+msgstr "偽者の王子は思ったよりも手強い。少し前に Westin に向かった部隊がいたな ── 伝令を送って助けに戻ってもらった方が良いな。"
 
 #. [message]: role=reinforcement
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:397
 msgid ""
 "You called for aid, Castellan? We’ve come to fight, and the Westin militia "
 "is not far behind!"
-msgstr ""
+msgstr "砦の指揮官、支援が必要なのか？我々も戦闘に加わろう。Westin の民兵もすぐそこまで来ているぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:401
 msgid ""
 "We’ve taken too long to sack the fort, and now more soldiers have arrived! "
 "Even if we defeat them all, we’ll suffer greatly from the delay..."
-msgstr ""
+msgstr "都市の襲撃に時間をかけすぎて、敵の援軍が来てしまった！たとえ敵を倒せたとしても、この遅延は我々にとって致命的なダメージになるだろう…"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:8
