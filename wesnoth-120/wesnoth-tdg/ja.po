@@ -1318,7 +1318,7 @@ msgstr "Khavur"
 #. Remaining goblins fall back to their keep
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:108
 msgid "Too many humans!"
-msgstr ""
+msgstr "人間どもが多すぎる！"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:165
@@ -1358,7 +1358,7 @@ msgid ""
 "Methor, command the camp in my absence — those goblin raiders are still "
 "being a nuisance."
 msgstr ""
-"決戦の時は来たれり！作戦は覚えておろうな。Lionel将軍は、我が騎兵隊が隙を伺う間、オークの戦士どもを漸減せしめよ。Methor、私の不在時はそなたが陣営を指揮するのだ――あのゴブリンの遊撃隊が鬱陶しいからな。"
+"決戦の時は来たれり！作戦は覚えておろうな。Lionel将軍は、我が騎兵隊が隙を伺う間、オークの戦士どもの切り崩しを図れ。Methor、私の不在時はそなたが陣営を指揮するのだ――あの鬱陶しいゴブリンの遊撃隊に対処せよ。"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:348
@@ -1418,6 +1418,7 @@ msgid ""
 "Win before Garard defeats the orcish leader <span color='#ffffff' "
 "size='small'>(probably turn 17 or 18)</span>"
 msgstr ""
+"Garard がオークのリーダーを討つ前に勝利する<span color='#ffffff' size='small'>（17 〜 18 ターン前後）"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:395
@@ -1445,13 +1446,15 @@ msgid ""
 "roster of level 1 infantry. In addition to Mages, you can recruit Spearmen, "
 "Bowmen, Fencers, and Heavy Infantrymen."
 msgstr ""
+"Methor は Wesnoth の王立軍の兵士として編入され、レベル 1 "
+"の歩兵の全兵種を用いる権限が付与されました。魔術師に加え、槍兵、弓兵、剣術士、重歩兵を雇用することが可能です。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:431
 msgid ""
 "<i>If movement and combat are taking too long, you can enable “accelerated "
 "speed” and “skip AI moves” in the Preferences menu.</i>"
-msgstr ""
+msgstr "移動や戦闘の描写にかかる時間が長すぎる場合は、「設定メニュー」から「高速化」や「AI 移動スキップ」を有効化することができます。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:466
@@ -1530,32 +1533,32 @@ msgstr ""
 #. [message]: speaker=Khavur
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:598
 msgid "Nooo! Help meeee..."
-msgstr ""
+msgstr "嫌だぁぁぁ！助けてくれぇぇぇ・・・"
 
 #. [message]: speaker=Vidrug
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:604
 msgid "Bah, useless runts! This is hopeless. Whitefangs, retreat!"
-msgstr ""
+msgstr "けっ、役立たずのクソチビどもが！こりゃヤベぇな。Whitefang の野郎ども、撤退だ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:617
 msgid ""
 "Oh, what’s this? Seems one of our young magi knows how to seize the "
 "initiative."
-msgstr ""
+msgstr "むむっ、これはどういうことだ？あの見習い魔術師が戦の流れを掴む術を心得ているというのか。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:621
 msgid ""
 "A proper war-mage is far too valuable to waste on the front lines; I may "
 "have a special assignment for you. What’s your name, boy?"
-msgstr ""
+msgstr "戦に秀でた魔術師を前線で浪費するのはあまりにも惜しい。そなたには特別な任務を与えられるやも知れぬ。若者よ、名は何と申す？"
 
 #. [message]: speaker=Delfador
 #. said by Delfador to himself (or maybe just thought in his mind)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:626
 msgid "Commendation from the king himself! This is a dream come true."
-msgstr ""
+msgstr "陛下が御自らお褒めくださるとは！ついに夢が叶ったな。"
 
 #. [message]: speaker=Delfador
 #. Delfador is realy excited to go with the king, but deeply respects Methor
@@ -1566,13 +1569,15 @@ msgid ""
 "apprentice; Alduin has not yet assigned me one. And... I suppose I shouldn’t"
 " want to leave without my master’s blessing..."
 msgstr ""
+"身に余る光栄にございます、陛下！ですが、私はまだ名を名乗ることができませぬ——私は未だ見習いに過ぎず、Alduin "
+"から名を授かっておりませぬゆえ。それに・・・我が師の許しを得ずに独り立ちするわけには・・・"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:635
 msgid ""
 "By the traditions of our order, no apprentice shall venture alone; that "
 "privilege is first awarded only to the journeymen!"
-msgstr ""
+msgstr "我がアカデミーの伝統により、いかなる見習いも単独で冒険に出てはならぬ。一人前と認められし者のみが、初めてその権利を得るのだ！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:639
@@ -1581,12 +1586,13 @@ msgid ""
 "some time now. I was hoping to impart a little more wisdom before advancing "
 "you, but now I understand that fate has other plans."
 msgstr ""
+"・・・しかし見習いよ、実を言えば、お前はとうに一人前の技術を備えていたのだ。独り立ちさせる前に、もう少し知恵を授けておきたいと思っていたのだが、今や天命は別の道を指し示しているようじゃな。"
 
 #. [message]: speaker=Methor
 #. nonsense words, sounding magical, copied from the original DM
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:672
 msgid "Thorum restro targa thorum..."
-msgstr ""
+msgstr "Thorum restro targa thorum..."
 
 #. [message]: speaker=Methor
 #. referencing the "Provost of the Council of Archmagi" mentioned by Delfador
@@ -1595,12 +1601,12 @@ msgstr ""
 msgid ""
 "The light waxes bright. By the power of the high provost and the blessing of"
 " the five sages, I declare you to be nameless NO LONGER!"
-msgstr ""
+msgstr "光は満ちたり。学院長の権能と五賢人の祝福によりて、汝がもはや無名にあらざることをここに宣言する！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:697
 msgid "<i><b>DELFADOR</b></i> you shall be, and Delfador shall be YOU."
-msgstr ""
+msgstr "汝の名は <i><b>DELFADOR</b></i> であり、Delfador こそ汝なり。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:705
@@ -1609,6 +1615,9 @@ msgid ""
 "\n"
 "I grieve for the apprentice I have lost, but I celebrate the journeyman Wesnoth has gained. Your naming ceremony is complete."
 msgstr ""
+"Delfador よ、目を見開き、さらにその目を見開くのだ！\n"
+"\n"
+"我が弟子との惜別の情は禁じ得ぬが、Wesnoth が得た一人前の魔術師を祝福しよう。汝の命名の儀式は完了した。"
 
 #. [unit]
 #. [event]
@@ -1631,7 +1640,7 @@ msgstr "Delfador"
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:733
 msgid "Del-fa-dor; Delfador! Thanks master, I like the sound of that."
-msgstr ""
+msgstr "Del-fa-dor・・・Delfador！感謝いたしますマスター、実に心地よい響きです。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:737
@@ -1640,6 +1649,7 @@ msgid ""
 " want, I would never stand in your way. May we meet again in more peaceful "
 "times."
 msgstr ""
+"ではさらばだ、Delfador、大望ある若き我が友よ。これが真にそなたの望む道であるならば、私はその歩みを決して妨げはせぬ。次に会うときは、平和な世になっていることを願っておるぞ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:741
@@ -1647,6 +1657,7 @@ msgid ""
 "Yes, yes, well done to you both. Now that that’s settled, “Delfador”, it’s "
 "time to pack your bags. You have a long journey ahead of you!"
 msgstr ""
+"良し、良し、両名とも見事である。さて、そうと決まれば、\"Delfador\" よ、荷造りの時間だ。そなたの眼前には長い旅路が待っておるのだからな！"
 
 #. [message]: speaker=Vidrug
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:766
