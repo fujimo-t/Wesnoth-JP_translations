@@ -139,7 +139,7 @@ msgstr "物語は『<b>自由</b>』に続く"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
 msgid "Blast the fire elementals in <i>Graduation</i>."
-msgstr "<b>最終試練</b>において火の精霊に炎を放つ。"
+msgstr "「最終試練」において、火の精霊に炎を放つ。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
@@ -159,12 +159,12 @@ msgstr "シナリオ 1：ゴブリン愛護家"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
 msgid "Complete the hidden victory condition in <i>Fort Garard</i>."
-msgstr ""
+msgstr "「Garard 砦」において、隠された勝利条件を達成する。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
 msgid "Scenario 2: Bloodthirsty"
-msgstr ""
+msgstr "シナリオ 2：血を求めて"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
@@ -1467,7 +1467,7 @@ msgstr ""
 #. Garard's forces have just killed an orc
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:483
 msgid "They fall before us!"
-msgstr ""
+msgstr "彼奴らなど我等の敵ではないわ！"
 
 #. [message]: speaker=Methor
 #. the player is attacking orcs instead of working towards the main scenario
@@ -1476,7 +1476,7 @@ msgstr ""
 msgid ""
 "Apprentice, what are you doing! The king commanded us to engage the goblin "
 "raiders, not the main orcish army!"
-msgstr ""
+msgstr "何をしておるのだ、見習いよ！陛下はゴブリンの遊撃隊との交戦を命じられたのだ。オークの主力軍ではないぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:502
@@ -1485,6 +1485,7 @@ msgid ""
 " main battle, I’m sure the king won’t mind that I abandoned my post! "
 "...right?"
 msgstr ""
+"そう固いこと言わずに！最悪の事態が起きたとして、それが何だって言うんです？オークの主力部隊を十分に叩けば、陛下も俺の独断を不問にするはずです！・・・よね？"
 
 #. [objective]: condition=win
 #. $initial_orcs_remaining is between 8-15, $orcs_remaining is between 0-15
@@ -1663,7 +1664,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:766
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:802
 msgid "Bah... my kin will avenge me..."
-msgstr ""
+msgstr "くそっ・・・同胞が俺の仇を取ってくれる・・・"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:772
@@ -1671,7 +1672,7 @@ msgstr ""
 msgid ""
 "The first line of orcs is broken! Continue forth, riders; we ride to "
 "victory!"
-msgstr ""
+msgstr "オークの最前線が崩れたぞ！進め、騎士たちよ。勝利に向かって進軍せよ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:777
@@ -8321,6 +8322,7 @@ msgid ""
 "Congratulations on your journeymanship, $unit.name! Those fireballs are "
 "breathtaking! ...now how long until I’m allowed to cast them too?"
 msgstr ""
+"おめでとう、$unit.name！一人前になれたんだな。君のファイアボールは息をのむほど素晴らしいよ！・・・俺があれを放つのを許可されるのは、いつになることやら。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2498
@@ -8328,6 +8330,8 @@ msgid ""
 "Congratulations, $unit.name! Your journeyman’s robes look breathtaking. Now "
 "if only Methor would award me mine too ...in red, of course."
 msgstr ""
+"おめでとう、$unit.name！一人前の証であるそのローブ、息をのむほど素晴らしいな。これで Methor "
+"が俺にも授けてくれると最高なんだけど・・・もちろん、赤のローブをね。"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:49
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:57
