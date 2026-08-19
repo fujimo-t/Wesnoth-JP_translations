@@ -1512,24 +1512,24 @@ msgstr ""
 msgid ""
 "What the— who let all these runts in here! I should have known that healer "
 "would be too soft-hearted to deal properly with the goblins."
-msgstr ""
+msgstr "なんだと——誰がこのチビどもの進出を許したのだ！あの軟弱なヒーラーに、ゴブリンを冷徹に処理しろというのが、土台無理な注文だったか。"
 
 #. [message]: speaker=Delfador
 #. Delfador (or one of his troops) has killed another orc, and completed his
 #. alternate objective
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:572
 msgid "Yes! We got another one!"
-msgstr ""
+msgstr "よし！もう１匹倒したぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:577
 msgid "I’ve defeated so many orcs; surely the king must be impressed by now!"
-msgstr ""
+msgstr "結構な数のオークを倒したから、確実に陛下のお目に留まるはずだ！"
 
 #. [message]: speaker=Vidrug
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:582
 msgid "Bah, filthy humans! This is hopeless. Whitefangs, retreat!"
-msgstr ""
+msgstr "チッ、薄汚ねぇ人間どもめ！こりゃヤベぇな。Whitefang の野郎ども、撤退だ！"
 
 #. [message]: speaker=Khavur
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:598
@@ -1672,26 +1672,26 @@ msgstr "くそっ・・・同胞が俺の仇を取ってくれる・・・"
 msgid ""
 "The first line of orcs is broken! Continue forth, riders; we ride to "
 "victory!"
-msgstr "オークの最前線が崩れたぞ！進め、騎士たちよ。勝利に向かって進軍せよ！"
+msgstr "オークの最前線が崩れたぞ！進め、騎士たちよ。勝利に向かって進軍するのだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:777
 msgid ""
 "No; that’s not fair! I helped fight the orcs too; why is he going on without"
 " me?"
-msgstr ""
+msgstr "なんだよ、こんなのおかしいよ！俺だってオークと戦ったのに。なんで俺を置いていくんだよ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:781
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:817
 msgid "Now I’ll never impress the king..."
-msgstr ""
+msgstr "これじゃ、陛下の目に留まりそうもないな・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:786
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:836
 msgid "He’s going on without us! Now I’ll never impress the king..."
-msgstr ""
+msgstr "置いてけぼりかよ！これじゃ、陛下の目に留まりそうもないな・・・"
 
 #. [message]: speaker=Delfador
 #. Delfador has killed the orcish leader, but not killed enough orcs to
@@ -1700,14 +1700,14 @@ msgstr ""
 msgid ""
 "No; that’s not fair! I struck the finishing blow; why is he going on without"
 " me?"
-msgstr ""
+msgstr "なんだよ、こんなのおかしいよ！とどめを刺したのは俺じゃないか。なんで俺を置いていくんだよ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:832
 msgid ""
 "The first line of orcs will soon be broken! Continue forth, riders; we ride "
 "to victory!"
-msgstr ""
+msgstr "オークの最前線は崩壊したも同然だ！進め、騎士たちよ。勝利に向かって進軍するのだ！"
 
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:11

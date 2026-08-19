@@ -10294,19 +10294,19 @@ msgstr "グリフォンの山"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:37
 msgid "Burlin’s Crew"
-msgstr ""
+msgstr "Burlin 一味"
 
 #. [side]: type=Gryphon, id=Mother Gryphon
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:65
 msgid "Mother Gryphon"
-msgstr ""
+msgstr "マザー・グリフォン"
 
 #. [side]: type=Gryphon, id=Mother Gryphon
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:72
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:109
 msgid "Gryphons"
-msgstr ""
+msgstr "グリフォン"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:167
@@ -10316,23 +10316,25 @@ msgid ""
 "beautiful gryphons who come here to nest. It’s nice to take a break from all"
 " our fighting and experience nature."
 msgstr ""
+"これが名高いグリフォンの山！Wesnoth "
+"で一番高い山ではないし、一番広い山地というわけでもないが、美しいグリフォン達が巣を作っているため、詩人や学者たちに良く知られている。戦争から一時離れて自然を満喫するのも悪くない。"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:172
 msgid "Hey! Hey, kid!"
-msgstr ""
+msgstr "おい！おい、小僧！"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:177
 msgid ""
 "You look like a strapping young lad! What do you say about doin’ a bit o’ "
 "work for old uncle Burlin?"
-msgstr ""
+msgstr "立派な体をした小僧だな！年老いた Burlin おじさんのためにちょっとした仕事をしてみないか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:181
 msgid "I might be interested. What kind of work?"
-msgstr ""
+msgstr "それは内容によりますかね。どんな仕事なのです？"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:185
@@ -10341,20 +10343,22 @@ msgid ""
 "collect fifty gryphon eggs, see? But I ain’t excited to risk my crew’s lives"
 " on the job."
 msgstr ""
+"<b>最高</b>の仕事だぞ、何しろ金払いが良い！俺は 50 "
+"個のグリフォンの卵を集めるって契約を結んだ。しかし、この仕事のために仲間の命を危険にさらしたくはない。"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:189
 msgid ""
 "So, I say you an’ I make a deal. You kill off the gryphons for me, an’ when "
 "I make my sale t’ the queen I’ll split the profit with ye’, 70-30."
-msgstr ""
+msgstr "そこで取引だ。グリフォンを殺してくれたら、女王に売って得た代金をお前に分ける。そっちの取り分は３割だ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:193
 msgid ""
 "The queen? You’re working for Asheviere?! I’d never ally myself with such a "
 "villain!"
-msgstr ""
+msgstr "女王？Asheviere からの依頼か？！私があのような悪党に協力することは有り得ない！"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:197
@@ -10363,6 +10367,8 @@ msgid ""
 "Wesnoth? Who else would be in charge, that good-for-nothin’ rebel Konrad? "
 "Hey— did I say 70-30? I meant 50-50!"
 msgstr ""
+"……そうだ、ああ、俺は女王サマのために働いている！ここは Wesnoth のド真ん中だろ？他に誰がいるってんだ？役立たずの Konrad "
+"とかいう反逆者か？そうだな── さっきは３割と言ったんだったか？それなら５割でどうだ！"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:202
@@ -10370,7 +10376,7 @@ msgid ""
 "Tha’s a ripe load o’ tripe if ah’ve e’er heard one! What kind o’ dwarf-"
 "traitor slackjaw gives up ’is own kind? An’ this IS Prince Konrad, you "
 "numbskull! Show some respect!"
-msgstr ""
+msgstr "こいつほどの嘘つきは初めて見たぞ！ドワーフのくせに同族を見捨てるのか？そしてこいつが Konrad 王子だ、この間抜けが！頭が高いぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:207
@@ -10379,6 +10385,8 @@ msgid ""
 "of Asheviere’s! No amount of money will turn my blade. Raise your axe and "
 "make ready for battle, villain!"
 msgstr ""
+"<b>私が</b> Wesnoth の王位継承者で Asheviere の宿敵である Konrad "
+"だ！いくら金を積んでも無駄だ。斧を取れ、悪党。切り捨ててやろう！"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:212
@@ -10386,6 +10394,7 @@ msgid ""
 "Err... look, Your Highness, this is just business. I’ve got nothin’ ’gainst "
 "neither you nor Asheviere, but I do want to keep my word an’ do my job."
 msgstr ""
+"あー、そうだな…… 王子サマ、これはただの商売だ。俺はあんたにも女王サマにも逆らうつもりはない。だがな、俺は仕事や約束を放り出したくないと思っている。"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:216
@@ -10394,27 +10403,28 @@ msgid ""
 "have your pick of the eggs. Gryphons’re worth somethin’ fierce in a scrap, "
 "ye ken?"
 msgstr ""
+"今は俺と協力してくれ。巣をきれいに掃除できたら、あんたの分の卵を持っていってくれていい。グリフォンが喧嘩の時に役に立つことは知っているだろ？"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:218
 msgid ""
 "I’ll even send some o’ my crew with you, to help you train your gryphons "
 "once they hatch!"
-msgstr ""
+msgstr "それに、仲間を何人かお前に預けよう。そいつらがいれば、グリフォンが孵ったら訓練をつけることもできるぜ！"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:222
 msgid ""
 "You get yer rebel army, an’ I get my big sack o’ gold from the queen. "
 "Everyone wins, an’ nobody has to die."
-msgstr ""
+msgstr "お前の軍勢は強化されて、俺は女王からたっぷり金をもらう。誰も死なずに済むし、ウィンウィンだろ？"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:228
 msgid ""
 "Agree to Burlin’s deal: Konrad learns to recruit Gryphon Riders and Dwarvish"
 " Scouts"
-msgstr ""
+msgstr "Burlin との取引に応じる：Konrad が「グリフォンライダー」と「ドワーフの斥候」を雇用できるようになります"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:235
@@ -10422,11 +10432,13 @@ msgid ""
 "Fight Burlin: Asheviere loses $s50_burlin_income_penalty income and cannot "
 "recruit Gryphon Riders in the final scenario"
 msgstr ""
+"Burlin と戦う：最終シナリオで Asheviere は収入が $s50_burlin_income_penalty "
+"減少し、グリフォンライダーを雇用できなくなります"
 
 #. [message]: type=Young Ogre
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:263
 msgid "Uhh... who you? You squishy! Me squish you!"
-msgstr ""
+msgstr "うぅぅ… おまえダレ？おまえフニャフニャ！オレおまえつぶす！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:298
@@ -10435,6 +10447,7 @@ msgid ""
 "you make a valid point. I’ll need gryphons and dwarves if I want my army to "
 "be victorious."
 msgstr ""
+"いいだろう。どんな形であっても闇の女王に味方することはできないが、お前の言うことにも一理ある。最終的に勝利を収めるためには、グリフォンとドワーフの力も必要になるだろう。"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:302
@@ -10442,38 +10455,39 @@ msgid ""
 "Great! I knew ye’d come round. Tha’ big gryphon in the middle is the "
 "matriarch — kill her off an’ we’ll have no trouble gettin’ the eggs we need."
 msgstr ""
+"やったぜ！考えを変えてくれると信じてたぜ。真ん中にいるでかいグリフォンがマザーだ ── そいつを殺せば、俺たちが卵を探すのを邪魔する奴はいない。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:314
 msgid "Defeat the gryphon leader"
-msgstr ""
+msgstr "グリフォンのリーダーを倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:320
 msgid "Death of Burlin"
-msgstr ""
+msgstr "Burlin の死"
 
 #. [message]: speaker=Mother Gryphon
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:337
 msgid "Krawww! Krawww..."
-msgstr ""
+msgstr "ガアアァァアァァ！ガァァァ……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:348
 msgid ""
 "With the matriarch dead, the rest of them have fled! The mountain is silent "
 "once again."
-msgstr ""
+msgstr "マザー・グリフォンが死んで、生き残りは逃げ出した！これで再び山も静かになった。"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:353
 msgid "Twenty..."
-msgstr ""
+msgstr "20…"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:358
 msgid "Forty..."
-msgstr ""
+msgstr "40…"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:363
@@ -10482,93 +10496,94 @@ msgid ""
 "here’s some o’ my crew to help you ride ’em once they hatch. Great work, "
 "kid."
 msgstr ""
+"50！これで揃った。約束した通り、残りの卵はお前のものだ。そんで、グリフォンが孵ったらこいつらが訓練をつけてくれるだろう。良い仕事だったぜ、小僧。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:365
 msgid "Konrad can now recruit Gryphon Riders and Dwarvish Scouts!"
-msgstr ""
+msgstr "Konrad は「グリフォンライダー」と「ドワーフの斥候」を雇用できるようになりました！"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:381
 msgid "Ack! So much fer my gold..."
-msgstr ""
+msgstr "うぐっ！欲を掻きすぎたか……"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:395
 msgid ""
 "Oy, can ye hurry it up? Time is money, an’ I ain’t makin’ any standin’ "
 "around!"
-msgstr ""
+msgstr "おい、もうちょっと急いでくれるか？時は金なり。俺にはこんなところで呆けている暇はないんだ！"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:402
 msgid ""
 "Ah, forget it, yer takin’ too long. I’ll deal with this meself — an’ keep "
 "all the reward for meself too!"
-msgstr ""
+msgstr "あー、もういい。いつまでやってんだ。後は自分でやる ── 報酬も全部俺のモノだ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:425
 msgid ""
 "I said raise your axe, villain! Any friend of Asheviere’s is a foe of mine!"
-msgstr ""
+msgstr "斧を取れといっただろう、悪党！Asheviere の友は全て私の敵だ！"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:429
 msgid "Well, I tried. It’s yer funeral, kid."
-msgstr ""
+msgstr "まあ、仕方ないか。勝手にしろ、小僧。"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:436
 msgid ""
 "Hey boys, wake up an’ set up camp! Looks like we’re gonna need to fight fer "
 "it after all!"
-msgstr ""
+msgstr "野郎共。さっさと起きてキャンプを作れ！結局戦わにゃならんようだ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:451
 msgid "Defeat Burlin"
-msgstr ""
+msgstr "Burlin を倒す"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:471
 msgid ""
 "You’d think these gryphons would show a little more gratitude, instead of "
 "trying to kill us..."
-msgstr ""
+msgstr "我々を殺そうとするんじゃなくて、感謝の気持ちの一つでも見せてもらいたいところなんだけどね……"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:483
 msgid ""
 "Ah, humbug. Now the queen’ll ne’er get her gryphons... an’ I’ll ne’er get my"
 " gold..."
-msgstr ""
+msgstr "ああ、チクショウ。女王はグリフォンを手に入れられない… 俺も金を手に入れられない……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:490
 msgid "Even on his deathbed, money is all he cares about."
-msgstr ""
+msgstr "今際の際でも金のことしか考えられないのか。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:498
 msgid ""
 "That’s why we have to fight her. Not for my sake, but for all the people "
 "suffering under Asheviere’s lash."
-msgstr ""
+msgstr "だから我々は女王と戦わなければいけない。私のためではなく、Asheviere の圧制に苦しむ全ての人々のために。"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:517
 msgid ""
 "Argh, this is takin’ too long. I’d better send a messenger to Dan’Tonk an’ "
 "call for help."
-msgstr ""
+msgstr "ちっ、時間がかかりすぎている。Dan’Tonk に応援を頼んだ方が良さそうだな。"
 
 #. [message]: role=messenger
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:533
 msgid ""
 "Ah’m back, Burlin! An’ I’ve brought a whole army with me — th’ queen’s "
 "pretty excited to finally capture the rebel prince!"
-msgstr ""
+msgstr "来たぞ、Burlin！全軍を連れてきた── ついに反逆者を捕捉することができて女王は大層ご機嫌だったぞ！"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:7
