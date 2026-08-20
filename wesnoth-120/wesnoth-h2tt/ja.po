@@ -10595,7 +10595,7 @@ msgstr "死の谷"
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:37
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:91
 msgid "Warrior Monks"
-msgstr ""
+msgstr "戦僧"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:229
@@ -10604,13 +10604,14 @@ msgid ""
 "find aid. You must return with us to help our home, else all may soon be "
 "lost!"
 msgstr ""
+"旅人よ、こんにちは！封印が弱まっているため、先達のシスターより助けを求めよと仰せつかっているのだ。我らの本拠地まで一緒に来てくれないか？さもなくば全てが破滅してしまう！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:233
 msgid ""
 "Don’t worry, warrior, we’ve already been to your home and fought to restore "
 "the seals! Your people are safe."
-msgstr ""
+msgstr "戦士よ、心配はいらない。我々はすでにあなた方の本拠地へと赴き、封印を復旧した！あなたの仲間達は無事だ。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:237
@@ -10619,12 +10620,13 @@ msgid ""
 "us in battle against these undead stragglers, and my warriors and I shall be"
 " glad to join you."
 msgstr ""
+"まさか本当に？それは喜ばしい！若者よ、心から感謝する。すまないが、このアンデッドの残党との戦いを手伝ってもらえないか？そうしてくれれば、私と仲間の戦士も喜んであなたの軍に参加できる。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:243
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:277
 msgid "Hail, strangers! How have these undead come to trouble you?"
-msgstr ""
+msgstr "初めまして、見知らぬ方！あのアンデッドに悩まされているのでしょうか？"
 
 #. [message]: speaker=Moremirmu
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy
@@ -10635,6 +10637,7 @@ msgid ""
 "again lay eyes upon a fellow brother of the faith. But what are undead doing"
 " so near to our hallowed home?"
 msgstr ""
+"見知らぬ？いや、Konrad、それは違うぞ。彼らは我が同胞だ！Kaelor、信仰を同じくする同志に再び会えて、本当に嬉しいぞ。しかし、我らの神聖な地のこんな近くにアンデッドがいるとは、どういうわけだ？"
 
 #. [message]: speaker=Kaelor
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy
@@ -10644,6 +10647,8 @@ msgid ""
 "Grim tidings, brother Moremirmu! The seals are failing, and the sister "
 "senior sent us to cut through these restless dead and find aid for our home!"
 msgstr ""
+"Moremirmu "
+"修道士、こんな時に戻ってこられるとは！封印が綻びつつあるのだ。そこで、死者達を切り抜け、助けを求めるように先達のシスターから仰せつかった！"
 
 #. [message]: speaker=Moremirmu
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy
@@ -10654,11 +10659,13 @@ msgid ""
 "brother. Yet now have I returned — and with me comes a lost prince and his "
 "warriors most righteous, ready to aid you!"
 msgstr ""
+"封印が？なんてことだ！同志よ、私は本拠地から長く離れすぎていたようだ。しかし私は戻ってきた ── "
+"それも、行方知らずだった王子とその信頼する戦士達と！手を貸すぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:263
 msgid "I don’t understand. Moremirmu, what’s going on?"
-msgstr ""
+msgstr "Moremirmu、どういうことなのです？何が起こっているのですか？"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:267
@@ -10668,13 +10675,15 @@ msgid ""
 " my home, yet Kaelor reports that it is weakening. Undead have begun to slip"
 " through."
 msgstr ""
+"Konrad、彼らは光に仕える者達だ。私と同郷 ── ここから北に何日か行ったところにある修道院の者だ。修道院は強力な魔法で守られているが、Kaelor"
+" によるとその魔法が弱まり、綻んでしまっている。その綻びをアンデッドが通り抜けるようになってしまった。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:271
 msgid ""
 "We must fight through these undead and go at once to their aid, for without "
 "our help they may soon lose all!"
-msgstr ""
+msgstr "我々は速やかにこのアンデッドを突破し、修道院を助けねばならん！さもなくば修道院は保たんだろう！"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:281
@@ -10683,13 +10692,14 @@ msgid ""
 "sister senior sent us to cut through these restless dead and find aid for "
 "our home! But who are you to ask, stranger of the south?"
 msgstr ""
+"逆だ。あのアンデッドをどうにかするために我々がここに来たの！封印が綻びつつある。そこで、死者達を切り抜け、助けを求めるように先達のシスターから仰せつかったのだ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:285
 msgid ""
 "Well met. I am Konrad. But I don’t understand — you said you’re looking for "
 "help?"
-msgstr ""
+msgstr "お会いできて光栄です。私は Konrad です。良く分かっていませんが…… あなた方は助けを求めているのですか？"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:289
@@ -10697,6 +10707,7 @@ msgid ""
 "Indeed. I come from a monastery, some days travel northwards. A powerful "
 "magic that once protected my home has weakened, and I was sent to seek aid."
 msgstr ""
+"まさに。私はここから数日ほど北の場所にある修道院から来た。修道院を守っていた強力な魔法が弱まりつつある。そのため、助けを求めて私はここまで来ている。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:293
@@ -10705,6 +10716,7 @@ msgid ""
 " alongside me to vanquish these undead now, then return with us north and "
 "help our home. Otherwise, all shall soon be lost!"
 msgstr ""
+"あなたが闇でなく光に仕える方ならば、あなたこそが我々が求める助けなのだろう！まずはここのアンデッドを浄化し、北の修道院へと共に行こう。さもなくば全てが終わってしまう！"
 
 #. [objective]: condition=win
 #. [objective]: description=<span strikethrough='true' color='#A9A9A9'>,
@@ -10713,12 +10725,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:309
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:317
 msgid "Protect Kaelor: recruit Heavy Infantrymen"
-msgstr ""
+msgstr "Kaelor を守る：「重歩兵」を雇用可能"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:345
 msgid "Kaelor, who are you people? How did all these undead come to be here?"
-msgstr ""
+msgstr "Kaelor、あなた方は何者なのです？どうしてここにアンデッドが現れたのでしょう？"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:349
@@ -10726,6 +10738,7 @@ msgid ""
 "The hills to the north — now the home of my order — were once a wholly "
 "accursed place, blighted by necromancy and consumed by darkness."
 msgstr ""
+"北にある丘── 今は我々の組織の本拠地となっているが、ここはかつて完全に呪われた土地であった。降霊術によって汚され、闇に飲み込まれてしまっていたのだ。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:353
@@ -10735,6 +10748,8 @@ msgid ""
 "are stragglers of Ras-Tabahn’s. We only know that centuries ago, the crown "
 "used the ruby to seal them underground with powerful magic."
 msgstr ""
+"その邪悪がどこから来たのかはわからない。西からの侵攻を生き延びた高位リッチが降霊術を使っていたと考える者もいる。Ras-Tabahn "
+"の残党だと考える者もいる。確かなことは、何世紀か前、当時の王がルビーを使い、強力な魔法で邪悪を地下に封じたということだけだ。"
 
 #. [message]: speaker=$speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:357
@@ -10742,33 +10757,33 @@ msgid ""
 "Men and women of our order, servants of the light, have made it our mission "
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
-msgstr ""
+msgstr "組織の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としている。そこに修道院を建てて闇が決して逃げないようにしたのだ。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:361
 msgid ""
 "But it has been decades since the Crown sent to us men or supplies, and the "
 "power of our order has waned. Now the seals are beginning to fail..."
-msgstr ""
+msgstr "しかし、この数十年、王家は人員も物資も送ってくれていない。組織の力も衰え、ついには封印が綻び始めてしまっている…"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:376
 msgid "My light fades..."
-msgstr ""
+msgstr "光よ……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:380
 msgid ""
 "Those armored warriors would surely have been of great help in our fight for"
 " the crown. If only we could have protected them..."
-msgstr ""
+msgstr "女王と戦う上で彼ら重装の兵士は大きな力になっただろうに… 彼らを守ることができていれば……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:404
 msgid ""
 "This ruined skeleton bears a curious amulet. Magical, perhaps? There is an "
 "inscription explaining its function..."
-msgstr ""
+msgstr "このスケルトンの残骸は不思議なアミュレットを身につけている。魔法の品だろうか？機能の説明が刻み込まれているようだ……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:416
@@ -10777,6 +10792,8 @@ msgid ""
 "have been a craftsman of legendary skill. Fortune has smiled upon us today —"
 " I will take this artifact for myself."
 msgstr ""
+"不思議な物だ。死後は単なる操り人形となってしまったが、生前、この人物は素晴らしい技術を持った職人だったに違いない。これも運命のお導きだろうか── "
+"このアミュレットは私が持つことにしよう。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:435
@@ -10784,7 +10801,7 @@ msgid ""
 "Lo, our victory is won! And with the seal already restored and our home "
 "already rescued, there is nothing to prevent my brothers and I from joining "
 "you on your quest, Konrad."
-msgstr ""
+msgstr "我々の勝利だ！封印がすでに修復され、修道院も救われたのであれば、我々も心置きなくあなたの戦いに力を貸せるぞ、Konrad。"
 
 #. [message]: speaker=Kaelor
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy
@@ -10794,7 +10811,7 @@ msgid ""
 "Lo and behold! We have won a bright victory against the forces of darkness, "
 "good warrior. My brothers and I would be honored to continue fighting by "
 "your side."
-msgstr ""
+msgstr "見よ！我々は闇を打ち破り輝かしい勝利を収めたぞ！私と仲間たちは今後も喜んであなたとともに戦おう。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:445
@@ -10803,11 +10820,12 @@ msgid ""
 "stems from what lies to the north! I implore you, brave Konrad, travel north"
 " and rescue my home!"
 msgstr ""
+"しかしこいつらは北に潜むものから湧き出る闇の炎に惹きつけられた蛾に過ぎない！勇敢なる Konrad よ、どうか北へ向かって我々の本拠地を救ってくれ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:450
 msgid "Konrad can now recruit Heavy Infantrymen!"
-msgstr ""
+msgstr "Konrad は「重歩兵」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:457
@@ -10815,21 +10833,21 @@ msgid ""
 "The undead have been defeated! Yet with the leader of the warrior monks "
 "slain, we have lost the opportunity to gain a new ally in our fight for the "
 "crown."
-msgstr ""
+msgstr "アンデッドを倒した！しかし、修道士達のリーダーは死んでしまった。女王と戦うための戦力を得られる機会であったのに…"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:478
 msgid ""
 "Make haste, Konrad! Should we tarry too long, the seals shall surely break "
 "and our home shall surely be destroyed!"
-msgstr ""
+msgstr "Konrad、急いでくれ！のんびりしていると封印が破れ、本拠地が闇に飲まれてしまう！"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:485
 msgid ""
 "Alas, we have tarried too long. Even should we yet win the battle today, "
 "surely the seals have already broken, destroying our home...."
-msgstr ""
+msgstr "ああ、手遅れか。封印が破れ、本拠地が壊滅してしまった今、たとえここで勝利を収めても……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:12
