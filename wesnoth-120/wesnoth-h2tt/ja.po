@@ -10857,46 +10857,46 @@ msgstr "死の谷 その２"
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:58
 msgid "Aimucasur"
-msgstr ""
+msgstr "Aimucasur"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:68
 msgid "Selda-Mana"
-msgstr ""
+msgstr "Selda-Mana"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:119
 msgid "Sister Kenara"
-msgstr ""
+msgstr "シスター Kenara"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:121
 msgid "Brother Vinrar"
-msgstr ""
+msgstr "Vinrar 修道士"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:122
 msgid "Sister Miryan"
-msgstr ""
+msgstr "シスター Miryan"
 
 #. [message]: speaker=$speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:166
 msgid ""
 "Lo and behold, Konrad: my home! At last I return... but we are too late! "
 "Undead! The seal has already broken!"
-msgstr ""
+msgstr "Konrad、見よ、ここが我らの本拠地だ！やっと戻ってこれた… しかし遅かったか！アンデッドだ！封印はすでに破れてしまった！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:172
 msgid ""
 "Lo and behold, Konrad! Fate has brought us to my home; the monastery of my "
 "order."
-msgstr ""
+msgstr "Konrad、見よ！運命がこの我らが本拠地へと導いた。ここが我が組織の修道院だ。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:176
 msgid "... but what calamity is this? Undead! The sacred seal has broken!"
-msgstr ""
+msgstr "…しかし一体何が起こっている？アンデッドだと！聖なる封印が壊れてしまったのか！"
 
 #. [message]: speaker=Myrilell
 #. "Brother" is not literal. Rather, the speaker and the "brother" are both
@@ -10906,6 +10906,7 @@ msgid ""
 "Brother, you return to us! And with aid from the outside! Yet your arrival "
 "is but a silver lining, too little too late, for our strength has failed."
 msgstr ""
+"修道士よ、戻ったのですね！それも外部の協力者も連れて！それは喜ばしいことですが、私たちの力は既に尽きています。こうなっては手遅れです。せっかく来ていただいたのに申し訳ありませんが、あなた方にもどうにもできないでしょう。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:200
@@ -10914,6 +10915,8 @@ msgid ""
 "outside... Yet your arrival is but a silver lining, too little too late, for"
 " our strength has failed."
 msgstr ""
+"旅人よ、我らの修道院へようこそ！外部からの助力を熱望しておりましたが… "
+"私たちの力は既に尽きてしまいました。こうなっては手遅れです。せっかく来ていただいたのに申し訳ありませんが、あなた方にもどうにもできないでしょう。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:205
@@ -10922,6 +10925,7 @@ msgid ""
 "things sprung from the deepest nightmares of humanity. With the spell broken"
 " that once sealed them below, the undead emerge to destroy us all!"
 msgstr ""
+"地下深くから闇の魔力が溢れ出し、人の根源的な悪夢より生まれた存在に不死が授けられています。封印はもはや失われ、現れ続けるアンデッドが私たち全てを蹂躙するでしょう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:217
@@ -10930,20 +10934,22 @@ msgid ""
 "heir to the throne of Wesnoth. If there are undead here then it is my duty "
 "to help you stop them."
 msgstr ""
+"諦めてはいけない！あなたは Kaelor を送り出し、Kaelor は私を── Wesnoth の王位継承者である Konrad "
+"を見つけた。ここにアンデッドが出るというなら、それを滅するのが私の責務です。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:221
 msgid ""
 "You say there was once a spell that sealed these dead underground. Can you "
 "cast it again?"
-msgstr ""
+msgstr "かつて地下にこの邪悪を封じていた呪文があると言っていましたね。それをもう一度発動させることはできないのですか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:226
 msgid ""
 "Don’t give up hope! I am Konrad, heir to the throne of Wesnoth, and if there"
 " are undead here then it is my duty to help you stop them."
-msgstr ""
+msgstr "諦めてはいけない！私は Konrad、Wesnoth の王位継承者です。ここにアンデッドが出るというなら、それを滅するのが私の責務です。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:230
@@ -10951,6 +10957,7 @@ msgid ""
 "But what is this place? You say there was once a spell that sealed these "
 "dead underground. Can you cast it again?"
 msgstr ""
+"しかしここはどんな場所なのですか？かつて地下にこの邪悪を封じていた呪文があると言っていましたね。それをもう一度発動させることはできないのですか？"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:235
@@ -10958,13 +10965,15 @@ msgid ""
 "Without the ruby? No. There are none alive today, save perhaps the great "
 "Delfador, with the might to again from-naught weave such a seal."
 msgstr ""
+"ルビーもなしで？無理です。偉大なる Delfador、彼の御仁であればもしかしたら可能かもしれませんが…… "
+"あのような封印をゼロから再び張るほどの力を持つ者はここにはいません。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:237
 msgid ""
 "But the pieces of our shattered spell still linger. With time, it could be "
 "repaired."
-msgstr ""
+msgstr "しかし砕け散った呪文の断片はまだ残っています。時間があれば修復できるはずなのです。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:241
@@ -10973,25 +10982,26 @@ msgid ""
 "horrors of the undead crashing down upon our humble home, and many perished."
 " Light save them."
 msgstr ""
+"実際、一度修復を試みたこともあります。しかし、私たちが封印を修復しようとしたところ、アンデッドが我らの慎ましい住処に襲いかかり、多くの者が命を落としてしまったのです。ああ、光よ、彼らを救いたまえ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:245
 msgid ""
 "I understand — alone, you could not defend yourself. But now I am here. I "
 "will help you."
-msgstr ""
+msgstr "あなた方だけでは身を守ることができなかったのですね。そういうことであれば── 今度は私達もいます。あなたたちのことは私達が守りましょう。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:253
 msgid "You are a blessing, Konrad. With your help, perhaps it is possible."
-msgstr ""
+msgstr "光は我らに救いを与えてくださった。Konrad、あなたたちの力があればやれるかもしれません。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:284
 msgid ""
 "There are only four of us left who have the power to repair the seal. The "
 "rest of us — the novices — I entrust into your command."
-msgstr ""
+msgstr "封印を修復できる力を持つものは４人しか残っていません。残りの者達── 見習い達の指揮はあなたにお任せします。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:288
@@ -11000,26 +11010,27 @@ msgid ""
 "time our ritual shall complete, and the seal shall be repaired, trapping the"
 " undead back underground."
 msgstr ""
+"私と年嵩の者たちが封印を修復する間、修道院を守ってください。48 時間ほどあれば修復の儀式は完了し、アンデッドも再び地下へと封印されるでしょう。"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:304
 msgid "You can now advance Mages to White Mages!"
-msgstr ""
+msgstr "「魔術師」が「白魔術師」にレベルアップできるようになりました！"
 
 #. [else]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:307
 msgid "Konrad can now recruit Mages, and advance them to (only) White Mages!"
-msgstr ""
+msgstr "Konrad は「魔術師」を雇用できるようになりました！「魔術師」は「白魔術師」にだけレベルアップできます！"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:346
 msgid "Death of Myrilell or Kenara"
-msgstr ""
+msgstr "Myrilell か Kenara の死"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:355
 msgid "Your allies will not move, but can attack adjacent enemies."
-msgstr ""
+msgstr "友軍は移動しませんが隣接する敵に攻撃はできます。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:369
@@ -11028,6 +11039,8 @@ msgid ""
 "mentor? What of Brother Percy, keeper of the ancient texts? They should have"
 " stopped this."
 msgstr ""
+"Myrilell、どうして封印はこんなに弱まってしまったのだ？私の師匠、シスター Tristia はどこだ？古文書の管理者、Percy "
+"修道士はどうしたのだ？彼らならばこのような事態を止められたはずだ。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:373
@@ -11036,32 +11049,33 @@ msgid ""
 "missed, Moremirmu, away on your quest to spread light across the wider "
 "world."
 msgstr ""
+"二人とも亡くなりました。押し寄せるアンデッドの波に飲み込まれてしまったのです。Moremirmu、旅に出ていたあなたがここに残っていてくれたら、何度そう思ったことかわかりません。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:377
 msgid "Dead!? So many dead."
-msgstr ""
+msgstr "死んだ！？多くの者が命を落としたのだな…"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:383
 msgid ""
 "The seal shattered, my home imperiled, my friends slain. This is the work of"
 " a dozen lifetimes undone."
-msgstr ""
+msgstr "封印は破れ、故郷は危地にあり、多くの友が命を落とした。人生で永く積み重ねてきたものは台無しになってしまった。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:387
 msgid ""
 "Konrad, I am overcome by grief. I am brought to tears. The very foundation "
 "of my faith is shaken."
-msgstr ""
+msgstr "悲しみが、涙が、どうしても止まらない。信じる光は一体どこに……"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:395
 msgid ""
 "I am sorry. I cannot battle today. I must meditate, and ponder on my "
 "emotions."
-msgstr ""
+msgstr "すまない。私は今日戦うことができない。 瞑想し、この感情についてじっくり考えなければならない。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:399
@@ -11069,18 +11083,19 @@ msgid ""
 "Ponder your emotions? Moremirmu, I know it’s a shock to see your home in "
 "crisis, but we’re about to fight a battle!"
 msgstr ""
+"感情についてじっくり考える？Moremirmu、故郷が危地にあることでショックを受けたことはわかります。しかし今はその故郷のために戦わねばならないのですよ！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:403
 msgid ""
 "I am a warrior of the Light, Konrad. My Light cannot shine while there "
 "within me beats a heart touched by the Dark."
-msgstr ""
+msgstr "Konrad、私は光に仕える戦士だ。心の内に闇があっては、光が輝くことはない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:414
 msgid "He’s gone!"
-msgstr ""
+msgstr "行ってしまった！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:429
