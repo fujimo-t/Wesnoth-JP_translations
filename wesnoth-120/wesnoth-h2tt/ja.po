@@ -11101,7 +11101,7 @@ msgstr "行ってしまった！"
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:429
 msgid ""
 "Myrilell, what is this place we now defend? How did you all come to be here?"
-msgstr ""
+msgstr "Myrilell、ここはどんな場所なのですか？あなた方はどうしてここに来たのですか？"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:433
@@ -11109,6 +11109,7 @@ msgid ""
 "These hills — now our home — were once a wholly accursed place, blighted by "
 "necromancy and consumed by darkness."
 msgstr ""
+"この丘── 今でこそ私達の本拠地となっていますが、かつては呪いが染み付いた土地でした。降霊術によって汚され、闇に飲み込まれてしまっていたのです。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:437
@@ -11118,6 +11119,8 @@ msgid ""
 "are stragglers of Ras-Tabahn’s. We only know that centuries ago, the crown "
 "sealed them underground with powerful magic."
 msgstr ""
+"その邪悪な存在がどこから来たのかはわかりません。西からの侵攻を生き延びた高位リッチが降霊術を使っていたと考える者もいます。Ras-Tabahn "
+"の残党だと考える者もいます。確かなことは、何世紀か前、当時の王がルビーを使い、強力な魔法で邪悪を地下に封じたということだけです。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:441
@@ -11126,18 +11129,19 @@ msgid ""
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
 msgstr ""
+"組織の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としています。ここに修道院を建てて、闇が決して逃げださないようにしていたのです。"
 
 #. [message]: speaker=Vinrar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:445
 msgid ""
 "But it’s been decades since the Crown last sent to us men or supplies, and "
 "the power of our order has waned. And now even the seal has fallen..."
-msgstr ""
+msgstr "しかし、この数十年、王家は人員も物資も送ってくれていません。組織の力も衰え、ついには封印が破れてしまいました…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:457
 msgid "Look out! They’re preparing another assault."
-msgstr ""
+msgstr "あれを見ろ！敵がまた攻撃を仕掛けようとしている。"
 
 #. [message]: type=Lich
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:461
@@ -11146,6 +11150,7 @@ msgid ""
 "shall be thrown open and our followers shall flood across the land! You "
 "cannot stop the eternal life that we bring!"
 msgstr ""
+"よくもこの忌まわしい封印で我らを長きに渡って縛り付けてくれたな！地下通路は開かれ、我らの信奉者共がこの地を蹂躙するだろう！この地に永遠の命を授けてやるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:465
@@ -11153,13 +11158,14 @@ msgid ""
 "Eternal life is no blessing, lich, but a curse. I have tasted from the cup "
 "of which you offer, and we will not allow such poison to spread."
 msgstr ""
+"リッチよ、永遠の命は祝福などではない。呪いだ。たった一口程度ではあるが、私もこの身でその呪いを味わった。その上で断言しよう。このような毒を広めるわけにはいかない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:466
 msgid ""
 "For too long has the crown neglected this place. Now, the spirit of Garard "
 "comes to put things right."
-msgstr ""
+msgstr "王家はこの地のことを長い間無視していました。しかし今、Garard 陛下の魂がこの地に正義を取り戻すべくやってきました。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:467
@@ -11167,80 +11173,81 @@ msgid ""
 "As tempting as the thought may be, I’ve heard more than a few stories of "
 "promising young magi tempted by necromancy. It never ends well."
 msgstr ""
+"魅力的なお誘いですね。ところで、私は有望な若い魔術師たちが降霊術に誘惑されたという話を何度も耳にしています。幸せな結末を迎えたと聞いたことはありませんが。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:468
 msgid ""
 "As tempting as the thought may be, I’ve seen more than a few promising young"
 " magi tempted by necromancy. It never ends well."
-msgstr ""
+msgstr "魅力的な話ではあるな。しかし、有望な若い魔術師たちが降霊術に魅了されたという話は何度も耳にしたが、幸せな結末を迎えたと聞いたことはないな。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:469
 msgid ""
 "Fancy talk comin’ from a stick-handed sixpenny skull, ye soused gurnet! Jus’"
 " wait ’til ah stick my axe through one o’yer wrinklin’ ribs!"
-msgstr ""
+msgstr "それは愉快な話だな、不器用で安っぽい酔っ払いが！酔い醒ましにこの斧を捻じ込んでやろうぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:470
 msgid ""
 "You’re not the first lich we’ve fought. Want to hear what we did to the last"
 " one?"
-msgstr ""
+msgstr "リッチと戦うのは初めてじゃない。前の奴がどうなったか聞かせてやろうか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:472
 msgid ""
 "Really, eternal life? I’d love to discuss some of my alchemical theories "
 "with you! ...wait, ah, no, you mean undeath, don’t you."
-msgstr ""
+msgstr "まあ、永遠の命ですって？私の錬金術理論について話し合えませんか？あれ……？ああ、降霊術のことでしたか。それは残念です。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:473
 msgid ""
 "Ya ya ya. Dosh heard dis all before. Always someone be thinkin’ dey know "
 "what’s best for everyone else."
-msgstr ""
+msgstr "Dosh 前それ聞いた。自分一番思うやつどこにでもいる。"
 
 #. [message]: speaker=Vinrar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:510
 msgid "At last, I see the light..."
-msgstr ""
+msgstr "ああ、やっと光が……"
 
 #. [message]: speaker=Miryan
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:518
 msgid "Yield not one inch to the darkness..."
-msgstr ""
+msgstr "一歩たりとも闇に譲ってはならない…"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:530
 msgid ""
 "This body is merely a puppet! You cannot stop us from enlightening your "
 "world to the bliss of eternal un-life!"
-msgstr ""
+msgstr "この体はただの人形に過ぎぬ！この世界に不死の祝福を！誰にも止められはせぬ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:537
 msgid ""
 "Your fighting only delays the inevitable! There are more of us than you "
 "could ever imagine!"
-msgstr ""
+msgstr "こんなものは無駄な悪あがきに過ぎぬ！貴様の想像が及ばぬほどの大軍勢がまだ後に控えているのだ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:541
 msgid "One fewer now."
-msgstr ""
+msgstr "一体減ったな。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:560
 msgid "Lo! My faith has been tested! And lo! It has endured!"
-msgstr ""
+msgstr "ああ！私の信仰は試された！そして見よ！我が信仰は未だ健在である！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:597
 msgid "In the crucible of the Light, evil shall be purged!"
-msgstr ""
+msgstr "光の試練の場にて、悪は浄化される！"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:616
@@ -11251,28 +11258,31 @@ msgid ""
 "Smite: each time Moremirmu strikes a finishing blow, he will deal\n"
 "30 arcane damage to all adjacent enemies."
 msgstr ""
+"Moremirmu が戻りました！ダメージが +2、HP が +20 され、強力な「強打」能力を獲得しました！\n"
+"\n"
+"強打：Moremirmu が敵に止めを刺した時、Moremirmu に隣接する敵ユニットは 30 の秘術ダメージを受けます。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:641
 msgid "Nearly done, Konrad! Hold strong and we shall yet be victorious!"
-msgstr ""
+msgstr "あと少しです、Konrad！ここを耐え抜けば私達の勝利です！"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:649
 msgid "Light save us all! It is finished."
-msgstr ""
+msgstr "光のご加護に感謝いたします！これで終わりです。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:679
 msgid "They’re gone!"
-msgstr ""
+msgstr "アンデッドがいなくなったぞ！"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:685
 msgid ""
 "With the seal restored, the undead have once more been banished underground."
 " We are in your debt, Your Highness."
-msgstr ""
+msgstr "封印が修復され、アンデッドは再び地下深くへと追放されました。王子殿下、私達はあなたに大きな借りができました。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:689
@@ -11282,18 +11292,19 @@ msgid ""
 "young mages, and the nascent Light that they nurture within. May they serve "
 "you well as you journey on to reclaim your throne."
 msgstr ""
+"私と年嵩の者たちはここに留まらねばなりません。アンデッドが再び現れないように封印を強化しなければなりませんから。しかし、若い者達はあなたにお任せいたします。彼らの内にある光が大きく育ち、あなたが王位を取り戻す一助となりますよう。"
 
 #. [message]: id=Myrilell,Kenara
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:719
 msgid "No! Without her help, I have no hope of restoring the seal."
-msgstr ""
+msgstr "そんな！彼女の力がなければ封印を修復することはできません！"
 
 #. [message]: id=Myrilell,Kenara
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:723
 msgid ""
 "The undead will continue to pour forth and pour forth, until we are all "
 "overwhelmed..."
-msgstr ""
+msgstr "アンデッドは私達全員が倒れるまで押し寄せ続けることでしょう……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:8
