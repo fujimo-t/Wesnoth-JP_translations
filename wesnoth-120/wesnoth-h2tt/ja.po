@@ -12079,13 +12079,13 @@ msgstr "Abez の浅瀬"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:34
 msgid "Clan Stoneskin"
-msgstr ""
+msgstr "石皮氏族"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:137
 msgid ""
 "Have you reconsidered, troll? Let us pass, and bloodshed may yet be averted."
-msgstr ""
+msgstr "考え直さないか、トロルよ？通してくれれば、流血沙汰は避けられるんだ。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:141
@@ -12094,6 +12094,7 @@ msgid ""
 "cross. Stoneskins fight hard to own ford, kill lotsa other trolls ’n orcs. "
 "Dosh kill you too, no big whoop."
 msgstr ""
+"残念だ。Dosh 言った、柔皮。渡りたければ払え。石皮がんばって戦って浅瀬取った。よそのオークトロルたくさん殺した。Dosh お前も殺す。他の奴同じ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:145
@@ -12102,11 +12103,14 @@ msgid ""
 "You have no more right to own it than do I, or any of the free peoples of "
 "Wesnoth. Prepare for battle!"
 msgstr ""
+"Abez "
+"の浅瀬はお前たちが来る前からここにあり、お前達がいなくなった後も在りつづけるだろう。誰にもこの浅瀬を所有する権利は無い。お前たちにも、Wesnoth "
+"にもだ。やるぞ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:153
 msgid "Defeat Dosh"
-msgstr ""
+msgstr "Dosh を倒す"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:171
@@ -12116,59 +12120,61 @@ msgid ""
 "his allies, opening the way for Asheviere’s domination. She has much to "
 "answer for."
 msgstr ""
+"ここで最後の裏切りが起こった。Eldred が Garard とその配下を殺し、Asheviere "
+"の専横が始まることになった。女王には償わねばならないことがたくさんある。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:173
 msgid ""
 "Many terrible battles were once fought at this ford, Konrad. May ours prove "
 "itself less deadly."
-msgstr ""
+msgstr "Konrad、この浅瀬では幾度となく激しい戦いが起こってきた。この戦闘がそうならないことを願う。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:174
 msgid ""
 "Delfador told me about the many terrible battles that were fought here. I "
 "hope ours won’t prove itself so deadly."
-msgstr ""
+msgstr "ここでは幾度となく激しい戦いが起こってきた。Delfador は私にそう教えてくれた。今回の戦闘がそのような厳しいものにならないよう願う。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:197
 msgid "Urgh... Dosh don’ feel so good. Maybe fight was mistake..."
-msgstr ""
+msgstr "ぐぅ… Dosh 気分悪い。戦うダメだった…"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:206
 msgid "Run away!"
-msgstr ""
+msgstr "逃げろ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:224
 msgid ""
 "The leader of the trolls is defeated, and we have secured safe passage "
 "across the ford! Great work, everyone — onwards into the Northlands!"
-msgstr ""
+msgstr "トロルのリーダーを倒し、浅瀬を安全に渡れるようになった！みんな、良くやった── さあ、北部へと進もう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:229
 msgid ""
 "The leader of the trolls is defeated, and we have secured safe passage "
 "across the ford! Great work, everyone — we can now return to Wesnoth!"
-msgstr ""
+msgstr "トロルのリーダーを倒し、浅瀬を安全に渡れるようになった！みんな、良くやった── さあ、Wesnoth へと戻ろう！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:244
 msgid "Ormok"
-msgstr ""
+msgstr "Ormok"
 
 #. [message]: speaker=Ormok
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:252
 msgid "Ha ha ha, what’s this? Someone’s trying to dethrone the Stoneskins!"
-msgstr ""
+msgstr "はっはっはっ、何だこれは？誰かが石皮を引きずり下ろそうとしているのか！"
 
 #. [message]: speaker=Ormok
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:256
 msgid "Hope you don’t mind if we take over! C’mon, boys, let’s kill ’em all!"
-msgstr ""
+msgstr "それなら俺たちが横取りしても構わないよな！いくぜ野郎共！皆殺しだ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:260
@@ -12176,6 +12182,7 @@ msgid ""
 "We’ve taken too long to secure the ford! Now more orcs have arrived! Even if"
 " we defeat them all, we’ll suffer greatly from the delay..."
 msgstr ""
+"浅瀬を確保するのに時間をかけすぎた！別のオークがたくさん来てしまった！たとえこいつらをなんとかできたとしても、ここで時間を無駄にしたことは致命的だ……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:8
@@ -12188,23 +12195,23 @@ msgstr "Glamdrol"
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:53
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:38
 msgid "Bloody Sword Clan"
-msgstr ""
+msgstr "ブラッディソード氏族"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:81
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:97
 msgid "Stoneskin Clan"
-msgstr ""
+msgstr "石皮氏族"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:119
 msgid "Hu-nash"
-msgstr ""
+msgstr "Hu-nash"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:122
 msgid "Vikkak the Old"
-msgstr ""
+msgstr "老 Vikkak"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:194
@@ -12218,12 +12225,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:202
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:203
 msgid "150 gold"
-msgstr ""
+msgstr "150 ゴールド"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:223
 msgid "Get lost, you troll-sniffing degenerates!"
-msgstr ""
+msgstr "失せろ、トロル漁りのクズが！"
 
 #. [message]: speaker=leader4
 #. "Khazg" refers to Khazg Black-Tusk, the late leader of the Bloody Sword
@@ -12232,110 +12239,110 @@ msgstr ""
 msgid ""
 "Khazg-worshipping tuskers! We come to trade and this is how you greet us? "
 "Some hospitality."
-msgstr ""
+msgstr "Khazg 信者のイボイノシシ共めが！商談に来たのに随分なあいさつじゃな？ほんに、すばらしいもてなしじゃ。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:232
 msgid ""
 "Trade? You came here to sneak inside and slaughter us all in our sleep! I’m "
 "not having it. Get lost!"
-msgstr ""
+msgstr "商談？本当は俺たちの寝首を掻きに奇譚んだろう！そんな手に乗るか。さっさと失せろ！"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:236
 msgid "Oh yeah? Well— ...wait, do you see that?"
-msgstr ""
+msgstr "おおそうか？では── 待て、あれが見えるか？"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:288
 msgid ""
 "Humans! What’s an army of boot-licking humans doing so close to Glamdrol?"
-msgstr ""
+msgstr "人間！ゴマすりくらいしかできない連中の軍勢が Glamdrol のこんな近くで何をしている？"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:303
 msgid ""
 "Elves! What’s an army of tree-shagging elves doing so close to Glamdrol?"
-msgstr ""
+msgstr "エルフ！木に盛ることしかできない連中の軍勢が Glamdrol のこんな近くで何をしている？"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:318
 msgid ""
 "Mermen! What’s an army of kelp-snorting shrimp doing so close to Glamdrol?"
-msgstr ""
+msgstr "マーマン！昆布をかじることしかできないエビ野郎どもの軍勢が Glamdrol のこんな近くで何をしている？"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:333
 msgid ""
 "Dwarves! What’s an army of dirt-grubbing dwarves doing so close to Glamdrol?"
-msgstr ""
+msgstr "ドワーフ！土を掘ることしかできない連中の軍勢が Glamdrol のこんな近くで何をしている？"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:341
 msgid ""
 "Invaders! What’s an army of boot-licking worms doing so close to Glamdrol?"
-msgstr ""
+msgstr "侵入者！下っ端のクソ虫共が Glamdrol のこんな近くで何をしている？"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:347
 msgid ""
 "Grr... we can settle things between us later. Right now we work together and"
 " kill the vermin."
-msgstr ""
+msgstr "ぐむ… 商談は後回じゃ。今は協力して敵を殺さねばな。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:359
 msgid "Pillage as much gold as you can before turns run out"
-msgstr ""
+msgstr "時間切れまでにできるだけ多くのゴールドを略奪する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:367
 msgid ""
 "Fulfill your pledge: end the scenario with at least $bm_s22_gold_cost gold"
-msgstr ""
+msgstr "約束を果たす：$bm_s22_gold_cost ゴールド以上を持ってシナリオを終了する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:376
 msgid "Defeat the orcish shaman to claim the Horn of Glamdrol"
-msgstr ""
+msgstr "オークのシャーマンを倒して Glamdrol の角笛を手に入れる"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:384
 msgid ""
 "Fail your pledge: end the scenario with less than $bm_s22_gold_cost gold"
-msgstr ""
+msgstr "約束を破る：$bm_s22_gold_cost 未満のゴールドでシナリオを終了する"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:396
 msgid ""
 "Horn of Glamdrol: Whenever you defeat one enemy, other enemies gain "
 "regeneration for one turn"
-msgstr ""
+msgstr "Glamdrol の角笛：敵を倒した時、他の敵達が１ターンだけ再生を獲得します"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:413
 msgid ""
 "We’re here for a quick raid, not to try to conquer the fortress outright. "
 "Move swiftly, grab as much gold as we can, and get out!"
-msgstr ""
+msgstr "我々はあくまで奇襲を行うだけだ。要塞を制圧するのではない。速やかに行動するぞ！持てるだけゴールドを持ったらさっさと撤退だ！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:421
 msgid "Konrad, look! Dem north side orcs be from da Stoneskin clan, like me."
-msgstr ""
+msgstr "Konrad、見ろ！北のオーク石皮氏族、俺同じ。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:425
 msgid ""
 "Dey ain’t so bad. No reason for us to be fighting. Dosh gona go talk to dem."
-msgstr ""
+msgstr "あいつら悪くない。俺たち戦う理由ない。Dosh 説得する。"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:445
 msgid ""
 "Hey, you! I recognize you; you’re the ford troll. What’re you doing working "
 "for some lousy human?"
-msgstr ""
+msgstr "おい、おぬし！お前はアレじゃろ、浅瀬にいたやつじゃろ。矮小な人間と何をしている？"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:449
@@ -12344,6 +12351,8 @@ msgid ""
 "Konrad paid Dosh much money, and now Dosh helps Konrad. You should help "
 "Konrad too."
 msgstr ""
+"Konrad 小物違う。大物王子、トロルのいい友達！Konrad お金たくさん Dosh 払った。だから Dosh 助ける。お前も Konrad "
+"助けろ。"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:453
@@ -12352,11 +12361,13 @@ msgid ""
 " and then maybe I will. It’s true that these Bloody Swords have owned "
 "Glamdrol for long enough..."
 msgstr ""
+"ほう。ふむ。いいじゃろ。大物王子に<b>ワシに</b>大金を払えと言ってこい。そうしたら協力しよう。ブラッディソードももう充分長く Glamdrol "
+"を支配したじゃろう…"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:462
 msgid "Pledge 400 gold: negotiate a truce and learn to recruit Troll Whelps"
-msgstr ""
+msgstr "400 ゴールドを約束する：休戦交渉をし、「トロルの子供」を雇用可能にする"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:467
@@ -12364,30 +12375,32 @@ msgid ""
 "Want more fighters like that one, do you? Sure, 400 gold is worth at least a"
 " few whelps. But I’m only offering because Dosh says you’re all right."
 msgstr ""
+"こいつのような戦士がもっと欲しいのじゃろう？よかろう、400 ゴールドあれば子供をいくるか出しても良いぞ。Dosh "
+"がお前は大丈夫だと言っているから、特別にこのような提案をしているのじゃぞ。"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:471
 msgid ""
 "Trolls’re a bit dim, usually even more so than the one you’ve already got, "
 "but you tell ’em who to smash and they’ll smash ’em good."
-msgstr ""
+msgstr "トロルはあまり賢くない。Dosh はだいぶ賢いほうじゃぞ。しかし、誰を叩けば良いのか教えてやれば、上手に叩いてくれるじゃろうて。"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:473
 msgid "Konrad can now recruit Troll Whelps!"
-msgstr ""
+msgstr "Konrad は「トロルの子供」を雇用できるようになりました！"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:476
 msgid ""
 "Have fun sacking the city. When all’s said and done, you pay us out of the "
 "coin you’ve looted — or else."
-msgstr ""
+msgstr "では都市の略奪を楽しむと良いぞ。終わったら、ワシに約束した分け前を渡すのじゃぞ ── それができなければ…"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:488
 msgid "Pledge 100 gold: negotiate a truce"
-msgstr ""
+msgstr "100 ゴールドを約束する：休戦協定を結ぶ"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:493
@@ -12396,25 +12409,27 @@ msgid ""
 "fortress, and when all’s said and done you pay us out of the coin you’ve "
 "looted — or else."
 msgstr ""
+"100 ゴールドで休戦協定？では、おぬしが要塞を略奪している間、ワシらは離れていよう。終わったら、ワシに約束した分け前を渡すのじゃぞ ── "
+"それができなければ…"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:509
 msgid ""
 "Hah! Some friend you’ve got there, Dosh. Don’t worry, we’ll take all the "
 "gold we want from your treasury once we kill you!"
-msgstr ""
+msgstr "ほう！これがお前のお友達か、Dosh よ。まあ。心配するな。貯めた金はお前を殺した後に根こそぎ持っていってやるからな！"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:522
 msgid ""
 "I knew it! Filthy human-lover! You want to ruin us so you can take over "
 "Glamdrol!"
-msgstr ""
+msgstr "やはりか！薄汚い人間の仲間め！俺たちから Glamdrol を奪うつもりだな！"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:526
 msgid "What can I say? I came to trade, and the human boy offered a good one!"
-msgstr ""
+msgstr "仕方あるまい？ワシは商談に来たのじゃ。払いが良い方につくしかなかろう！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:575
@@ -12424,6 +12439,7 @@ msgid ""
 "gather gold in preparation for our next battle. Clearing the fortress won’t "
 "do us much good if we leave poorer than we arrived!"
 msgstr ""
+"あまり多くの戦士を出さないようにしないと。オークの資金を使って要塞を制圧してみたくはあるが、次の戦闘のための資金を確保することが一番の目標だ。資金を浪費してしまっては、要塞を制圧できても意味が無い！"
 
 #. [companion_message]
 #. TRoW's Jessene says that when orcs game to the Green Isle, the lich-lords
@@ -12458,6 +12474,7 @@ msgid ""
 "A foul odor. A blight upon the wind. Konrad, this is a gateway created by "
 "the lich-lords of ages past, during their genocidal hunt for the Ruby."
 msgstr ""
+"嫌な臭いだ。風に嫌な臭いが混ざっているのか。Konrad、これははるか昔、高位リッチによって造られた通路だ。連中がルビーを求めて虐殺を繰り返していた時のものだ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:608
@@ -12467,13 +12484,14 @@ msgid ""
 "gateway created by the lich-lords of ages past, during their genocidal hunt "
 "for the Ruby."
 msgstr ""
+"偉大なるオークの門！実際に目の当たりにすると……背筋が凍る。Konrad、これははるか昔、高位リッチによって造られた通路です。連中がルビーを求めて虐殺を繰り返していた時のもの。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:610
 msgid ""
 "There must have been magic in this chasm once, but it’s still and dead now. "
 "Whatever power once created it has been long since vanished."
-msgstr ""
+msgstr "かつてはこの裂け目には、強力な魔法がかけられていたに違いない。しかし、今は稼働していないようだ。どのようなものであったのだろう。"
 
 #. [companion_message]
 #. TRoW's Jessene says that when orcs game to the Green Isle, the lich-lords
@@ -12496,6 +12514,8 @@ msgid ""
 "Continent, they came in such numbers as to nearly ruin my own people as "
 "well."
 msgstr ""
+"500 "
+"年以上前、人間がオークと初めて出会った時、オークはこのような門を通って現れたと言われている。そして、オークが人間を追ってこの大陸に来たときも、同様に門を通って大量に現れ、エルフを絶滅の危機に追い込むほどだったらしい。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:621
@@ -12504,6 +12524,7 @@ msgid ""
 "foul powers that created it, when they were slain by the human-kings of old."
 " May it never again awaken."
 msgstr ""
+"しかしこれは大昔の話だ。門は遠い昔にその機能を失っている。昔の人間の王によってその創造主が滅ぼされた時、その邪悪な力とともに門も死んだのだ。二度と目覚めることがないよう願いたい。"
 
 #. [companion_message]
 #. TRoW's Jessene says that when orcs game to the Green Isle, the lich-lords
@@ -12525,6 +12546,8 @@ msgid ""
 "met orc, over five hundred years ago. Lo! Darkness drove us from our homes, "
 "and lo! Our proud people became a band of refugees."
 msgstr ""
+"歴史的には、500 "
+"年以上前、人間がオークと初めて出会った時、オークはこのような門を通って現れたと言われている。闇が我ら人間を故郷より追い出し、誇り高い民は難民と化してしまったのだ。なんと嘆かわしいことだ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:629
@@ -12534,6 +12557,7 @@ msgid ""
 " itself rains down from the heavens as sulfur and fire and all the darkness "
 "is cleansed from this world."
 msgstr ""
+"それでも光は我らをお救いくださった。だから今、我らは強く、堂々と立っていられるのだ。門は遠い昔に機能を失った。どうかこのまま眠りつづけるよう。太陽が炎と硫黄となって降り注ぎ、この世から全ての闇が浄化されるその日まで。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:631
@@ -12544,6 +12568,8 @@ msgid ""
 "very long time ago, and the gates have long-since gone quiet — hopefully for"
 " good."
 msgstr ""
+"記憶が正しければ、高位リッチ達が初めて緑の島を侵略した際、オークはこのような門を通って現れたと言われています。幸運なことにそれはずっと昔のことで、門も長い間沈黙を保っています"
+" ── ずっとこのままでいてくれれば良いのですが。"
 
 #. [companion_message]
 #. TRoW's Jessene says that when orcs game to the Green Isle, the lich-lords
@@ -12565,11 +12591,12 @@ msgid ""
 "here from far away and fight you softskins. But dey didn’t build it, and now"
 " dey don’t know how to turn it back on again. Maybe nobody ever will."
 msgstr ""
+"これ偉大オーク門、Konrad。ずっと前、オークお前たち柔皮戦うため、門通ってここ来た。これ造ったオーク違う。オークこれ動かす方法知らない。多分みんな知らない。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:652
 msgid "One of our horde is dead! Blow the horn, shaman."
-msgstr ""
+msgstr "仲間の一人が死んだ！シャーマン、角笛を吹け！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:689
@@ -12577,42 +12604,42 @@ msgstr ""
 msgid ""
 "Urgh, my head! What kind of instrument could make such a sound? There’s "
 "magic in that horn, Konrad, mark my words."
-msgstr ""
+msgstr "ううっ、頭が痛い！どんな楽器を使えばあんな音が鳴るんだ？あの角笛には何か魔力があるようだ。Konrad、このことを良く覚えていてください。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:691
 msgid ""
 "Urgh... that sound hurts my head somethin’ fierce. I’ve heard a lot o’ orc-"
 "horns before, Konrad, an’ this one ain’t normal."
-msgstr ""
+msgstr "うげっ… 頭が猛烈に痛い。Konrad、アタシはこれまで何度もオークの角笛を聞いたことがあるけど、アレは普通じゃないよ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:692
 msgid ""
 "The air rings with power and might! Hark! I recognize orcish magic when I "
 "hear it, Konrad."
-msgstr ""
+msgstr "強大な力で空気が震えている！良く聞け！音に何か魔法が乗っているようだぞ、Konrad。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:693
 msgid ""
 "Gah! Now thar’s a sound to split an eardrum! Ah’ve heard plenty o’ scumbreed"
 " half-dog warhorns before, Konrad, but this one ain’t normal."
-msgstr ""
+msgstr "うがー！鼓膜が破れそうだ！あの犬もどきのクソ共の角笛は飽きるほど聞いたが、アレは普通じゃないぞ、Konrad。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:694
 msgid ""
 "Ow! Ow, ow, that hurts my ears, and sets my bones all a-shaking! That can’t "
 "be a mundane, every-day warhorn, can it?"
-msgstr ""
+msgstr "痛っ！痛い、耳が痛いですよ！体中の骨が揺さぶられるかのようです！あれが普通の角笛なんてことはないですよね？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:695
 msgid ""
 "Dat’s a bad sound for us, Konrad. Dosh been hearin’ dis horn before — it’s "
 "not no normal warhorn. It’s got some kind of orc-magic."
-msgstr ""
+msgstr "この音気分悪い。Dosh この角笛前聞いた ── これ普通違う。オーク魔術入ってる。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:696
@@ -12620,21 +12647,21 @@ msgstr ""
 msgid ""
 "From the fortress rings a piercing sound of sacrifice, death, and rebirth! "
 "There is orcish magic at work here, Konrad."
-msgstr ""
+msgstr "要塞から犠牲、死、そして再生を告げる鋭い音が響いている！何らかのオークの魔術が働いているようだぞ、Konrad。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:698
 msgid ""
 "From the fortress rings a piercing sound of sacrifice, death, and rebirth! "
 "There is orcish magic at work here."
-msgstr ""
+msgstr "要塞から犠牲、死、そして再生を告げる鋭い音が響いている！何らかのオークの魔術が働いているようだ。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:703
 msgid ""
 "Tremble before the Horn of Glamdrol, worms! Whenever one of us falls, the "
 "rest shall be healed anew!"
-msgstr ""
+msgstr "Glamdrol の角笛に慄くがいい、虫けら共め！誰かがやられても残りの者が癒されるのだ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:719
@@ -12642,31 +12669,31 @@ msgid ""
 "What’s this? That orc was carrying a strange horn with magical markings. I "
 "will take it and examine it when I have time — for now we must continue to "
 "fight."
-msgstr ""
+msgstr "これは何だ？このオークは魔法の気配がある奇妙な角笛を持っていた。持っていって後で検証してみよう ── 全てはこの戦闘の後だ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:724
 msgid ""
 "The shaman is dead, and we’ve claimed her magical horn for ourselves! There "
 "will be time to examine it later — for now we must continue to fight."
-msgstr ""
+msgstr "シャーマンを殺し、魔法の角笛を手に入れた！これは後で検証するとして ── 今はこの戦闘を終わらせることだけ考えよう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:743
 msgid ""
 "What are we doing fighting up here? The orcs’ gold is in their city, not "
 "here among these trolls!"
-msgstr ""
+msgstr "こんなところで戦っている場合じゃないのに！オークの資金は都市にある。トロルのところには無いんだ！"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:761
 msgid "The chiefs are dead! Run for the hills!"
-msgstr ""
+msgstr "ボス達が死んだ！丘に逃げろ！"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:775
 msgid "I spit my last breath at you!"
-msgstr ""
+msgstr "貴様を呪ってやる！"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:784
@@ -12674,54 +12701,54 @@ msgid ""
 "Let’s get out of here! Filthy invaders, I’m finding the high chief and "
 "bringing his warriors back from their raid! You’d better not be here when he"
 " gets back!"
-msgstr ""
+msgstr "一旦逃げるぞ！汚らわしい侵略者共め、大族長を見つけて、襲撃に出た戦士達とともにここへ戻ってくるぞ！死にたくなかったらさっさと消えろ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:797
 msgid ""
 "We have defeated all of the orcs! An incredible challenge — well done, "
 "everyone. Time to take our leave of this place, and to tally our plunder!"
-msgstr ""
+msgstr "オークを全て倒したぞ！信じられない成果だ ── みんな、本当に良くやってくれた。さあ、ここから脱出して戦利品を確認するとしよう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:814
 msgid ""
 "We can afford to fight here only a little longer! This is orcish territory, "
 "and every minute here only further risks our enemies being reinforced."
-msgstr ""
+msgstr "あともう少ししたら切り上げるぞ！ここはオークの領域、長居すれば敵の援軍に襲われる可能性が高い。"
 
 #. [message]: speaker=$speaker_id
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:829
 msgid ""
 "That’s it! You pinkskins are proving way too much of a nuisance. I’m finding"
 " the high chief and bringing his warriors back from their raid!"
-msgstr ""
+msgstr "もういい！貴様等ニンゲンはなんでこんなに厄介なんだ。襲撃に出ている大族長と戦士達を探し、戻ってくるように頼むぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:836
 msgid ""
 "That sounds like our cue to leave. We can’t risk being pinned down and "
 "eradicated. Quick, everyone, let us make our escape and tally our plunder!"
-msgstr ""
+msgstr "撤退の頃合いか。ここで足止めされて全滅するわけにはいかない。皆、急げ。さっさと逃げ出して戦利品を確認するとしよう！"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:854
 msgid "Hey, what about my gold? You made a pledge!"
-msgstr ""
+msgstr "おい、ワシの金はどうしたんじゃ？約束したろうに！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:858
 msgid ""
 "I’m sorry, but we didn’t pillage enough from Glamdrol to cover all "
 "$bm_s22_gold_cost gold. Can I pay you later?"
-msgstr ""
+msgstr "申し訳ない。Glamdrol から $bm_s22_gold_cost ゴールドを回収することはできなかった。支払いを後回しにできないか？"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:862
 msgid ""
 "Oh, that’s no problem — we’ll just take what we’re owed off your corpse. "
 "Attack! Don’t let them escape!"
-msgstr ""
+msgstr "ほう、問題ないぞ ── おぬしらの死体から取り分を回収するだけだからのう。攻撃じゃ！逃がすな！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:96
