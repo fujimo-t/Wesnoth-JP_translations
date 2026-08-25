@@ -12753,33 +12753,33 @@ msgstr "ほう、問題ないぞ ── おぬしらの死体から取り分を�
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:96
 msgid "Infirm Yeti"
-msgstr ""
+msgstr "虚弱イェティ"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:150
 msgid ""
 "Brrr... it may not be winter, but with the storm swirling about overhead it "
 "certainly feels like it. This place is freezing!"
-msgstr ""
+msgstr "うううう…寒いな……今は冬ではないのに、上空ですごい風が吹いていて、急に冬になってしまったみたいだ。凍えてしまうぞ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:155
 msgid ""
 "Hello! Are you all right? What’re you doing out here in the cold? ...she’s "
 "still not paying attention."
-msgstr ""
+msgstr "こんにちは！大丈夫ですか？こんな寒いところで何をしているのですか？……こっちに気づく気配がないな。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:167
 msgid "Err, hello? HELLO!"
-msgstr ""
+msgstr "あー、もしもし？<b>こ ん に ち は！</b>"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:175
 msgid ""
 "Aaah! Don’t sneak up on a woman like that; the jump you gave me nearly "
 "ruined three days’ work!"
-msgstr ""
+msgstr "キャー！そんな風に女性にこっそり近づいてはいけません。驚かされたせいで３日分の仕事が台無しになるところでしたよ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:179
@@ -12787,20 +12787,21 @@ msgid ""
 "I’m sorry, I just wanted to see if everything is all right. What’re you "
 "doing alone and unarmed all the way up here in these snows?"
 msgstr ""
+"それは申し訳ありませんでした。驚かせるつもりはなくて、問題がないのか確認したかっただけなのです。こんな雪深い場所で、武器すら持たずに何をしているのですか？"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:183
 msgid ""
 "Ah, I’m glad you asked! You see, I’m an — err, how should I say it — "
 "alchemist, yes, yes, alchemist is right. A researcher!"
-msgstr ""
+msgstr "あら、よくぞ聞いてくれました！実は私は── えーっと、何て言ったらいいのかしら── 錬金術師？うん、そうね、錬金術師だわ。研究者なのよ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:187
 msgid ""
 "You’re a mage? That explains why you’re not carrying any weapons. Are you "
 "conducting some sort of magical experiment?"
-msgstr ""
+msgstr "魔術師なのですか？それなら武器を持たないことも納得できます。ここで何か魔術の実験でもしているのでしょうか？"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:191
@@ -12810,6 +12811,7 @@ msgid ""
 "here in the mountains. I’m certain my theories are correct, I just need the "
 "ingredients to prove it!"
 msgstr ""
+"違うわ！あんな堅苦しくて目つきの悪い連中の仲間じゃないわ。私が扱うのは魔術じゃなくて、化学！私の理論はカンペキなのよ！この山にはあらゆる種類の貴重な錬金術の素材があるから、あとは、材料を集めて理論を実証するだけなのよ！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:195
@@ -12819,20 +12821,23 @@ msgid ""
 "cooperative than for which I was prepared... Right! But now you’re here to "
 "help!"
 msgstr ""
+"薬草については、とくに問題なく集められているわね。あー、でも、この地域の動物が── "
+"もう察しちゃったかもしれないけれど、ここの動物達が期待していたほど協力的じゃないので、困っているんですよね… "
+"ああ、そうだわ！あなたが私を助けてくれるのよね！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:199
 msgid ""
 "Here, take this leather pouch for the tongue... and yes, this glass jar for "
 "the bile— No! Not that one, this one—"
-msgstr ""
+msgstr "舌を入れるための皮袋… ああ、それと胆汁を入れるガラス瓶── あれ、これじゃないわ！ええっと、あれはどこに……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:207
 msgid ""
 "What is all this stuff? You... want me to gather some alchemy components for"
 " you, is that right?"
-msgstr ""
+msgstr "それは一体何ですか？あなたは…… 錬金術の素材を私に集めてきて欲しい、そういうことですか？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:209
@@ -12842,6 +12847,8 @@ msgid ""
 "trouble, but I’m not sure my army and I can spare the time to stop and help "
 "you collect ingredients."
 msgstr ""
+"私は Konrad、Wesnoth の王位継承者で、闇の女王 Asheviere "
+"を追い出すために旅をしています。困っているのであれば、喜んでお金と食料をお渡ししましょう。しかし、あなたの求める素材を集めるために私と軍をここに留まらせるのは難しいでしょうか。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:213
@@ -12851,6 +12858,8 @@ msgid ""
 "and come with you on your quest. A great chance to field-test my concoctions"
 " against that queen of yours."
 msgstr ""
+"そう、素材！そのとおりです！それと、助けてくれたら心から感謝します。それと… "
+"そう！手伝ってくれたら、私もあなたの目的に協力しましょう。調合したものをその女王に対して実地試験する絶好の機会になりそうですし。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:217
@@ -12859,13 +12868,15 @@ msgid ""
 "bile. Giant Spider venom — that one’s a doozy. And, err, believe it or not, "
 "Yeti tongue. If Yetis exist."
 msgstr ""
+"実験を完了するためには、あと３種類の素材が必要なのです。アイスモナックスの胆汁。巨大蜘蛛の毒── "
+"これは厄介ですね。そしてなーんと、イェティの舌。まあ、これはイェティがいればの話ですが。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:221
 msgid ""
 "... and if we can collect all three of these, you’ll come with us to help us"
 " fight against Asheviere? I suppose that sounds like a fair trade."
-msgstr ""
+msgstr "…その三つを集められれば、Asheviere との戦いに協力してくれると？それなら妥当な取引だろうか。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:225
@@ -12875,93 +12886,95 @@ msgid ""
 "variety of alchemical concoctions. For now, the keep is yours — I’ve noticed"
 " a very interesting species of beetle over here..."
 msgstr ""
+"そうでしょう！今の私ではあまり役に立ちませんが、素材が手に入れば、調合物を使って活躍できるでしょう。とりあえずこの主塔はどうぞ── "
+"私はこっちにとても興味深いカブトムシを見つけました…"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:240
 msgid "Gather as many ingredients as you can before turns run out:"
-msgstr ""
+msgstr "時間切れまでにできる限り多くの素材を集める："
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'>
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:245
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:252
 msgid "Defeat a Great Icemonax"
-msgstr ""
+msgstr "グレートアイスモナックスを倒す"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'>
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:260
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:267
 msgid "Defeat a Giant Spider"
-msgstr ""
+msgstr "巨大蜘蛛を倒す"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'>
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:275
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:282
 msgid "Defeat a Yeti"
-msgstr ""
+msgstr "イェティを倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:290
 msgid "Death of Jeniver"
-msgstr ""
+msgstr "Jeniver の死"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:298
 msgid ""
 "Springtime Storm: at the end of every third turn (1, 4, 7, etc), Konrad’s "
 "forces will become slowed."
-msgstr ""
+msgstr "春の嵐：３ターンごとのターン終了時 (1, 4, 7, ...)、Konrad の軍勢が遅化を受けます。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:304
 msgid ""
 "Summer Storm: at the end of every fourth turn (1, 5, 9, etc), Konrad’s "
 "forces will become slowed."
-msgstr ""
+msgstr "夏の嵐：４ターンごとのターン終了時 (1, 5, 9, ...)、Konrad の軍勢が遅化を受けます。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:310
 msgid ""
 "Autumn Storm: at the end of every third turn (1, 4, 7, etc), Konrad’s forces"
 " will become slowed."
-msgstr ""
+msgstr "秋の嵐：３ターンごとのターン終了時 (1, 4, 7, ...)、Konrad の軍勢が遅化を受けます。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:316
 msgid ""
 "Winter Storm: at the end of every second turn (1, 3, 5, etc), Konrad’s "
 "forces will become slowed."
-msgstr ""
+msgstr "冬の嵐：２ターンごとのターン終了時 (1, 3, 5, ...)、Konrad の軍勢が遅化を受けます。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:344
 msgid ""
 "Brr! This snowstorm is paralyzing me with cold! It’s springtime; surely the "
 "weather should be warmer than this?"
-msgstr ""
+msgstr "うううっ！吹雪のせいで体が凍える！今はもう春なのになんでこんなに寒いんだ？"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:345
 msgid ""
 "Brr! This snowstorm is paralyzing me with cold! At least it’s summertime; "
 "the weather would surely be far worse in winter."
-msgstr ""
+msgstr "うううっ！吹雪のせいで体が凍える！夏でよかった。冬だったらもっとひどいことになるんだろうな。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:346
 msgid ""
 "Brr! This snowstorm is paralyzing me with cold! It’s only autumn; surely the"
 " weather should be warmer than this?"
-msgstr ""
+msgstr "うううっ！吹雪のせいで体が凍える！今はまだ秋なのになんでこんなに寒いんだ？"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:347
 msgid ""
 "Brr! This snowstorm is paralyzing me with cold! The weather here must be "
 "especially bad in the winter months, like now."
-msgstr ""
+msgstr "うううっ！吹雪のせいで体が凍える！冬に来る場所じゃなかったな……"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:355
@@ -12971,6 +12984,8 @@ msgid ""
 "quite often, trying to keep warm while trudging through the deepening "
 "snowbanks. The local fauna are, of course, quite impervious to the cold."
 msgstr ""
+"あら？あらあら、寒さのことを言うのを忘れてたかしら？うっかりしてたわ…… "
+"えーっと、ここは常に嵐が吹き荒れているの。体を暖めようとして雪を一生懸命かき分けていると、頻繁に足取りが鈍っちゃうから気をつけてね。ちなみに、この地域の動物たちは寒さになれているから、みんなどんなに寒くても平気よ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:358
@@ -12981,6 +12996,8 @@ msgid ""
 "Jeniver’s ingredients before we run out of time and the cold drives us away."
 " The northeastern mountains look especially hard to reach."
 msgstr ""
+"ああああ… 温暖な Alduin の浜辺が恋しい… 時間の余裕とこの寒さを踏まえた上で、Jeniver "
+"の求める素材を全部集めるのであれば、軍を分割するべきでしょう。もっとも、身軽な兵士がたくさんいるのであればその限りではありませんが。北東の山地まで行くのが特に大変そうです。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:360
@@ -12991,6 +13008,8 @@ msgid ""
 "of Jeniver’s ingredients before we run out of time and the cold drives us "
 "away. The northeastern mountains look especially hard to reach."
 msgstr ""
+"Konrad、吹雪の中で長く戦うことはできません。時間の余裕とこの寒さを考えると、Jeniver "
+"の求める素材を全部集めたいのであれば軍を分割するべきでしょう。もっとも、身軽な兵士がたくさんいるのであればその限りではありませんが。北東の山地まで行くのが特に大変そうです。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:362
@@ -13000,6 +13019,8 @@ msgid ""
 "ingredients afore we run out o’ time and the cold drives us away. Them "
 "northeastern mountains look ’specially hard t’ reach!"
 msgstr ""
+"Konrad、吹雪の中で長く戦えないぞ。時間と寒さを考えると、Jeniver "
+"の求める素材を全部集めたいのなら軍を分割しないとな。身軽な兵士がたくさんいれば、そういうことしなくてもいいかもしれないけれど。とりあえず、北東の山地まで行くのは特に大変そうだな！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:363
@@ -13009,6 +13030,8 @@ msgid ""
 "collect all of Jeniver’s ingredients before our time runs short and the cold"
 " drives us away. The northeastern mountains loom especially distant!"
 msgstr ""
+"光は我らに暖かさを与えてくれる。とは言え、吹雪による通行税もなかなか厳しそうだな、Konrad。時間の猶予と寒さを踏まえると、Jeniver "
+"の求める素材を全て集めるのであれば、軍を割って手分けして探した方がいいだろう。北東の山地は特にここから距離があるな！身軽な兵士が多くいるなら別の手もあるやもしれんが。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:364
@@ -13018,6 +13041,8 @@ msgid ""
 "o’ Jeniver’s ingredients afore we run out o’ time and the cold drives us "
 "away. Them northeastern mountains look ’specially hard t’ reach!"
 msgstr ""
+"俺たちもこんな吹雪じゃ長くは戦えんぞ。Jeniver "
+"の求める素材を全て集めたいのであれば、手分けして探した方がいいだろう。もっとも、足の速い者が多くいるのであれば話は別だが。ふむ、あの北東の山地まで出向くのは特に骨が折れそうだな！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:365
@@ -13026,7 +13051,7 @@ msgid ""
 "we’ve got no time get all da ’gredients unless you splits us up. Otherwise "
 "we get too cold and den have to leave. Northeast mountains look ’specially "
 "hard to be gettin’ to."
-msgstr ""
+msgstr "Konrad、吹雪寒い。足速いのたくさんいる違うなら、手分け探すしないと俺たち凍える Dosh 思う。北東山地とても遠いぞ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:366
@@ -13036,6 +13061,8 @@ msgid ""
 "ingredients before we run out of time and the cold drives us away. The "
 "northeastern mountains look especially hard to reach!"
 msgstr ""
+"吹雪の中で長く戦うことはできない。時間の余裕とこの寒さを考えると、Jeniver "
+"の求める素材を全部集めたいのであれば軍を分割するべきか。身軽な兵士がたくさんいるのであればそこまでしなくてもいいかもしれないが。北東の山地まで行くのが特に大変そうだな。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:370
@@ -13043,7 +13070,7 @@ msgid ""
 "True, true, but, well, you know, I suppose there’d really be no harm in "
 "coming with you even if you don’t get them all— yes, I think I’ll join you "
 "no matter what. You seem the nice sort, very chivalrous and all that."
-msgstr ""
+msgstr "そうそう！そうだけど、全部集められなくても私はついていくからね── ええ、問題ないわ。あなたは良い人そうだし、紳士的だし、まあ色々とね。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:374
@@ -13052,13 +13079,14 @@ msgid ""
 " you can gather at least some ingredients so that I can get my — you know — "
 "alchemical concoctions prepared. The more the better!"
 msgstr ""
+"でも── えっと、ある程度は素材を集めてくれないと私あんまり役にたたないですからね。調合物が準備できませんから。素材はあればあるほどいいですよ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:413
 msgid ""
 "These are the Knalgan caves we exited from. No point going back, at least "
 "not until we’ve finished helping Jeniver collect her ingredients."
-msgstr ""
+msgstr "この Knalga の洞窟から私達は出てきた。戻ることはできない。少なくとも Jeniver の素材集めの手伝いを終えるまでは。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:418
@@ -13067,13 +13095,14 @@ msgid ""
 "may decide to go that way later, but for now we should help Jeniver collect "
 "her ingredients."
 msgstr ""
+"この洞窟は偉大な Knalga の地下帝国への入り口に違いない！後でここを進んでもいいかもしれないが、今は Jeniver の素材集めに集中しよう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:437
 msgid ""
 "I’ve defeated one of the young Icemonax, Jeniver! How do I get the bile you "
 "wanted?"
-msgstr ""
+msgstr "Jeniver、若いアイスモナックスを倒したぞ！どうやって胆汁を取ればいい？"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:441
@@ -13082,18 +13111,19 @@ msgid ""
 "liver chemistry for producing bile. You’ll have to down one of the bigger "
 "ones before I can collect what I need."
 msgstr ""
+"あらあら、言い忘れていましたが、グレートアイスモナックスだけが胆汁を生成することができるのです。ですので、もっと大きいやつを倒さないといけませんね。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:455
 msgid "Oh, the Icemonax is dead! Yes, yes... allow me to extract the bile..."
-msgstr ""
+msgstr "あら、あのアイスモナックスが死にましたね！ではでは、胆汁を失敬しましょうね…"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:460
 msgid ""
 "... there! Now add essence of wandweed... bone of the tyrant... a lit "
 "torch—<i><b>stand back!</b></i>"
-msgstr ""
+msgstr "…ありました！ここに棒草のエッセンス… 暴君の骨を加えて… 松明に火を灯して── <b>ここから離れて！</b>"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:471

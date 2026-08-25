@@ -1462,6 +1462,7 @@ msgid ""
 "We have some gold in camp, apprentice, and I am still in our keep and ready "
 "to recruit. Remember to call for reinforcements if you need them."
 msgstr ""
+"見習いよ、我等の陣営には幾ばくかの資金があり、主塔には私が待機していつでも雇用できる状態にしておる。必要とあらば、増援を求められることを忘れるな。"
 
 #. [message]: speaker=Garard
 #. Garard's forces have just killed an orc
@@ -1492,17 +1493,17 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:513
 msgid ""
 "Defeat at least $initial_orcs_remaining orcs ($orcs_remaining remaining)"
-msgstr ""
+msgstr "$initial_orcs_remaining 匹以上のオークを倒す（残り $orcs_remaining 匹）"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:517
 msgid "Win before Garard defeats the orcish leader"
-msgstr ""
+msgstr "Garard がオークのリーダーを倒す前に勝利する"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:525
 msgid "Death of Delfador or Methor"
-msgstr ""
+msgstr "Delfador または Methor の死"
 
 #. [message]: speaker=Garard
 #. a goblin has just attacked one of Garard's horsemen. Garard previously told
@@ -1717,7 +1718,7 @@ msgstr ""
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:43
 msgid "Woses"
-msgstr ""
+msgstr "ウーズ"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:113
@@ -1749,7 +1750,7 @@ msgstr ""
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:174
 msgid "Boruroom! Burarum!"
-msgstr ""
+msgstr "ボルルーム！ブラルム！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:178
