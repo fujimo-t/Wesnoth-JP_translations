@@ -1725,7 +1725,7 @@ msgstr "ウーズ"
 msgid ""
 "When King Garard spoke of a special mission for me, I hadn’t been expecting "
 "something as quiet as messenger duty."
-msgstr ""
+msgstr "Garard 王が俺に特別任務があると言ったときは、まさか伝令みたいな地味な仕事だとは思わなかったな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:115
@@ -1733,6 +1733,7 @@ msgid ""
 "But I won’t disappoint him. I am to find Wesnoth’s ambassador to Lintanir "
 "Forest, and then deliver to the elves a notice."
 msgstr ""
+"とは言え、陛下を失望させるわけにはいかない。Wesnoth から Lintanirの森に派遣する使節を見つけ、エルフたちに通知しなくちゃならない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:124
@@ -1741,11 +1742,12 @@ msgid ""
 "cluster of trees. The undergrowth is so thick... Perhaps this is an "
 "opportunity to practice my new fire spell."
 msgstr ""
+"この林を抜けて北東に少し行けば、エルフの国境線があるはずだ。しかし、藪が深くて鬱陶しいな・・・。新しい火炎呪文の練習がてら、ちょっと焼いてみるか。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:157
 msgid "Eldebetam"
-msgstr ""
+msgstr "Eldebetam"
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:174
@@ -1755,7 +1757,7 @@ msgstr "ボルルーム！ブラルム！"
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:178
 msgid "What?! The tree speaks!"
-msgstr ""
+msgstr "何だ！？木が喋ってるぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:182

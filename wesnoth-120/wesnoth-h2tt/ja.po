@@ -13130,23 +13130,23 @@ msgstr "…ありました！ここに棒草のエッセンス… 暴君の骨�
 msgid ""
 "Smoke! Yes, earth turned to air... most useful for befuddling and bewitching"
 " the unprepared, and a validation of my theory of elemental humors!"
-msgstr ""
+msgstr "煙！あら、土が空気に変わったわ… 不意を突いて惑わせ、魅了するのに有効ですね、そして私の四大元素理論の証明にもなりますね！"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:477
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:546
 msgid "New Attack"
-msgstr ""
+msgstr "新しい攻撃"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:478
 msgid "Jeniver has gained a powerful <i>flashpowder</i> attack!"
-msgstr ""
+msgstr "Jeniver は強力な<b>発煙粉</b>攻撃を習得しました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:497
 msgid "Look out! That giant spider is furious, and it’s coming right at us!"
-msgstr ""
+msgstr "見ろ！巨大蜘蛛が怒っている！まっすぐこっちに向かってくるぞ！"
 
 #. [message]: speaker=Jeniver
 #. Jeniver is incorrect; the spider will mind. This message plays when spiders
@@ -13157,23 +13157,24 @@ msgid ""
 "to get what I need, all you need to do is lever apart the front incisors and"
 " gently massage the venom sacks. I’m sure the spider won’t mind."
 msgstr ""
+"あらあら、きっとただ友達になりたいだけですよ。暴力は不要です。私が必要なものを採取するには、前歯をテコでこじあけて、毒袋をやさしく揉むだけでいいのですから。この蜘蛛さんもきっと怒ったりしませんよ。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:513
 msgid ""
 "You have the spider venom! Fantastic! I shall just add a distillation of "
 "euphoria... a dash of elf-hair, a few other bits and bobs..."
-msgstr ""
+msgstr "蜘蛛の毒袋を手に入れたのね！夢みたいだわ！ここに幸福の薬の精製物を加えて… エルフの髪を一房、それからこれとそれとあれと…"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:518
 msgid "And... and! And my elixir of immortality is ready!"
-msgstr ""
+msgstr "そして… そして！そして私特製の不老不死の霊薬が完成！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:533
 msgid "Blarghh!!!"
-msgstr ""
+msgstr "ブフッ！！！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:540
@@ -13182,37 +13183,39 @@ msgid ""
 "venoms. Ah, well— well, setbacks are inevitable! At least the toxin, "
 "properly prepared, may make for a useful weapon."
 msgstr ""
+"うっ…… うーん、毒による寿命の延伸に関する論考はここまでにしましょう。うん、そう… "
+"そうよね、失敗なんて良くあることよ！まあ、適切に処理された毒素は有効な武器になるでしょう。"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:547
 msgid "Jeniver has gained a poisoned <i>blowgun</i> attack!"
-msgstr ""
+msgstr "Jeniver は<b>毒吹き矢</b>を習得しました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:566
 msgid ""
 "They truly are real! This Yeti would be a majestic sight, if not for how "
 "determined it is to beat our heads in with its bare fists!"
-msgstr ""
+msgstr "まさか本当に存在するとは！実に威風堂々たる姿だ。素手で私達の頭を殴り潰そうとやっきになっていてそれどころではないが！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:577
 msgid "Fantastic, the Yeti is defeated! Let me take a look at that tongue..."
-msgstr ""
+msgstr "ああ素晴らしい！イェティを倒したわ！それでは舌を失敬しましょう…"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:582
 msgid ""
 "Yes, yes, now one dash of mugwort... essence of skyworm, heated under a cold"
 " flame... and... and— And golden transmutation is achieved!"
-msgstr ""
+msgstr "さてさて、ヨモギを少量… 冷たい炎で熱したスカイワームの精油… それと…それと── そして黄金転換を達成！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:588
 msgid ""
 "Golden transmutation? You mean you can transmute other substances into gold?"
 " That’s an incredible accomplishment!"
-msgstr ""
+msgstr "黄金転換？もしかして物質を金に変換できるのですか？それは信じられないほどの成果です！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:592
@@ -13222,30 +13225,32 @@ msgid ""
 "“transmutation” is a much more exciting word for alchemists. And etymology "
 "aside, my discovery will certainly help boost your income!"
 msgstr ""
+"あー、えーっと、そうでもないですね。これは何というか… 蒸留── "
+"そう、蒸留のようなものですね。手持ちのコインからより価値のあるものを精製するプロセスです。「転換」という言葉を使ったのは、アレですね、ワクワクするのですよね、錬金術師的に。まあ、その辺の細かい話は置いておいて、この発見であなたの収入はグッと増えますよ！"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:598
 msgid "New Ability"
-msgstr ""
+msgstr "新たな能力"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:599
 msgid "Jeniver has gained the powerful <i>transmutation</i> ability!"
-msgstr ""
+msgstr "Jeniver は強力な<b>転換</b>能力を獲得しました！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:629
 msgid ""
 "And with that— yes, with that, I have everything I needed from the north! "
 "Excellent! I wonder what substances I should turn my study to next..."
-msgstr ""
+msgstr "そしてこれで── ええ、北部で必要だったものは全て集まりました！素晴らしいですね！次はどんな素材で研究をしようかしら…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:633
 msgid ""
 "I’m glad to help! But don’t forget, you’d said you would join us if we "
 "helped you here."
-msgstr ""
+msgstr "お役に立てて光栄です！と　こ　ろ　で、手伝ったら、私の軍に参加すると言ったことを忘れてませんよね？"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:637
@@ -13255,6 +13260,7 @@ msgid ""
 "will provide me with a good opportunity for travel and research. I’d be glad"
 " to accompany you on your travels, Konrad!"
 msgstr ""
+"あらあら？ああ、そう、そうでしたね、もちろんです。そういえば、ぜひとも試してみたいアイデアがあるんです。あなたについて旅をすれば、楽しい研究もできそうですし。喜んでご一緒しましょう、Konrad！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:652
@@ -13263,6 +13269,8 @@ msgid ""
 " by the minute; meanwhile Asheviere continues to grow stronger and stronger "
 "unchecked."
 msgstr ""
+"Jeniver をあまり長い間手伝うことはできない。風は刺すように冷たく、さらに時間とともに状況が悪化している。そして、我々がこうしているうちに "
+"Asheviere はさらに力をつけていることだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:656
@@ -13271,6 +13279,7 @@ msgid ""
 "without all three ingredients she also won’t be as useful as she might "
 "otherwise have been."
 msgstr ""
+"全ての素材を集められなくても、Jeniver はついてきてくれると言ってくれた。しかし、３つ全てを揃えないと、十全の能力は発揮できないかもしれない。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:663
@@ -13278,7 +13287,7 @@ msgid ""
 "Jeniver, I know we’d promised to help gather your alchemical ingredients, "
 "but between the cold and the threat of Asheviere we simply can’t spare any "
 "more time to help you."
-msgstr ""
+msgstr "Jeniver、素材集めに協力するとは約束したが、この寒さと女王の脅威を考えると、これ以上手伝うことはできない。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:667
@@ -13288,25 +13297,26 @@ msgid ""
 "ingredients here, perhaps joining you on your travels will provide me with a"
 " good opportunity for travel and research. If you’ll have me, of course!"
 msgstr ""
+"あらあら、いえ、仕方ないですね。問題はありません。そういえば、ぜひとも試してみたいアイデアがあるんです。あなたについて旅をすれば、楽しい研究もできそうですし。まあ受け入れてくださるのでしたら、ですけど。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:683
 msgid ""
 "Oh no! We promised to help Jeniver find her alchemical ingredients, but "
 "instead we’ve let her die..."
-msgstr ""
+msgstr "ああ、そんな！Jeniver の素材集めを手伝うと約束したのに、Jeniver を死なせてしまった…"
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:692
 msgid "scenario name^Northern Spring"
-msgstr ""
+msgstr "北部の春"
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:693
 msgid "scenario name^Northern Summer"
-msgstr ""
+msgstr "北部の夏"
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:694
 msgid "scenario name^Northern Autumn"
-msgstr ""
+msgstr "北部の秋"
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:695
 msgid "scenario name^Northern Winter"
