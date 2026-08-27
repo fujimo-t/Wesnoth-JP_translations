@@ -1752,7 +1752,7 @@ msgstr "Eldebetam"
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:174
 msgid "Boruroom! Burarum!"
-msgstr "ボルルーム！ブラルム！"
+msgstr "ボルルゥム！ブラルム！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:178
@@ -1765,11 +1765,12 @@ msgid ""
 "I’ve heard tell of tree-folk... you must be a wose! Err, I’m terribly sorry "
 "for the fireball. I couldn’t tell you apart from an ordinary oak."
 msgstr ""
+"そういや、木の種族の噂を聞いたことがある・・・君はウーズだろう！あぁ、ファイアーボールを放ってしまって本当に済まなかった。ただの樫の木との見分けがつかなかったんだよ。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:186
 msgid "Burarum! Boom-toom-hun-rum-tum-ala-lola-ala?"
-msgstr ""
+msgstr "ブラルム！ブゥム・トゥウム・フン・ルム・トゥム・アラ・ロラ・アラ？"
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:190
@@ -1777,11 +1778,12 @@ msgid ""
 "A-rumgur-gurmum-un-rumba-ala-burarum! Burarum-ala-bortum-untum! A-rumgur-"
 "gurmum-un-rumba-ala-boruroom! BURARUM!!"
 msgstr ""
+"ア・ルムグゥ・グゥムム・ウン・ルムバ・アラ・ブラルム！ブラルム・アラ・ボォトゥム・ウントゥム！ア・ルムグゥ・グゥムム・ウン・ルムバ・アラ・ボルルゥム！<b>ブラルム</b>！！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:194
 msgid "It can’t understand me, and I can’t understand it... Oh no..."
-msgstr ""
+msgstr "まったく話が通じないな・・・まいったな、こりゃ・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:210
@@ -1790,13 +1792,14 @@ msgid ""
 "burning down half the forest would hardly be the good first impression King "
 "Garard tasked me with making."
 msgstr ""
+"攻撃体制を取っているのか！歩く柳の２本や３本など怖くはないけど、もしも森の半分を焼き払うことになったら、Garard王に課された「好印象を与える」という任務はかなり厳しくなっちまうな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:212
 msgid ""
 "I’m sure Methor would know what to do here. But I don’t. I think we have no "
 "choice but to fight."
-msgstr ""
+msgstr "Methor なら、ここでやるべきことが分かるんだろうけどな。戦うよりほかに選択肢がなさそうだ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:220

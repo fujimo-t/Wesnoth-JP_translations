@@ -13330,14 +13330,14 @@ msgstr "親しい友人"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:64
 msgid "Deoran"
-msgstr ""
+msgstr "Deoran"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:140
 msgid ""
 "You have led us to a dark part of the jungle, great-granddaughter. And "
 "undead? What are undead doing in Wesmere?!"
-msgstr ""
+msgstr "曾孫娘よ、日も満足に届かない森のこんな深い場所が目的地なのか？そしてアンデッドだと？アンデッドがこの Wesmere で一体何を？！"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:145
@@ -13346,11 +13346,13 @@ msgid ""
 "after Eldred so cruelly struck him down. He remembers nothing but echoes. It"
 " is terrible, Kalenz!"
 msgstr ""
+"ただのアンデッドじゃないわ。あの闇の騎士は Deoran、残酷にも Eldred に打ち倒された後、亡霊騎士として起き上がったの。Deoran "
+"はもう何も覚えていないわ。ただ残響だけが残っているの。Kalenz、どうしてこんなひどいことに！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:149
 msgid "Death... I lowered my sword... A blade in my chest..."
-msgstr ""
+msgstr "死… 私は剣を落とした… 胸に剣が刺さっている…"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:153
@@ -13359,6 +13361,8 @@ msgid ""
 "Asheviere’s or by the dark magic of Eldred’s fall, but now he has come here "
 "to Wesmere. He has sought me out..."
 msgstr ""
+"Asheviere から何かされてしまったのか、それとも Eldred が堕落した時の闇の魔術のせいなのか、Deoran "
+"がなんでアンデッドになってしまったのかはわからないわ。それでも、Deoran は私を探し当てたのよ…"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:157
@@ -13366,6 +13370,7 @@ msgid ""
 "Deoran was a good man, and deserved better than the end he met. I know you "
 "and he were close, Chantal, and I am sorry."
 msgstr ""
+"Deoran は立派な男だった。あんな最期を迎えさせてはいけなかった。それに Chantal、お前と仲がよかったことも知っている。すまなかった。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:161
@@ -13374,13 +13379,15 @@ msgid ""
 "that we cannot leave him to rampage through Wesmere. Now that you are here, "
 "if his bones must be crushed and his body destroyed, so be it."
 msgstr ""
+"彼を殺す気にはなれなかった… 死なんて一回で十分だもの。でも彼を放置して Wesmere "
+"で暴れさせるわけにもいかない。そんな時にあなたがここへ来た。彼の骨を砕き、その身体を滅ぼさないといけないのなら、やるべき時は今なのでしょう。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:165
 msgid ""
 "Indeed, it would a mercy to put this cursed being out of his misery. But "
 "perhaps it can be done without the violence that you would so abhor."
-msgstr ""
+msgstr "そうだな。この呪いから解き放ってやることが最大の手向けになるだろう。ただ、暴力を避けることができるかもしれない。お前もその方がいいだろう？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:172
@@ -13390,6 +13397,8 @@ msgid ""
 "peace and rest. You say Deoran has sought you out; I believe he has sought "
 "out this tomb."
 msgstr ""
+"ここからそう遠くない場所に古い魔術がかけられた場所がある。元々は貴族の墓所として用意された場所だ。その場所は結局使われなかったが、今も深い安らぎと休息の地で在り続けている。Deoran"
+" がお前を探してここに来たというのなら、その墓所で眠らせて欲しいと願っているのだと思う。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:176
@@ -13398,57 +13407,59 @@ msgid ""
 " at last find the peace they have so long been denied. And your tired heart "
 "may at last find closure, great-granddaughter."
 msgstr ""
+"Deoran "
+"を破壊することなく墓所まで誘い出せれば、彼の疲れ果てた骨も拒みつづけた安息を受け入れてくれるだろう。そして、疲れ果てたお前の心も安息が得られるはずだ、我が曾孫娘よ。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:184
 msgid ""
 "Lure undead Deoran into the burial chamber, and leave him alone inside."
-msgstr ""
+msgstr "アンデッドの Deoran を埋葬室におびき出し、Deoran を埋葬室内で一人きりにする。"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:188
 msgid "Death of Deoran"
-msgstr ""
+msgstr "Deoran の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:192
 msgid "Death of Kalenz or Chantal"
-msgstr ""
+msgstr "Kalenz か Chantal の死"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:200
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:537
 msgid "In this scenario, you can neither gain nor spend gold."
-msgstr ""
+msgstr "このシナリオではゴールドを獲得することも消費することもありません。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:203
 msgid "Deoran will prefer to target Chantal."
-msgstr ""
+msgstr "Deoran は Chantal を優先的に狙います。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:215
 msgid "Blackcrests... more, to the north... Rally! Form ranks..."
-msgstr ""
+msgstr "黒い紋… さらに… 北に向かって… 集結せよ！ 戦列を……"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:228
 msgid ""
 "You don’t remember me, do you, Deoran... We shared good memories together, "
 "back in the Lintanir."
-msgstr ""
+msgstr "Deoran、私のことを忘れてしまったのね…… 私達は一緒に素敵な時間を過ごしたのよ、Lintanir の森で。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:232
 msgid "... Chantal? No, not here... War is no... place for you..."
-msgstr ""
+msgstr "……Chantal？そんなはずはない…… 戦場は… 君の居場所じゃない……"
 
 #. [message]: speaker=Deoran
 #. Deoran references Mebrin from TSG, and Kalenz's lich-eye potion from LoW
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:246
 msgid ""
 "Mebrin... I sense eye... of lich... Your time has come... once-wise sage..."
-msgstr ""
+msgstr "Mebrin… 目… リッチの…… ついにこの時が… かつての賢者よ……"
 
 #. [message]: speaker=Deoran
 #. Deoran references Mebrin's line from TSG S06b: "I curse you, Deoran of
@@ -13456,57 +13467,57 @@ msgstr ""
 #. have inflicted on me..."
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:251
 msgid "You cursed me... you cursed me... to know the same pain..."
-msgstr ""
+msgstr "私を呪うのか… 私を呪うのか… 同じ苦しみを味わわせるため……"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:263
 msgid "He’s inside! Now we need to exit the tomb and leave him there."
-msgstr ""
+msgstr "Deoran が中に入った！我らは Deoran を置き去りにして墓を出なければ。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:322
 msgid "There! Now shut the gate and the magic will begin to do its work."
-msgstr ""
+msgstr "さあ！門を閉じれば魔術が働き出すぞ。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:334
 msgid "Is it working?"
-msgstr ""
+msgstr "うまくいっているの？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:338
 msgid "My... head..."
-msgstr ""
+msgstr "私の… 頭……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:353
 msgid "I died. How am I here? I remember better places... happier times..."
-msgstr ""
+msgstr "私は死んだ。私はどうしてここに？もっと素敵な場所を… もっと幸せだった時間を… 思い出すな……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:357
 msgid "... goodbye, Chantal."
-msgstr ""
+msgstr "……さよなら、Chantal。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:363
 msgid "Goodbye."
-msgstr ""
+msgstr "さようなら。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:385
 msgid "Eldred—"
-msgstr ""
+msgstr "Eldred──"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:391
 msgid "No! He has been broken to pieces..."
-msgstr ""
+msgstr "そんな！彼が粉々に……"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:413
 msgid "Argh! I am finished!"
-msgstr ""
+msgstr "うぐっ！ここまでか！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:434
@@ -13515,18 +13526,19 @@ msgid ""
 " we cannot complete our task, I fear he shall soon flee into the river, and "
 "vanish to bring harm to some other land."
 msgstr ""
+"アンデッドとなった Deoran が、頭を激しく振り回し始めている。早く作戦を達成できなければ、彼が川へ逃げ込んで他の土地に害をもたらすかもしれない。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:441
 msgid "You cannot... trap me, Mebrin... I see my escape..."
-msgstr ""
+msgstr "Mebrin… お前に…私は捕まえられない…… ここから逃げられる…"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:447
 msgid ""
 "Deoran has gone! We’ve taken too long to seal him away, and now we may never"
 " find him again..."
-msgstr ""
+msgstr "Deoran が消えてしまった！封印に時間がかかりすぎたのだわ。彼はもう二度と見つけられないかも……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:8
