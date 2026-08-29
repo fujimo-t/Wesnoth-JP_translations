@@ -13549,14 +13549,14 @@ msgstr "ドワーフの戸口"
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:200
 msgid ""
 "Back into your hovel, worms! Your masters will deal with this idiot attack."
-msgstr ""
+msgstr "虫ケラ共、さっさと小屋へ戻れ！愚か者の攻撃への対応は貴様たちのご主人さまがやる。"
 
 #. [message]: role=angry_orc
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:208
 msgid ""
 "And stay in there. Any pinkskin sticks its head out, it won’t have a head "
 "for much longer!"
-msgstr ""
+msgstr "中でじっとしていろ。少しでも頭を出したらその首はすっ飛ばす！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:229
@@ -13565,20 +13565,21 @@ msgid ""
 "purify! Our crossing will be difficult, yet cross we must, if the dwarven "
 "caverns we wish to exit."
 msgstr ""
+"なんということだ！闇で、オークで谷があふれている。私の光をもってしても浄化を難しい！単に通り抜けることすら難しいであろう。されど、ドワーフの洞窟から出るためにはやるしかない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:230
 msgid ""
 "There’s orcs here; lots of orcs. More than we can fight, I’m thinkin’. But "
 "we’ve gots to get through if’n we want to get out o’ these dwarf tunnels!"
-msgstr ""
+msgstr "オークだな、すごい数だ。これはさすがに無理だろうな？しかし、このドワーフの坑道から出るためにはここを通るしかないんだな。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:231
 msgid ""
 "There are orcs here; many orcs, likely more than we can defeat. Yet we must "
 "pass through this valley if we wish to exit the dwarven caverns."
-msgstr ""
+msgstr "見渡す限りオークばかりだ。これを全部倒すことは無理だろうな。しかし、ドワーフの洞窟から出るにはどうしてもここを抜ける必要がある。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:233
@@ -13587,20 +13588,21 @@ msgid ""
 "purify! Our crossing will be difficult, yet cross we must, if the dwarven "
 "caverns we wish to enter."
 msgstr ""
+"なんということだ！闇で、オークで谷があふれている。私の光をもってしても浄化を難しい！単に通り抜けることすら難しいであろう。されど、ドワーフの洞窟に入るためにはやるしかない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:234
 msgid ""
 "There’s orcs here; lots of orcs. More than we can fight, I’m thinkin’. But "
 "we’ve gots to get through if’n we want to into them dwarf tunnels!"
-msgstr ""
+msgstr "オークだな、すごい数だ。これはさすがに無理だろうな？しかし、このドワーフの坑道に入るためにはここを通るしかないんだな。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:235
 msgid ""
 "There are orcs here; many orcs, likely more than we can defeat. Yet we must "
 "pass through this valley if we wish to enter the dwarvish caverns beyond."
-msgstr ""
+msgstr "見渡す限りオークばかりだ。これを全部倒すことは無理だろうな。しかし、ドワーフの洞窟に入るにはどうしてもここを抜ける必要がある。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:238
@@ -13609,6 +13611,7 @@ msgid ""
 " o’ the dwarf-friends! Swallow-tiltin’ marmalade drinkers! I say we take an "
 "axe to every last one o’ the wretches!"
 msgstr ""
+"ドワーフの同胞達の廃墟に臆病で薄汚い腰抜けオークが居座っていようとは！軟弱共が上品ぶりおって！斧を取れ、ロクでなし共を一匹残らず片付けるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:241
@@ -13617,6 +13620,8 @@ msgid ""
 "but... wow! And slaves! I’d no idea there were so many humans living up in "
 "the north."
 msgstr ""
+"あら！あらあら、オークがこんなにたくさん！たくさんいるとは思っていたけれど…  "
+"あら？奴隷がいますね！こんな北の地にあんなにたくさんの人間がいるとは思いませんでしたね。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:242
@@ -13624,7 +13629,7 @@ msgid ""
 "Mmm... Konrad better be bein’ careful. Dese be da Bloody Sword orcs. Ever "
 "since dey took over dis valley, dey’ve got really big and really strong. How"
 " you thinkin’ we should fight?"
-msgstr ""
+msgstr "ムムム… Konrad 注意する良い。あいつらブラッディソードところオーク。あいつらこの谷占領後大きく強くなった。俺たち戦うか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:249
@@ -13633,52 +13638,53 @@ msgid ""
 "are just too many foes to fight. We’ve caught them by surprise right now, "
 "but that won’t last long."
 msgstr ""
+"ここに留まってあのかわいそうな奴隷達を全て解放してあげたい。しかし敵が多すぎる。今のところ不意を突いて優位に立っているが、この状況も長くは続かないだろう。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:252
 msgid ""
 "We’ll have to focus on fighting our way through to the south exit, and free "
 "as many slaves as we can along the way!"
-msgstr ""
+msgstr "南への出口を切り開くことに集中しなければ！しかし、道中にできるだけ多くの奴隷を解放するんだ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:254
 msgid ""
 "We’ll have to focus on fighting our way through to the north exit, and free "
 "as many slaves as we can along the way!"
-msgstr ""
+msgstr "北への出口を切り開くことに集中しなければ！しかし、道中にできるだけ多くの奴隷を解放するんだ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:267
 msgid "Move Konrad to the marked tunnel entrance"
-msgstr ""
+msgstr "Konrad を印のつけられた坑道の入り口へ移動させる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:274
 msgid "Move Konrad to the southern edge of the map"
-msgstr ""
+msgstr "Konrad をマップの南端まで移動させる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:282
 msgid "Rescue as many slaves as possible"
-msgstr ""
+msgstr "できるだけ多くの奴隷を助ける"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:292
 msgid ""
 "Liberating a village will free the slaves inside. The more slaves are with "
 "you, the fewer new ones will appear."
-msgstr ""
+msgstr "村を解放すると中の奴隷を解放できます。多くの奴隷を連れていると、新しく現れる数が減少します。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:295
 msgid "Each surviving slave increases your gold carryover by 10."
-msgstr ""
+msgstr "奴隷が一人生き残るごとに 10 ゴールドが次のシナリオに引き継がれます"
 
 #. [modify_unit]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:343
 msgid "Tanry"
-msgstr ""
+msgstr "Tanry"
 
 #. [message]: role=freed_slave {NOT id=$unit.id}
 #. the speaking peasant/woodsman refers to a time when Baldras and some allies
@@ -13688,7 +13694,7 @@ msgstr ""
 msgid ""
 "I— I can’t believe it. Have you come to rescue us? Others have tried "
 "before..."
-msgstr ""
+msgstr "──信じられない。俺たちを助けに来たのか？前にもそんな奴はいたが…"
 
 #. [message]: id=$unit.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:357
@@ -13696,6 +13702,7 @@ msgid ""
 "By the Lords of Light, we’re saved! Take us with you! I don’t care who you "
 "are or where you’re going, as long as it’s away!"
 msgstr ""
+"光の神々よ、俺たちは助かった！どうか俺たちを連れていってくれ！あんたが誰であろうと、これからどこへ行くんでも構わない！外に行けるならどこでも良いんだ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:361
@@ -13705,6 +13712,8 @@ msgid ""
 "course you may come with us, as may any other slaves who we are able to "
 "free!"
 msgstr ""
+"私は Konrad、Arand の子にして Wesnoth "
+"の王位継承者だ。この悲惨な状況については言葉にできないほど悲しい。さあ、我々と一緒に行こう。他の人々もできるだけ多く助けるぞ！"
 
 #. [message]: id=$unit.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:373
@@ -13714,6 +13723,8 @@ msgid ""
 "Maybe you could come up from underground through there, if you had time to "
 "clear a path. But there’s no way down."
 msgstr ""
+"ドワーフの洞窟に向かっているのか？中央の門はずっと前に崩壊したってオーク達が言っていた── "
+"オークの追跡を防ぐためドワーフがやったらしい。道を切り開く時間があれば、地下から上がることはできるかもしれないが、下に降りる道はないぞ。"
 
 #. [message]: id=$unit.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:377
@@ -13723,21 +13734,23 @@ msgid ""
 "dwarves and claim Knalga’s treasure for themselves. That’s the only way "
 "underground now."
 msgstr ""
+"東の竪穴も壊そうとしたらしいが、そっちの障害物はもう排除されている。多くのオークとトロルが、ドワーフを完全に駆逐し、Kanlga "
+"のお宝を手に入れるために中に入って入った。今ある地下への入り口はあそこだけだ。"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:396
 msgid "Who’s there? What’s goin’ on?"
-msgstr ""
+msgstr "誰だ？何をしている？"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:404
 msgid "... Uncle Somf? Is that really you? What’re you doing here!"
-msgstr ""
+msgstr "… Somf おじさん？本当に？ここで一体何を！"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:408
 msgid "Harper!? Well, I never— my, how ye’ve grown!"
-msgstr ""
+msgstr "Harper か！？ああ、なんだ── 随分大きくなったな！"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:412
@@ -13746,6 +13759,7 @@ msgid ""
 "people, Baldras ne’er told any o’ ye where we was goin’, fer fear o’ the "
 "orcs catchin’ wind."
 msgstr ""
+"どうしてここがわかった？ここの連中を助けるために三姉妹の島を離れる時、Baldras は誰にも行き先を言わなかったはずだ。オークにバレたら困るからな。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:416
@@ -13753,13 +13767,15 @@ msgid ""
 "When you all didn’t come back, Delurin thought you was all dead, but I never"
 " lost hope. Where’s Uncle Baldras? I’ve so many things to tell him!"
 msgstr ""
+"誰も戻らなかったから、Delurin は全員死んだと思っていた。でもアタシは希望を諦めなかった。Baldras "
+"叔父さんはどこ？話したいことがたくさんあるんだ！"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:420
 msgid ""
 "Ah... I’m sorry Harper, but he’s dead. Died a hero; saved us all when things"
 " went bad."
-msgstr ""
+msgstr "ああ…… すまんな、Harper。あいつは死んだ。英雄として死んだんだ。事態が悪化した時、俺たちみんなを助けてくれたんだ。"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:424
@@ -13769,6 +13785,8 @@ msgid ""
 "said he was an escaped slave causin’ trouble, an’ that the rest of us were "
 "jus’ innocents mixed up in it all."
 msgstr ""
+"近づいた途端に俺たちは捕まってしまった。人々を密かに解放しようとする前にだ。その時、おまえの叔父の Baldras "
+"が全ての責任を被ってくれたんだ。逃亡奴隷の自分が問題を起こしただけで、他の全員は巻き込まれただけだと主張してな。"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:428
@@ -13777,13 +13795,15 @@ msgid ""
 "said. The rest o’ us they chained up and whipped a few times, afore throwin’"
 " us into the fields to be slaves. But Baldras they made an’ example out of."
 msgstr ""
+"オークが人間をほとんど見分けられないことは知っているだろう？だからオークはそれを信じた。俺たち残りの者は鎖につながれ、数回鞭で打たれただけで、普通の奴隷として放り出された。しかし、Baldras"
+" だけはみせしめとして処罰された。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:432
 msgid ""
 "I was so sure he’d be okay... but I suppose it woulda been too good to be "
 "true. At least you’ve survived, Somf."
-msgstr ""
+msgstr "叔父さんは元気にしていると思ったけど… やっぱり、都合良く考えすぎていたのだろうね。それでも、Somf おじさんが無事でよかった。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:440
@@ -13792,6 +13812,8 @@ msgid ""
 "His Royal Highness Konrad, Prince of Wesnoth. I’m fighting in his army, an’ "
 "now you are too."
 msgstr ""
+"… Konrad、この人は Somf ── 三姉妹の島の仲間だよ。Somf おじさん、この人は Konrad "
+"王子殿下だよ。アタシは王子と一緒に戦ってる。これからはおじさんも一緒だね。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:449
@@ -13799,6 +13821,7 @@ msgid ""
 "I am Konrad, heir to the throne of Wesnoth. I’m here to rescue you from "
 "these slavers! Will you join me and help fight in my army?"
 msgstr ""
+"私は Konrad、Wesnoth の王位継承者です。あなた方奴隷となった人々を助けるためにここに来ました！これからは私の軍で共に戦いませんか？"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:453
@@ -13806,6 +13829,7 @@ msgid ""
 "That’s mighty fine of you to offer, boy; liberatin’ me from one master only "
 "to offer yerself as my new one. Hah, I weren’t born yesterday!"
 msgstr ""
+"そいつは大変魅力的な提案だな、小僧。前のご主人様から解放したのだから、これからは俺がお前のご主人様だ、ってか。そんな口車に騙されるほど若くはねぇぞ！おととい来やがれ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:459
@@ -13813,59 +13837,60 @@ msgid ""
 "That man looked like he could’ve made a capable warrior! I am sorry to see "
 "him go — but least we have given him the freedom to choose his own path."
 msgstr ""
+"あの男は有能な戦士だったよに見えた！彼に力を貸してもらえなかったのは残念だ ── それでも、彼が自由になり、生き方を自分で選べるようになってよかった。"
 
 #. [message]: type=Cuttle Fish,Kraken
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:479
 msgid "Ruarrrrr!!!"
-msgstr ""
+msgstr "ルァァァァ！！！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:482
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:483
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:484
 msgid "By Haldric! There’s some sort of monster in the lake!"
-msgstr ""
+msgstr "なんてことだ！湖にこんな化け物がいるとは！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:485
 msgid ""
 "Aaah! There’s— it’s— well, I don’t mean to sound unscientific, but it’s a "
 "monster!"
-msgstr ""
+msgstr "あらあら！あの── えっと── あんまり科学的な言い方ではないですが、興味深い化け物がいますね！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:486
 msgid "Thursagan’s beard! There’s a great galumphing monster in the lake!"
-msgstr ""
+msgstr "Thursagan のヒゲにかけて！巨大で醜悪な化け物が湖におるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:487
 msgid "By the Light! A monster most foul lurks within the waters!"
-msgstr ""
+msgstr "光にかけて！水の中に極めて忌まわしい怪物がいるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:488
 msgid "Dere be some kind of monster in da lake!"
-msgstr ""
+msgstr "湖中化け物いる！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:489
 msgid "Gah! Look out, there’s some kind of monster in the lake!"
-msgstr ""
+msgstr "うわっ！気をつけろ！湖の中に怪物がいるぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:493
 msgid ""
 "The legend was true! They say there’s always tentacled creatures hiding in "
 "lakes near dwarven tunnels."
-msgstr ""
+msgstr "伝説は本当だった！ドワーフの坑道の近くにある湖には絶対に触手を持つ生物が潜んでいるんだ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:505
 msgid ""
 "Here stand the pillars of Thunedain. He were a great lord o’ my kind; the "
 "last o’ the heroes o’ the Doors. Here did he stand, an’ here did he fall."
-msgstr ""
+msgstr "これは Thunedain の列柱だ。ドワーフの偉大な人物で、戸口の最後の英雄だ。彼はここに立ち、そしてここに倒れた。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:506
