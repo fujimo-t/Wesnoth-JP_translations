@@ -1828,6 +1828,7 @@ msgid ""
 "\n"
 "Woses also have the powerful <i>regeneration</i> ability, and have high resistance to several types of damage. <i><b>Make sure you recruit units with effective damage types!</b></i> To see more details, right-click on a wose and select <i>“Unit Type Description”.</i>"
 msgstr ""
+"ウーズは「伏兵」のアビリティを持っており、森の中にいる間は姿が見えなくなります。どのユニットでも、ウーズに隣接することで一時的に姿を出現させることができますが、見つけた側のユニットは、たとえ「散兵」のアビリティを持っていても、それ以上の移動ができなくなります。「伏兵」は、隣接したユニットがその場を離れた瞬間、伏兵自身が移動していなくても、再びその効果が発現します。また、ウーズは強力な「再生」アビリティも持っており、いくつかの攻撃属性に対して高い耐性を備えています。有効な「ダメージ型」を持つユニットを忘れずに雇用しましょう！より詳しい情報を確認するには、ウーズを右クリックして「ユニット解説」を選択してください。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:255

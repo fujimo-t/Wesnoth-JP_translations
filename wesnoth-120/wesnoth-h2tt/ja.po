@@ -13734,7 +13734,7 @@ msgid ""
 "dwarves and claim Knalga’s treasure for themselves. That’s the only way "
 "underground now."
 msgstr ""
-"東の竪穴も壊そうとしたらしいが、そっちの障害物はもう排除されている。多くのオークとトロルが、ドワーフを完全に駆逐し、Kanlga "
+"東の縦穴も壊そうとしたらしいが、そっちの障害物はもう排除されている。多くのオークとトロルが、ドワーフを完全に駆逐し、Kanlga "
 "のお宝を手に入れるために中に入って入った。今ある地下への入り口はあそこだけだ。"
 
 #. [message]: speaker=Somf
@@ -13898,6 +13898,8 @@ msgid ""
 "I think these to be the pillars of Thunedain, Konrad. He was a legendary "
 "dwarvish lord who made his last stand here. May we triumph where he fell."
 msgstr ""
+"Konrad、これが Thunedain の列柱だろう。Thunedain は伝説的なドワーフで、ここで最期の抵抗を繰り広げた。Thunedain "
+"はここで倒れたが、我らはここで勝利を収められるように願う。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:507
@@ -13907,6 +13909,8 @@ msgid ""
 "Is this— yes, these must be the pillars of Thunedain. I read about this. He "
 "was a great dwarvish lord who made his last stand here."
 msgstr ""
+"これは── ああ、Thunedain の列柱に違いありません。本で読んだことがあります。Thunedain "
+"は偉大なドワーフで、ここで最期の抵抗をしたはずです。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:535
@@ -13915,6 +13919,8 @@ msgid ""
 "to these orcs! If only we could have truly liberated this place... but I "
 "know that far more people are suffering under Asheviere."
 msgstr ""
+"谷の南の出口に着いたぞ。それにオークに手痛い損害も与えた！ここを完全に解放できればよかったのだが… しかし、Asheviere "
+"のせいでもっと多くの人々が苦しんでいるのだ。そのことを忘れるわけにはいかない。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #. [message]: speaker=Konrad
@@ -13925,6 +13931,7 @@ msgid ""
 "remain; to those we could not save I say: <i>Hold fast your hope, for one "
 "day you shall be free!</i>"
 msgstr ""
+"奴隷とされた人々を助けるため、できるだけのことはやった。……まだここに残る人々よ！我々が救えなかった人々よ！<b>「希望を捨てるな！いつか自由になれる日は来る！」</b>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:556
@@ -13933,13 +13940,15 @@ msgid ""
 "blow to these orcs! If only we could have truly liberated this place... but "
 "I know that far more people are suffering under Asheviere."
 msgstr ""
+"ドワーフの坑道の入り口に着いたぞ。それにオークに手痛い損害も与えた！ここを完全に解放できればよかったのだが… しかし、Asheviere "
+"のせいでもっと多くの人々が苦しんでいるのだ。そのことを忘れるわけにはいかない。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:578
 msgid ""
 "As we were warned, the central tunnels have been collapsed. We shall have to"
 " make for the eastern mineshaft instead."
-msgstr ""
+msgstr "警告された通り、中央の坑道は崩れてしまっている。やはり東の縦穴に向かうしかないか。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:583
@@ -13948,23 +13957,25 @@ msgid ""
 " but I freed so few... We shall have to make for the eastern mineshaft, and "
 "hope that entrance is still open."
 msgstr ""
+"中央の坑道は崩れてしまっている！奴隷の中には知っていた者もいるだろう。もっと多く奴隷を解放できていれば事前に気づけたはずだ…… "
+"こうなっては、東の縦穴に向かうしかないだろう。そちらは使えると良いのだが。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:599
 msgid "Death to slavers!"
-msgstr ""
+msgstr "奴隷主には死を！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:611
 msgid "This isn’t going so well..."
-msgstr ""
+msgstr "これはヤバいな…"
 
 #. [message]: id=$last_leader.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:633
 msgid ""
 "Okay, forget this. I’m taking the rest of our slaves, getting the chief, and"
 " bringing the horde! You invaders had better not be here when we get back!"
-msgstr ""
+msgstr "よし、もういい。残りの奴隷を連れて族長と合流し、軍勢をここに寄越してもらうぞ！侵略者よ、死にたくなければさっさと消えろ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:654
@@ -13973,18 +13984,20 @@ msgid ""
 "all... but please, remember: <i>Hold fast your hope, for one day you shall "
 "be free!</i>"
 msgstr ""
+"オークが逃げる、しかも多くの奴隷を連れて！あなたたち全員を救うことはできない… "
+"だが、どうか覚えておいてくれ！<b>「希望を捨てるな！いつか自由になれる日は来る！」</b>"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:683
 msgid "Konrad can now recruit Peasants and Woodsmen!"
-msgstr ""
+msgstr "Konrad は「農民」と「木こり」を雇用できるようになりました！"
 
 #. [message]: role=freed_slave
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:686
 msgid ""
 "Thank you for helping me escape, Konrad! On our way out, each of those you "
 "freed have grabbed as much of the orcs’ gold and supplies as we could."
-msgstr ""
+msgstr "Konrad、俺たちの逃亡を助けてくれてありがとう！解放されて逃げる時、みんながオークの資金と物資をできるだけ持ってきた。"
 
 #. [message]: speaker=narrator
 #. $freed_slaves.length is more than 0, and probably less than 20. $carryover
@@ -13993,7 +14006,7 @@ msgstr ""
 msgid ""
 "You have rescued $freed_slaves.length slaves, and will have $carryover extra"
 " gold in the next scenario!"
-msgstr ""
+msgstr "あなたは $freed_slaves.length 人の奴隷を救出し、次のシナリオで $carryover の追加資金がえられます！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:709
@@ -14001,21 +14014,21 @@ msgid ""
 "... not a single slave has escaped along with us. I had hoped that our good "
 "deed here would help us gain new allies, but it seems my hopes were in vain."
 " We must press onwards alone."
-msgstr ""
+msgstr "……奴隷を一人も連れ出すことができなかった。ここでの行いで新たな味方が得られると思ったが、うまくいかなかった。…それでも前に進まなければ。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:723
 msgid ""
 "Bah, when’s the chief getting back with the horde? These invaders are being "
 "a real nuisance."
-msgstr ""
+msgstr "クソっ、族長と軍勢はいつになったら戻ってくるんだ？この侵入者は本当に厄介だぞ。"
 
 #. [message]: role=warlord
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:746
 msgid ""
 "What’s goin’ on here? Slave revolt, is it? Hah! None o’ you’re getting out "
 "o’ this valley alive!"
-msgstr ""
+msgstr "何が起こっている？奴隷の反乱か？ハン、いい度胸だ！生きて谷を出られると思うなよ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:750
@@ -14024,18 +14037,19 @@ msgid ""
 "progressing! Even if we manage to win this fight, the cost will surely be "
 "too great for our small army to bear..."
 msgstr ""
+"さらに多くのオークが到着してしまった、それも我々の進路を塞ぐような位置に！どうにかしてこの戦いに勝っても、その代償は我らの小さな部隊で受け止めきれるものではないだろう…"
 
 #. [side]: type={TYPE}, id={ID}
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:64
 msgid "Trolls"
-msgstr ""
+msgstr "トロル"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:211
 msgid ""
 "From what Delfador has taught me, I recognize us to be in the ruins of the "
 "great western hall of Knalga."
-msgstr ""
+msgstr "Delfador から教わったことから考えて、ここは Knalga の西大広間の廃墟なのだと思う。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:215
@@ -14044,6 +14058,7 @@ msgid ""
 "was missed by the conquering orcs. We just have to drive off the local "
 "trolls first."
 msgstr ""
+"このような光景を見るのは悲しいことだが、オークが見落とした価値ある品物がまだ残っているかもしれない。しかしまずは住み着いたトロルを追い払わなければ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:219
