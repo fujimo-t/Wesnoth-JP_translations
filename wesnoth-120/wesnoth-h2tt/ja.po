@@ -14066,7 +14066,7 @@ msgid ""
 "Caves and crypts are no place for the fair folk, Konrad, and dwarvish "
 "tunnels even less so. I am not eager to proceed, but what must be done must "
 "be done."
-msgstr ""
+msgstr "妖精に近い種は洞窟や地下墓地のような場所を好まない。ドワーフの洞窟など尚更だ。正直先に進みたくはないが、やるべきことはやらねばな。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:220
@@ -14074,6 +14074,7 @@ msgid ""
 "Cave and crypts are no place for cavalry, Konrad, and dwarvish tunnels even "
 "less so. I am not eager to proceed, but what must be done must be done."
 msgstr ""
+"騎兵は洞窟や地下墓地のような場所には向いていません。ドワーフの洞窟であるのならば尚更です。正直先に進みたくはありませんが、行くしかありませんね。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:221
@@ -14082,13 +14083,15 @@ msgid ""
 "Well, this is a far cry from the sunny shores of Alduin. And it stinks of "
 "troll excrement! Let’s do what needs to be done and get it over with."
 msgstr ""
+"そうですね、ここは Aludin "
+"の暖かい岸辺とはかけ離れた場所ですね。しかもトロルの排泄物の臭いがします！用事は早めに済ませて、さっさとここを出ましょう。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:223
 msgid ""
 "Aye, an’ <b><i>I</i></b> may find me father’s defiled bones, or me "
 "grandfather’s. Cheery thoughts all around, eh?"
-msgstr ""
+msgstr "ほう、<b>俺</b>は父や祖父の骨が汚されているのを見つけられるかもしれんな。楽しい気分になってくるな？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:224
@@ -14097,13 +14100,14 @@ msgid ""
 " the Light, nor ever from the Light, for the Light shall always guide the "
 "faithful."
 msgstr ""
+"深い闇の中では地上の光から切り離されてしまう。しかし聞くが良い！光とはいつもあるもの、そして決して離れることはできないもの。光はいかなる場所でも常に信じる者を導くのだ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:225
 msgid ""
 "Well, don’ this place be bringin’ back some bad memories. Jus’ hope we don’ "
 "find no Midnight Queen down these caves this time."
-msgstr ""
+msgstr "ああ、嫌なことを思い出させる場所だね。今度は真夜中の女王が見つからないといいけど。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:226
@@ -14112,6 +14116,7 @@ msgid ""
 "I’ve always wanted to. Do you think they know how their regeneration works, "
 "or does it just happen by instinct?"
 msgstr ""
+"あのですね、私は野生のトロルに会ってみたいといつも思っていたんですよ！ええ、本当にそんな気がしてきました！彼らがどのように再生能力を発動しているのか興味はありませんか？意図的に何かしているのでしょうか？それとも本能的、自然に起こっているんでしょうか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:227
@@ -14120,6 +14125,8 @@ msgid ""
 "knows all the trolls on da continent. An’ don’t get Dosh mixed up with one "
 "o’ dem other trolls while we’re fighting, okay?"
 msgstr ""
+"Konrad、Dosh 見るな。Dosh トロル、でも Dosh 大陸トロル全部知ってるない。それと大事事、戦闘時 Dosh "
+"他トロル間違えるな、いいな？"
 
 #. [message]: race=dwarf,gryphon {NOT id=Ulfdain}
 #. [message]: speaker=Ulfdain
@@ -14128,100 +14135,100 @@ msgstr ""
 msgid ""
 "I remember that passageway. Me uncle’s whole family drowned here after th’ "
 "orcs flooded th’ halls. I were young, very young..."
-msgstr ""
+msgstr "この通路は覚えている。オーク達がここを水浸しにして、叔父一家が全員溺れ死んだ。あの時、俺は若かった、とても若かった……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:315
 msgid "Listen! Do you hear that?"
-msgstr ""
+msgstr "待て！聞こえたか？"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:321
 msgid ""
 "Kill the trolls... kill them all... scour the caverns... search the halls..."
-msgstr ""
+msgstr "トロルを殺す… 全部殺す… 洞窟を掃除する… 広間を捜索する…"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:364
 msgid ""
 "More orcs at the gates... Send Eller... for reinforcements. The west hall. "
 "Where... are my dragoons?"
-msgstr ""
+msgstr "門にまたオーク… Eller… 援軍を要請しろ…… 西の広間。竜騎士は……どこにいる？"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:371
 msgid "No more recruits. I will lead the sortie... personally."
-msgstr ""
+msgstr "これだけか。私が… 自ら指揮を執ろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:383
 msgid ""
 "Look at the strange axe that death knight is holding! What an unusual "
 "weapon."
-msgstr ""
+msgstr "あの死の騎士が持つ奇妙な斧を見ろ！あれは普通の武器じゃないぞ。"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:388
 msgid "I... that..."
-msgstr ""
+msgstr "俺は… あれは…"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:392
 msgid "<i>THAT’S MY FATHER’S AXE!</i>"
-msgstr ""
+msgstr "<b>あれは父の斧だぞ！</b>"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:396
 msgid ""
 "Give it back, ye beastly bag o’ bones! I’ll rip out yer ribs and stuff ’em "
 "down yer eye sockets!"
-msgstr ""
+msgstr "薄汚れた骨、それを返せ！貴様の肋骨を引きちぎってその眼窩に突き刺すぞ！"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:400
 msgid ""
 "I’ll boil yer teeth. I’ll invert your kneecaps. Death is too good for ye. "
 "UN-death is too good fer ye!"
-msgstr ""
+msgstr "歯を茹でてやる、そして膝蓋骨をひっくり返してやる。死なぞ貴様には生温い。永遠に苦しんませてやろう！貴様にはそれがお似合いだ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:404
 msgid "Ulfdain, calm down! What are you talking about?"
-msgstr ""
+msgstr "Ulfdain、落ち着いて！一体どういうことなんだ？"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:408
 msgid ""
 "That coward, that yaldson, that spawn of utter darkness is holdin’ my "
 "father’s axe! His bloodaxe, one o’ the last few in the world!"
-msgstr ""
+msgstr "闇から生まれた売女の子の腰抜けがよりにもよって俺の父の斧を持っていやがる！その血斧、世界にもほとんど残っていないんだぞ！"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:412
 msgid ""
 "By Thursagan’s beard, we’re goin’ to get it back or we’re goin’ to die "
 "tryin’! Charge!"
-msgstr ""
+msgstr "Thursagan のヒゲにかけて、死んでもあれを取り返す！突撃だぁ！"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:427
 msgid ""
 "Lost? No... do not speak that word. We will... prevail. We will find... the "
 "sceptre..."
-msgstr ""
+msgstr "負ける？違う… そんなことを口にするな。我々は… 勝利する。我々は… 笏を見つける…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:431
 msgid ""
 "The Sceptre? Of Fire?! Who are you, foul creature that we fight? Speak your "
 "name, that I may know the foe I slay!"
-msgstr ""
+msgstr "笏？炎の笏？邪悪な存在、お前は一体何者だ？名乗れ！そうすればお前が誰かわかるかもしれない！"
 
 #. [message]: speaker=Lionel
 #. Lionel repeats a line from TDG's S06
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:436
 msgid "We swore our oaths... now we do our duty..."
-msgstr ""
+msgstr "我らは誓いを立てた… 義務を果たさねば…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:451
@@ -14229,12 +14236,14 @@ msgid ""
 "I am Konrad, nephew of Garard, son of Arand and rightful heir to the throne "
 "of Wesnoth! And in their names, I end your undead suffering."
 msgstr ""
+"私は Konrad、Garard の甥で、Arand の子にして Wesnoth "
+"の正統なる王位継承者だ！その名において、お前を不死の苦しみから救ってやろう。"
 
 #. [message]: speaker=Lionel
 #. Lionel foreshadows the reveal that Konrad is not in fact the heir
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:456
 msgid "Arand? You look... nothing like Arand..."
-msgstr ""
+msgstr "Arand 殿下？あなたは… 殿下とはまるで違う……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:467
@@ -14243,13 +14252,14 @@ msgid ""
 "Neither in life nor un-life could he find the object of his quest — but it "
 "seems he still gathered many other riches and things of value."
 msgstr ""
+"この邪悪な存在はかつて人間で、炎の笏を探していた。生前も死後も見つけることはできなかったようだが── 多くの価値あるものを見つけていたようだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:489
 msgid ""
 "His gold will be useful to us, but his axe may be even more so. The runes "
 "carved into it look dwarvish, and ancient..."
-msgstr ""
+msgstr "ゴールドはもちろん有用だろうが、この斧にはそれ以上の価値がありそうだ。刻まれたルーンからすると、ドワーフ製でとても古そうだ。"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:504
@@ -14258,6 +14268,8 @@ msgid ""
 "with us dwarves since times o’ legend, have th’ bloodaxes. I never thought "
 "I’d again see such a sight! Not since th’ dark days began..."
 msgstr ""
+"おお… "
+"そうだ、「俺の父の」と言ったが、あれを父が打ったわけじゃないぞ。血斧は太古の時代よりドワーフと共にあったものだ。もう目にすることはないと思っていたがな！あの暗黒の時代が始まった以後は…"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:512
@@ -14266,13 +14278,15 @@ msgid ""
 "Bloodaxe now, like my father an’ his father an’ his father afore him! Ah’m "
 "in yer debt once again, Konrad. Ye given me hope."
 msgstr ""
+"どうやら、Knalga "
+"の魂は死に絶えて地に埋もれてしまったわけではなさそうだな。俺も血斧の使い手になった。父やその父、さらにその父達のように！Konrad、また借りができたな。お前は俺に希望をくれた。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:527
 msgid ""
 "A weapon worthy of a king — or a prince. I shall personally wield this axe "
 "against the dark queen."
-msgstr ""
+msgstr "素晴らしい、王── あるいは王子に相応しい武具だ。闇の女王との戦いに私が自ら使うとしよう。"
 
 #. [event]
 #. [unit_type]: id=Dwarvish Bloodaxe, race=dwarf
@@ -14286,41 +14300,41 @@ msgstr "ドワーフの血斧"
 msgid ""
 "This runic axe increases Konrad’s melee damage by 3, and grants him the "
 "<i>drains</i> special on his melee attacks."
-msgstr ""
+msgstr "このルーンの斧は Konrad の近接攻撃ダメージを 3 増加し、「生命吸収」の特殊効果を近接攻撃に追加します。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:565
 msgid ""
 "I am glad; the halls of your ancestors are at peace once more, Ulfdain. Now "
 "it is time for us to move on."
-msgstr ""
+msgstr "Ulfdain、先祖の大広間は再び平穏を取り戻すことができた。さあ、我々も先に進もう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:570
 msgid ""
 "More trolls will move in soon, but for now, the caverns are empty. Time for "
 "us to move on."
-msgstr ""
+msgstr "すぐに他のトロル達がやってきてしまうだろうが、今だけは洞窟がとても静かだ。さあ、我々も先に進もう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:591
 msgid ""
 "These halls are old, and our fighting is damaging the walls and pillars. If "
 "we cannot finish soon, the whole cavern might collapse on us!"
-msgstr ""
+msgstr "この古い広間で長々と戦っていると、壁や柱が保たないかもしれない。早めに片付けないと洞窟が崩落して、生き埋めになってしまうかもしれない！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:605
 msgid ""
 "Our fighting has caused too much damage to these old ruins! The whole "
 "mountain is falling down on us!"
-msgstr ""
+msgstr "戦闘で旧い廃墟に致命的なダメージが入ってしまった！山全体が崩れ落ちて我々に襲いかかってくる！"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:51
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:71
 msgid "Knalgans"
-msgstr ""
+msgstr "Knalga 軍"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:170
@@ -14328,7 +14342,7 @@ msgstr ""
 msgid ""
 "The Knalgans led Konrad and his men, blindfolded, through a maze of twisting"
 " tunnels and passageways."
-msgstr ""
+msgstr "Knalga の者たちは Konrad 一行に目隠しをし、曲がりくねった坑道や通路が迷路のように入り組んだ道を進みました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:172
@@ -14338,13 +14352,15 @@ msgid ""
 "from the still-seeing dwarves of Konrad’s own party. And at long last, "
 "silence."
 msgstr ""
+"古びた洞窟の空気に、ハンマーやツルハシの音、ドワーフの低く静かなささやき声が反響しています。目隠しを免除された Konrad "
+"一行のドワーフ達からの大きな掛け声が時折かけられています。そしてついに静寂が訪れました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:181
 msgid ""
 "The sound of hammers echoed through the stale cave air, then pickaxes, then "
 "the quiet murmur of low dwarvish voices. And at long last, silence."
-msgstr ""
+msgstr "古びた洞窟の空気に、ハンマーやツルハシの音、ドワーフの低く静かなささやき声が反響しています。そしてついに静寂が訪れました。"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:195
@@ -14352,31 +14368,31 @@ msgid ""
 "Here we are. The start o’ the cave-in. Somewhere beyond here, past all "
 "manner of beasts and vermin, lie our trapped miners. Rescue them, and you’ll"
 " be rewarded."
-msgstr ""
+msgstr "着いたぞ。ここが崩落した場所だ。この先にはどんな獣や害虫がいるかわかったもんじゃない。あいつらを助けてくれ、そうすれば報酬は払う。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:199
 msgid ""
 "It’s just a solid wall of rock. How am I supposed to get through and find "
 "your comrades?"
-msgstr ""
+msgstr "これは堅固な岩壁です。どうやってこれを突破してあなた方の仲間を見つけろと？"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:203
 msgid "Dig, human. I must return to my guard duties."
-msgstr ""
+msgstr "決まっている、掘るんだ。ワシは警護の任務に戻らねばならん。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:214
 msgid "Find the missing dwarves"
-msgstr ""
+msgstr "行方不明のドワーフを見つける"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:234
 msgid ""
 "Ulfdain, the Knalgans here have been very evasive about what’s going on. Do "
 "you have any insights?"
-msgstr ""
+msgstr "Ulfdain、Knalga の人々は何が起こっているのかをどうしても話したくないようだ。何か推測できることはないだろうか？"
 
 #. [message]: speaker=Ulfdain
 #. [message]: race=dwarf
@@ -14385,14 +14401,14 @@ msgstr ""
 msgid ""
 "Aye, I think I can guess. But I cannae tell an outsider, Konrad, not even "
 "you."
-msgstr ""
+msgstr "ああ、なんとなく想像はつく。だが、外の者には話せん。Konrad、たとえお前であっても。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:244
 msgid ""
 "Friend dwarf, the Knalgans here have been very evasive about what’s going "
 "on. Do you have any insights?"
-msgstr ""
+msgstr "ドワーフの友よ、Knalga の人々は何が起こっているのかをどうしても話したくないようだ。何か推測できることはないだろうか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:324
@@ -14401,42 +14417,43 @@ msgid ""
 " slow going, but we’ll be able to dig our way through the cave-in. That must"
 " be what Geldar meant."
 msgstr ""
+"ここの壁は脆くなっていて、剣や槍でも壊せそうだ。時間はかかるだろうが、崩落場所を突破することはできそうだ。Geldar が言ったのはこういうことだろう。"
 
 #. [message]: type=Dwarvish Miner
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:343
 msgid "Mining’s a lot easier when you’ve got the proper equipment, aye?"
-msgstr ""
+msgstr "適切な装備があれば採掘はずっと楽になる。理解できたか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:393
 msgid ""
 "Look out! The cavern beyond this wall is filled with water, and it’s "
 "flooding into our caves!"
-msgstr ""
+msgstr "気をつけろ！この壁の向こうには水がたまっていた！こっちに流れ込んでくるぞ！"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:448
 msgid "<i>(cough)</i> Who’s there?"
-msgstr ""
+msgstr "ゴホッ、ゴホッ、誰かいるのか？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:452
 msgid ""
 "I am Prince Konrad of Wesnoth, and a friend of Knalga. I’ve come to rescue "
 "you!"
-msgstr ""
+msgstr "私は Wesnoth の王子、Konrad。Knalga の友で。助けにきました！"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:456
 msgid ""
 "Aye, that so? ...ye weren’t who I was expectin’. <i>(cough)</i> But I’m not "
 "about to turn down help."
-msgstr ""
+msgstr "ああ、なんだって？…なんでそんなやつが来るんだ。ゴホッゴホッ… まあいい、おとなしく助けてもらうとするか。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:464
 msgid "Yer alive! Quick, git ’im to th’ great hall."
-msgstr ""
+msgstr "まだ生きてるな！急げ、大広間に連れていけ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:471
@@ -14445,12 +14462,13 @@ msgid ""
 "but I was led to believe there was a whole posse trapped down here. What’s "
 "the meaning of this?"
 msgstr ""
+"Relgorn、たった一人のドワーフのためにこれだけのことをしたのか？命の価値はわかっているつもりだが、それなりの集団がまるごと取り残されていると完全に信じていた。それでこれは一体どういうことだ？"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:475
 msgid ""
 "Never ye mind, human. But you did right by us, so we’ll do right by you."
-msgstr ""
+msgstr "すまんが人間には教えることはできん。が、報酬についてはもちろん約束通り応えよう。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:479
@@ -14459,85 +14477,86 @@ msgid ""
 "o’ everyone to spare. But those we do have are tough, and well-practiced in "
 "the art of battle."
 msgstr ""
+"お前たちは戦士を求めているのだろうが、あまりにたくさんの者を預けることはできん。しかし、我が同胞は生来強靭である上、戦闘技術にも習熟している。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:481
 msgid ""
 "Choose two — Fighters, Guardsmen, Thunderers, or Ulfserkers — an’ we’ll send"
 " ye’ enough Knalgans to make a difference in yer quest."
-msgstr ""
+msgstr "戦士、警護兵、雷撃兵、狂戦士から２つ選ぶがいい── お前の目的に貢献できるだけの数の同胞を送りだしてやろう。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:494
 msgid ""
 "It shall be done, Konrad. May you someday reclaim your birthright — and us "
 "ours."
-msgstr ""
+msgstr "ではそうしよう、Konrad。お前がいつか生来の権利を取り戻せることを── そして我らが本来の場所を取り戻せるよう、願う。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:509
 msgid "Choose Dwarvish Fighters and Guardsmen"
-msgstr ""
+msgstr "ドワーフの戦士と警護兵を選ぶ"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:510
 msgid "Konrad can now recruit Dwarvish Fighters and Guardsmen!"
-msgstr ""
+msgstr "Konrad は「ドワーフの戦士」と「ドワーフの警護兵」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:515
 msgid "Choose Dwarvish Fighters and Thunderers"
-msgstr ""
+msgstr "ドワーフの戦士と雷撃兵を選ぶ"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:516
 msgid "Konrad can now recruit Dwarvish Fighters and Thunderers!"
-msgstr ""
+msgstr "Konrad は「ドワーフの戦士」と「ドワーフの雷撃兵」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:521
 msgid "Choose Dwarvish Fighters and Ulfserkers"
-msgstr ""
+msgstr "ドワーフの戦士と狂戦士を選ぶ"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:522
 msgid "Konrad can now recruit Dwarvish Fighters and Ulfserkers!"
-msgstr ""
+msgstr "Konrad は「ドワーフの戦士」と「ドワーフの狂戦士」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:527
 msgid "Choose Dwarvish Guardsmen and Thunderers"
-msgstr ""
+msgstr "ドワーフの警護兵と雷撃兵を選ぶ"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:528
 msgid "Konrad can now recruit Dwarvish Guardsmen and Thunderers!"
-msgstr ""
+msgstr "Konrad は「ドワーフの警護兵」と「ドワーフの雷撃兵」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:533
 msgid "Choose Dwarvish Guardsmen and Ulfserkers"
-msgstr ""
+msgstr "ドワーフの警護兵と狂戦士を選ぶ"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:534
 msgid "Konrad can now recruit Dwarvish Guardsmen and Ulfserkers!"
-msgstr ""
+msgstr "Konrad は「ドワーフの警護兵」と「ドワーフの狂戦士」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:539
 msgid "Choose Dwarvish Thunderers and Ulfserkers"
-msgstr ""
+msgstr "ドワーフの雷撃兵と狂戦士を選ぶ"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:540
 msgid "Konrad can now recruit Dwarvish Thunderers and Ulfserkers!"
-msgstr ""
+msgstr "Konrad は「ドワーフの雷撃兵」と「ドワーフの狂戦士」を雇用できるようになりました！"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:545
 msgid "Ask for more"
-msgstr ""
+msgstr "さらに求める"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:552
@@ -14546,6 +14565,8 @@ msgid ""
 " send aid to Knalga. I understand you have little to give, but right now it "
 "is in both of our best interests to work together!"
 msgstr ""
+"Asheviere を倒して王位を取り戻せば、Knalga "
+"に助力することもできます。多くの兵を送り出せないことは理解できますが、今は協力しあうことが最善なのではないでしょうか！"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:556
@@ -14553,11 +14574,12 @@ msgid ""
 "Aye, an’ I thought I’d live out a peaceful life in th’ west halls, but here "
 "we both are. We can’t spare any more, Konrad, not even for a prince."
 msgstr ""
+"俺は西の館で平和な生活ができると思っていたのに、どういうわけか今お前とこうしてここにいる。これ以上は出せない。Konrad、お前が王子であってもだ。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:562
 msgid "Refuse payment"
-msgstr ""
+msgstr "報酬を拒絶する"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:566
@@ -14566,13 +14588,15 @@ msgid ""
 " demand bread from a starving man? Keep your warriors for Knalga, and may "
 "Knalga one day prosper again."
 msgstr ""
+"ドワーフの友よ、今、Knalga では一人でも多く戦える者が必要です。飢えた男にパンを要求するわけにはいかないでしょう？戦士達は Knalga "
+"に留めておいてください。いつの日か Wesnoth と Knalga が共に繁栄できますよう。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:570
 msgid ""
 "You’re a good lad, Konrad. Thank ye, an’ I’m sorry we were so suspicious "
 "when ye first showed up."
-msgstr ""
+msgstr "Konrad、お前は中々良くできた小僧だな。感謝する。それと、お前たちが現れた時に強く疑ってことについては申し訳なかった。"
 
 #. [message]: speaker=Relgorn
 #. this is a hint to the player that there's a special event if they also
@@ -14583,20 +14607,22 @@ msgid ""
 " what remains o’ it, at least. Between the trolls in the west an’ the orcs "
 "in the Doors we’re just spread too thin. Mebbe if those were gone..."
 msgstr ""
+"王位を取り戻すことができてもできなくても、Knalga は── 少なくとも Knalga "
+"の生き残りはいつでもお前を歓迎する。西のトロルと戸口のオークのおかげで俺たちは手一杯だ。あいつらがいなくなれば……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:603
 msgid ""
 "We must hurry. We promised Relgorn we would rescue his lost kin, but every "
 "hour we wait is an hour in which some misfortune may befall them."
-msgstr ""
+msgstr "急がなければ。Relgorn に彼らの同胞を救うと約束したが、時間をかければかけるだけ彼らの危険が増してしまう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:610
 msgid ""
 "We have taken so long to search for the missing dwarves! Even should we "
 "eventually find them, we will surely find only their corpses..."
-msgstr ""
+msgstr "行方不明のドワーフの捜索に時間をかけすぎた！これだけ時間が経ってしまえば、生存者はもういないだろう…"
 
 #. [side]: type=Fire Ant Queen, id=ant_leader
 #. [side]

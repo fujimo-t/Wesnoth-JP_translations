@@ -1713,7 +1713,7 @@ msgstr "オークの最前線は崩壊したも同然だ！進め、騎士たち
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:11
 msgid "The Ambassador"
-msgstr ""
+msgstr "使節"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:43
@@ -1835,17 +1835,17 @@ msgstr ""
 msgid ""
 "Where are those woses hiding? If I’m worried about my valuable veterans "
 "getting ambushed, I could use new recruits as expendable pickets."
-msgstr ""
+msgstr "ウーズはどこに隠れてるんだ？経験豊富な兵を奇襲の危機に晒すより、前哨には新兵を差し向けるほうがいいかもしれないな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:295
 msgid "This hollow tree is full of bats!"
-msgstr ""
+msgstr "この木のうろはコウモリだらけだな！"
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:332
 msgid "Ooohhhhoooom... Burarum..."
-msgstr ""
+msgstr "ウゥゥホォオォォォム・・・バルラム・・・"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:348
@@ -1854,20 +1854,21 @@ msgid ""
 "Speak, strangers, for the wrath of Wesnoth and the Lintanir elves is upon "
 "you!"
 msgstr ""
+"止まれ！！お前達は何者だ？何故に灰色森の木々に仇なすのか？答えよ、よそ者ども！Wesnoth と Lintanir のエルフの怒りが下されるぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:352
 msgid ""
 "Peace! Peace! You must be the man King Garard sent me to meet: Ambassador "
 "Deoran."
-msgstr ""
+msgstr "待った！落ち着いてくれ！あんたは Garard王が私のもとに寄越した、使節の Deoran だろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:360
 msgid ""
 "Please, can you speak with these woses and tell them we’re not their "
 "enemies? This whole battle has been a terrible misunderstanding."
-msgstr ""
+msgstr "お願いだ、ウーズたちと話して、俺たちが敵ではないってことを伝えてくれないか？この戦闘自体、完全な誤解から始まったんだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:364
@@ -1875,6 +1876,7 @@ msgid ""
 "You’re a courier from Wesnoth? My apologies for the harsh words; long has it"
 " been since Weldyn sent to this lonely post."
 msgstr ""
+"お前は Wesnoth からの特使だったのか？先程の非礼は容赦願いたい。Weldyn よりこの辺境の前哨基地に派遣されてから、久しいものでな。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:368
@@ -1883,6 +1885,7 @@ msgid ""
 "and precious wose-grove. If you really are who you claim to be, explain "
 "yourself to me at once."
 msgstr ""
+"だが、通り一遍の謝罪などでは、この稀少で掛け替えのないウーズ達に対する咎を赦すことはできぬ。お前が真にその主張通りの者であるなら、直ちに納得のいく釈明をせよ。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:386
@@ -1890,11 +1893,12 @@ msgid ""
 "Burarum! A-rumgur-gurmum-un-rumba-ala-burarum! Burarum-ala-bortum-untum! "
 "A-rumgur-gurmum-un-rumba-ala-boruroom!"
 msgstr ""
+"ブラルム！ア・ルムグル・グルムム・ウン・ルムバ・アラ・ブラルム！ブラルム・アラ・ボォトゥム・！ア・ルムグル・グルムム・ウン・ルムバ・アラ・ボルルゥム！"
 
 #. [message]: role=young_wose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:396
 msgid "Boom-toom-hun-rum-tum-ala-lola-ala! Burarum! Boruroom!"
-msgstr ""
+msgstr "ブゥム・トゥウム・フン・ルム・トゥム・アラ・ロラ・アラ！ブラルム！ボルルゥム！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:400
@@ -1903,16 +1907,17 @@ msgid ""
 "I could fight my way through, the elves would never trust me after such a "
 "show of force..."
 msgstr ""
+"思ったより数が多いな！しかも、めちゃくちゃ怒っている！仮に強行突破できたとしても、そんな実力行使をした後じゃ、エルフの信頼は絶対に得られないだろうな・・・"
 
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:9
 msgid "The Sylvan Seer"
-msgstr ""
+msgstr "森の賢者"
 
 #. [time]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:13
 msgid "Dusk"
-msgstr ""
+msgstr "夕暮れ"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:20
@@ -1923,13 +1928,16 @@ msgid ""
 " aided greatly by the woses’s natural regenerative abilities, Deoran showed "
 "Delfador how to nurse the crippled tree-folk back to health."
 msgstr ""
+"取り急ぎ釈明をした後、Deoran の執り成しを得て、Delfador "
+"はウーズたちとそのリーダーに深謝した。破壊された樹木の大部分は、幸いにも命を絶たれてはおらず、傷を負っていただけであった。その後の数日間に渡り、ウーズの再生能力に大いに助けられながら、Deoran"
+" は Delfador に、木の種族を癒すための技術を伝授した。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:22
 msgid ""
 "At last, relations mended, the two of them set out to deliver King Garard’s "
 "message to the elves..."
-msgstr ""
+msgstr "やがて両者の関係が修復され、二人は Garard王の親書を届けるために出発したのだった・・・"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:48
@@ -1940,12 +1948,12 @@ msgstr "Lintanir"
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:79
 msgid "Eloreis"
-msgstr ""
+msgstr "Eloreis"
 
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:91
 msgid "Parandra"
-msgstr ""
+msgstr "Parandra"
 
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:101
@@ -1963,7 +1971,7 @@ msgstr "Chantal"
 #. Delfador is trying to speak, but gets interrupted by an elvish marshal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:176
 msgid "Okay, yes, but—"
-msgstr ""
+msgstr "えぇ、分かります、ですが・・・"
 
 #. [message]: speaker=Eloreis
 #. Delfador has brought a message from King Garard to the elves, asking them
@@ -1974,6 +1982,8 @@ msgid ""
 "our rangers have neither the training nor the elfpower to fight an offensive"
 " war on open ground! What your king asks of us is impossible."
 msgstr ""
+"Weldyn "
+"のオークに対する姿勢は理解するが、Garard王とて事実を変えることは出来ぬ。エルフのレンジャーは野戦の戦闘訓練が乏しく、そもそも人員が足りていないのだ！汝等の王が我等に求めていることは不可能だ。"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:185
@@ -1984,6 +1994,8 @@ msgid ""
 " desire have we for more territory when Lintanir’s broad eaves could support"
 " ten times our numbers?"
 msgstr ""
+"さらに言わせていただけば、我等がそれを望む理由がありますか？オークは森には立ち入らず、エルフは丘陵には近付かない。これは世紀を超えて守られてきた不文律です。あなた達の王は、雪に覆われた山々と荒涼とした砂漠を対価として約束しておりますが、Lintanir"
+" の広大な森が、今の十倍の民さえも養えるというのに、左様な領土の割譲を望む必要がどこにありましょう？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:189
@@ -1993,6 +2005,9 @@ msgid ""
 "must know the orcs threaten all peoples of Wesnoth, or why else would he "
 "wage this war?"
 msgstr ""
+"誇り高きエルフの貴族と貴婦人よ、自らの領域と民を護るという貴公らの責務は理解しております。ですが、それこそが、いままさに Weldyn "
+"がなそうとしていることではありませぬか？オークが Wesnoth "
+"のあらゆる民を脅かしているという兆候を察すればこそ、Garard王はこの戦いを遂行しているはず。でなくては、何故に王がかような戦を起こしましょうや？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:194
@@ -2001,11 +2016,14 @@ msgid ""
 "\n"
 "But know that I shall answer my King’s summons; I shall march to war. In honor of the friendship we have built over my many years here, I would hope Lintanir will as well."
 msgstr ""
+"もちろん、貴公らが我が王の要請を軽んじて Lintanir に籠もり、Wesnoth がその力を費やして多大な代償を伴う勝利を得るか、あるいは流血の末の敗北を迎えるその日に至るまで、平穏に過ごし、笑い、静かに時を過ごされるのも、また自由でしょう。\n"
+"\n"
+"しかし、どうかお知りいただきたい。私は王の召集に応じ、従軍いたします。この地で我らが共に育んできた友情に免じ、Lintanir も共に応じてくださることを願います。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:209
 msgid "Truly, a moving speech..."
-msgstr ""
+msgstr "実に心打つ口上だが・・・"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:213
@@ -2014,6 +2032,8 @@ msgid ""
 "long-before seen the horrors of a war between elves and orcs, and have no "
 "desire to plunge my people back into such a nightmare."
 msgstr ""
+"Deoran 、すまぬが、Eloreis "
+"の申す通りだ。これは我等の戦いではない。遠い昔のことではあるが、私はエルフとオークの凄惨な戦いを目の当たりにしており、我が民を左様な悪夢へと突き落とすわけにはいかぬのだ。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:217
