@@ -2042,6 +2042,9 @@ msgid ""
 "\n"
 "But for territorial gain? I value your friendship and would honor the time you have spent here, but if Wesnoth goes to war we cannot march alongside you."
 msgstr ""
+"万一オークの大群がかつてのように大陸全土を再び脅かすようなことがあれば、私が自ら尖兵となって我が剣を同盟に捧げよう。\n"
+"\n"
+"だが、領土の拡張などをこの私が願うとでも？貴殿との友情は重く、この地で貴殿が過ごされた時間には敬意を表するが、Wesnoth から戦を仕掛けるというのであれば、我等が参戦することは叶わぬ。"
 
 #. [message]: speaker=Chantal
 #. 'Great-Grandfather' means Kalenz. Chantal is Kalenz's granddaughter
@@ -2052,6 +2055,8 @@ msgid ""
 "naught to offer but kind words? Force-of-arms is not the only strength of "
 "the elves."
 msgstr ""
+"ひいおじいさま、どうかそのようなことを仰らないでください！Deoran とそのお味方たちが戰場で命を懸けているというのに、この広大な Lintanir "
+"じゅうを捜しても、慰めの言葉以外に差し出せるものがないと仰るのですか？エルフの持つ強みは武の力のみではないはずです。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:228
@@ -2061,6 +2066,9 @@ msgid ""
 "life; sometimes to battle, sometimes to age. I would postpone that fate for "
 "Deoran if I can, for both your sakes."
 msgstr ""
+"Chantal "
+"よ、お前は時に我が娘、お前の祖母を思い出させるな・・・お前の言う通りかも知れぬ。私はこの長すぎる生涯の中で、あまりにも多くの友が倒れるのを目にしてきた。ある者は戦で、またある者は老いによって。叶うことなら、Deoran"
+" がいずれ迎えるはずのその運命を、いくらかでも先延ばしにしてやりたいものだ。お前のその思いに応えるためにもな。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:232
@@ -2068,6 +2076,8 @@ msgid ""
 "Deoran, Delfador, what I now speak to you concerns one of our great secrets;"
 " you are not to speak of this to anyone, even to your king."
 msgstr ""
+"Deoran 、そして Delfador "
+"よ、今から貴殿らに話すことは、我等の大いなる秘密に関わることだ。誰にも、貴殿らの王に対してさえも、他言無用に願いたい。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:237

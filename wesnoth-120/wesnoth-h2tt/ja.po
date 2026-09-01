@@ -14630,7 +14630,7 @@ msgstr "行方不明のドワーフの捜索に時間をかけすぎた！これ
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:68
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:66
 msgid "Monsters"
-msgstr ""
+msgstr "モンスター"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:235
@@ -14639,6 +14639,7 @@ msgid ""
 " parts of the hewn caverns. Except for disturbances caused by the occasional"
 " rodent, the air in the lower passages was still and tomblike."
 msgstr ""
+"最後にドワーフの廃墟を通過してから随分経ちましたが、一行はなおもデコボコした洞窟の最奥へと降っていきました。時折ネズミに驚かされることを除けば、狭い通路の空気はとても静かで、まるで墓場のようでした。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:241
@@ -14648,6 +14649,8 @@ msgid ""
 "flickered and went out. Even the staff of the elder mage struggled to "
 "produce enough light to see by."
 msgstr ""
+"天井の低い通路を通り、迷路のような地下墓地を抜けた Konrad と Delfador "
+"を待っていたのは氷のように冷たい暗闇でした。暗闇には全てを塗りつぶしてしまうような圧迫感がありました。光は徐々に衰え、ついには消えてしまいました。熟練の魔術師の杖をもってしても、周囲を照らす光を生み出すのに苦労するほどでした。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:247
@@ -14656,13 +14659,14 @@ msgid ""
 "visible. Wind howled and whipped over narrow ledges bridging the depths, "
 "almost as if animated by powerful nearby magic... and approaching evil."
 msgstr ""
+"そして今、前方には底が見えない大穴があり、その向こう側には天井も壁も見えませんでした。大穴に架かった橋のような狭い岩棚には、風がヒューヒューとうなりをあげて打ち付けていました。それはまるで何かにかきたてられているかのようでした。近くにある強力な魔法の力のせいでしょうか？それともどこからか迫り来る邪悪な存在のせいでしょうか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:271
 msgid ""
 "We’ve been traveling for days upon days. Surely the Sceptre is getting "
 "close!"
-msgstr ""
+msgstr "もう何日も洞窟を進みました。笏にもどんどん近づいているはずです！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:275
@@ -14671,6 +14675,7 @@ msgid ""
 "near! The Sceptre was forged here, not far where we now stand. The sheer "
 "power of it!"
 msgstr ""
+"ああ、近くに在るのを感じる。笏は解放を求めている… 近いぞ、すぐ近くだ！笏は我らが今立っている場所のすぐ近くで創られたのだ。なんという圧倒的な力！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:278
@@ -14678,7 +14683,7 @@ msgstr ""
 msgid ""
 "It is the fault of my people — Landar’s rebels — that the Sceptre was lost. "
 "It is only fair that I help get it back. Which way should we go, Delfador?"
-msgstr ""
+msgstr "同胞の過ち── Landar の反乱、その最中に笏は失われた。だから私がここでせめて埋め合わせを。Delfador、どちらに向かえば？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:280
@@ -14686,7 +14691,7 @@ msgid ""
 "Growin’ up they used to tell me fairytales about the Sceptre... Never "
 "thought I might actually be seein’ it in person. Which way do we go, "
 "Delfador?"
-msgstr ""
+msgstr "小さい頃、「笏」のおとぎ話は良く聞いたけど… まさかアタシが実際に目にすることになるなんて。Delfador、どっちへ行く？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:281
@@ -14694,7 +14699,7 @@ msgid ""
 "Yea, the hallowed fire shall bring Light to the places of darkness! So "
 "proclaim the texts, and so shall it be. Whither shall we go to find the "
 "Sceptre, scholar?"
-msgstr ""
+msgstr "聖なる炎が暗闇に光をもたらすのだ！聖典はそう告げている。ならばそれはきっと果たされる。学者先生よ、どちらに向かえば良いか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:282
@@ -14702,7 +14707,7 @@ msgid ""
 "’twere my people who made it fer ye humans, and ’twere my people who lost "
 "it, long ago. Now ’tis only right that I help ye get it back. Where be the "
 "Sceptre, scholar?"
-msgstr ""
+msgstr "遠い昔、人間のために我らが同胞が創り、彼らが失くした物だ。ここは俺が働くのが道理というものだろう。学者先生よ、笏はどこにある？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:283
@@ -14710,6 +14715,7 @@ msgid ""
 "I’ve read so much about the lost Sceptre of Fire! I never though I would, "
 "well, actually help <i>find</i> it. Where do we go, Delfador?"
 msgstr ""
+"失われた「炎の笏」のことは本でたくさん読みました！まさか笏の発見に関われるなんて思っていませんでした。Delfador、どちらに向かえばいいでしょうか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:284
@@ -14718,6 +14724,8 @@ msgid ""
 " Konrad, and right the many wrongs of Asheviere. Whither shall we go, "
 "Delfador?"
 msgstr ""
+"ついに Garard 陛下のご命令を成し遂げることができます。Konrad 殿下、なんとしても笏を手にいれてください。そして Asheviere "
+"の成した多くの間違いを正すのです。Delfador、どちらへ向かえば？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:285
@@ -14726,44 +14734,46 @@ msgid ""
 "I feel the power! It’s overwhelming! I never— well, Delfador, thank you for "
 "trusting me to be here with you. Where shall we start the search?"
 msgstr ""
+"力を感じる！なんて圧倒的な力！こんな力は── "
+"っと、いけない。Delfador、私を信頼し、この場に立ち会わせてくれて感謝します。それで、どこから始めればいいでしょう？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:287
 msgid ""
 "Dis cave good place for troll, but no good place for softskins. Better find "
 "your scep-tar an’ get back to sun-lit places. Which way should we start?"
-msgstr ""
+msgstr "トロルここ好き。でも柔皮ここ嫌い。「しゃく」見つけて地上帰る良い。どこ探す？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:288
 msgid "Very well — then where? How do we find it?"
-msgstr ""
+msgstr "それは良かった── それでどこでしょう？どうすれば見つけられますか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:292
 msgid ""
 "North and east. More than that, I cannot tell. Whatever beasts, monsters, "
 "and other denizens of the dark lurk ahead, I know that we shall prevail."
-msgstr ""
+msgstr "北と東。それ以上のことはわからん。この先どんな獣、怪物、闇の住人が待ち受けていようと、我らは必ず勝利しなければならん。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:300
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "敵リーダーを倒す"
 
 #. [objective]: condition=win
 #. this is deliberately vague, and foreshadows Li'sar's appearance in part two
 #. of this scenario
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:305
 msgid "Then, fight to claim the Sceptre"
-msgstr ""
+msgstr "そして、笏を勝ち取る"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:315
 msgid ""
 "The longer you take to defeat the enemy leader, the more time your other "
 "enemies will have to accrue gold."
-msgstr ""
+msgstr "敵リーダーを倒すのに時間がかかると、他の敵がゴールドを貯める時間が長くなってしまいます。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:327
