@@ -1912,7 +1912,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:9
 msgid "The Sylvan Seer"
-msgstr "森の賢者"
+msgstr "森の予言者"
 
 #. [time]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:13
@@ -2087,6 +2087,8 @@ msgid ""
 "Perhaps her visions may illuminate some measure of your futures, and in "
 "doing so help you blaze brighter ones."
 msgstr ""
+"Lintanir の奥深くに、我等がシルフ——エルフの予言者が住まわっている。Elende "
+"が視る不可思議な未来の欠片、即ち、彼女が紡ぐ予言の糸を、我等は敬い、そして恐れてもいる。或いは、彼女の幻視が貴殿らの前途に一筋の光明を差し、輝かしい未来を切り開くための一助となるやも知れぬ。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:241
@@ -2094,23 +2096,25 @@ msgid ""
 "Kalenz, are you sure this is wise? Seers are known to be... esoteric... and "
 "Elende has been particularly cloistered these last few decades."
 msgstr ""
+"Kalenz 、あなたはそれが賢明な考えだと確信を持って言えますか？予言者とは・・・容易には理解の及ばぬもの・・・しかも Elende "
+"は、数十年ほど前から隠遁を続けているのですよ。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:245
 msgid ""
 "I shall accompany them. I wish to spend some time with with these humans "
 "before they depart."
-msgstr ""
+msgstr "私が彼らに同行いたします。人間族の友人たちがこの地を離れるまでの僅かな時間を共に過ごしたいのです。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:249
 msgid "And so do and so shall I. Come, follow me."
-msgstr ""
+msgstr "私とてその思いは同じだ。よろしい、私の後に続くが良い。"
 
 #. [time]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:268
 msgid "Midnight"
-msgstr ""
+msgstr "真夜中"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:278

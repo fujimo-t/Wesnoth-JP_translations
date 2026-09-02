@@ -14783,6 +14783,9 @@ msgid ""
 " of Wesnoth. With the Sceptre in my hand even Asheviere would struggle to "
 "deny my claim to the throne."
 msgstr ""
+"Delfador、炎の笏の重要性はあなたに教わりました。そして私はあなたのことを信じています！強力な魔力を秘めた聖遺物で、Wesnoth "
+"の王の象徴と言い伝えられる品ですね。笏を手にすれば、いかに Asheviere "
+"と言えども、王位継承者としての私の正当性を簡単には否定できなくなるでしょう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:331
@@ -14792,13 +14795,14 @@ msgid ""
 "missed out helping because we had to come here instead. I hope it’ll be "
 "worth it in the end."
 msgstr ""
+"しかし、我々が山々の深みへと潜り続ける間、故郷で多くの人々が苦しんでいるかと思うと胸が痛みます。ここへ来るため、エルフ、人間、ドワーフ、多くの人々を助ける機会を放棄せざるを得ませんでした。最終的にその甲斐があったと思える結果が得られれば良いのですが。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:342
 msgid ""
 "Delfador... other than the prophecy about the Sceptre, you haven’t been "
 "keeping any other secrets from me “for my own good”, have you?"
-msgstr ""
+msgstr "Delfador… 笏の予言の他には、「私のために」という名目で隠していることはありませんよね？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:346
@@ -14807,59 +14811,60 @@ msgid ""
 " to come to light. Here and now, we must focus on finding the Sceptre if you"
 " are ever to become king."
 msgstr ""
+"一つある。しかし、これはできれば墓場まで持っていきたい秘密だ。知らずに済むのであればその方が良い。さて、いつか王となるのであれば、今は笏の捜索に集中しなければならないぞ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:383
 msgid ""
 "What a strange rock formation. Could this be the resting place of the "
 "Sceptre?"
-msgstr ""
+msgstr "不自然な形の岩だ。もしかして、ここに笏が眠っているのでは？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:387
 msgid ""
 "There is some power about it, to be sure. But we must clear out the leader "
 "of the local fauna before we can investigate further."
-msgstr ""
+msgstr "確かに、ここから何らかの力を感じる。しかし、詳細な調査の前にまずはここに住み着いた動物たちのリーダーを排除しなければ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:402
 msgid ""
 "We’ve been wandering for so long, and we still haven’t cleared our way to "
 "the Sceptre."
-msgstr ""
+msgstr "もう長くさまよっているが、笏への道筋はまだ見えていない。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:406
 msgid ""
 "Even if it really is somewhere here, I fear it is beyond our power to "
 "obtain..."
-msgstr ""
+msgstr "笏がここにあるとして、本当に我々の力で手に入れることはできるのだろうか…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:430
 msgid ""
 "That wasn’t so bad! The vermin are defeated, and the way is clear to explore"
 " further."
-msgstr ""
+msgstr "よし、やったぞ！お邪魔虫がいなくなれば、詳細な調査もできるな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:434
 msgid ""
 "I sense great power emanating from the chasm nearby. Everyone, gather round."
-msgstr ""
+msgstr "近くの裂け目から巨大な力は放出されているのを感じる。皆、こちらに集まってくれ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:536
 msgid "55 gold"
-msgstr ""
+msgstr "55 ゴールド"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:536
 msgid ""
 "Li’sar’s soldiers have stockpiled some gold here! We’ll put it to better "
 "use."
-msgstr ""
+msgstr "Li’sar の兵士がここにゴールドを貯めていたぞ！有効に活用してやるとしよう。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:575
@@ -14869,6 +14874,7 @@ msgid ""
 " provided a small reprieve from the thick blackness. Volcanic fumes drifted "
 "up from cracks in the floor."
 msgstr ""
+"裂け目の近くでは、魔法の力で空気がパチパチ音を立てているかのようでした。また、あたりは着実に暖かくなっていました。床はなめらかで、ガラスのようになっているところもありました。そして、深い暗闇にはかすかな輝きが差し込んでいました。火山ガスがヒビの入った床から立ち上っていたのです。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:579
@@ -14877,13 +14883,14 @@ msgid ""
 "The very earth had come alive, heaving, struggling to be relieved of its "
 "centuries-old burden..."
 msgstr ""
+"遠くで響く崩落と地震のため、まっすぐ立っていられません。大地そのものが命を得て、何世紀にも渡って積もった重荷を振り払わんとうねっているかのようでした……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:592
 msgid ""
 "We are here. The Sceptre... the earth... the fire... the air around us... "
 "everything! It calls out to be freed — I can barely hold it back in my mind."
-msgstr ""
+msgstr "ここだ。笏… 大地… 炎… 周囲の空気… 全てだ！解放しろと叫んでいる── 心の中で抑えきれないほどに。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:595
@@ -14893,54 +14900,54 @@ msgstr ""
 msgid ""
 "I sense it too... there is a strangeness in the air. A fire in the soul of "
 "this place. But where? The cave is empty!"
-msgstr ""
+msgstr "私にも感じる… 奇妙な雰囲気だ。この地の魂に炎が灯る。しかしどこに？洞窟は空だ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:599
 msgid ""
 "Aye, tha’s nice... except there’s nothin’ here, ye cloud-headed flapdragon! "
 "It’s an empty cave!"
-msgstr ""
+msgstr "ああ、そりゃいい… そこに何もないことを除けば。おい、何をわけのわからないことを言っている！洞窟は空だぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:600
 msgid ""
 "But where is it, o’ great Delfador? The cave here is empty. Do we stand in "
 "the wrong place?"
-msgstr ""
+msgstr "しかし偉大なる Delfador、笏はどこに？洞窟は空です。ここではないのですか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:601
 msgid ""
 "Err... is this one o’ those confusing wizard things? Where’s the Sceptre? "
 "Th’ cave looks pretty empty to me."
-msgstr ""
+msgstr "あー… これは良く分からない魔術師のなんかなのかい？笏はどこに？アタシには洞窟は空に見えるけど。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:602
 msgid ""
 "Yea, truly there is a strangeness in the air here... not of the Light, but "
 "of something else entirely. But where is the source? The cave stands empty."
-msgstr ""
+msgstr "ふむ… 奇妙な気配を感じる… これは光ではない。まったく別の何かだ。それでその源はどこだ？洞窟には何もないぞ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:603
 msgid ""
 "Err... it— it does? I don’t see anything... Oh! Is this a metaphor? The real"
 " treasure is the friends we made along the way?"
-msgstr ""
+msgstr "あら… あらあら？何もありませんね… ああ！これは何かを隠喩しているのでは？本当の宝はここまで一緒に来た友人達だったとか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:604
 msgid ""
 "Dey say trolls are slow, but even Dosh can see dere’s nothing here. Flat and"
 " empty. Nothing for us to take, is dere?"
-msgstr ""
+msgstr "トロル機敏違う。でもDosh何もないわかる。平ら、空。何もない。違うか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:605
 msgid "But where is it? I don’t see a thing!"
-msgstr ""
+msgstr "しかし笏はどこに？私には見えません！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:609
@@ -14948,19 +14955,19 @@ msgid ""
 "On the contrary! My research leads me to believe that we stand in the center"
 " of a dormant volcano, which erupted centuries ago and buried the Sceptre in"
 " rock. It is indeed here, under the cave floor."
-msgstr ""
+msgstr "むしろその逆だ！何世紀も前に噴火し、笏を岩に封じた休火山の中心、我々はまさにその場に立っている。つまり笏はここ、この洞窟の床の下にある。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:635
 msgid "It shall take time, but my magic can dig the Sceptre out."
-msgstr ""
+msgstr "時間はかかるが、私の魔術で笏を掘り出して見せよう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:672
 msgid ""
 "A sound like that can mean only one thing: Konrad and his handler have "
 "reached the Sceptre of Fire."
-msgstr ""
+msgstr "こんな音がするなら間違いないな。Konrad とその調教師が炎の笏の元に着いたのだろう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:676
@@ -14969,13 +14976,14 @@ msgid ""
 "risk her last child this far from Wesnoth, deep under the northern "
 "mountains."
 msgstr ""
+"王女 Li’sar！邪魔をしにきたのか！最後の子供を北部の山々の地下深く、こんな危険なところまで向かわせるのか、Asheviere の強欲は。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:698
 msgid ""
 "Loyalists, this is it. Within these caves lurks my usurping cousin; the "
 "false prince; the puppet of Delfador."
-msgstr ""
+msgstr "忠誠者達よ、時が来たぞ。王位簒奪をたくらむ従弟がこの洞窟にいる。偽りの王子にして Delfador の操り人形がだ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:718
