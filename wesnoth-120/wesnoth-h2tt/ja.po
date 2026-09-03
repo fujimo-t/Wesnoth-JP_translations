@@ -14988,84 +14988,84 @@ msgstr "忠誠者達よ、時が来たぞ。王位簒奪をたくらむ従弟が
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:718
 msgid "your comrades dead at Elensefar"
-msgstr ""
+msgstr "Elensefar で仲間達を死なせ"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:719
 msgid "Elensefar ruled by thieves"
-msgstr ""
+msgstr "Elensefar を盗賊に支配させ"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:720
 msgid "supplies pillaged at Fort Tahn"
-msgstr ""
+msgstr "Tahn 砦で物資を略奪し"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:721
 msgid "convoys burning outside Dan’Tonk"
-msgstr ""
+msgstr "Dan’Tonk 郊外で輸送隊を燃やし"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:722
 msgid "zombified townsfolk at the peninsula"
-msgstr ""
+msgstr "半島で町の人々をゾンビにさせ"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:723
 msgid "dead slaves at the Dwarven Doors"
-msgstr ""
+msgstr "ドワーフの戸口で奴隷達を死なせ"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:724
 msgid "libraries burning at Alduin"
-msgstr ""
+msgstr "Alduin 島で図書館を燃やし"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:725
 msgid "rebels at Blackwater Port"
-msgstr ""
+msgstr "黒水港で反乱を起こし"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:726
 msgid "riots at the Bay of Pearls"
-msgstr ""
+msgstr "真珠の入り江で騒動を起こし"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:727
 msgid "undead amok in the hills"
-msgstr ""
+msgstr "丘でアンデッドを暴れさせ"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:728
 msgid "elvish criminals escaping into the south"
-msgstr ""
+msgstr "エルフの犯罪者を南に逃がし"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:729
 msgid "trouble with the orcs at Glamdrol"
-msgstr ""
+msgstr "Glamdrol のオークに迷惑をかけ"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:730
 msgid "corpses clogging up the Ford"
-msgstr ""
+msgstr "浅瀬を死体で埋め"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:731
 msgid "blood-stained slopes on Gryphon Mountain"
-msgstr ""
+msgstr "グリフォンの山の山肌に血をまき散らし"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:733
 msgid ": $lisar_speech."
-msgstr ""
+msgstr "、$lisar_speech|た"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:734
 msgid ""
 ". You have heard the lies he tells, misleading those who would otherwise "
 "oppose him"
-msgstr ""
+msgstr "。あの偽者が語る嘘を聞いたことがあるでしょう。その嘘が本来なら彼の味方でない人々を惑わせている"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #. several of the strings above are joined to create $lisar_speech.
@@ -15080,47 +15080,48 @@ msgid ""
 "You know the blood and chaos that follow in his wake$lisar_speech|... Today,"
 " we put a stop to it. Is everyone in position?"
 msgstr ""
+"あの偽者が行く先々で流血と混沌をもたらしていることは知っているでしょう$lisar_speech|…… 今日、私たちがそれを止めるのよ。準備は良い？"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:761
 msgid "Northern company ready and reporting, ma’am."
-msgstr ""
+msgstr "北部部隊、準備は完了しております、殿下。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:765
 msgid "Yrridyn"
-msgstr ""
+msgstr "Yrridyn"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:777
 msgid ""
 "We’ve burned the trolls out of the eastern tunnels. Our way forward is "
 "clear."
-msgstr ""
+msgstr "東の坑道のトロルは焼き払いました。我々の進路は開けています。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:781
 msgid "Arynnoc"
-msgstr ""
+msgstr "Arynnoc"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:782
 msgid "Gwytharyn"
-msgstr ""
+msgstr "Gwytharyn"
 
 #. [message]: speaker=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:794
 msgid ""
 "My bowmen and I are ready and waiting at the far passage. They won’t get "
 "through us, Your Highness."
-msgstr ""
+msgstr "私と弓兵達は奥の通路で待機しています。ここは誰にも通させません、殿下。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:802
 msgid ""
 "Good. And Mirya — scout around for any other exits we’ve missed. We must not"
 " allow Konrad to escape with the Sceptre of Fire."
-msgstr ""
+msgstr "よし。ああ、Mirya── 見落とした抜け道がないか調べてくれないかしら。Konrad に炎の笏を持って脱出させるわけにはいかないわ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:838
@@ -15129,6 +15130,8 @@ msgid ""
 "strong, friends. We must guard Delfador while he unearths the Sceptre, or "
 "perhaps even attack and defeat Li’sar herself!"
 msgstr ""
+"Li’sar は我々が逃げると思っているのか？そう簡単に逃げたりはしない。笏を掘り出すまで Delfador を守らなければ。あるいは、Li’sar "
+"本人を攻撃し、打ち倒してしまってもいいかもしれない！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:842
@@ -15138,46 +15141,48 @@ msgid ""
 "afraid to swallow your pride and flee. I feel fresh air coming from the "
 "north."
 msgstr ""
+"笏は貴重なものだが、Konrad、お前の命はもっと大事なのだぞ。もし、今の我らの力で Wesnoth "
+"軍と正対することが難しいのであれば、誇りなど投げ捨てて逃げるのだ。北から新鮮な空気が来ているようだぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:846
 msgid "Of course, fleeing would surely mean leaving the Sceptre behind..."
-msgstr ""
+msgstr "当然ながら、逃げるのであれば笏は諦めることにはなる……"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:854
 msgid "Cowardly Victory:"
-msgstr ""
+msgstr "臆病な勝利："
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:855
 msgid "Move Konrad to any edge of the map"
-msgstr ""
+msgstr "Konrad をマップの端まで移動させる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:859
 msgid "Normal Victory:"
-msgstr ""
+msgstr "通常の勝利："
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:860
 msgid "(gain the Sceptre of Fire)"
-msgstr ""
+msgstr "（炎の笏を獲得）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:860
 msgid "Protect Delfador until he unearths the sceptre"
-msgstr ""
+msgstr "笏を掘り出すまで Delfador を守る"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:865
 msgid "Heroic Victory:"
-msgstr ""
+msgstr "英雄的勝利："
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:866
 msgid "(gain the Sceptre of Fire, and special armor for Konrad)"
-msgstr ""
+msgstr "（炎の笏と Konrad の特別な鎧を獲得）"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:890
@@ -15187,13 +15192,15 @@ msgid ""
 "<b><i>try</i></b> to save Wesnoth from the ruin it has fallen to at the "
 "hands of your mother?"
 msgstr ""
+"Li’sar、私が生来の権利をもって笏を取りにきたことはわかっているだろう。こんなところまで追ってくるほど我々が憎いのか？それよりも、自身の母の手で破滅へ向かう"
+" Wesnoth を救うべく努力すべきだとは思わないのか？"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:895
 msgid ""
 "I <i>am</i> trying to save it — from you. Do you have any idea how much "
 "chaos you and your little gang of ruffians have caused?"
-msgstr ""
+msgstr "私は救おうとしている── あなたから。あなたとお仲間の悪党共のおかげでどれほどの混沌がもたらされたのか認識できているの？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:899
@@ -15202,6 +15209,8 @@ msgid ""
 "every part of her reign. All she knows is blood! And all she cares about is "
 "power."
 msgstr ""
+"Asheviere は力で Wesnoth を支配した。そして女王の世界は暴力で満たされている。Asheviere は一体どれだけの血を流させた！そして"
+" Asheviere は自分の権力にしか関心が無い。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:903
@@ -15211,6 +15220,8 @@ msgid ""
 "sometimes that means unsavory decisions, like the kind the queen has to make"
 " every day."
 msgstr ""
+"あなたはただのお子様に過ぎないのよ。Aethen "
+"の森では親愛と花束だけで回っていたのかもしれないけど、実際の世界では人々が傷つかねばならないこともあるの。ええ、そう。時には気が進まない決断をせざるを得ないこともあるわ。女王ともなれば、毎日のようにそのようなことがあるでしょうね。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:907
@@ -15220,114 +15231,117 @@ msgid ""
 "the tyranny of Asheviere. Whether we defeat you now or never, Wesnoth will "
 "never stop fighting for what is right!"
 msgstr ""
+"もしかしたらあなたは本当に最善を尽くそうとしているのかもしれない。しかし、私と今共にある人々は、Asheviere "
+"の暴政に立ち向かうため、自分達の意志で Wesnoth の端々から集まったのだ。今日我々があなたを倒すことができようとできまいと、正義がもたらされるまで"
+" Wesnoth の戦いは終わらない！それだけは忘れるな。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:912
 msgid ""
 "... not bad, as hero speeches go. We’ll see how the palace dungeons change "
 "your tune."
-msgstr ""
+msgstr "……悪くない演説だったわ。王宮の地下牢でもそんな口を叩けるかしらね。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:930
 msgid ""
 "I am making progress, Konrad! We are perhaps half of the way to the Sceptre."
-msgstr ""
+msgstr "Konrad、着実に進んでいるぞ！笏まであと半分といったところか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:937
 msgid "Almost done, Konrad. We shall soon hold the Sceptre in our hands!"
-msgstr ""
+msgstr "もうすぐだぞ、Konrad。もうすぐ笏を手にすることができるぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:944
 msgid ""
 "I see red and gold poking though the earth! We shall have the Sceptre in but"
 " another moment!"
-msgstr ""
+msgstr "岩の隙間から赤と黄金が見えたぞ！笏まであと少しだ！"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:956
 msgid "Argh! He’s more powerful than we thought. I have to get away!"
-msgstr ""
+msgstr "あぐっ！思ったよりもずっと手強い。ここは退かねば！"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:966
 msgid "Decades of study and practice, only to die in a cave..."
-msgstr ""
+msgstr "長年研鑽を積み重ねたのは、こんな洞窟で死ぬためだったのか…"
 
 #. [message]: speaker=leader7b
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:982
 msgid "Ack! I’m sorry, Your Highness, I couldn’t stop them..."
-msgstr ""
+msgstr "うわっ！申し訳ありません、殿下。私には止められませんでした…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1001
 msgid "For the Aethenwood! For Wesnoth! For all the world!"
-msgstr ""
+msgstr "Aethen の森のために！Wesnoth のために！世界全てのために！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1003
 msgid "The wrath of the elves falls upon you, girl!"
-msgstr ""
+msgstr "エルフの怒りを思い知るが良い、小娘！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1004
 msgid "Your mother has much to answer for. We shall start with you."
-msgstr ""
+msgstr "あなたの母親には色々と責任を取ってもらう必要があるの。それじゃあ、まずはあなたから始めましょう。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1005
 msgid ""
 "Ah’ll teach you and yer men to cage me up, ye obscene trunk of tallow-keech!"
-msgstr ""
+msgstr "俺を閉じ込めたツケを払ってもらうぞ！下劣で腰抜けな虫けらめ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1006
 msgid ""
 "The blood of traitors runs in your veins, girl. In Garard’s name, I strike "
 "you down!"
-msgstr ""
+msgstr "お前には裏切り者の血が流れている。亡き Garard 陛下のため、私がお前を討つ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1007
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1008
 msgid "Behold the flames of Alduin!"
-msgstr ""
+msgstr "Alduin の炎をとくと見よ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1009
 msgid "By the Light we were made! Lo, and by the Light shall you be un-made!"
-msgstr ""
+msgstr "光によって我々は創造された！そして光によってお前は滅するだろう！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1010
 msgid "This is for Baldras!"
-msgstr ""
+msgstr "これは Baldras の分だ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1011
 msgid "Sorry about this, but it has to be done!"
-msgstr ""
+msgstr "申し訳ありませんが、やらなきゃいけないのです！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1012
 msgid "You done made wrong enemy, softskin!"
-msgstr ""
+msgstr "柔皮、お前俺たち敵対すべき違った！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1101
 msgid ""
 "I have found an exit from the cavern! Quick, everyone, follow me and we may "
 "yet evade Li’sar within the twisting tunnels!"
-msgstr ""
+msgstr "洞窟の出口を見つけた！みんな急げ、私に続け！曲がりくねった坑道で Li’sar を撒けるかもしれない！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1127
 msgid ""
 "Did you hear that? An earthquake! What sorcery of yours is this, Delfador? "
 "Are you collapsing this whole cavern?"
-msgstr ""
+msgstr "聞こえたか？地震だ！Delfador、一体どんな魔術を使った？洞窟全体を崩落させる気か？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1132
@@ -15336,6 +15350,7 @@ msgid ""
 "think she is doing? The volcano is awakening! Is she trying to kill us and "
 "you both!?"
 msgstr ""
+"この揺れに私は無関係だ── お主のところの愚かな魔術師は一体何をしようとしている？火山が目を覚ますぞ！我々もお主らもまとめて殺す気なのか！？"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1136
@@ -15343,7 +15358,7 @@ msgstr ""
 msgid ""
 "Sorry, Your Highness, queen’s orders. Better that nobody leaves than Konrad "
 "does."
-msgstr ""
+msgstr "ごめんなさい、殿下。女王陛下のご命令なの。Konrad を逃がすくらいなら誰も逃げられない方が、とのことなので。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1140
@@ -15352,6 +15367,7 @@ msgid ""
 "and it is a long way to the surface. We’ll have plenty of time to chase them"
 " down!"
 msgstr ""
+"なんだと？！Mirya、そんなことをする必要は無い！やつらは笏を諦めて逃げたし、地上まではまだ充分距離がある。追いかける時間はたっぷりあるんだぞ！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1148
@@ -15360,14 +15376,14 @@ msgstr ""
 msgid ""
 "We are all in terrible danger! Konrad, stay close. You and I must flee with "
 "great haste — my spells shall speed our steps!"
-msgstr ""
+msgstr "とんでもないことになったぞ！Konrad、側へ来るのだ。私とお主は一刻も早く逃げ出さねばならない── 呪文で歩みを速めるぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1174
 msgid ""
 "It is here! We have found it! The Sceptre of Fire; the Ruby of the Wesfolk; "
 "the staff of kings. Konrad, you must come at once!"
-msgstr ""
+msgstr "ここだ！あったぞ！「炎の笏」、「Wesfolk のルビー」、「王の杖」。Konrad、すぐにここに来るのだ！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1179
@@ -15377,6 +15393,8 @@ msgid ""
 "glow from its ruby’s inner fire. Dwarvish runes on the golden handle lit up "
 "in pulsating blue as Konrad’s fingers wrapped around the staff."
 msgstr ""
+"長年ホコリと瓦礫にまみれていたため、笏は最初くすんで見えました。しかし、ルビーの内なる炎の力で輝き始めました。そして、Konrad "
+"が杖に手をかけると、金色の柄に刻まれたドワーフのルーンが、脈打つかのように青い光を放ちました。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1186
@@ -15385,13 +15403,15 @@ msgid ""
 " to convince the people that I would truly belong as king. Now we finally "
 "have the upper hand against Asheviere."
 msgstr ""
+"炎の笏は我々のものだ！笏は優れた武器であるだけではなく、王の象徴でもある。私が王に相応しいと、人々に納得してもらうこともできるだろう。これで初めて "
+"Asheviere に対して優位に立つことができた。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1196
 msgid ""
 "An earthquake!? Delfador, is this your doing? Has removing the Sceptre "
 "somehow damaged the cavern?"
-msgstr ""
+msgstr "地震！？Delfador、何かしたのですか？それとも、笏を掘り出したことで洞窟に深刻なダメージを与えてしまったとか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1201
@@ -15400,13 +15420,14 @@ msgid ""
 "think she is doing? The volcano is awakening! Is she trying to kill us and "
 "the princess both!?"
 msgstr ""
+"この揺れに私は無関係だ── Li’sar のところの愚かな魔術師は一体何をしようとしている？火山が目を覚ますぞ！我々も王女達もまとめて殺す気なのか！？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1205
 msgid ""
 "What?! Mirya, you’re supposed to be scouting the tunnels, not destroying "
 "them."
-msgstr ""
+msgstr "何だと？！Mirya、坑道の偵察は頼んだが、破壊しろとは言っていないぞ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1213
@@ -15415,31 +15436,33 @@ msgid ""
 "have them surrounded. Even if they escape to the surface we’ll have plenty "
 "of time to chase them down!"
 msgstr ""
+"なんだと？！Mirya、そんなことをする必要は無い！Konrad "
+"は笏を手にしたが、我らは奴らを包囲している。たとえ奴らが地上へ逃げようとしたとしても、追いかける時間はたっぷりあるんだぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1225
 msgid "But we have only just taken hold of the Sceptre! What about—"
-msgstr ""
+msgstr "我々は笏を手にしたばかりなのに！どうしたら──"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1229
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1341
 msgid "There is no time! Run, Konrad, run!"
-msgstr ""
+msgstr "考えている場合じゃない！逃げろ！逃げるのだ Konrad！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1249
 msgid ""
 "You are beaten, villain! With your defeat, we have severed the right hand of"
 " Asheviere!"
-msgstr ""
+msgstr "お前の負けだ、悪党め！これで Asheviere は右腕を切り落とされたことになる！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1253
 msgid ""
 "I can’t believe it. Bested so far from home, and during my own ambush. "
 "Embarrassing... Make it quick, then."
-msgstr ""
+msgstr "信じられない。本拠地から遠く離れた場所、しかもこちらから仕掛けた奇襲だったのに。この上ない屈辱だ… さっさとやってくれ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1258
@@ -15448,13 +15471,14 @@ msgid ""
 "exchange for her abdication; a better and more merciful use of your head "
 "than petty vengeance. Delfador, do you have the Sceptre yet?"
 msgstr ""
+"断る。お前は囚人としよう。女王の退位と引換えにお前を引き渡すのだ。小さな復讐を果たすよりも、賢明かつ慈悲深い判断だと思わないか？Delfador、笏は見つかりましたか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1269
 msgid ""
 "I do! It is here — the Sceptre of Fire; the Ruby of the Wesfolk; the staff "
 "of kings. Konrad, I shall bring it to you at once."
-msgstr ""
+msgstr "ああ！あったぞ──「炎の笏」、「Wesfolk のルビー」、「王の杖」。Konrad、すぐにお主のところに持っていこう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1282
@@ -15463,6 +15487,8 @@ msgid ""
 "symbol; more proof of your kingship. And with Li’sar defeated, I wonder if "
 "we might add yet another symbol to your claim..."
 msgstr ""
+"笏は我らのものだ。これは優れた武器であるばかりでなく、象徴でもある。お主を王位に近づけてくれることだろう。そして Li’sar "
+"も倒した。ふむ、もう一つ象徴を足してみても良いかもな…"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1296
@@ -15471,6 +15497,7 @@ msgid ""
 "armor, finely crafted and inscribed with symbols of royalty, yet what I "
 "still wear is intact. How is this possible?"
 msgstr ""
+"何をした、老いぼれ？どうして私の鎧とそっくりな鎧を持っている？しかも私が身につけている鎧はそのままだ。この鎧は精巧に作られ、王家の紋章が刻まれた鎧なんだぞ。こんなことが有り得るのか？"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1300
@@ -15479,6 +15506,8 @@ msgid ""
 "will exist only for a year and a day, but that will be more than enough time"
 " to overthrow Asheviere."
 msgstr ""
+"魔法で複製したのじゃよ、ついでに Konrad 用に多少改良もしておいたぞ！一年と一日経つと消えてしまうが、Asheviere "
+"を追い落とすまでは保つだろう。"
 
 #. [message]: speaker=Konrad # no variation, so we can see him with both the
 #. sceptre and the chainmail
@@ -15486,14 +15515,14 @@ msgstr ""
 msgid ""
 "Thank you, Delfador. This is truly a great boon! Now, to bind our prisoner "
 "and once more ascend to the surface."
-msgstr ""
+msgstr "Delfador、ありがとう。この鎧は本当に素晴らしい！さあ、囚人を縛り上げ、再び地上へ戻りましょう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1316
 msgid ""
 "An earthquake!? Delfador, is this also your doing? Has removing the Sceptre "
 "somehow damaged the cavern?"
-msgstr ""
+msgstr "地震！？Delfador、他にも何かしたのですか？それとも、笏を掘り出したことで洞窟に深刻なダメージを与えてしまったとか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1321
@@ -15502,6 +15531,7 @@ msgid ""
 "think she is doing? The volcano is awakening! Is she trying to kill us and "
 "her princess both!?"
 msgstr ""
+"この揺れに私は無関係だ── Li’sar のところの愚かな魔術師は一体何をしようとしている？火山が目を覚ますぞ！我々も王女達もまとめて殺す気なのか！？"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1325
@@ -15509,21 +15539,22 @@ msgid ""
 "Sorry, Li’sar, queen’s orders. You had your chance and you failed. Now it’s "
 "time for the backup plan."
 msgstr ""
+"Li’sar、ごめんなさい。女王陛下のご命令なの。せっかくのチャンスをあなたがフイにしてしまったから。というわけで代替案を実行させてもらうわね。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1337
 msgid "I have the princess tied up! But what about—"
-msgstr ""
+msgstr "王女を捕らえているんだぞ！どうしたら─"
 
 #. [time]: id=underground
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:17
 msgid "Underground"
-msgstr ""
+msgstr "地下"
 
 #. [generator]: id=cavegen
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:97
 msgid "Plunging Into Darkness Caves"
-msgstr "闇へ飛び込んでの洞窟"
+msgstr "闇へ飛び込んで：洞窟マップ"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:325
