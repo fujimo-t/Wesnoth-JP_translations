@@ -15563,6 +15563,7 @@ msgid ""
 "into the corrosive water with supernatural haste, resurfacing moments later "
 "inside a larger chamber."
 msgstr ""
+"魔術師の杖から青い火花が飛び散ると、魔術師と若い弟子は信じられないほどの速度で腐食性の水に飛び込み、直後、二人は広い空洞の中で水面まで浮上しました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:327
@@ -15574,7 +15575,7 @@ msgid ""
 "The sounds of rupturing earth behind rose to a crescendo, then faded into "
 "the distance, as meanwhile an uncomfortable heat pressed close at their "
 "backs."
-msgstr ""
+msgstr "背後では大地が避ける音が最高潮まで高まり、やがて徐々に遠ざかっていきました。一方で、不快な熱気が背後から迫ってきました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:335
@@ -15584,6 +15585,8 @@ msgid ""
 "follow dashed madly through the cave, then passed alongside Konrad into a "
 "larger chamber."
 msgstr ""
+"魔術師の杖から青い火花が飛び散ると、魔術師と若い弟子は信じられないほどの速度で迫りくる溶岩から逃げだしました。後に続くことができた少数のベテラン兵は死に物狂いで洞窟を駆け、Konrad"
+" の横を通り抜け、大きな空間へと入っていきました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:345
@@ -15593,13 +15596,15 @@ msgid ""
 "volunteers and Li’sar’s distracted soldiers far behind as they passed into a"
 " larger chamber."
 msgstr ""
+"魔術師の杖から青い火花が飛び散ると、魔術師と若い弟子は信じられないほどの速度で迫りくる溶岩から逃げだしました。そして、勇敢な志願兵や取り乱した  "
+"Li’sar の配下達を置き去りにして、もっと大きな空間へと駆け込みました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:347
 msgid ""
 "The sounds of rupturing earth rose to a crescendo, then faded into the "
 "distance, as meanwhile an uncomfortable heat pressed close at their backs."
-msgstr ""
+msgstr "大地が避ける音は最高潮まで高まり、やがて徐々に遠ざかっていきました。一方で、不快な熱気が背後から迫ってきました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:355
@@ -15609,6 +15614,7 @@ msgid ""
 "deeper and deeper into the smothering darkness, further and further from the"
 " light of the sun."
 msgstr ""
+"魔術師の杖から青い火花が飛び散ると、魔術師と若い弟子は信じられないほどの速度で迫りくる溶岩から逃げだしました。そして、兵士達は息も絶え絶えに、重苦しい深い闇の奥へ奥へ、太陽の光からどんどん遠ざかるように進んでいきました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:365
@@ -15618,6 +15624,7 @@ msgid ""
 "back vomit as they beat a path through the horrifying squalor filling their "
 "tunnel, then passed thankfully into a larger chamber."
 msgstr ""
+"魔術師の杖から青い火花が飛び散ると、魔術師と若い弟子は信じられないほどの速度で迫りくる溶岩から逃げだしました。通路内に充満する恐ろしいほど不快な空気の中、兵士達は吐き気をこらえながら死に物狂いで進み、なんとかより広い部屋へとたどり着くことができました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:375
@@ -15626,6 +15633,7 @@ msgid ""
 " from the rising lava with supernatural haste. The harried soldiers rushed "
 "thankfully through the miraculously opened passage."
 msgstr ""
+"魔術師の杖から青い火花が飛び散ると、魔術師と若い弟子は信じられないほどの速度で迫りくる溶岩から逃げだしました。そして、兵士達は疲れ果てた身体に鞭打ち、奇跡的に開けた通路を必死に駆け抜けました。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:458
@@ -15633,14 +15641,14 @@ msgid ""
 "Faster, faster! My speeding spells begin to fade, but the fires continue to "
 "rise! Hurry, Konrad; we must keep ahead of the lava until it recedes! Is Her"
 " Highness secure?"
-msgstr ""
+msgstr "急げ、急げ！早足の魔法が消えかかっているが、溶岩は止まりそうもない！急げ Konrad！溶岩に追いつかれたらおしまいだ！王女殿下も無事か？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:462
 msgid ""
 "I have chained her wrist to mine, Delfador. But are our friends and allies "
 "all with us? We can’t leave anyone behind!"
-msgstr ""
+msgstr "王女の手首と私の手首を鎖でつないでいます。しかし、我々の友や味方はみんなついてきているでしょうか？彼らを置いていくことはできません！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:466
@@ -15650,13 +15658,15 @@ msgid ""
 "doubt we will find a keep in which to rally. If we do not hurry we shall "
 "surely be caught by the lava, or else by some pursuing ally of Li’sar’s!"
 msgstr ""
+"ああ、彼らはみんないるぞ。ただ、みんな必死に走っている。主塔が見つかるとも思えぬから、部隊を再編することはできない。さあ、もたもたしていると溶岩か "
+"Li’sar の味方に追いつかれてしまうぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:470
 msgid ""
 "No! Surely those we did not defeat have burned to death. This has been a "
 "tight thing for us even with your magic to help!"
-msgstr ""
+msgstr "いえ、私たちが倒せなかった者達は焼死してしまったでしょう。師匠の魔法に助けられた我々でさえギリギリだったのですから！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:474
@@ -15665,27 +15675,29 @@ msgid ""
 "has fared well — and the same fate will meet us too if you do not <i><b>stop"
 " talking and start running</b></i>!"
 msgstr ""
+"そうかもしれないし、そうでないかもしれない。どちらにしろ、我らが捕虜の軍勢は無事ではあるまい── "
+"さて、<b>お主もおしゃべりをやめてさっさと走るのだ！</b>さもないと、我々までおしまいだ！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:484
 msgid ""
 "Faster, faster! My speeding spells begin to fade, but the fires continue to "
 "rise! Hurry, Konrad; we must keep ahead of the lava until it recedes!"
-msgstr ""
+msgstr "急げ、急げ！早足の魔法が消えかかっているが、溶岩は止まりそうもない！急げ Konrad！溶岩に追いつかれたらおしまいだ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:488
 msgid ""
 "Are our friends and allies all with us, Delfador? We can’t leave anyone "
 "behind!"
-msgstr ""
+msgstr "我らの友と味方は皆ついてきているでしょうか？彼らを置いていくことはできません！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:496
 msgid ""
 "No! Surely Li’sar and her loyalists have burned to death. This has been a "
 "tight thing for us even with your magic to help!"
-msgstr ""
+msgstr "いえ、Li’sar とのその軍勢は溶岩に読み込まれて死んでしまったでしょう。師匠の魔法に助けられた私たちでさえギリギリだったのですから！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:500
@@ -15694,70 +15706,72 @@ msgid ""
 "well — and the same fate will meet us too if you do not <i><b>stop talking "
 "and start running</b></i>!"
 msgstr ""
+"そうかもしれないし、そうでないかもしれない。どちらにしろ、王女の軍勢は無事ではあるまい── "
+"さて、<b>お主もおしゃべりをやめてさっさと走るのだ！</b>さもないと、我々までおしまいだ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:509
 msgid "Move Konrad or Delfador to the east edge of the map"
-msgstr ""
+msgstr "Konrad か Delfador をマップの東端まで移動させる"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:514
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:535
 msgid "Death of Li’sar"
-msgstr ""
+msgstr "Li’sar の死"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:525
 msgid ""
 "Lava expands 1 hex in every direction each turn, and will kill Konrad if it "
 "reaches him."
-msgstr ""
+msgstr "溶岩は毎ターン全ての方向に１ヘクス拡大します。溶岩が Konrad のところまで来たら、彼は死んでしまいます。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:527
 msgid ""
 "Lava expands 2 hexes in every direction each turn, and will kill Konrad if "
 "it reaches him."
-msgstr ""
+msgstr "溶岩は毎ターン全ての方向に２ヘクス拡大します。溶岩が Konrad のところまで来たら、彼は死んでしまいます。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:531
 msgid "Li’sar is chained to Konrad, and will follow one hex behind him."
-msgstr ""
+msgstr "Li’sar は Konrad に鎖でつながれており、Konrad の１ヘクス後ろについていきます。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:584
 msgid ""
 "What are we doing? Li’sar is a prisoner of great value! I have no desire to "
 "execute an unarmed woman, enemy though she may be."
-msgstr ""
+msgstr "一体何をしようと？Li’sar は非常に価値ある捕虜だ！それに、例え敵であっても、無抵抗の女性を殺したくはない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:618
 msgid ""
 "Undead! What are such things doing down here? They will surely try to stop "
 "us — and with no regard for their own safety!"
-msgstr ""
+msgstr "アンデッド！なんでこんなところに？こいつらは私たちを足止めするつもりだろう── 自分の身を顧みずに！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:622
 msgid ""
 "Then give me my sword and I will cut them down. Or are you too afraid to let"
 " me out of these chains?"
-msgstr ""
+msgstr "剣をくれれば私がそいつらを切り刻んでやるぞ。おや、私を鎖から解き放つのは怖いのか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:626
 msgid ""
 "Hmph. We cannot afford to become bogged down fighting. At least one good "
 "thing comes of all this flame: it is easy to summon fire elementals!"
-msgstr ""
+msgstr "ふむ。戦いに巻き込まれて足止めされてはかなわんな。しかしこれだけ炎に満ちていれば良いこともある。炎の精霊を簡単に呼び出せるのだ！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:647
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1289
 msgid "Aaaaah! I can’t believe it should end like this..."
-msgstr ""
+msgstr "ああ！こんな結末になるなんて……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:653
@@ -15765,7 +15779,7 @@ msgstr ""
 msgid ""
 "Our prisoner has perished! She was an enemy, but I cannot shake the feeling "
 "that Her Highness yet had a role to play in all this..."
-msgstr ""
+msgstr "捕虜が死んでしまった！王女は敵ではあったが、こんなところで死んではいけなかった、なぜかそのように感じる……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:672
@@ -15774,6 +15788,8 @@ msgid ""
 "done it, Delfador; we have escaped — and with Li’sar as our prisoner! The "
 "gambit of that mage of Asheviere’s has failed."
 msgstr ""
+"ここは急な上り勾配になっている。そして背後の溶岩の速度が落ちてきている！Delfador、やりました。なんとか逃げ出せたようです── それも "
+"Li’sar を捕虜にして！Asheviere に忠実な魔術師の奇略は失敗に終わりました。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:677
@@ -15782,6 +15798,8 @@ msgid ""
 "done it, Delfador; we have escaped! The gambit of that mage of Asheviere’s "
 "has failed."
 msgstr ""
+"ここは急な上り勾配になっている。そして背後の溶岩の速度が落ちてきている！Delfador、やりました。なんとか逃げ出せたようです！Asheviere "
+"に忠実な魔術師の奇略は失敗に終わりました。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:688
@@ -15790,6 +15808,7 @@ msgid ""
 " during our escape, much of our veterans’ equipment suffered serious damage."
 " Repairing them may prove costly."
 msgstr ""
+"失敗に終わった部分もあるが、完全な失敗とまでは言えない。逃走中に低品質の武具を集められたが、ベテラン兵はこの装備では満足に戦えないだろう。彼らが使えるようにこれらの装備を修理するのは骨が折れそうだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:695
@@ -15798,6 +15817,7 @@ msgid ""
 " trainees? I sense some magical malady upon them, sapping their intellect. "
 "Training more veterans may prove difficult."
 msgstr ""
+"失敗に終わった部分もあるが、完全な失敗とまでは言えない。私はなぜか妙に頭の中が冴え渡っているが、見習い達はどうだろうか？彼らの知性を蝕むような、ある種の魔法が病のようにまとわりついているように感じる。ベテラン兵を育てることが難しくなってしまったかもしれない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:703
@@ -15806,13 +15826,14 @@ msgid ""
 "enough to evade the lava, we are still lost deep underground, with the bulk "
 "of our stores and rations lost to flame."
 msgstr ""
+"失敗に終わった部分もあるが、完全な失敗とまでは言えない。我々は幸運にもなんとか溶岩から逃れることができたが、物資や食料の多くは炎に焼かれてしまった。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:707
 msgid ""
 "Indeed, hunger and weakness already gnaw at my stomach. We must find a way "
 "to the surface soon, or these caves may yet prove our doom..."
-msgstr ""
+msgstr "実際、私の腹が空腹で力が入らないと悲鳴を上げ始めている。早く地上への道を見つけなければ。さもないと結局この洞窟で野垂れ死ぬことになるぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:722
@@ -15821,6 +15842,7 @@ msgid ""
 "Hunger and weakness already gnaw at my stomach. We must find a way to the "
 "surface soon, or these caves may yet prove our doom..."
 msgstr ""
+"さらに悪いことに、物資と食料の多くが溶岩に焼かれてしまった！私の腹も空腹で力が入らないと悲鳴を上げ始めている。早く地上への道を見つけなければ。さもないと結局この洞窟で野垂れ死ぬことになるぞ。"
 
 #. [scenario]: id=32_The_Swamp_of_Dread
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:7
@@ -15836,13 +15858,15 @@ msgid ""
 "first time Konrad saw signs of fatigue in the old wizard’s normally "
 "inscrutable face."
 msgstr ""
+"Konrad、Delfador、そしてその仲間たちは、場所も判然としない山々の地下、廃坑や誰もいない通路を何日かの間さまよい歩きました。溶岩の被害を免れたわずかな食料は次第に減り、やがて完全になくなりました。普段は表情を読み取らせない老魔術師の顔にもはっきりと疲労が現れていました。Konrad"
+" は師のそのような表情を初めて見ました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:288
 msgid ""
 "Finally, weakened and battered by their ordeal, the exhausted rebels emerged"
 " into an unknown valley..."
-msgstr ""
+msgstr "過酷な道中でボロボロに疲れ果てた一行でしたが、やっとのことで見知らぬ谷間に出ることができました…"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:300
@@ -15851,6 +15875,7 @@ msgid ""
 "an empty stomach. We were most fortunate we have at last found our way to "
 "the surface."
 msgstr ""
+"これは老骨には厳しいな！ここまで身体を酷使したのは久しぶりだ。しかも空腹を抱えながらとは。それでもなんとか地上に出られたのだから、幸運だったと言えるだろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:306
@@ -15858,7 +15883,7 @@ msgid ""
 "But what matters is that you are alive, Konrad, and that we have escaped the"
 " caves and found daylight again. And with both Li’sar and the Sceptre in our"
 " hands!"
-msgstr ""
+msgstr "しかし Konrad、お主が生きて洞窟を脱出できて本当によかった。そして、Li’sar と笏を手に入れられたことは素晴らしい成果だ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:311
@@ -15867,6 +15892,7 @@ msgid ""
 " caves and found daylight again. And although Li’sar has escaped us, at "
 "least we still have the Sceptre in our hands."
 msgstr ""
+"しかし Konrad、お主が生きて洞窟を脱出できて本当によかった。Li’sar には逃げられてしまったが、それでも笏を手に入れられたことは中々の成果だ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:318
@@ -15875,6 +15901,8 @@ msgid ""
 " caves and found daylight again. And we have the Sceptre as well! Despite "
 "our difficulties, our quest has been a success."
 msgstr ""
+"しかし "
+"Konrad、お主が生きて洞窟を脱出できて本当によかった。そして、笏も手に入れられた！あれだけの困難があったことを考えると、うまくいったと言ってもいいだろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:324
@@ -15883,18 +15911,20 @@ msgid ""
 " caves and found daylight again. If only we had the Sceptre with us... it is"
 " surely now buried beyond all hope of reclamation."
 msgstr ""
+"しかし Konrad、お主が生きて洞窟を脱出できて本当によかった。しかし、笏を手にいれられなかったことは無念だ… "
+"ああなってしまっては、二度と掘り出すことはできないだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:329
 msgid "Yes, but look! We are not the only army to have escaped the caves!"
-msgstr ""
+msgstr "ええ、そうですね。しかし見てください！あの洞窟を脱出できたのは私たちだけではないようです！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:347
 msgid ""
 "My expeditionary company! Or at least a small fragment of it, with a "
 "precious few survivors. And fighting many undead?!"
-msgstr ""
+msgstr "私の遠征隊の隊員達！もはやそのほんの一部なのかもしれないが、貴重な生存者だ。そして、アンデッドの大群と戦っているのか？！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:352
@@ -15902,7 +15932,7 @@ msgid ""
 "That’s a grim look, but even embattled they’re more than a match for your "
 "rebels, Konrad, weakened and gold-deprived as you are from your long days "
 "underground."
-msgstr ""
+msgstr "ひどい有様だ。しかし Konrad、地下を何日も歩いて、疲れ果て、物資も枯渇したお前の反乱軍に遅れを取ることはないだろうな。"
 
 #. [message]: speaker=Lisar # default portrait, so that if she has her Sceptre
 #. it's shown in her portrait
@@ -15910,21 +15940,21 @@ msgstr ""
 msgid ""
 "Keep moving. Don’t get pinned. I know this looks bad, but there is no choice"
 " but to fight! Fight, fight or die!"
-msgstr ""
+msgstr "動きつづけるんだ。歩みを止めるな。状況は悪いが、戦うしかないのだ！戦え！戦わないなら死ぬだけだ！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:361
 msgid ""
 "Even if others have escaped the lava elsewhere, we’ve no chance of finding "
 "them unless we can first evade these undead!"
-msgstr ""
+msgstr "まずはこのアンデッドをどうにかできなければ、他にあの溶岩から逃れた者がいないか探すこともできないぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:375
 msgid ""
 "I shouldn’t be surprised that some part of your army has survived, princess;"
 " you surely trained them well."
-msgstr ""
+msgstr "あれだけの数生き残っていることは当然なのかもしれないな、王女。彼らは本当に良く鍛え抜かれている。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:377
@@ -15933,6 +15963,7 @@ msgid ""
 "keep our distance the soldiers may not notice us, and will surely perish at "
 "the hands of the zombies!"
 msgstr ""
+"それでも、数で劣っていて、包囲されてしまっている。我々はこのまま距離を取っていればあの兵士達に気づかれることはないだろう。そして彼らはゾンビ共によって皆殺しにされしまう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:381
@@ -15942,6 +15973,9 @@ msgid ""
 "the addition of the bodies of the royal soldiers — I see many fresh corpses "
 "among their numbers already."
 msgstr ""
+"一方で… "
+"あなたの言ったことも正しい。我々は飢えと長旅の疲労で弱り果てている。あの忠誠者達の身体がアンデッドの軍勢に加わってしまえば、アンデッドの軍勢はさらに強化されてしまう──"
+" すでに何体か新しい死体が混じっているようにも見える。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:385
@@ -15952,12 +15986,14 @@ msgid ""
 "think it best that we ensure their defeat first, and only afterwards give "
 "thought to our escape."
 msgstr ""
+"Konrad、私は Asheviere "
+"の一味の危険さをこの目で見てきた。そして、連中の嘘に耳をかすことがどれほどの害を及ぼすのかを身をもって経験してきた。あの兵士達を見殺しにし、捕虜を確保しておくのが最善の選択だ！まずは彼らの全滅を確認し、我々はその後に脱出を考えるべきだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:393
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:476
 msgid "Maybe... but no food, no shelter, little gold..."
-msgstr ""
+msgstr "そうですね… しかし食料もない、避難できる先もない、資金もわずか……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:397
@@ -15968,6 +16004,9 @@ msgid ""
 "daughters. Did you yourself not tell me <i>“be forgiving, be wise, be "
 "kind”</i>?"
 msgstr ""
+"私の命を狙った連中に親愛の情がわくことはありませんが、彼らを追い詰めるために仲間達に命をかけさせるつもりもありません。敵の命を奪うためなら友── "
+"そして娘の命すらも使う… そんなことをしては Asheviere と変わりません。Delfador "
+"も私に言ったでしょう？<b>「寛容で、賢明で、そして親切であれ」</b>、と。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:401
@@ -15976,6 +16015,8 @@ msgid ""
 "end badly for us all — and from her palace safe in Weldyn, Asheviere will "
 "laugh."
 msgstr ""
+"生者が力を合わせて立ち向かわなければ、皆が悲惨な結末を迎える、そんな気がします ── そして Weldyn の王宮の安全な場所で、Asheviere "
+"が高笑いをあげるでしょう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:405
@@ -15985,18 +16026,19 @@ msgid ""
 "against the undead. In return, once this place is cleansed, they will be "
 "free to leave."
 msgstr ""
+"それではいけない。Li’sar、わたしの従姉である捕虜よ、取引がしたい。我々は彼らの前に姿を現す。そうしたらアンデッドと戦うために協力するよう、彼らに命令して欲しい。そうしてくれたら、アンデッドの撃退後、彼らは自由にこの場から去っていいとする。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:409
 msgid "Perhaps. And I would be free to leave along with them?"
-msgstr ""
+msgstr "それは、私も彼らと一緒に去っていいということかしら？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:413
 msgid ""
 "This is not a negotiation. You are my prisoner and at my mercy, and I still "
 "mean to ransom you back to your mother in exchange for her abdication."
-msgstr ""
+msgstr "それは交渉の範囲外だ。女王が王位を退くのであれば、お前は解放する。そこは変わっていない。お前はそのための重要な取引材料で、大事な捕虜だ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:417
