@@ -1436,3 +1436,5 @@ It’s described in the intro to HttT, for example the alliance with the orcs."
 Eyestalk,noun,,false,邪眼草,"""The Deceiver’s Gambit"" に登場するモンスター。stalk は「茎」の意で、植物のようだという説明があるので、「邪眼草」と訳してみた。「眼球草」も候補。"
 eyestalks,noun,,false,邪眼草,
 Unit Type Description,noun,,true,ユニット解説,
+Elende,noun,"エルフ族のシルフ。""The Deceiver’s Gambit"" に登場。",true,Elende,
+シルフ,noun,"エルフの予言者。""The Deceiver’s Gambit"" に登場。""Elvish Sylph"" であれば、「エルフのシルフ」というユニット名。",true,シルフ,

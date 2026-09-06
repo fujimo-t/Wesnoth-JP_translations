@@ -139,7 +139,7 @@ msgstr "物語は『<b>自由</b>』に続く"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
 msgid "Blast the fire elementals in <i>Graduation</i>."
-msgstr "「最終試練」において、火の精霊に炎を放つ。"
+msgstr "『最終試練』において、火の精霊に炎を放つ。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
@@ -149,7 +149,7 @@ msgstr "シナリオ 0：無駄撃ち"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
 msgid "Complete <i>Stirrings of War</i> without killing any goblin spearmen."
-msgstr "ゴブリンの槍兵を１匹も殺さずに「戦乱の胎動」をクリアする。"
+msgstr "ゴブリンの槍兵を１匹も殺さずに『戦乱の胎動』をクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
@@ -159,7 +159,7 @@ msgstr "シナリオ 1：ゴブリン愛護家"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
 msgid "Complete the hidden victory condition in <i>Fort Garard</i>."
-msgstr "「Garard 砦」において、隠された勝利条件を達成する。"
+msgstr "『Garard 砦』において、隠された勝利条件を達成する。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
@@ -169,22 +169,22 @@ msgstr "シナリオ 2：血を求めて"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
 msgid "Complete <i>The Ambassador</i> without killing any wose."
-msgstr ""
+msgstr "ウーズを殺すことなく『使節』をクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
 msgid "Scenario 3: Mellon"
-msgstr ""
+msgstr "森の友人"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
 msgid "Drown the silverback in <i>The Sylvan Seer</i>."
-msgstr ""
+msgstr "『森の予言者』においてシルバーバックを溺れさせる。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
 msgid "Scenario 4: Gurgle gurgle"
-msgstr ""
+msgstr "シナリオ 4：ゴボゴボ"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
@@ -2144,6 +2144,9 @@ msgid ""
 "\n"
 "In many places there is no path at all, and Delfador senses they are guided more by the elves’ connection to the faerie than by conventional pathfinding."
 msgstr ""
+"Kalenz に導かれた Delfador 、Deoran 、Chantal は、深い森の迷宮に足を踏み入れ、複雑に曲がりくねった小径を進んだ。\n"
+"\n"
+"道なき道を歩みながら、Delfador はこの道行きが通常の探索とは異なり、エルフたちが妖精の声に耳を傾けて進路を定めていることを感じていた。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:399
@@ -2153,31 +2156,33 @@ msgid ""
 " find the way again. At last, in the dead of night, a small structure looms "
 "out of the forest..."
 msgstr ""
+"太陽はその燃えさしを消されるように地平線の下に沈み、薄暮の森は暗くなった。Kalenz "
+"でさえも迷いかけ、その度にどうにか道に戻るということを幾度か繰り返した。やがて夜の静寂の中、ついに小さな小屋が森の中からぼんやりと姿を現した・・・"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:409
 msgid ""
 "We have arrived. The seer’s mirror pool is just ahead; she herself should be"
 " close by."
-msgstr ""
+msgstr "着いたぞ。予言者の鏡の池はすぐそこだ。彼女自身もそう遠くはないはずだ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:417
 msgid "Find the Sylph"
-msgstr ""
+msgstr "シルフを見つける"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:421
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:457
 msgid "Death of Delfador, Deoran, Chantal, or Kalenz"
-msgstr ""
+msgstr "Delfador 、Deoran 、Chantal 、Kalenz いずれかの死"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:429
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:465
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1387
 msgid "Kalenz and Chantal will not follow you to the next scenario."
-msgstr ""
+msgstr "Kalenz と Chantal は次のシナリオには同行しません"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:432
@@ -2186,7 +2191,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:767
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1108
 msgid "In this scenario, you can neither gain nor spend gold."
-msgstr ""
+msgstr "このシナリオではゴールドを獲得することも消費することもありません。"
 
 #. [message]
 #. there is a pool of water in the middle of the map. Right now the pool is
@@ -2307,12 +2312,12 @@ msgstr ""
 #. of the puzzle
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:589
 msgid "Look, the stream is changing direction!"
-msgstr ""
+msgstr "見ろ、小川の流れが変わったぞ！"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:593
 msgid "Moonstones! Elende, what have you been up to..."
-msgstr ""
+msgstr "ムーンストーンだわ！Elende はここで一体何を・・・"
 
 #. [message]: speaker=Delfador
 #. a monster has just drowned in the river, as a result of the player
@@ -2374,7 +2379,7 @@ msgstr ""
 #. and is calling out to see where Elende is (and what exactly she's doing)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1278
 msgid "Elende!"
-msgstr ""
+msgstr "Elende！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1283
@@ -2519,7 +2524,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1882
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1889
 msgid "Elende"
-msgstr ""
+msgstr "Elende"
 
 #. [message]
 #. Elende reaveals that she's the one who gave the weird prophecy thing to
@@ -8030,7 +8035,7 @@ msgstr ""
 #. [unit_type]: id=Silverback, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:8
 msgid "Silverback"
-msgstr ""
+msgstr "シルバーバック"
 
 #. [unit_type]: id=Silverback, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:10

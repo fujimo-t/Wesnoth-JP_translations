@@ -8252,7 +8252,7 @@ msgstr "仲間だ。さあ、手枷を緩めてあげよう。それで、Ashevi
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:525
 msgid "We need more gold! Send in the reserves."
-msgstr "資金が足りない！予備も投入するぞ。"
+msgstr "資金が足りない！予備資金も投入するぞ。"
 
 #. [message]: speaker=unit
 #. the speaker is a level 1 "Shackled Mage", who's just received an AMLA
@@ -15975,7 +15975,7 @@ msgid ""
 msgstr ""
 "一方で… "
 "あなたの言ったことも正しい。我々は飢えと長旅の疲労で弱り果てている。あの忠誠者達の身体がアンデッドの軍勢に加わってしまえば、アンデッドの軍勢はさらに強化されてしまう──"
-" すでに何体か新しい死体が混じっているようにも見える。"
+" すでに相当数新しい死体が混じっているようにも見える。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:385
@@ -16048,6 +16048,7 @@ msgid ""
 " your allies to aid us, or are we all to fight and bleed and die until our "
 "bodies cold are buried under crimson snow?"
 msgstr ""
+"馬鹿なことは考えるな。我々もお前の兵士達も、単独では生き残れない。それに、我々がアンデッドに負ければ、お前も一緒に死ぬだけだ。さあ選べ。兵士達に我々と協力させるか、みんなで殺し合って、雪を真紅に染め上げて仲良く骸を晒すか。どっちだ？"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:425
@@ -16056,6 +16057,7 @@ msgid ""
 "watch my friends and comrades lose a hopeless battle on two fronts. I agree "
 "to your deal. I’ll remain prisoner while my soldiers fight as your allies."
 msgstr ""
+"敵であるお前達に協力したくはないが、仲間達を絶望的な二正面作戦で死なせるわけにもいかない。取引に応じる。兵達が協力している間は、私もおとなしく捕虜に甘んじておこう。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:429
@@ -16064,13 +16066,15 @@ msgid ""
 "Prisoner or not, this battlefield still has loyalists ready to fight for "
 "their queen — and you and I have a score to settle."
 msgstr ""
+"しかし、アンデッドを倒した後、平和に別れることはできないだろう。捕虜の存在に関わりなく、この戦場には女王のために戦う忠誠者がいるのだから ── "
+"それに私たちの間で決着をつけなければいけないこともある。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:443
 msgid ""
 "So, the princess has survived — and she has the Sceptre of Fire! I shouldn’t"
 " be surprised; villains often seem hard to finish off, don’t they?"
-msgstr ""
+msgstr "そうか、王女達も生き延びたか ── それに炎の笏を持っている！まあそういうものか。しかし、害虫とはなんであんなにしぶといんだろうな？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:445
@@ -16080,13 +16084,14 @@ msgid ""
 "distance she may not notice us, and will surely perish at the hands of the "
 "zombies!"
 msgstr ""
+"それはともかく、アンデッドの大群と戦っているのか！このまま距離を取っておけば我々は王女に気づかれないだろうが、王女達は間違いなくゾンビに殺されてしまうだろう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:450
 msgid ""
 "So, the princess has survived after all. I shouldn’t be surprised; villains "
 "often seem hard to finish off, don’t they?"
-msgstr ""
+msgstr "そうか、王女達も生き延びたのか。まあそういうものか。しかし、害虫とはなんであんなにしぶといんだろうな？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:457
@@ -16096,6 +16101,8 @@ msgid ""
 "bodies of Li’sar’s men — I see many fresh corpses among their numbers "
 "already."
 msgstr ""
+"一方で… 我々は飢えと長旅の疲労で弱り果てている。Li’sar "
+"の兵士達の身体がアンデッドの軍勢に加わってしまえば、アンデッドの軍勢はさらに強化されてしまう── すでに相当数新しい死体が混じっているようにも見える。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:462
@@ -16105,6 +16112,9 @@ msgid ""
 "escaped us once! I think it best that we ensure her defeat first, and only "
 "afterwards give thought to our escape."
 msgstr ""
+"Konrad、私は Asheviere "
+"の一味の危険さをこの目で見てきた。そして、連中の嘘に耳をかすことがどれほどの害を及ぼすのかを身をもって経験してきた。そして Li’sar "
+"は既に一度我々から逃げ出している！ここはまず彼女達の全滅を確認し、我々はその後に脱出を考えるべきだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:467
@@ -16114,6 +16124,9 @@ msgid ""
 "chance to vanquish Li’sar! I think it best that we ensure her defeat first, "
 "and only afterwards give thought to our escape."
 msgstr ""
+"Konrad、私は Asheviere "
+"の一味の危険さをこの目で見てきた。そして、連中の嘘に耳をかすことがどれほどの害を及ぼすのかを身をもって経験してきた。これは Li’sar "
+"を倒す唯一の機会だ！ここはまず彼女達の全滅を確認し、我々はその後に脱出を考えるべきだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:480
@@ -16124,6 +16137,9 @@ msgid ""
 "daughters. Did you yourself not tell me <i>“be forgiving, be wise, be "
 "kind”</i>?"
 msgstr ""
+"私の命を狙った連中に親愛の情がわくことはありませんが、王女を追い詰めるために仲間達に命をかけさせるつもりもありません。敵の命を奪うためなら友── "
+"そして娘の命すらも使う… そんなことをしては Asheviere と変わりません。Delfador "
+"も私に言ったでしょう？<b>「寛容で、賢明で、そして親切であれ」</b>、と。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:484
@@ -16133,6 +16149,8 @@ msgid ""
 "laugh. No, we should approach Li’sar and offer a brief alliance, at least "
 "until these undead are defeated."
 msgstr ""
+"生者が力を合わせて立ち向かわなければ、皆が悲惨な結末を迎える、そんな気がします ── そして Weldyn の王宮の安全な場所で、Asheviere "
+"が高笑いをあげるでしょう。それではいけない。Li’sar に近づき、少なくともアンデッドを倒すまで、一時的な同盟を提案すべきです。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:488
@@ -16140,7 +16158,7 @@ msgid ""
 "Although she is our enemy, I believe that she is trustworthy enough to honor"
 " her word if she agrees not to harm us. I ask you to trust my judgement on "
 "this, my mentor."
-msgstr ""
+msgstr "王女は敵ですが、彼女が我々に危害を加えないと宣言したら、その約束は守られるでしょう。師匠、ここは私の判断に任せてもらえませんか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:492
@@ -16149,26 +16167,28 @@ msgid ""
 "the both of us. Nevertheless, you are my lord, Konrad, and I know you to be "
 "growing wise beyond your years. Let us reach Li’sar and make your offer."
 msgstr ""
+"王が最後に同じことを私に言った時には、我ら二人には悲惨な結末が待っていた。ともあれ、Konrad、お前が私の主なのだ。既に年齢に見合わないほど賢く育っていることも知っている。さあ、Li’sar"
+" のところに行って、提案してみるとしよう。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:501
 msgid "Reach Li’sar’s loyalists before they are slain"
-msgstr ""
+msgstr "Li’sar の忠誠者の軍が負ける前に彼らに近づく"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:508
 msgid "Then, defeat the primary enemy leader"
-msgstr ""
+msgstr "そして最初の敵リーダーを倒す"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:516
 msgid "Defeat the primary enemy leader"
-msgstr ""
+msgstr "最初の敵リーダーを倒す"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:525
 msgid "Defeat Iliah-Malal"
-msgstr ""
+msgstr "Iliah-Malal を倒す"
 
 #. [note]
 #. because of the low starting gold, companions (who're usually recalled for
@@ -16178,6 +16198,7 @@ msgid ""
 "Konrad’s forces are exhausted, and have less starting gold than usual. Loyal"
 " companions (except Delfador) are not automatically recalled."
 msgstr ""
+"Konrad の軍勢は消耗しており、通常よりも初期ゴールドが少なくなっています。Delfador を除く忠実な同行者達も自動的に召還されません。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:566
@@ -16185,21 +16206,21 @@ msgid ""
 "These must be the tunnels from whence Li’sar’s soldiers emerged. Out of all "
 "the countless exits from the underground, we just so happened to come "
 "together here..."
-msgstr ""
+msgstr "Li’sar の兵士達はこの坑道から地上に出たのだろう。地下からの出口が無数にある中、たまたま近い場所に出てしまったのか…"
 
 #. [message]: speaker=Lisar
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:581
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:593
 msgid "We’re in dire straits. Deploy the reserves."
-msgstr ""
+msgstr "このままではまずいな。予備兵も投入するぞ。"
 
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:674
 msgid ""
 "Living soldiers at the perimeter! It’s Konrad and his rebels, intact despite"
 " the volcano! And... they’ve taken the princess prisoner?!"
-msgstr ""
+msgstr "遠方に生きた兵士達を確認した！Konrad の反乱軍だ、噴火を無事に切り抜けたようだ！そして… 王女殿下を捕虜としている？！"
 
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:678
@@ -16207,6 +16228,7 @@ msgid ""
 "I’d been hoping for reinforcements, for we are already hard-pressed, but if "
 "we must fight a second foe to rescue our general I shall not shy away!"
 msgstr ""
+"我々は既に追い詰められている… 援軍を期待したが、まさか敵とは。しかし、将軍を救うためにはこちらの敵とも戦うしかない！ひるんでいる場合じゃない！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:682
@@ -16215,13 +16237,15 @@ msgid ""
 " temporary truce — emphasis on temporary. Until these undead are defeated, "
 "you are to work together with Konrad against the dead."
 msgstr ""
+"やめろ、大尉。戦う必要はない。私は捕虜だが、一時的な休戦に同意した ── あくまで一時的なものだ。このアンデッドを撃退するまで、Konrad "
+"達と協力するんだ。"
 
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:686
 msgid ""
 "You’re certain? You’re not being coerced? Well, in the dire straits we’re in"
 " I can hardly say no to an ally."
-msgstr ""
+msgstr "正気ですか？そう言うように強要されたのでは？……うーむ、この厳しい状況を考えると、同盟に反対はできない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:705
@@ -16231,6 +16255,8 @@ msgid ""
 "once these undead are defeated. And perhaps sooner, if she senses in us some"
 " weakness!"
 msgstr ""
+"Konrad、Li’sar "
+"の脅威に気をつける必要があるのではないか？たとえ捕虜になろうとも、アンデッドを倒した後、間違いなく軍勢を我らに向けてくるだろう。もし我らが隙を見せれば、もっと早く仕掛けてくるかもしれん！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:709
@@ -16240,6 +16266,8 @@ msgid ""
 "enough to honor her word if she agrees not to harm us. I ask you to trust my"
 " judgement on this, my mentor."
 msgstr ""
+"Li’sar は Eldred ではありません。Li’sar "
+"は敵ではありますが、我々と同じように仲間を大事にしているのだと信じられるようになってきました。それに、彼女は我々に危害を加えないと約束しました。その約束を違えることはないと信じています。師匠、どうか私の判断を信じてください。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:713
@@ -16249,6 +16277,7 @@ msgid ""
 "growing wise beyond your years. Let us set aside my worries and direct our "
 "efforts against the undead."
 msgstr ""
+"王が最後に同じことを私に言った時には、我ら二人には悲惨な結末が待っていた。ともあれ、Konrad、お前が私の主なのだ。既に年齢に見合わないほど賢く育っていることも知っている。私の心配事はひとまず脇に置いて、まずはアンデッドをどうにかするとしよう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:727
@@ -16257,6 +16286,8 @@ msgid ""
 " too, intact despite the volcano. I intend to have serious words with the "
 "queen if we somehow get out of this alive..."
 msgstr ""
+"遠くに生きた兵士達がいる！…… "
+"Konrad、お前か！しかも軍勢まで。噴火を無事に切り抜けたのか。もしこの場を生き延びられたら、母としっかり話をしなければ……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:731
@@ -16265,6 +16296,8 @@ msgid ""
 "vulnerable, but so are we, and if we war the only winner will be the undead."
 " I propose a truce."
 msgstr ""
+"Li’sar、戦うつもりはない── "
+"少なくとも今は。そちらも大変な状況のようだが、こちらも大差無い。我々がここで争ってしまえば、最終的な勝者はアンデッドになるだろう。ここは一時休戦としよう。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:735
@@ -16272,6 +16305,7 @@ msgid ""
 "A truce? What ploy is this; are you so cruel that you would give my men hope"
 " before snuffing it out? If you are come to slay me, fight me to my face!"
 msgstr ""
+"一時休戦？何を企んでいる？私の部下に希望を持たせておいて、後からそれを打ち砕くような真似をするような残酷な男だったのか？私を殺したいのなら、自分で来い！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:739
@@ -16280,20 +16314,21 @@ msgid ""
 "stand together, we shall die alone? It is in both of our interests to work "
 "together!"
 msgstr ""
+"策略ではない！馬鹿な考えはやめろ。力を合わせなければどうなるのかはわかっているだろう？ここで仲良く一緒に死にたいのか？そうじゃない。お互いのために協力しようと言っているだけだ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:741
 msgid ""
 "Do you agree to my proposal, Your Highness? Or are we to fight and bleed and"
 " die until our bodies both are buried under crimson snow?"
-msgstr ""
+msgstr "王女殿下、協力いただけないか？それとも、ここで戦って、雪を紅く染め、骸を晒す方がいいか？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:749
 msgid ""
 "Very well, we shall work together for now. But do not forget that once these"
 " undead are defeated, you and I have a score to settle."
-msgstr ""
+msgstr "いいだろう。ここは協力しよう。しかし忘れるな。アンデッドを倒したら、次は私達が決着をつけるのだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:777
@@ -16301,6 +16336,7 @@ msgid ""
 "My men and I are desperately low on gold and supplies, Li’sar. Now we have "
 "met with your allies — do they have anything to spare?"
 msgstr ""
+"Li’sar、こちらの軍勢では資金も物資も絶望的に不足している。共同戦線を張ることになったのだから… こちらに回せるものは何かないだろうか？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:782
@@ -16308,13 +16344,14 @@ msgid ""
 "My men and I are desperately low on gold and supplies, Li’sar. Now that we "
 "are allies, do you have anything to spare?"
 msgstr ""
+"Li’sar、こちらの軍勢では資金も物資も絶望的に不足している。共同戦線を張ることになったのだから… こちらに回せるものは何かないだろうか？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:787
 msgid ""
 "We are allies only of convenience, cousin, and it is not in my best interest"
 " for you or your rebels to be too well-supplied."
-msgstr ""
+msgstr "従弟よ、これはあくまで一時的な協力よ。反乱軍に十分な物資を回すつもりはないわ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:792
@@ -16323,6 +16360,7 @@ msgid ""
 "enough to outfit themselves as it is. It’s unfortunate that the queen’s "
 "orders harmed us as much as they did you, if not more."
 msgstr ""
+"……もっとも、そもそも余剰の物資なんてないでしょうけど。見たところ、私の部下達も装備をなんとか維持しているだけ。女王の命令はあなたたち以上に私たちに損害を与えたようね、残念なことに。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:797
@@ -16331,13 +16369,14 @@ msgid ""
 "as it is. It’s unfortunate that the queen’s orders harmed us as much as they"
 " did you, if not more."
 msgstr ""
+"……もっとも、そもそも余剰の物資なんてないでしょうけど。私の部下達も手持ちの装備をなんとか維持しているだけ。女王の命令はあなたたち以上に私たちに損害を与えたようね、残念なことに。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:802
 msgid ""
 "It’s not “unfortunate” — your mother was more than willing to see you "
 "killed."
-msgstr ""
+msgstr "それはたしかに残念だな── 君の母は君を殺すことをなんとも思っていないんだから。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:806
@@ -16347,67 +16386,70 @@ msgid ""
 " to ensure that Wesnoth survives, even if I don’t. I cannot fault her for "
 "that."
 msgstr ""
+"Asheviere はあなたを逃がさないよう Mirya "
+"命令すれば十分だと思ったのね。その命令が賢明なものであったかどうかは大した問題じゃない。私が死んでも Wesnoth "
+"が生きられるように行動したのでしょう。そのことを責めるつもりはないわ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:810
 msgid ""
 "She acted to ensure her power remains unchallenged, you mean. The dark queen"
 " cares only for herself."
-msgstr ""
+msgstr "それは自分の権力を揺るがす者の存在を許さない、ということだろう？闇の女王は自分のことしか考えていない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:815
 msgid ""
 "“<i>The dark queen</i>,” pfft. I’ve heard enough slander; hold your tongue "
 "or I shall have my men make an end to our truce and short work of you."
-msgstr ""
+msgstr "<b>「闇の女王」</b>ね、ふんっ、中傷はもう聞き飽きた。口を慎め。さもないと、部下に命じて休戦を破棄し、即座にお前を始末させるぞ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:820
 msgid ""
 "“<i>The dark queen</i>,” pfft. I’ve heard enough slander; hold your tongue "
 "or I shall make an end to our truce and short work of you."
-msgstr ""
+msgstr "<b>「闇の女王」</b>ね、ふんっ、中傷はもう聞き飽きた。口を慎め。さもないと、休戦を破棄して、即座にお前を始末させるぞ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:862
 msgid "Don’t wander around my keep, Konrad. We have a battle to fight."
-msgstr ""
+msgstr "Konrad、私の主塔のまわりをうろつかせるな。戦いに集中しろ。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:877
 msgid ""
 "You have no tricks this time, Malal? Your magic is as weak as was your "
 "flesh!"
-msgstr ""
+msgstr "Malal、今度は小細工なしなのか？お前の魔法は生きていた時と変わらず惰弱だな！"
 
 #. [message]: speaker=Iliah-Malal
 #. the same thing he says when fighting Delfador in The Deceiver's Gambait
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:882
 msgid "Shadows consume you!"
-msgstr ""
+msgstr "闇が貴様を消し去ってくれよう！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:891
 msgid "Delfador killed you once! Now it’s my turn!"
-msgstr ""
+msgstr "Delfador が一度お前を殺したのだったな！ならば次は私の番だ！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:900
 msgid "Time to put you and your lies back in the ground!"
-msgstr ""
+msgstr "お前とお前の嘘をまとめて地に返してやろう！"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:918
 msgid "Eye of elf and bone of beast..."
-msgstr ""
+msgstr "エルフの瞳と獣の骨…"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:923
 msgid ""
 "A lich! So here is the source of the undead. Something about this magic "
 "feels familiar... very familiar..."
-msgstr ""
+msgstr "リッチか！ではこれがアンデッドの発生原因か。しかしどこかで覚えのある… 良く知っている魔術のような……"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:928
@@ -16415,6 +16457,7 @@ msgid ""
 "Hello, Delfador! Do you remember me? You’ve grown old. Perhaps you regret "
 "passing up the temptations of necromancy, so long ago?"
 msgstr ""
+"Delfador、久しぶりだな！私のことを覚えているか？お前は老いた。どうだ、ずっと昔に降霊術の誘惑を断ち切ったことを後悔しているのではないか？"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:932
@@ -16423,12 +16466,14 @@ msgid ""
 "our duel so many years ago. You’ll recall that I won. You should be dead and"
 " gone."
 msgstr ""
+"Iliah-"
+"Malal！忌まわしい名だ。ずっと前の決闘以来、その名を口に出したこともない。私に負けたことは覚えているのだろう？お前は死に、消え去っているべきなのだ。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:934
 msgid "Iliah-Malal"
-msgstr ""
+msgstr "Iliah-Malal"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:937
@@ -16437,13 +16482,14 @@ msgid ""
 "return. And I have you to thank for finding the Sceptre of Fire! Soon it "
 "will be mine."
 msgstr ""
+"死か、そうだなたしかに死んだ。しかしまだ消え去ってはいない。戻ってこれたことを善良な女王様に感謝しなければな。そして、炎の笏を見つけ出してくれたことにも感謝するぞ！それはもうすぐ私の物になるのだ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:942
 msgid ""
 "I know my own mother, lich, and she would never be complicit in the "
 "resurrection of an abomination like yourself."
-msgstr ""
+msgstr "リッチよ、実の母のことは良く知っている。母はお前のような忌まわしい存在の復活に決して手を貸したりはしない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16453,6 +16499,8 @@ msgid ""
 "smallfolk in Delwyn an’ Dallben jus’ because we refused to swear fealty. An’"
 " she would’ve succeeded too, if we hadn’t fought back an’ fled an’ hid!"
 msgstr ""
+"Li’sar、あんたはそれは否定できない。女王は忠誠を拒んだだけで Delwyn と Dallben "
+"って小さな村の住民を皆殺しにしようとした。アタシらが必死になって戦ったり、尻尾巻いて逃げ出さなければ、実際にやっただろうね！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16463,6 +16511,7 @@ msgid ""
 "rebels, and that after the destruction of Halstead Mother was regrettably "
 "forced to raze the villages."
 msgstr ""
+"──違う、それは正しくない。あの地域は反乱が頻発する地域だったと聞いている。Halstead が破壊されたため、村を徹底的に破壊するしかなかったと。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16473,6 +16522,8 @@ msgid ""
 "me the story: had they not fought back and fled and hid, they would all be "
 "dead now."
 msgstr ""
+"従姉よ、それは否定できない。女王は忠誠を拒んだだけで Delwyn と Dallben "
+"という村の住民を皆殺しにしようとした。彼らから話も聞いた。戦ったり逃げ隠れしなかったら、間違いなく殺されていたと。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16482,6 +16533,8 @@ msgid ""
 "orcish hordes when she found she could not bend the populace to her will. I "
 "was there — it is only by my sword that the entire city was not enslaved!"
 msgstr ""
+"従姉よ、それは否定できない。Asheviere は Elensefar の民衆が自分の意に従わないことに気づくと、オークの軍勢に Elensefar "
+"の支配権を明け渡した。私もそこにいた── 私が剣でもって立ち向かわなければ、都市全体が奴隷にされてしまっていただろう！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16489,7 +16542,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. I was told that the city was under the control of "
 "royal forces; the orcs were only supposed to aid in the attack."
-msgstr ""
+msgstr "──違う。それは正しくない。Elensefar は王家の軍勢の管理下にあったと聞いている。オークは攻撃を手伝うだけだと。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16499,6 +16552,7 @@ msgid ""
 " she found she could not bend the populace to her will? Without my "
 "intervention the entire city would have been enslaved!"
 msgstr ""
+"それならどうして Elensefar をオークの軍勢が支配していたんだ？私が介入しなければ、都市全体が奴隷とされていたのかもしれないのだぞ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16508,6 +16562,9 @@ msgid ""
 "on the Peninsula of Pearls, to weaken and create chaos in the west. I was "
 "there — it is only by my sword that Muff Malal was killed!"
 msgstr ""
+"従姉よ、それは否定できない。Asheviere "
+"は真珠の半島で降霊術師に好き勝手に暴れさせ、西部地域を弱体化させ、混沌をもたらしていた。私もそこにいた── Muff Malal "
+"は私の剣で止めたんだぞ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16517,6 +16574,7 @@ msgid ""
 "invited the necromancer in, and that royal forces were beaten back when they"
 " came to render aid."
 msgstr ""
+"──違う。それは正しくない。降霊術師を呼び寄せたのはお前たち反乱軍だったと聞いている。そして、救援にかけつけた王国軍は撃退されてしまったと。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16525,7 +16583,7 @@ msgid ""
 "Or what of how Asheviere allowed a necromancer to run amuck on the Peninsula"
 " of Pearls, to weaken and create chaos in the west? Without my intervention "
 "the entire coast might have been overrun!"
-msgstr ""
+msgstr "ならば降霊術師は今も半島を荒らし回り、西部地域に混沌をもたらし続けているのか？私が介入しなければ、沿岸部一帯が荒らされていたぞ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16535,6 +16593,9 @@ msgid ""
 "of Pearls, to enslave the peaceful merfolk and force them to dive for her "
 "enrichment. I was there — it is only by my sword that they were freed!"
 msgstr ""
+"従姉よ、それは否定できない。Asheviere "
+"はオークに真珠の入江を荒らさせ、争いを好まないマーフォークを奴隷にさせ、真珠をとらせて金を稼がせていた。私もそこにいた── "
+"私が剣を持って立ち向かわなければ、彼らマーフォークは自由になれなかった！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16542,7 +16603,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. I was told the orcs were protecting the merfolk "
 "against the rebels, not holding them as slaves."
-msgstr ""
+msgstr "──違う。それは正しくない。オークは反乱軍からマーフォークを守っていたと聞いている。彼らを奴隷にするためではない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16552,6 +16613,7 @@ msgid ""
 "enslave the peaceful merfolk and force them to dive for her enrichment? "
 "Without my intervention they might never have been freed!"
 msgstr ""
+"それでは今、オークのいなくなった真珠の入り江では、マーフォーク達は反乱軍のために奴隷として働かされているのか？違う！私が介入したから彼らは自由になれたんだ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
