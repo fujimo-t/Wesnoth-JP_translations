@@ -16489,7 +16489,7 @@ msgstr ""
 msgid ""
 "I know my own mother, lich, and she would never be complicit in the "
 "resurrection of an abomination like yourself."
-msgstr "リッチよ、実の母のことは良く知っている。母はお前のような忌まわしい存在の復活に決して手を貸したりはしない。"
+msgstr "リッチよ、実の母のことは娘の私が良く知っている。母がお前のような忌まわしい存在の復活に手を貸すことはない！決して有り得ない！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16511,7 +16511,7 @@ msgid ""
 "rebels, and that after the destruction of Halstead Mother was regrettably "
 "forced to raze the villages."
 msgstr ""
-"──違う、それは正しくない。あの地域は反乱が頻発する地域だったと聞いている。Halstead が破壊されたため、村を徹底的に破壊するしかなかったと。"
+"──違う。そんなわけがない。あの地域は反乱が頻発する地域だったと聞いている。Halstead が破壊されたため、村を徹底的に破壊するしかなかったと。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16542,7 +16542,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. I was told that the city was under the control of "
 "royal forces; the orcs were only supposed to aid in the attack."
-msgstr "──違う。それは正しくない。Elensefar は王家の軍勢の管理下にあったと聞いている。オークは攻撃を手伝うだけだと。"
+msgstr "──違う。そんなわけがない。Elensefar は王家の軍勢の管理下にあったと聞いている。オークは攻撃を手伝うだけだと。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16552,7 +16552,8 @@ msgid ""
 " she found she could not bend the populace to her will? Without my "
 "intervention the entire city would have been enslaved!"
 msgstr ""
-"それならどうして Elensefar をオークの軍勢が支配していたんだ？私が介入しなければ、都市全体が奴隷とされていたのかもしれないのだぞ！"
+"Asheviere は Elensefar の民衆が自分の意に従わないことに気づくと、オークの軍勢に Elensefar "
+"の支配権を明け渡していた。これはどういうことだ？私が介入しなければ、都市全体が奴隷とされていたのかもしれないのだぞ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16574,7 +16575,7 @@ msgid ""
 "invited the necromancer in, and that royal forces were beaten back when they"
 " came to render aid."
 msgstr ""
-"──違う。それは正しくない。降霊術師を呼び寄せたのはお前たち反乱軍だったと聞いている。そして、救援にかけつけた王国軍は撃退されてしまったと。"
+"──違う。そんなわけがない。降霊術師を呼び寄せたのはお前たち反乱軍だったと聞いている。そして、救援にかけつけた王国軍は撃退されてしまったと。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16583,7 +16584,9 @@ msgid ""
 "Or what of how Asheviere allowed a necromancer to run amuck on the Peninsula"
 " of Pearls, to weaken and create chaos in the west? Without my intervention "
 "the entire coast might have been overrun!"
-msgstr "ならば降霊術師は今も半島を荒らし回り、西部地域に混沌をもたらし続けているのか？私が介入しなければ、沿岸部一帯が荒らされていたぞ！"
+msgstr ""
+"Asheviere "
+"は真珠の半島で降霊術師に好き勝手に暴れさせ、西部地域を弱体化させ、混沌をもたらしていた。あれはどういうことだ？私が介入しなければ、沿岸部一帯が荒らされていたぞ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16603,7 +16606,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. I was told the orcs were protecting the merfolk "
 "against the rebels, not holding them as slaves."
-msgstr "──違う。それは正しくない。オークは反乱軍からマーフォークを守っていたと聞いている。彼らを奴隷にするためではない。"
+msgstr "──違う。そんなわけがない。オークは反乱軍からマーフォークを守っていたと聞いている。彼らを奴隷にするためではない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16613,7 +16616,8 @@ msgid ""
 "enslave the peaceful merfolk and force them to dive for her enrichment? "
 "Without my intervention they might never have been freed!"
 msgstr ""
-"それでは今、オークのいなくなった真珠の入り江では、マーフォーク達は反乱軍のために奴隷として働かされているのか？違う！私が介入したから彼らは自由になれたんだ！"
+"Asheviere "
+"はオークに真珠の入江を荒らさせ、争いを好まないマーフォークを奴隷にさせ、真珠をとらせて金を稼がせていた。あれはどういうことだ？私が介入したから彼らは自由になれたんだ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16623,6 +16627,8 @@ msgid ""
 "couple o’ insults — an’ high-quality ones too, proper fit fer a queen! Ye "
 "even helped keep me an’ my boys from escapin’!"
 msgstr ""
+"Li’sar、Asheviere は俺がちょっと悪口を言っただけで檻に入れたではないか── "
+"女王にふさわしい素晴らしい悪口だったというのに！それに俺や仲間を逃がさないようにしていたのは貴様だったではないか！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16630,7 +16636,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. I was told you dwarves were sentenced for sedition"
 " and murder, not mere vulgarity."
-msgstr ""
+msgstr "──違う。そんなわけがない。ドワーフには扇動と殺人の罪があると聞いていた。単なる悪態だとは聞いていない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16640,6 +16646,8 @@ msgid ""
 "couple o’ insults — an’ high-quality ones too, proper fit fer a queen! Ye "
 "even helped keep me an’ my boys from escapin’!"
 msgstr ""
+"Asheviere は俺がちょっと悪口を言っただけで檻に入れたではないか── "
+"女王にふさわしい素晴らしい悪口だったというのに！それに俺や仲間を逃がさないようにしていたのは貴様ではないか！あれはどういうことだ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16649,6 +16657,8 @@ msgid ""
 " no crime but daring to criticise her! You even tried to stop me from "
 "freeing them!"
 msgstr ""
+"従姉よ、それは否定できない。Asheviere は自分を非難した Ulfdain "
+"と仲間の坑夫を無法に拘禁していたではないか！彼らを解放しようとした私達を自ら止めようとしたこと、忘れたのか！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16656,7 +16666,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. I was told those dwarves were sentenced for "
 "sedition and murder, not mere vulgarity."
-msgstr ""
+msgstr "──違う。そんなわけがない。ドワーフには扇動と殺人の罪があると聞いていた。単なる悪態だとは聞いていない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16666,6 +16676,8 @@ msgid ""
 "daring to criticise her! You even tried to stop me from intervening to free "
 "them!"
 msgstr ""
+"Asheviere は自分を非難した Ulfdain "
+"と仲間の坑夫を無法に拘禁していたではないか！あれはどういうことだ？彼らを解放しようとした私達を自ら止めようとしたこと、忘れたのか！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16675,6 +16687,8 @@ msgid ""
 "Aethenwood, Asheviere sent her armies to take our fleeing civilians as "
 "slaves. It is only thanks to Konrad they escaped!"
 msgstr ""
+"Li’sar、お前が否定するのはおかしい。Aethen の森で同胞が敗れた後、Asheviere "
+"は軍勢を差し向けて逃げる民達を奴隷にしようとした。彼らの逃走を助けてくれた Konrad には感謝しかない！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16684,6 +16698,8 @@ msgid ""
 "civilians, but you were all to be afforded a fair trial and a just verdict, "
 "not taken as slaves."
 msgstr ""
+"──違う。そんなわけがない。Aethen "
+"の森のエルフは危険な存在で、単なる民ではない。それでも、公平な裁判を受けることになっていた。奴隷にしようとしたわけではない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16693,6 +16709,8 @@ msgid ""
 " armies to take our fleeing civilians as slaves? Without Konrad’s "
 "intervention they would be in chains in the mines!"
 msgstr ""
+"Aethen の森でエルフが敗れた後、Asheviere は軍勢を差し向けて逃げる民達を奴隷にしようとした。あれはどういうことだ？Konrad "
+"の介入がなければ、彼らは鉱山で鎖に繋がれていただろう！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16702,6 +16720,8 @@ msgid ""
 "Asheviere sent her armies to take the fleeing civilians as slaves. I was "
 "there — it is only by my sword that they escaped!"
 msgstr ""
+"従姉よ、それは否定できない。Aethen の森でエルフが敗れた後、Asheviere "
+"は軍勢を差し向けて逃げる民達を奴隷にしようとした。私もそこにいた── 私が剣を持って立ち向かわなければ彼らは逃げられなかった！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16711,6 +16731,8 @@ msgid ""
 "civilians, but they were to be afforded a fair trial and a just verdict, not"
 " taken as slaves."
 msgstr ""
+"──違う。そんなわけがない。Aethen "
+"の森のエルフは危険な存在で、単なる民ではない。それでも、公平な裁判を受けることになっていた。奴隷にしようとしたわけではない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16720,6 +16742,8 @@ msgid ""
 " armies to take the fleeing civilians as slaves? Without my intervention "
 "they would be in chains in the mines!"
 msgstr ""
+"Aethen の森でエルフが敗れた後、Asheviere "
+"は軍勢を差し向けて逃げる民達を奴隷にしようとした。あれはどういうことだ？私が介入しなければ、彼らは鎖に繋がれて鉱山で働かされていただろう！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16729,6 +16753,8 @@ msgid ""
 "Wesnoth’s wild gryphons and steal their eggs! I was there — it is only by my"
 " sword that Gryphon Mountain was not entirely ruined!"
 msgstr ""
+"従姉よ、それは否定できない。Asheviere はドワーフの手下を使って、野生のグリフォンを殺し、卵を奪おうとした！私もそこにいた── "
+"私が立ち向かわなければグリフォンの山からグリフォンはいなくなっていた！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16738,7 +16764,7 @@ msgid ""
 "—no, that can’t be right. I was told we’d decided against the egg "
 "expedition, because of the intelligence of gryphons and the risks to their "
 "population."
-msgstr ""
+msgstr "──違う。そんなわけがない。グリフォンには知恵があることに加えて、彼らの絶滅リスクを考慮して、卵の採集計画は取りやめたと聞いている。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16748,6 +16774,8 @@ msgid ""
 "gryphons and steal their eggs? Without my intervention Gryphon Mountain "
 "might have been entirely ruined!"
 msgstr ""
+"Asheviere "
+"はドワーフの手下を使って、野生のグリフォンを殺し、卵を奪おうとした！あれはどういうことだ？私が介入しなければ、今頃グリフォンの山はもぬけの殻と化していただろう！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16757,6 +16785,8 @@ msgid ""
 "Wesnoth’s wild gryphons and steal their eggs! I may have benefitted from the"
 " act, but that does not change Asheviere’s decision to do it."
 msgstr ""
+"従姉よ、それは否定できない。Asheviere はドワーフの手下を使って、野生のグリフォンを殺し、卵を奪おうとした！私もそれに一部加担してしまった── "
+"しかし、私の行動が Asheviere の判断に影響を与えたわけではない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16766,6 +16796,9 @@ msgid ""
 "gryphons and steal their eggs? I may have benefitted from the act, but that "
 "does not change Asheviere’s decision to do it."
 msgstr ""
+"従姉よ、それは否定できない。Asheviere "
+"はドワーフの手下を使って、野生のグリフォンを殺し、卵を奪おうとした！これはどういうことだ？私もそれに一部加担してしまったが、私の行動が "
+"Asheviere の判断に影響を与えたわけではない。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16775,6 +16808,8 @@ msgid ""
 " from my home, leaving many of our number to die at the hands of undead. It "
 "is only thanks to Konrad that our seal was restored and calamity averted!"
 msgstr ""
+"Li’sar、それを否定はできまい。闇の女王は我が故郷への援助を意識的に差し止めた。おかげで、多くの仲間がアンデッドの手に掛かってしまった。封印が修復され、災禍を免れたのは"
+" Konrad のおかげだ！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16782,7 +16817,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. You and your order are doing important work; it "
 "should be the crown’s responsibility to keep you provisioned."
-msgstr ""
+msgstr "──違う。そんなわけがない。お前と組織の者達は重要な仕事をしていた。必要な支援を提供することは王家の義務だ。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16792,6 +16827,8 @@ msgid ""
 " many of our number to die at the hands of undead? Without Konrad’s "
 "intervention our seal would never have been restored!"
 msgstr ""
+"ほう！闇の女王は我が故郷への援助を意識的に差し止めた。おかげで、多くの仲間がアンデッドの手に掛かってしまったのだぞ。これはどういうことだ？Konrad "
+"が介入してくれなければ、封印の修復すらできなかったであろうな！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16802,6 +16839,8 @@ msgid ""
 " of undead. It is only by my sword that their seal was restored and calamity"
 " averted!"
 msgstr ""
+"従姉よ、それは否定できない。Asheviere "
+"はグリフォンの山の修道院への援助を意図的に差し止めた。結果、多くの者達がアンデッドの手に掛かって命を落とした。私が剣を持って立ち向かわなければ、封印を修復し、災厄を回避することはできなかった！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16809,7 +16848,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. The monastic mages are doing important work; it "
 "should be the crown’s responsibility to keep them provisioned."
-msgstr ""
+msgstr "──違う。そんなわけがない。修道院の魔術師達は重要な仕事をしていた。必要な支援を提供することは王家の義務だ。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16819,6 +16858,8 @@ msgid ""
 " monastery, leaving many of their number to die at the hands of undead? "
 "Without my intervention their seal would never have been restored!"
 msgstr ""
+"Asheviere "
+"はグリフォンの山の修道院への援助を意図的に差し止めた。結果、多くの者達がアンデッドの手に掛かって命を落とした。あれはどういうことだ？私が介入しなければ、封印を修復し、災厄を回避することはできなかった！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16828,6 +16869,8 @@ msgid ""
 "was more than just a quest to capture Konrad and Delfador. Asheviere has a "
 "lust for control, and anyone who resists must be destroyed."
 msgstr ""
+"Li’sar、お前が否定するのはおかしい。Asheviere と Aethen の森の争いは Konrad と Delfador "
+"を捕らえる以外の意味もあった。Asheviere には強烈な支配欲があり、逆らう者は誰であろうと滅ぼそうとしていた。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16837,6 +16880,8 @@ msgid ""
 "quest to capture Konrad and Delfador. Asheviere has a lust for control, and "
 "anyone who resists must be destroyed."
 msgstr ""
+"Asheviere による Aethen の森への攻撃、あれはどういうことだ？あれには明らかに Konrad と Delfador "
+"を捕らえる以外の意味があった。Asheviere には強烈な支配欲があり、逆らう者は誰であろうと滅ぼそうとしていた。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16846,6 +16891,8 @@ msgid ""
 "more than just a quest to capture me and Delfador. Asheviere has a lust for "
 "control, and anyone who resists must be destroyed."
 msgstr ""
+"従姉よ、それは否定できない。Asheviere と Aethen の森の争いは私と Delfador を捕らえる以外の意味もあった。Asheviere "
+"には強烈な支配欲があり、逆らう者は誰であろうと滅ぼそうとしていた。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -16855,11 +16902,13 @@ msgid ""
 "quest to capture me and Delfador. Asheviere has a lust for control, and "
 "anyone who resists must be destroyed."
 msgstr ""
+"Asheviere と Aethen の森の争い、あれはどういうことだ？あれには明らかに私と Delfador "
+"を捕らえる以外の意味があった。Asheviere には強烈な支配欲があり、逆らう者は誰であろうと滅ぼそうとしていた。"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1143
 msgid "I feel... nothing."
-msgstr ""
+msgstr "何も… 感じられない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1172
@@ -16868,6 +16917,7 @@ msgid ""
 "your soldiers and I are to battle, know that even weakened from the caves "
 "they shall still find me a formidable foe."
 msgstr ""
+"Li’sar、リッチは滅びた。ということは、一時休戦の協定もこれまでだ。我々は洞窟で大きく消耗しているが、今ここで戦えば配下の兵士達もただではすまないだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1177
@@ -16876,6 +16926,7 @@ msgid ""
 "we are to battle, know that even weakened from the caves you shall still "
 "find me a formidable foe."
 msgstr ""
+"Li’sar、リッチは滅びた。ということは、一時休戦の協定もこれまでだ。我々は洞窟で大きく消耗しているが、今ここで戦えばそちらもただではすまないだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1182
@@ -16885,6 +16936,9 @@ msgid ""
 "we do not stop her. If you are willing, I would welcome your aid in my fight"
 " to make Wesnoth a better place."
 msgstr ""
+"しかし、Asheviere について私が見てきたこと── そして Malal "
+"の言葉を聞いただろう。闇の女王は既に数え切れないほどの人々を傷つけている。私達が止めなければ我々が愛する多くのものが灰燼に帰しただろう。もしよければ、Wesnoth"
+" をより良い国にするため、私に力を貸してくれないだろうか？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1186
@@ -16893,6 +16947,8 @@ msgid ""
 "spent my entire childhood listening to my mother give orders and commanding "
 "armies around. I’d always given her the benefit of the doubt."
 msgstr ""
+"母にも欠点はあるけれど、そんな犯罪に手を染めたりはしていない… "
+"子供の頃、ずっと母が命令を出したり、軍隊に指示したりするのを聞いていた。私はいつも、母の言葉を良い方に解釈していた。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1190
@@ -16902,6 +16958,7 @@ msgid ""
 "course they fought back. I was never told who most of these people were or "
 "why they fought my mother. Now the volcano, and now this lich..."
 msgstr ""
+"しかし疑問に思う部分があったことも否めない。私は母のもっとも信頼する副将となった。最も深刻な類の反乱を鎮めるために何度も派遣された。もちろん反撃を受けた。彼らが誰で、なぜ母と戦っているのかは誰も教えてくれなかった。そして今回の噴火、そして先ほどのリッチ…"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1203
@@ -16910,6 +16967,7 @@ msgid ""
 "own flesh. Perhaps together we can save our country in a way that neither of"
 " us could alone."
 msgstr ""
+"鎖を外してくれたら仲間に加わろう。例えそれが肉親に逆らうことだとしても。もしかしたら、二人で力を合わせれば一人だけではできない形で私達の国を救うことができるかもしれない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1209
@@ -16917,27 +16975,28 @@ msgid ""
 "I will join you, even if it means opposing my own flesh. Perhaps together we"
 " can save our country in a way that neither of us could alone."
 msgstr ""
+"仲間に加わろう。例えそれが肉親に逆らうことだとしても。もしかしたら、二人で力を合わせれば一人だけではできない形で私達の国を救うことができるかもしれない。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1238
 msgid ""
 "We’ve come this far together. There is no reason for me to execute an "
 "unarmed woman, enemy though she may be!"
-msgstr ""
+msgstr "ここまで一緒に来たんだ。例え敵であっても、無抵抗な女性を殺める理由はない！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1257
 msgid ""
 "I can’t believe it. Bested so far from home.... and in part by the actions "
 "of my own mother. Embarrassing..."
-msgstr ""
+msgstr "信じられない。故郷から遠く離れた場所で… しかも一部は母の行動のせいでもある… どうしてこんなことに…"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1262
 msgid ""
 "We are beaten! Bested so far from home.... and in part by the actions of the"
 " queen..."
-msgstr ""
+msgstr "ここまでか！故郷から遠く離れた場所で… しかも一部は女王陛下の行動のせいで…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1273
@@ -16945,14 +17004,14 @@ msgid ""
 "Li’sar’s soldiers have fallen, and their camps have become infested with "
 "undead! I would rejoice, if we were not surely about to follow them into "
 "undeath..."
-msgstr ""
+msgstr "Li’sar の兵士達が力尽きたのか。彼らの主塔にはアンデッドが集まっている！我々もすぐに彼らと同じく不死のお仲間になるのだろう…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1310
 msgid ""
 "Ugh... I am faint with hunger and exhausted from our long days underground. "
 "We must finish these undead before we become too weak to fight!"
-msgstr ""
+msgstr "うっ… 地下での無理がたたったのか。空腹と消耗で身体がふらつく。まだ戦闘ができる間にアンデッドを一掃しなければ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1317
@@ -16962,6 +17021,8 @@ msgid ""
 "still able to vanquish these undead without our aid, she will surely do the "
 "same to us now that we have become so frail!"
 msgstr ""
+"心臓… 頭… 長い試練による負荷が重くのしかかる。もはや立っているだけで精一杯。戦うことなどできない。他の皆も同様か。Li’sar "
+"が我々の援助なしで首尾よくアンデッドを駆逐できたとしても、我々にはその後 Li’sar 達をどうすることもできない！"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:10

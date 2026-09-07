@@ -575,7 +575,7 @@ msgstr ""
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:134
 msgid "Choose Later"
-msgstr ""
+msgstr "後で選択する"
 
 #. [lua]: wesnoth.interface.game_display.unit_status
 #. [chance_to_hit]: id=skill_illusion
@@ -2199,43 +2199,43 @@ msgstr "このシナリオではゴールドを獲得することも消費する
 #. water
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:448
 msgid "There lies the mirror pool, but it is strangely dry..."
-msgstr ""
+msgstr "鏡の池はそこなのだが、妙だな。干上がってしまっている・・・"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:453
 msgid "Fill the central pool with water"
-msgstr ""
+msgstr "中央の池に水を満たす"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:468
 msgid ""
 "Villages do not provide income in this scenario (since you have unlimited "
 "turns), but still provide healing."
-msgstr ""
+msgstr "このシナリオでは、ターン数の制限がないため、村からの収入は得られません。ただし、回復の機能は有効です。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:494
 msgid ""
 "This is a puzzle segment. If you don’t like puzzles or find it too "
 "challenging, you can choose to skip it."
-msgstr ""
+msgstr "このシナリオはパズルのパートになっています。パズルを好まない場合や、難しすぎると感じる場合は、スキップすることも可能です。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:496
 msgid ""
 "The puzzle is harder on high difficulties, and much easier on low "
 "difficulties."
-msgstr ""
+msgstr "パズルの難易度はプレイしている難易度に従い、高難易度でプレイしている場合はパズルも難しく、低難易度ではパズルも易しくなります。"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:498
 msgid "Play the puzzle <i>(includes XP)</i>"
-msgstr ""
+msgstr "パズルをプレイする（経験値を得られます）"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:501
 msgid "Skip the puzzle"
-msgstr ""
+msgstr "パズルをスキップする"
 
 #. [message]: speaker=Delfador
 #. referencing the events in The South Guard; exaggerated
