@@ -17034,7 +17034,7 @@ msgstr "雪原"
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:41
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:57
 msgid "Clan Fell-Hand"
-msgstr ""
+msgstr "Fell-Hand 氏族"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:193
@@ -17043,13 +17043,14 @@ msgid ""
 "distance?! ...I’d be elated to see you, if you weren’t so clearly marching "
 "in rapport with the traitor prince. This is a surprise."
 msgstr ""
+"王女殿下！遠くに見えるのはまさかあなたなのですか？！……裏切り者の王子と仲良く現れたりしなければ、この再会を喜べたのですが。これは驚きですね。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:197
 msgid ""
 "Konrad’s not the one who tried to kill his own allies in a flood of lava, "
 "Mirya. Yet here I stand alive and free, while you are locked behind bars."
-msgstr ""
+msgstr "Mirya、Konrad は自分の仲間を溶岩で焼き殺そうとするような者ではない。私は生きて、自由であるというのに、あなたは檻の中か。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:201
@@ -17058,6 +17059,8 @@ msgid ""
 "reliable courier. You’ve seen every major event in the kingdom firsthand; "
 "people and battles I’ve only read about in sanitized reports."
 msgstr ""
+"ここ 10 "
+"年以上、あなたは母に使える中で最も素早い斥候であり、最も信頼された連絡係でもあった。あなたは国のあらゆる重要な出来事をその目で見たはずだ。人々や戦闘について私が目にしたものは、検閲され、消毒された報告でしかなかった。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:205
@@ -17065,6 +17068,8 @@ msgid ""
 "Tell me, when did we stop trying to make Wesnoth a better place; a stronger "
 "place? Or was it always this way and I was just too blind to see?"
 msgstr ""
+"教えて欲しい。Wesnoth "
+"をより良い、より強い国にするのを我々はいつ諦めてしまった？それとも、私の目が曇りきっていただけで、始めからずっとそうだったのか？"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:213
@@ -17073,42 +17078,44 @@ msgid ""
 "rebels and traitors, orc-haters out for your head. Set me free and I will "
 "help you fight."
 msgstr ""
+"Urag-"
+"Tifer、すぐに私を解放しなさい。あの兵士達は裏切り者や反逆者で、オークを憎んでいる。あなたの首も狙っているでしょう。私を解放すれば力を貸しましょう。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:217
 msgid ""
 "Set you free so you can magic yourself away without us getting our ransom? "
 "Fat chance. Just ’cause I’m an orc doesn’t mean I’m stupid."
-msgstr ""
+msgstr "解放したら、お前は魔法で逃げ出して、身代金を踏み倒すんだろう？ありえないな。オークだからって馬鹿とは限らないぞ。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:221
 msgid ""
 "We’ll handle these soldiers the orcish way. C’mon, boys, grab your swords! "
 "We’ve got a battle to win!"
-msgstr ""
+msgstr "あいつらはオークのやり方でもてなしてやる。野郎共、剣を持て！やるぞ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:253
 msgid "Defeat Urag-Tifer"
-msgstr ""
+msgstr "Urag-Tifer を倒す"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:281
 msgid ""
 "There’s the mage, but there won’t be time to deal with her until we first "
 "defeat these orcs!"
-msgstr ""
+msgstr "あの魔術師がいるが、今はこいつの相手をしている場合じゃない。まずはオークを倒すぞ！"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:315
 msgid "Gah, ah..."
-msgstr ""
+msgstr "ウガッ、くっ……"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:322
 msgid "Hands off!! Not another swing at me, or the mage gets it!"
-msgstr ""
+msgstr "下がれ！！これ以上来るならこの魔術師を殺すぞ！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:330
@@ -17116,49 +17123,50 @@ msgid ""
 "Okay, go ahead. We’re fighting to stop Mirya from returning to my mother, "
 "not to rescue her or to keep her as prisoner."
 msgstr ""
+"そうか。好きにしろ。私達は Mirya が母の元にもどらないようにするため戦っている。Mirya を救うためでも、捕虜にしようとしているわけでもない。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:338
 msgid "<b><i>That’s</i></b> all you want?!"
-msgstr ""
+msgstr "<b>それでいいのか</b>？！"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:342
 msgid "Wait—"
-msgstr ""
+msgstr "待って──"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:347
 msgid "There, she’s dead. Better I lose a ransom than my life."
-msgstr ""
+msgstr "ほら、死んだぞ。身代金のために命は捨てられねぇ。"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:351
 msgid ""
 "Now get out of here. You pinkskins and your politics have caused me enough "
 "trouble already..."
-msgstr ""
+msgstr "さあ、もういいだろ。さっさとどっかへ行ってくれ。ニンゲンとニンゲンの政治とやらはもうたくさんだ……"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:367
 msgid ""
 "Mirya isn’t the type to leave her fate to chance, Konrad. While we’re busy "
 "fighting, she’s certainly planning some kind of escape."
-msgstr ""
+msgstr "Konrad、Mirya は神頼みをするようなタイプじゃない。我々が戦っている間に逃げ出すための算段を立てているはずだ。間違いない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:371
 msgid ""
 "If we take too long to defeat these orcs and capture her, she may slip away "
 "from us and back to Asheviere."
-msgstr ""
+msgstr "オークへの対処に時間をかけすぎると、Mirya が何らかの方法で抜け出して、Asheviere の元に戻ってしまうだろう。"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:378
 msgid ""
 "Finally, I’ve burned an opening in these bars. And that oaf of an orc has "
 "been too preoccupied with Li’sar to notice! Time to slip away..."
-msgstr ""
+msgstr "ようやく鉄格子に穴が開いたわね。そしてノロマなオークは Li’sar に夢中で気づいていない！こっそり抜け出すとしましょう……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:13
@@ -17170,49 +17178,49 @@ msgstr "リーダーシップの危機"
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:44
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:68
 msgid "Clan Whitefang"
-msgstr ""
+msgstr "Whitefang 氏族"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:50
 msgid "Chief Khargol"
-msgstr ""
+msgstr "族長 Khargol"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:51
 msgid "Ga-har"
-msgstr ""
+msgstr "Ga-har"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:52
 msgid "Aharb"
-msgstr ""
+msgstr "Aharb"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:53
 msgid "Arshag"
-msgstr ""
+msgstr "Arshag"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:54
 msgid "Rizgab"
-msgstr ""
+msgstr "Rizgab"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:57
 msgid "Muk-har"
-msgstr ""
+msgstr "Muk-har"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:153
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:164
 msgid "25 gold"
-msgstr ""
+msgstr "25 ゴールド"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:154
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:155
 msgid "50 gold"
-msgstr ""
+msgstr "50 ゴールド"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:156
@@ -17222,14 +17230,14 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:162
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:163
 msgid "100 gold"
-msgstr ""
+msgstr "100 ゴールド"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:157
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:159
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:161
 msgid "200 gold"
-msgstr ""
+msgstr "200 ゴールド"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:324

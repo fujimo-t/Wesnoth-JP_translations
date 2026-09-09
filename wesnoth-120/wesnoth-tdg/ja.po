@@ -169,7 +169,7 @@ msgstr "シナリオ 2：血を求めて"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
 msgid "Complete <i>The Ambassador</i> without killing any wose."
-msgstr "ウーズを殺すことなく『使節』をクリアする。"
+msgstr "ウーズを殺すことなく『駐在官』をクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
@@ -1713,7 +1713,7 @@ msgstr "オークの最前線は崩壊したも同然だ！進め、騎士たち
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:11
 msgid "The Ambassador"
-msgstr "使節"
+msgstr "駐在官"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:43
@@ -1733,7 +1733,8 @@ msgid ""
 "But I won’t disappoint him. I am to find Wesnoth’s ambassador to Lintanir "
 "Forest, and then deliver to the elves a notice."
 msgstr ""
-"とは言え、陛下を失望させるわけにはいかない。Wesnoth から Lintanirの森に派遣する使節を見つけ、エルフたちに通知しなくちゃならない。"
+"とは言え、陛下を失望させるわけにはいかない。Wesnoth から "
+"Lintanirの森に派遣されている駐在官を見つけ、エルフたちに通知しなくちゃならない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:124
@@ -1861,7 +1862,7 @@ msgstr ""
 msgid ""
 "Peace! Peace! You must be the man King Garard sent me to meet: Ambassador "
 "Deoran."
-msgstr "待った！落ち着いてくれ！あんたは Garard王が私のもとに寄越した、使節の Deoran だろう。"
+msgstr "待った！落ち着いてくれ！あんた、Garard王が私に合流を命じた駐在官の Deoran だろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:360
@@ -2245,6 +2246,8 @@ msgid ""
 "you single-handedly beat down a horde of black-magic bandits and saved the "
 "south from destruction? You’re practically a folk hero!"
 msgstr ""
+"Deoran 、俺はあなたに関する試験を Alduin "
+"での２年目に受けたことがあるんだ。黒魔術を使う山賊の大軍団を援軍もなしに撃退して、南部を滅亡から救ったっていうのは本当なのかい？まさに民衆の英雄だな！"
 
 #. [message]: speaker=Deoran
 #. this is what has happened to Deoran since ending The South Guard
@@ -2254,6 +2257,9 @@ msgid ""
 "his favorites, but has little tolerance for failure. I found scant room for "
 "advancement within Wesnoth after so much blood spilled in Westin."
 msgstr ""
+"そう考える人もいるかもしれんな。だが、陛下はあまりお気に召さなかったようだ—— Garard "
+"というお方は寵臣には寛大だが、失敗に対しては全くと言っていいほど容赦がない。Westin で多量の血を流したとあっては、Wesnoth "
+"の中央に私が要職を得る余地は残されていないであろうな。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:543
@@ -2263,6 +2269,8 @@ msgid ""
 "exercise what I learned from my time amongst the Aethenwood elves. I have "
 "come to value my friends here."
 msgstr ""
+"しかし、それも過ぎた話だ。Lintanir の駐在官は、肩書きとしては申し分のない名誉職であり、Aethen "
+"の森でエルフとともに過ごすことで得られた知恵を実践する機会に恵まれる役職でもある。私はここに掛け替えのない友人たちを得ることができた。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:547
@@ -2271,6 +2279,7 @@ msgid ""
 "of my own ilk, yet still I hope to return to Lintanir once my war-duty is "
 "done."
 msgstr ""
+"再び参陣して同胞と行動を共にできることを待ち望んでいることは否定できないが、それでもなお、軍務を完遂次第、Lintanir へ帰還したいと願っている。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:561
