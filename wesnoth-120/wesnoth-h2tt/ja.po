@@ -17244,7 +17244,7 @@ msgstr "200 ゴールド"
 msgid ""
 "I have the scheming orc locked up, Konrad. My soldiers and I will guard the "
 "camp to make sure he doesn’t escape until you safely return."
-msgstr ""
+msgstr "Konrad、計画を立てたオークは拘束した。あなたが無事に戻るまで、私達は野営地を守り、こいつを逃がさないようにしておく。"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:330
@@ -17252,6 +17252,7 @@ msgid ""
 "Yeah yeah, nice cage. Now, prince — recruit three of your best fighters, and"
 " my followers’ wagons will sneak you four into the camp."
 msgstr ""
+"へへっ、いい檻だな。それじゃあ王子よ── ３人の最高の戦士達を選べ。そうしたら俺の手下の馬車がお前たち４人を野営地までこっそり運び込んでくれるだろう。"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:336
@@ -17259,17 +17260,17 @@ msgid ""
 "You haven’t seen our camp before, but as long as you stay hidden in my "
 "wagons you should be able to freely explore. Once you find the chief, kill "
 "him!"
-msgstr ""
+msgstr "俺たちの野営地がどうなっているのかは知らないだろうが、馬車に隠れている間は自由に動き回れるはずだ。そして、族長を見つけたら…殺れ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:344
 msgid "Recruit three units to help Konrad infiltrate the orcish camp"
-msgstr ""
+msgstr "Konrad のオークの野営地へ潜入を助ける３体のユニットを雇用する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:351
 msgid "Find and defeat the Orcish Sovereign"
-msgstr ""
+msgstr "オークの君主を見つけ、倒す"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:362
@@ -17277,13 +17278,15 @@ msgid ""
 "Konrad can only recruit or recall during this scenario’s first turn. Next "
 "turn, Fagh-mok will sneak all your units into the center of the orcish camp."
 msgstr ""
+"Konrad はシナリオの最初のターンだけ雇用、召還が可能です。次のターン、Fagh-mok "
+"によって全てのユニットがオークの野営地中央へと忍び込みます。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:368
 msgid ""
 "Konrad’s soldiers are disguised. They will be permanently revealed after any"
 " soldier moves adjacent to an enemy."
-msgstr ""
+msgstr "Konrad の兵士は変装しています。誰かが敵の隣に移動すると、恒久的に全員の姿が露見します。"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:396
@@ -17291,13 +17294,14 @@ msgid ""
 "Just you? You’re going alone? ...fine, pick a wagon, get in, and hide under "
 "the hay. My goblins will sneak you inside."
 msgstr ""
+"お前だけか？一人で行くつもりなのか？…わかった。馬車を選んで中に入れ。そして干し草の下に隠れるんだ。そうすればゴブリン達がお前を中に忍び込ませる。"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:405
 msgid ""
 "Ready? Pick a wagon, get in, and hide under the hay. Harness your animals to"
 " the front. My goblins will sneak you all inside."
-msgstr ""
+msgstr "準備はいいか？馬車を選んで中に入れ。そして干し草の下に隠れるんだ。動物達は前に繋げ。あとはゴブリン達がお前たちを中に忍び込ませてくれる。"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:415
@@ -17305,6 +17309,7 @@ msgid ""
 "Ready? Pick a wagon, get in, and hide under the hay. Yes, even that big rock"
 " thing. My goblins will sneak you all inside."
 msgstr ""
+"準備はいいか？馬車を選んで中に入れ。そして干し草の下に隠れるんだ。そうだ、そのでかい岩のやつもだ。あとはゴブリン達がお前たちを中に忍び込ませてくれる。"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:425
@@ -17312,79 +17317,80 @@ msgid ""
 "Ready? Pick a wagon, get in, and hide under the hay. Err... maybe we can "
 "find something less flammable than hay to cover up that fire thing."
 msgstr ""
+"準備はいいか？馬車を選んで中に入れ。そして干し草の中に隠れるんだ。ああ… その炎みたいなやつは干し草よりも燃えにくいモノで覆ってくれ。何かあるだろ？"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:434
 msgid ""
 "Ready? Pick a wagon, get in, and hide under the hay. My goblins will sneak "
 "you all inside."
-msgstr ""
+msgstr "準備はいいか？馬車を選んで中に入れ。そして干し草の下に隠れるんだ。あとはゴブリン達がお前たちを中に忍び込ませてくれる。"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:512
 msgid "Wagons at the gate!"
-msgstr ""
+msgstr "門の前に馬車だ！"
 
 #. [message]: role=gate_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:517
 msgid ""
 "That you, Razgob? Glad to see you’re bringing pillage with you this time."
-msgstr ""
+msgstr "Razgob、お前か？今回はなかなかの成果のようだな。いいことだ。"
 
 #. [message]: role=gate_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:522
 msgid ""
 "That you, Razgob? Big load of pillage you’ve brought with you this time."
-msgstr ""
+msgstr "Razgob、お前か？今回はずいぶんたくさん奪ってきたな。"
 
 #. [message]: role=wagon1
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:527
 msgid "Wagon Driver"
-msgstr ""
+msgstr "馬車の御者"
 
 #. [message]: role=wagon1
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:529
 msgid "(shaking) *squeak*"
-msgstr ""
+msgstr "（震えながら）＊キキッ＊"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:533
 msgid ""
 "Stupid runtling, quit trembling! What’re you so afraid of? Go on through and"
 " get everything to the stockpiles."
-msgstr ""
+msgstr "馬鹿なチビめ、身震いをやめろ！何をそんなに怖がっている？さっさと中へ進んで備蓄庫に全部運び込め。"
 
 #. [hides]: id=disguised
 #. ability given to a wagon
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:563
 msgid "disguised"
-msgstr ""
+msgstr "変装"
 
 #. [hides]: id=disguised
 #. ability given to a wagon
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:565
 msgid "This unit’s mundane exterior conceals assassins within."
-msgstr ""
+msgstr "このユニットの平凡な外見が中にいる暗殺者を隠します。"
 
 #. [message]: speaker=$spotter_id
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:618
 msgid ""
 "Hey, I think there’s someone hiding inside this wagon! Let’s chase away the "
 "driver and break it apart!"
-msgstr ""
+msgstr "おい、あの馬車には誰かが隠れているみたいだぞ！御者を追い払ってバラすぞ！"
 
 #. [message]: speaker=leader6
 #. this is the same orc who let Konrad's soldiers in
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:634
 msgid "It’s a spy! Which one of you grunts let that worm into our camp?!"
-msgstr ""
+msgstr "こいつはスパイだ！どこの馬鹿がこいつらを野営地に入れやがった？"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:638
 msgid ""
 "We’re under attack! Check the other wagons! Grab your swords and kill "
 "anything that looks out of place!"
-msgstr ""
+msgstr "敵の奇襲か！他の馬車も調べろ！コソ泥を全員始末しろ！"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #. [event]
@@ -17398,19 +17404,19 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:37
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:452
 msgid "Konrad"
-msgstr ""
+msgstr "Konrad"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:650
 msgid ""
 "They’re getting ready for battle! We have to defeat the chief before we’re "
 "overwhelmed."
-msgstr ""
+msgstr "敵は戦闘準備を進めている！数で押しつぶされる前に族長を倒すぞ！"
 
 #. [message]: role=arshag_wolf
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:779
 msgid "Grrrr! Arf!"
-msgstr ""
+msgstr "グルルル！アウッ！"
 
 #. [message]: speaker=Arshag
 #. Arshag is talking to his pet wolf, in the same way that a modern human
@@ -17419,61 +17425,61 @@ msgstr ""
 msgid ""
 "Who’s a good girl? Are you a good girl? Are you ready to feast on the bones "
 "of our enemies?"
-msgstr ""
+msgstr "よしよしどうした？いい子だな？敵の骨をかじりたくなったか？"
 
 #. [message]: role=arshag_wolf
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:788
 msgid "Arf! Arf! Woof!"
-msgstr ""
+msgstr "アフッ！アフッ！クゥーン！"
 
 #. [message]: speaker=leader3b
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:803
 msgid ""
 "Hurry on past, goblin. I don’t want your stench in my nose while I’m trying "
 "to eat."
-msgstr ""
+msgstr "さっさと行け、ゴブリン。食事中にその悪臭をまき散らされてはかなわん。"
 
 #. [message]: role=nw_gold_guard
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:820
 msgid ""
 "That last raid was great! I can’t believe the queen is still finding rebel "
 "villages for us to plunder!"
-msgstr ""
+msgstr "前の襲撃の成果はすごかった！俺たちが襲う反逆者の村を女王が見つけてくれるってんだからたまらねぇ！"
 
 #. [message]: role=nw_gold_guard
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:824
 msgid ""
 "Just look at this pile of gold I’ve pillaged! I hope nobody steals my loot "
 "while I’m not looking..."
-msgstr ""
+msgstr "このゴールドの山を見ろ！俺が目を離した隙に取られないといいんだが…"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:840
 msgid ""
 "There are caged animals here, many bearing the brand of a chief. They don’t "
 "look very well cared for."
-msgstr ""
+msgstr "動物が閉じ込められている。多くには族長の焼き印があるな。ロクに世話をされていないようだ。"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:844
 msgid ""
 "Let us lift the latch on their fence gate, then quietly leave before anybody"
 " notices..."
-msgstr ""
+msgstr "閂を開けておこう。そして気づかれない内に素早く離れるんだ…"
 
 #. [message]: role=boar_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:862
 msgid ""
 "Chief! Chief! Someone opened the pasture gate! Your prize pigs are running "
 "free!"
-msgstr ""
+msgstr "族長！族長！誰かが家畜の囲いの門を開けやがった！族長の自慢の豚共が逃げた！"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:866
 msgid ""
 "Imbeciles! You three, go guard the pen and find my pigs. When I find out who"
 " was responsible..."
-msgstr ""
+msgstr "馬鹿野郎！お前たち３人、囲いを守り、俺の豚共を探してこい。一体誰がやりやがった……"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:916
@@ -17481,29 +17487,29 @@ msgid ""
 "Argh, this place is so boring! Why am I stuck guarding this dumb valley "
 "instead of going out on raids? I wish something exciting would finally "
 "happen..."
-msgstr ""
+msgstr "あー、つまんねぇ！なんでこんなクソみたいな谷の警備なんかやらなきゃならんのだ。俺も襲撃に出たいぜ。何か楽しいことでも起こんねぇかな……"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:932
 msgid "Hey, what’re you goblins doing back here? Get lost!"
-msgstr ""
+msgstr "おい、どうしてゴブリンがここに戻ってきた？さっさと失せろ！"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:949
 msgid "Look at all those weapons! This must be one of their armories."
-msgstr ""
+msgstr "あの武具の山を見ろ！ここは武器庫の一つのようだな。"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:954
 msgid ""
 "If we can sabotage some without waking that goblin guard, we’ll make it "
 "harder for their chief to recruit fighters and respond to our attack."
-msgstr ""
+msgstr "あのゴブリンの衛兵を起こさずに破壊工作をできれば、オークの族長が戦士の雇用を支障をきたし、我々の攻撃への対応も遅れるだろう。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:964
 msgid "The Orcish Sovereign’s gold has been reduced to 0."
-msgstr ""
+msgstr "オークの君主のゴールドが 0 になりました。"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:981
@@ -17511,18 +17517,20 @@ msgid ""
 "Where’s that useless worm Fagh-Mok? He’s supposed to take orders from me! "
 "But he’s been acting suspiciously lately, and now I can’t find him at all."
 msgstr ""
+"役立たずの Fagh-Mol "
+"の野郎はどこだ？あいつは俺の命令を待っているはずじゃなかったか！あいつは最近は怪しい動きをしている。その上、今はどこにも姿が見えない。"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:985
 msgid ""
 "I’ll be watching him. He’d better not try anything funny or I’ll chop his "
 "head off!"
-msgstr ""
+msgstr "奴はきちんと監視しておかなければ。今度怪しい真似をしやがったら頭をカチ割ってやる！"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:990
 msgid "That must be the orcish chief. He’s the one we need to kill."
-msgstr ""
+msgstr "あいつがオークの族長に違いない。奴が標的だ。"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1005
@@ -17530,19 +17538,19 @@ msgid ""
 "We have reached an orcish keep, but our army is still outside. Any attempt "
 "to bring them in would only give the orcs time to deploy more soldiers "
 "against us."
-msgstr ""
+msgstr "オークの主塔に着いた。しかし味方はまだ外にいる。彼らを呼び寄せようとすれば、オークに気づかれ、戦士を配備する時間を与えてしまうだけだろう。"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1029
 msgid ""
 "You idiot! What’re you doing back here?! You’re supposed to be fighting the "
 "chief!"
-msgstr ""
+msgstr "お前は馬鹿か！ここに戻って何をしている？！族長と戦うんだろう！"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1035
 msgid "Get back in there or our deal’s off!"
-msgstr ""
+msgstr "さっさと中に戻れ！でなきゃ取引はナシだ！"
 
 #. [message]: speaker=Khargol
 #. referring to the events from the final scenario of Asheviere's Dogs.
@@ -17552,7 +17560,7 @@ msgstr ""
 msgid ""
 "You! You’re that wizard from the battle at Dan’Tonk! The one who did the "
 "storm and the lightning."
-msgstr ""
+msgstr "貴様！貴様は Dan’Tonk の戦場にいた魔術師だな！嵐と稲妻を操っていた魔術師。"
 
 #. [message]: speaker=Khargol
 #. Bazur is an orcish warrior, and the main character of Asheviere's Dogs.
@@ -17560,60 +17568,60 @@ msgstr ""
 msgid ""
 "Bazur always said he wanted a chance to kill you. Now I’ll do what he never "
 "could!"
-msgstr ""
+msgstr "Bazur はお前を殺したいといつも言っていた。あいつが結局できなかったこと、俺が今ここで代わりにやってやろう！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1060
 msgid ""
 "Those were dark days. Today I end your rule as I shall one day end "
 "Asheviere’s!"
-msgstr ""
+msgstr "あれは忌まわしい日々であった。私は今日お前の支配を終わらせる。そしていつか Asheviere の支配も終わらせてみせる！"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1071
 msgid ""
 "Hey! Do you see that? That’s the thing the queen told us to watch out for!"
-msgstr ""
+msgstr "おい！アレを見たか？女王が気をつけろと言っていたのはアレのことだろう！"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1075
 msgid "The Sceptre of Fire! Get it!"
-msgstr ""
+msgstr "アレが炎の笏だ！奪え！"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1086
 msgid "Weakling invaders! I’ll kill you all!"
-msgstr ""
+msgstr "惰弱なコソ泥め！皆殺しにしてやる！"
 
 #. [message]: role=arshag_wolf
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1101
 msgid "whimper whimper whimper"
-msgstr ""
+msgstr "クゥーン… クゥーン… クゥーン…"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1105
 msgid "You’ll pay for that!"
-msgstr ""
+msgstr "絶対に生かして返さん！"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1113
 msgid "These foes are beyond my strength!"
-msgstr ""
+msgstr "俺ではこいつらに勝てない！"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1121
 msgid "Filthy pinkskins!"
-msgstr ""
+msgstr "卑怯なニンゲンめ！"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1129
 msgid "Curse you all!"
-msgstr ""
+msgstr "チクショウが！"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1137
 msgid "Gah!!"
-msgstr ""
+msgstr "グワッ！"
 
 #. [message]: speaker=Khargol
 #. Konrad may not have struck the finishing blow, but it'll be either him or
@@ -17622,42 +17630,42 @@ msgstr ""
 msgid ""
 "Impossible! Arr, how shameful to die at the hands of some stupid "
 "assassins..."
-msgstr ""
+msgstr "なんてこった！ああ、馬鹿な暗殺者に殺られるなんてダサいことをやっちまうとは……"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1161
 msgid "Gado-har"
-msgstr ""
+msgstr "Gado-har"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1166
 msgid "Khargol’s dead! The assassins killed our chief!"
-msgstr ""
+msgstr "Khargol が死んだ！暗殺者に族長が殺られた！"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1176
 msgid ""
 "Now is my chance! Set me free, girl, so I can take command of the horde!"
-msgstr ""
+msgstr "よし、チャンスだ！小娘、俺を解放しろ！俺が軍勢のトップに立つんだ！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1180
 msgid ""
 "Set you free? Nice try. You’re not getting out of that cage until Konrad "
 "returns."
-msgstr ""
+msgstr "解放しろ？おもしろい冗談だな。Konrad が無事に戻るまで出られないんだろう？"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1186
 msgid ""
 "Stupid girl, you think the other orcs are just going to let him walk out? I "
 "must take command. Set me free or your friends all die!"
-msgstr ""
+msgstr "馬鹿な小娘が。他のオークが黙ってあいつを見逃すと思うのか？俺がトップに立てなければお前の友達はみんな死ぬぞ！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1190
 msgid "Rrr... insufferable. I don’t know how Mother stands working with orcs."
-msgstr ""
+msgstr "ううっ… イライラする。母はどうやってオークと協力しているんだ。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1194
@@ -17666,47 +17674,48 @@ msgid ""
 " you. If you know anything about me, you’ll know that’s a promise I can "
 "keep."
 msgstr ""
+"行け。しかし決して裏切ろうとは思うな。裏切ったら私が自らどこまでも追いかけ、必ず息の根を止めてやる。私のことを少しでも知っているか？知っているなら、冗談でないことを理解できるだろう？"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1214
 msgid "Assassins! I’ll get them!"
-msgstr ""
+msgstr "暗殺者め！俺が仇を取る！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1219
 msgid "You?! What??"
-msgstr ""
+msgstr "お前は？！どうして？？"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1225
 msgid "Play dead, you idiot."
-msgstr ""
+msgstr "死んだふりをしろ、この馬鹿が。"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1244
 msgid ""
 "Look, everyone! I have slain the invaders and avenged the murder of our "
 "chief!"
-msgstr ""
+msgstr "見ろ！俺が侵入者を殺し、族長の仇を取ったぞ！"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1250
 msgid ""
 "As head of Khargol’s personal guard, is only right that I assume the late "
 "chief’s duties! Long live chief Fagh-mok the Amazing!"
-msgstr ""
+msgstr "Khargol の護衛のリーダーとして、俺が族長の責務を引き継ぐのは当然のことだ！新たな族長、「驚嘆の Fagh-mok」に従え！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1258
 msgid "Akhir"
-msgstr ""
+msgstr "Akhir"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1263
 msgid ""
 "Fagh-mok? You?! You’re weak! You were nothing more than the chief’s sword-"
 "carrier!"
-msgstr ""
+msgstr "Fagh-mok？お前が？！この弱虫が！お前はただ族長の剣を持っていただけだろう！"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1267
@@ -17714,49 +17723,50 @@ msgid ""
 "No, I should be chief instead! Khargol respected me most of all! I followed "
 "him from the beginning!"
 msgstr ""
+"お前ではダメだ！俺こそが族長にふさわしい！Khargol は誰よりも俺に敬意を払っていた！俺は最初から Khargol の後についていったんだから！"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1272
 msgid ""
 "No, I should be chief! My warriors are the bravest, and I am the strongest "
 "warrior of all!"
-msgstr ""
+msgstr "いいや、俺こそが族長だ！俺の部下達が最も勇敢で、最も強いんだからな！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1276
 msgid "Bovrir"
-msgstr ""
+msgstr "Bovrir"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1281
 msgid ""
 "Strongest?! I could kill both you AND that ingrate Fagh-Mok, with one hand "
 "tied behind my back!"
-msgstr ""
+msgstr "最も強いだと？俺ならお前も恩知らずの Fagh-Mok もまとめて殺せる！なんなら、片手を背中に縛られても余裕だ！"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1288
 msgid "Oh yeah? Come here and try it, you worthless sack of slime!"
-msgstr ""
+msgstr "おおそうか？ならやってみろ、役立たずのクズ野郎が！"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1292
 msgid ""
 "I say we kill all three of ’em! Warriors, fight to make me chief and I "
 "promise to bathe you all in gold and blood!"
-msgstr ""
+msgstr "貴様等は皆殺しだ！戦士達よ、俺を族長にしてみろ！そうすればゴールドと血を好きなだけ浴びさせてやるぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1324
 msgid "Hail, Li’sar! I return!"
-msgstr ""
+msgstr "やあ Li’sar、戻ったよ！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1328
 msgid ""
 "The orcich camp echoes with shouts and screams. I take it Fagh-Mok’s bid to "
 "become chief has not gone according to plan?"
-msgstr ""
+msgstr "オークの野営地からは叫び声と悲鳴が響き渡っている。Fagh-Mok の族長への道は計画通りに進んでいないということだな？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1332
@@ -17765,12 +17775,14 @@ msgid ""
 "ours. Chief Khargol is dead, and until the Whitefangs resolve their "
 "succession crisis they’ll be of no aid to Asheviere."
 msgstr ""
+"そうとは言いきれない。しかし、私達は約束を果たし、Fagh-mok も約束を果たした。族長 Khargol は命を落とし、Whitefang "
+"氏族は後継問題が片付くまで Asheviere に協力することはできない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1336
 msgid ""
 "Then we’ve accomplished what we set out to do. Onwards to the next battle."
-msgstr ""
+msgstr "ここでやるべきことは完了したということか。ならば次の戦いに向かおう。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:10

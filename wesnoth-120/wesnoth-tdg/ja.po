@@ -2121,14 +2121,14 @@ msgstr "真夜中"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:278
 msgid ""
 "There’s 5 gold pieces in this old boat! I suppose it’s better than nothing."
-msgstr ""
+msgstr "この古船に金貨が！5枚か。ないよりはマシか。"
 
 #. [message]: speaker=Delfador
 #. said after a Forest Lion, Horned Scarab, or Silverback (a gorilla) attacks
 #. one of the player's units
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:359
 msgid "Look out! There’re beasts in the forest!"
-msgstr ""
+msgstr "気をつけろ！森の中に獣がいるぞ！"
 
 #. [message]: speaker=Deoran
 #. said after the player double-clicks on Delfador to try and cast a spell
@@ -2288,12 +2288,14 @@ msgid ""
 "ambassador. Deoran is no fool; if he does not already know, he certainly "
 "suspects."
 msgstr ""
+"Chantal 、どうしても話しておかなければならないことがある。お前が駐在官に対して特別な感情を抱いているのは私の目には明らかだ。Deoran "
+"とて愚者ではない。確信はないとしても、何か察するところはあるやも知れぬ。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:565
 msgid ""
 "—who? What? Great-Grandfather, I have no idea what you’re talking about."
-msgstr ""
+msgstr "——誰が？何をですか？ひいおじいさま、仰る意味が私にはよく分かりませんわ。"
 
 #. [message]: speaker=Chantal
 #. continuing the "Chantal has feelings for Deoran" conversation, a moment
@@ -2305,6 +2307,8 @@ msgid ""
 "<i>human</i>! Even a crusty old elf like you has to admit that round ears "
 "and stubble are exotic."
 msgstr ""
+"わかりました、もう結構です——ええ、認めますわ。ですが、Deoran "
+"は素晴らしい人物です！知恵と慈悲を兼ね備え、辺境の地へ遠ざけられても、その任に静かに耐えています。しかも彼は人間族なのですよ！ひいおじいさまのような保守的な老エルフだって、丸い耳や無精髭が興味深いということは認めざるを得ないはずです。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:576
@@ -2314,6 +2318,9 @@ msgid ""
 "pursue this, but I know all-too-well the pain from outliving those you love."
 " Cleodil was just as stubborn as you..."
 msgstr ""
+"人間族の命は鮮やかに燃え上がるが、あまりに儚い。仮に彼が Lintanir "
+"に戻って来たとしても、如何なる未来を築けるというのだ？お前がそれを追い求めるという覚悟であるならば、止めはせぬ。だが、愛する者に先立たれる痛みを、私は嫌というほど知っているのだ。Cleodil"
+" も、今のお前と同じように譲らなかったな・・・"
 
 #. [message]: speaker=Delfador
 #. the player has just moved a unit onto one of several blue orbs scattered
@@ -2333,7 +2340,7 @@ msgstr "ムーンストーンだわ！Elende はここで一体何を・・・"
 #. redirecting the river into the beast's hex
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:601
 msgid "Odd, the water appears shallow but the beast has vanished entirely."
-msgstr ""
+msgstr "不可解だな。それほど深くはなさそうなのに、獣が跡形もなく消えてしまった。"
 
 #. [message]
 #. a player unit has just drowned in the river, as a result of the player
@@ -2342,34 +2349,34 @@ msgstr ""
 msgid ""
 "This sandbed is shallow, but the water is suddenly deep and a strange magic "
 "tugs at my legs! I am drowning!"
-msgstr ""
+msgstr "この砂地は浅いはずなのに、俄に深くなって、不思議な魔力で脚が引きずり込まれる！溺れてしまう！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:635
 msgid ""
 "female^This sandbed is shallow, but the water is suddenly deep and a strange"
 " magic tugs at my legs! I am drowning!"
-msgstr ""
+msgstr "この砂地は浅いはずなのに、俄に深くなって、不思議な魔力で脚が引きずり込まれるわ！溺れてしまう！"
 
 #. [message]
 #. a monster has just drowned in the river, as a result of the player
 #. redirecting the river into the beast's hex
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:646
 msgid "Gurgle gurgle gurgle..."
-msgstr ""
+msgstr "ゴボゴボゴボ・・・"
 
 #. [message]: speaker=Delfador
 #. the player has completed their puzzle, and filled the central "mirror pool"
 #. with water
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1064
 msgid "There! The pool is full!"
-msgstr ""
+msgstr "よし！池が満たされたぞ！"
 
 #. [time]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1090
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:913
 msgid "Void"
-msgstr ""
+msgstr "虚無"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1128
@@ -2393,7 +2400,7 @@ msgstr "Elende！"
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1283
 msgid "Elende, I come with friends, seeking foresight! Deoran and Del—"
-msgstr ""
+msgstr "Elende 、我が朋友を伴い、予知を求めて来訪した！Deoran 、そして Del ——"
 
 #. [message]
 #. immediately after this, magically created "mirror image" units of
@@ -2401,7 +2408,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1289
 msgid ""
 "I know who you are, Delfador of Alduin. But how well do you know yourselves?"
-msgstr ""
+msgstr "お前が何者であるかは知っておる、Alduin の Delfador よ。だが、お前達はどれほど己自身を知っているというのだ？"
 
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1327
@@ -2413,30 +2420,30 @@ msgstr "Deoran"
 #. referencing the mirror image of Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1343
 msgid "Deoran, is that... you? You look so much younger."
-msgstr ""
+msgstr "Deoran 、あれは・・・あなたの姿ですか？とても若く見えますが。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1347
 msgid "What’s going on?! Kalenz, is this normal?"
-msgstr ""
+msgstr "何が起きている！？ Kalenz 、ここではこれが普通なのか？"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1373
 msgid "Defeat all enemies"
-msgstr ""
+msgstr "すべての敵を倒す"
 
 #. [objective]: condition=lose
 #. if reduced to 0 hp, Delfador doesn't die. Instead, he's kicked out of the
 #. mirror world, and fails the scenario
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1378
 msgid "Loss of Delfador"
-msgstr ""
+msgstr "Delfador の消失"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1390
 msgid ""
 "In this strange world, fate guides every strike. <i>(attacks never miss)</i>"
-msgstr ""
+msgstr "この不可思議な世界では、あらゆる攻撃が運命に導かれます。（攻撃が外れることはありません）"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1416
@@ -2467,7 +2474,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1443
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1931
 msgid "Dawn"
-msgstr ""
+msgstr "夜明け"
 
 #. [message]: speaker=Delfador
 #. Delfador has missed the ending of the prophecy, and the player loses the
