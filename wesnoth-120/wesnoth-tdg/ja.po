@@ -2400,7 +2400,7 @@ msgstr "Elende！"
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1283
 msgid "Elende, I come with friends, seeking foresight! Deoran and Del—"
-msgstr "Elende 、我が朋友を伴い、予知を求めて来訪した！Deoran 、そして Del ——"
+msgstr "Elende 、我、朋友を伴いて、啓示を賜るために推参せり！この者らは Deoran 、そして Del ——"
 
 #. [message]
 #. immediately after this, magically created "mirror image" units of
@@ -2491,11 +2491,13 @@ msgid ""
 "Lich’s eye and brother’s bone; what have you sacrificed to save your people,"
 " Kalenz? Your greatest fear stands before you... ahead of you?"
 msgstr ""
+"リッチの目と朋輩の骨、エルフの民の救済と引き換えに、そなたは何を犠牲にしてきた？ Kalenz "
+"よ。げに恐ろしきものが、そなたの眼前に・・・あるいは前途に立ちはだかるか？"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1501
 msgid "That was long ago, Elende! This is about the humans’ story, not mine."
-msgstr ""
+msgstr "そは過去のことなるぞ、Elende よ！此度求めたるは我がことにあらず、人間族の物語なり。"
 
 #. [message]
 #. spoken by Elende (through Deoran's mirror image), referencing his exile. I

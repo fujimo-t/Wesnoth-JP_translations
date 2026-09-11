@@ -17792,33 +17792,33 @@ msgstr "Thoria の断崖"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:38
 msgid "Drakes"
-msgstr ""
+msgstr "ドレーク"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:113
 msgid "There is 80 gold lying in a cove at the bottom of this waterfall!"
-msgstr ""
+msgstr "滝の底のくぼみに 80 ゴールドがあったぞ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:196
 msgid ""
 "All is quiet. Whatever fight was happening here, it ended before we could "
 "intervene."
-msgstr ""
+msgstr "静まり返っている。ここで何が起こったにせよ、我々が介入する間もなく終わってしまったようだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:203
 msgid ""
 "And the outcome is no mystery — there is a small fleet of boats shattered "
 "among the river islands! I shall send a scout to investigate."
-msgstr ""
+msgstr "そしてその結果は明らかだ── 川の中洲に粉々になった船団の残骸がある。斥候を出してみよう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:217
 msgid ""
 "And the outcome is no mystery — there is a small fleet of boats shattered "
 "among the river islands! I shall send my familiar to investigate."
-msgstr ""
+msgstr "そしてその結果は明らかだ── 川の中洲に粉々になった船団の残骸がある。使い魔を斥候を出してみよう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:233
@@ -17828,6 +17828,8 @@ msgid ""
 "capsized have been burned. And most curious of all — all flew the banner of "
 "Wesnoth."
 msgstr ""
+"不思議だ。しっかりした船の残骸ではない。ごく最近造られた喫水の浅い船のものだ。しかも生木が多く使われている。転覆していないものは全て焼かれている。そして最も不思議な点は──"
+" 全てが Wesnoth の旗を掲げていたことだ。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:237
@@ -17835,16 +17837,18 @@ msgid ""
 "Wesnoth! There is only one army of Wesnoth in these lands, and it is the one"
 " which I led here to fight you. These must be survivors from the volcano!"
 msgstr ""
+"Wesnoth の旗！？このあたりにいる Wesnoth "
+"の軍勢はただ一つ、私があなたたちと戦うために連れてきた者達だけ。ならば、あの噴火を生き延びた者達に違いない！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:241
 msgid "I’m afraid they don’t seem to be survivors any longer, Li’sar."
-msgstr ""
+msgstr "Li’sar、残念だが、彼らはもう「生存者」ではないのかもしれない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:250
 msgid "Keh Ohn"
-msgstr ""
+msgstr "Keh Ohn"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:258
@@ -17855,13 +17859,18 @@ msgid ""
 "Seek no further trespass of our land across this river.\n"
 "Lest you reach only that same end as they who did so before you."
 msgstr ""
+"人間の領域から侵入者！\n"
+"警告に耳を傾けるのだ。これはお前たちへの最後の警告だ──\n"
+"\n"
+"川の先は我らの地。侵入は許さない。\n"
+"それでも来るならば、先人と同じ末路をたどるだけだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:266
 msgid ""
 "A drake! So the winged figures we saw fighting were drakes. You are the ones"
 " who destroyed this flotilla?"
-msgstr ""
+msgstr "ドレーク！我々が見た翼ある生物はドレークだったのか。この船団を破壊したのはあなたたちなのか？"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:270
@@ -17876,6 +17885,15 @@ msgid ""
 "So I grant you, who were not directly responsible, your lives.\n"
 "Now go."
 msgstr ""
+"そうだ。\n"
+"\n"
+"奴等は我らの領域で獲物を狩った。我々の掟を破った。\n"
+"そして… 奴等はドレークの卵を奪った… 我々の卵を… 獲物として。\n"
+"\n"
+"そのような輩に慈悲は無用。\n"
+"遠い昔、我々の先祖もお前たちの種族に同様のことをしたらしい。\n"
+"だからお前たちは見逃す。お前たちに直接の責任は無い。\n"
+"さあ立ち去れ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:282
@@ -17884,6 +17902,7 @@ msgid ""
 "enough to do such a thing, unless unknowingly or in extreme starvation. I "
 "fear this has been a terrible misunderstanding."
 msgstr ""
+"その兵士達はドレークの卵を食べたのか？何も知らなかったか、よほど極限の飢餓状態でもないかぎり、そのようなことをする者がいるとは思えない。何かひどい誤解があったのではないだろうか。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:286
@@ -17892,6 +17911,7 @@ msgid ""
 "they will have. We will go, drake, but you will first turn over any "
 "prisoners and allow us to search the river for survivors."
 msgstr ""
+"私の鍛え上げた兵士達は腕が立ち、粘り強い。生存の道があったのであれば、必ず生き残るはずだ。ドレークよ、我らは行く。ただ、もし捕虜がいるなら引き渡して欲しい。それと川で生存者を探す許可をくれないか？"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:290
@@ -17901,6 +17921,10 @@ msgid ""
 "The matter is decided.\n"
 "My decision, final."
 msgstr ""
+"奴等の命は既に無いも同然。\n"
+"我らの若者の命を喰らった者はかならず破壊する。\n"
+"既にそう定められた。\n"
+"最終的な結論だ。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:297
@@ -17909,43 +17933,44 @@ msgid ""
 "Wesnoth has survived then I am coming to his rescue. Stand in my way only if"
 " you seek to do battle."
 msgstr ""
+"無礼なドラゴンめ。勝手に決めるな！Wesnoth の兵士が一人でも生き残っているのであれば、私が必ず助けに行く。戦う意志がないなら我が道を阻むな！"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:301
 msgid "So be it, fellow contender."
-msgstr ""
+msgstr "そうか。挑戦者よ、かかってこい。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:311
 msgid "Find the survivor near the southeast corner of the map."
-msgstr ""
+msgstr "マップ南東あたりにいる生存者を見つける"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:318
 msgid "Then, escort him towards the west edge of the map."
-msgstr ""
+msgstr "そして、彼をマップ西端まで護衛する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:326
 msgid "Reach Warven, then escort him towards the west edge of the map."
-msgstr ""
+msgstr "Warven のところにたどり着き、そして彼をマップ西端まで護衛する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:335
 msgid "Escort Warven west to the marked hexes."
-msgstr ""
+msgstr "Warven を西側のマークのあるヘクスまで護衛する"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:342
 msgid "Death of Warven"
-msgstr ""
+msgstr "Warven の死"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:357
 msgid ""
 "Warven will remain under player control until the end of the scenario, but "
 "will join Li’sar’s side in future scenarios."
-msgstr ""
+msgstr "Warven はこのシナリオの間はプレイヤーの指揮下に入りますが、以後のシナリオでは Li’sar の陣営に参加します。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:372
@@ -17953,7 +17978,7 @@ msgid ""
 "I don’t see any enemy keep on the river, but it’s littered with crude "
 "dwellings. We should break down the drakish villages to stop them rallying "
 "more fighters."
-msgstr ""
+msgstr "川に主塔はないようだが、粗末な住居が点在している。ドレークの村々を破壊し、戦士を集められないようにするべきだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:392
@@ -17962,16 +17987,18 @@ msgid ""
 " spume, it must drop several hundred feet at least! To try to sail past this"
 " would be suicide."
 msgstr ""
+"大きな滝がある。雷鳴のような水音と波しぶきの高さからすると、少なくとも数 100 "
+"メートル以上の高さから落ちてきているだろう！ここを抜けようとするのは自殺行為だな。"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:406
 msgid "GRRROOOOAAAAR!"
-msgstr ""
+msgstr "<b>グロロロアアアアアア！</b>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:412
 msgid "Huzzah! We’ve killed their leader!"
-msgstr ""
+msgstr "やった！敵のリーダーを殺したぞ！"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:417
@@ -17979,13 +18006,15 @@ msgid ""
 "Our dominant is slain!\n"
 "Gliders, send word to the first intendant of his ascension by fate."
 msgstr ""
+"族長が討たれた！\n"
+"滑空者、運命によって昇進したと第１副官に伝えよ。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:440
 msgid ""
 "We’ve slain one of the drakes! Their biology is... wow, incredibly strange —"
 " yes, I think there must be some magic in them."
-msgstr ""
+msgstr "ドレークを一人殺しましたね！彼らの生態は… あら、こんなに変わっているんですね── ええ、やはり何らかの魔力が内在しているようですね。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:444
@@ -17994,6 +18023,8 @@ msgid ""
 "could kill, say, err, thirty drakes — not including this one, that is — then"
 " I’m sure their fire could show me how to improve my flashpowder."
 msgstr ""
+"もっと標本が集まれば、何か実用的なことができそうです。そうですね、うーん、30 体くらい──？そうですね、これを除いて 30 "
+"体、それだけあれば、彼らの炎で私の発煙粉を改良できるでしょう。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:465
@@ -18001,7 +18032,7 @@ msgid ""
 "That’s fifteen drakes you’ve defeated. I’m already learning so much from "
 "dissecting the corpses! Fifteen more and I’m sure I’ll learn something "
 "practical."
-msgstr ""
+msgstr "これで 15 体ですね。死体を解剖していたら色々わかってきましたよ！あと 15 体あれば、何か実用的なこともできるようになるでしょう。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:475
@@ -18010,44 +18041,46 @@ msgid ""
 "absolutely amazing! Such fascinating creatures! Did you know that each wing "
 "contains upwards of seven major arteries?"
 msgstr ""
+"あら？あらあら？お願いした 30 "
+"体に到達ですね！これは…最高ですね！なんて魅力的な生物なのでしょう！１つの翼に７本以上の太い動脈が通っているなんて！知っていましたか？"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:479
 msgid ""
 "Err, and, well, of course I’ve extracted some particular reagents that could"
 " be useful on the battlefield as well. As promised."
-msgstr ""
+msgstr "あら？えーっと、そうそう、もちろん戦場で使える特殊な素材も抽出できていますよ。言った通りに。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:511
 msgid ""
 "Good, we’ve destroyed one drake beacon. Each one we raze will make it more "
 "difficult for them to rally their fighters."
-msgstr ""
+msgstr "よし。ドレークの目印を１つ破壊した。壊せば壊しただけ敵の戦士が集まり辛くなるだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:580
 msgid ""
 "Look! I see someone at the top of the furthermost cliff! It’s a young human "
 "officer, barely more than a boy. He appears badly hurt but still alive."
-msgstr ""
+msgstr "見ろ！最奥の崖の頂上に誰かいる！若い人間の士官、まだ少年と言ってもいい年頃だろうか。ひどい怪我だが、まだ息はあるようだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:593
 msgid ""
 "I wonder why the drakes haven’t finished him by now? It is strange that "
 "there are not any drakes in that area."
-msgstr ""
+msgstr "なぜドレークは彼に止めを刺さなかったのだろう？あのあたりには不自然にドレークの姿が無い。"
 
 #. [message]: type=Water Serpent,Kraken
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:616
 msgid "Grrroar"
-msgstr ""
+msgstr "グロアア！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:620
 msgid "Well... that answers the question."
-msgstr ""
+msgstr "なるほど… そういうことか。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:625
@@ -18055,6 +18088,7 @@ msgid ""
 "That young officer is Warven, one of my best lieutenants! He might well be "
 "the only survivor of this battle! We must reach him and bring him to safety."
 msgstr ""
+"あの若い士官は Warven。最も優秀な副官の一人だ！彼が唯一の生存者かもしれない！彼のところまで行き、そして安全な場所まで連れ出さなければ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:628
