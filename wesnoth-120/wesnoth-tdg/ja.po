@@ -2508,6 +2508,8 @@ msgid ""
 " his counsel and cast him away. What will become of the life he has built "
 "amongst Lintanir’s twilight eaves?"
 msgstr ""
+"左降の士 Deoran は故郷へと還る。自らを蔑み、その言葉を容れず、遂には放逐した同胞の元へと。Lintanir "
+"の黄昏の木陰で結んだ縁の行末は如何なるものになろうや？"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1542

@@ -15263,7 +15263,7 @@ msgstr "岩の隙間から赤と黄金が見えたぞ！笏まであと少しだ
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:956
 msgid "Argh! He’s more powerful than we thought. I have to get away!"
-msgstr "あぐっ！思ったよりもずっと手強い。ここは退かねば！"
+msgstr "うぐっ！敵は思ったよりもずっと手強い。ここは退くしか！"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:966
@@ -18099,6 +18099,8 @@ msgid ""
 "once tried his utmost to kill us? Will he follow you, or will he choose to "
 "betray us to Asheviere?"
 msgstr ""
+"地下で戦った者達と同様に、彼もあの時全力でもって我らを殺そうとしていたのだろう？彼はおとなしくお前の下につくのか？我々を裏切って Asheviere "
+"の下に向かったりはしないのか？この点は指摘しておかねばならない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:631
@@ -18107,6 +18109,7 @@ msgid ""
 " so long ago? He’s one of Asheviere’s! Will he follow you, or will he choose"
 " to betray us to the dark queen?"
 msgstr ""
+"あなたの判断を疑うわけではありませんが、ごく最近、彼は我々を殺そうとしいていたのですよね？彼は本当におとなしくあなたの下につくのですか？裏切って闇の女王の下に向かったりはしないのでしょうか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:632
@@ -18115,6 +18118,8 @@ msgid ""
 "pursued us underground and fought to kill us? Will he follow you, or will he"
 " choose to betray us to the dark queen?"
 msgstr ""
+"Asheviere "
+"に仕えていた者の心に誇りはあるのでしょうか？彼は地下で我々を追い回し、殺そうとしていたのでしょう？おとなしくあなたの下に加わってくれるのでしょうか？裏切って闇の女王の下へ向かったりはしないのでしょうか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:633
@@ -18123,6 +18128,8 @@ msgid ""
 "Konrad. How do you think he’s going to join our alliance now? What if he "
 "betrays us to the queen?"
 msgstr ""
+"そいつはちょっと前に地下で Konrad "
+"を殺そうとしていたんだろう？手抜きなんか考えもせずに全力で。そんな奴がおとなしくこの同盟に参加するのか？裏切って女王のところへ行ったらどうする？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:634
@@ -18131,6 +18138,9 @@ msgid ""
 "with you to kill Konrad. If rescued shall he join our alliance, or shall he "
 "betray us to Asheviere?"
 msgstr ""
+"彼も他の者と同様に Konrad "
+"を殺すために北まで来て、地下で戦ったのであろう。それは忘れてはならない。果たして、彼を助けたとして、我らの仲間に加わってくれるのであろうか？裏切って "
+"Asheviere の下に戻るのではないのか？"
 
 #. [companion_message]
 #. reference to this fable:
@@ -18142,6 +18152,7 @@ msgid ""
 "heads who fought us underground! He’ll betray us to Asheviere quick as a "
 "wink."
 msgstr ""
+"ほう、我々カエルは女王の手下のサソリを背にのせて川を泳ぐのか！我らはいつ背中をブスッとやられるかわからんな！背中を刺されるくらいなら、さっさと女王の下に逃げていってくれた方がいくらかマシだな！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:637
@@ -18150,6 +18161,8 @@ msgid ""
 "wasn’t he fighting underground trying to kill Konrad not too long ago? Is he"
 " going to join our alliance? What if he betrays us to Asheviere?"
 msgstr ""
+"人の命を救うことはとてもいいことですね。でも、ええと、そうですね、その方、最近地下で Konrad "
+"を殺そうとがんばっていた人ですよね？彼が仲間になるんですか？Asheviere の方に行っちゃうんじゃないですか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:638
@@ -18158,6 +18171,7 @@ msgid ""
 "not too long ago, wasn’t he? Now we want to help him? Dosh thinks he’ll run "
 "quick as a wink back to dat queen, an’ we’ll be all da worse for it."
 msgstr ""
+"Dosh それ賢くない思う。そいつ最近地下 Konrad 殺そうした？そいつ助ける？Dosh そいつ女王とこ行く思う。Dosh たちひどい目あう。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:639
@@ -18166,6 +18180,8 @@ msgid ""
 "tried his utmost to kill me. Will he follow you, or will he choose to betray"
 " us to Asheviere?"
 msgstr ""
+"地下で戦った者達と同様に、彼もあの時全力でもって私を殺そうとしていたのだろう？彼はおとなしくあなたの下につくのだろうか？我々を裏切って "
+"Asheviere の下に向かったりはしないのだろうか？この点は無視できない。"
 
 #. [message]: speaker=Lisar
 #. "you people" refers to the last speaker - one of Konrad's many possible
@@ -18177,61 +18193,63 @@ msgid ""
 "orders. I don’t question you people who Konrad chooses to put his trust in —"
 " please don’t question mine."
 msgstr ""
+"おそらくあなた達を殺そうと思っていただろうけど、彼は私に忠実で、私の命令だけを聞く。Konrad が誰を信用しようと私はそれを否定したりはしない── "
+"だから私の方も同じようにさせて欲しい。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:653
 msgid ""
 "Perhaps he did come to kill you, but he’s loyal to me and did so only at my "
 "orders. You can trust him."
-msgstr ""
+msgstr "おそらくあなた達を殺そうと思っていただろうけど、彼は私に忠実で、私の命令だけを聞く。だから信用できる。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:674
 msgid "Who... who are you? A friend or a foe?"
-msgstr ""
+msgstr "だれ…… 誰だ？敵か味方か？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:678
 msgid ""
 "We are friends. Don’t worry about it and don’t try to fight us — you are in "
 "no condition to fight."
-msgstr ""
+msgstr "味方だ。心配はいらない、だから戦おうとしないでくれ── 君は今戦える状態じゃない。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:682
 msgid ""
 "Welcome back to the fold, young lieutenant. Let’s get you to the healers."
-msgstr ""
+msgstr "よくぞ帰隊した、若き副官よ。さあ、治癒士のところに連れていこう。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:686
 msgid ""
 "General Li’sar — here? Praise Haldric, you’re alive! But... what you doing "
 "in league with the false prince?"
-msgstr ""
+msgstr "Li’sar 将軍── どうしてここに？ああ、Haldric よ、将軍が生きていた！しかし… あの偽りの王子と一緒にここで何を？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:690
 msgid ""
 "Call it a change of heart. You swore an oath to me. Will you follow us?"
-msgstr ""
+msgstr "気が変わった、ということだ。お前はかつて私に忠誠を誓った。我々と共に行くか？"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:694
 msgid "Your Highness... Highnesses, I am yours to command."
-msgstr ""
+msgstr "殿下…… いえ、殿下方…… もちろんご一緒いたします。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:721
 msgid ""
 "General... Thank you for rescuing me, but the others are in need of help "
 "too."
-msgstr ""
+msgstr "将軍… 助けていただき感謝します。しかし、助けを求める者達が他にもいるのです。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:725
 msgid "Others? There are more survivors!?"
-msgstr ""
+msgstr "なんだと？他にも生存者が！？"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:729
@@ -18240,6 +18258,8 @@ msgid ""
 "home. If I survive this battle, I can lead you upriver to our camp. They’ll "
 "be elated to see that you’ve survived."
 msgstr ""
+"ええ、殿下！我々はただの先遣隊です── "
+"故郷へ帰る道を探していました。ここを生き延びれれば、上流にある野営地までご案内します。あなたが生きていたと知れば、皆も元気が出るでしょう。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:750
@@ -18247,36 +18267,38 @@ msgid ""
 "Our foe flees.\n"
 "We are victorious."
 msgstr ""
+"敵は逃げた。\n"
+"我々の勝利だ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:756
 msgid "Warven’s made it to safety! Time to leave, everyone."
-msgstr ""
+msgstr "Warven が無事に逃げ切った！ここにはもう用事はない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:774
 msgid ""
 "No! Without him we will never find the other survivors. I’ve failed my duty "
 "as commander."
-msgstr ""
+msgstr "そんな！彼がいなければ他の生存者を見つけることができない。私は指揮官失格だ……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:792
 msgid ""
 "Even the best healing we can administer is no substitute for rest. We must "
 "get Warven to safety before his wounds become too much to bear."
-msgstr ""
+msgstr "どんなすばらしい治癒士がいようと、休息は絶対に必要だ。手遅れになる前に Warven を安全な場所に連れていかなければ。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:799
 msgid "Argh... I... can’t—"
-msgstr ""
+msgstr "ああ…… 私は… もう──"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:804
 msgid ""
 "No! Without him we will never find the other survivors. I’ve failed my men."
-msgstr ""
+msgstr "そんな！彼がいなければ他の生存者を見つけることができない。どうして助けてやれなかった…"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:9
