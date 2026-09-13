@@ -18308,72 +18308,72 @@ msgstr "地下水路"
 #. [side]: id=leader3, type=Saurian Javelineer
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:82
 msgid "Saurians"
-msgstr ""
+msgstr "トカゲ"
 
 #. [side]: id=Haralamdum, type=Ancient Wose
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:119
 msgid "Woses"
-msgstr ""
+msgstr "ウーズ"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:192
 msgid ""
 "Here we are! Whatever evil lurks within these caves, we shall put an end to "
 "it."
-msgstr ""
+msgstr "さあここだ！この洞窟にどんな邪悪が潜んでいようと、必ず退治してみせる。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:204
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:205
 msgid "Konrad, do you hear that sound? Look to the north. I wonder if—"
-msgstr ""
+msgstr "Konrad、今の音を聞いたか？北の方を見ろ。もしかして──"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:206
 msgid "Konrad, listen. Do you hear that? The trees are moving in the north!"
-msgstr ""
+msgstr "Konrad、耳を澄ませて。聞こえますか？北で木々が動いています！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:207
 msgid "Konrad, listen. Do you hear that? Look to the north. Woses!"
-msgstr ""
+msgstr "Konrad、耳を澄ませて。聞こえますか？北を見てください、ウーズです！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:208
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:209
 msgid "Whoah, did you hear that? Look north! The trees are moving!"
-msgstr ""
+msgstr "うわっ、今の聞こえたか？北だ！木々が動いている！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:210
 msgid "Hark to the north, Konrad! There is movement among the trees!"
-msgstr ""
+msgstr "Konrad、北側から音がする！木々の中に何か動きがある！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:211
 msgid "Hey, do you hear that? Look north! Th’ trees are moving!"
-msgstr ""
+msgstr "フン、聞こえたか？北だ！木々が動いておるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:212
 msgid "Do you hear that? Is — yes! Yes, look! A wose!"
-msgstr ""
+msgstr "聞こえましたか？あら── あらあら！見てください！ウーズですよ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:213
 msgid "Hey, Konrad, did you hear dat? I tink dem trees are moving!"
-msgstr ""
+msgstr "おい Konrad、聞こえた？木動いてる思う！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:214
 msgid "Delfador, do you hear that? Look to the north. Woses!"
-msgstr ""
+msgstr "Delfador、聞こえましたか？北側を見てください、ウーズです！"
 
 #. [message]: speaker=Haralamdum
 #. Well, I say. Is that young Master Delfador?
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:225
 msgid "Well, I say ... hmm dum har ... young Master Delfador?"
-msgstr ""
+msgstr "おお、そうだな… ムムム…… 若き魔術師 Delfador か？"
 
 #. [message]: speaker=Haralamdum
 #. So it is! How is the ambassador? He was here just the other day.
@@ -18381,14 +18381,14 @@ msgstr ""
 msgid ""
 "Harum-alam-alam. So it is! Hmm hmm alam ... how is ... hum ... the "
 "ambassador? He was here ... hmm ... just the other day."
-msgstr ""
+msgstr "ハラム アラム アラム。やはりそうだ！フムム ハムム アラム… 大使は… ハム… 元気か？彼は… フムム… 先日ここに来たぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:234
 msgid ""
 "That was many years ago, I’m afraid. You are the woses who once resided at "
 "the Grey Grove? I see you have learned the language of men."
-msgstr ""
+msgstr "それはもうずっと前のことではないか？それでお主は灰色森にいたウーズか？どうやら人間の言葉を覚えたようだな。"
 
 #. [message]: speaker=Haralamdum
 #. Hmm, yes. A very useful language. Now these undead... very troubling.
@@ -18396,7 +18396,7 @@ msgstr ""
 msgid ""
 "Hmm ... yes ... alam ... alam dum ... very useful ... language ... yes ... "
 "hum ... now these undead ... harum ... very troubling."
-msgstr ""
+msgstr "ハムム… そうだ… アラム… アラム ダム… 言葉は便利… そうだ… ハム… 今アンデッドが… ハラム… 問題を起こしている。"
 
 #. [message]: speaker=Haralamdum
 #. I am sure you could help rid us of these infernal undead. Afterwards, we
@@ -18407,23 +18407,25 @@ msgid ""
 "infernal undead ... yes, harum-alam-alam. Afterwards, we could perhaps... "
 "hmm ... help you too. Har alam dum."
 msgstr ""
+"お前たち… ダム ハム… 忌々しいアンデッド… アラム フラム 掃除手伝ってくれる… そうだ… ハラム アラム アラム。後で我々お前たち… フムム… "
+"助けられるかも。ハル アラム ダム。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:252
 msgid "Defeat the undead leader"
-msgstr ""
+msgstr "アンデッドのリーダーを倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:257
 msgid "Death of Haralamdum"
-msgstr ""
+msgstr "Haralamdum の死"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:278
 msgid ""
 "Konrad, this entrance is nearly flooded, and is too narrow for both our "
 "armies to enter. My soldiers and I will search for another way in."
-msgstr ""
+msgstr "Konrad、入り口がほとんど水浸しになっている。そして２つの軍勢が同時に進むには狭すぎる。私は別の入り口を探すことにしよう。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:292
@@ -18432,6 +18434,8 @@ msgid ""
 "spectacular resistance to poison! Wose sap... curing — yes, if I could just "
 "extract a bucket of wose sap I’m certain I could learn their secrets."
 msgstr ""
+"こんな間近でウーズをみることができるなんて！ウーズは毒に対して驚異的な耐性があると聞いたことがあります！ウーズの樹液… "
+"乾燥させて硬化、よさそうですね。バケツ一杯くらいのウーズの樹液があれば、彼らの秘密を明らかにすることができそうです。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:296
@@ -18440,13 +18444,14 @@ msgid ""
 "specimen, them being our allies and all. But, ah, we are on a battlefield. "
 "<b><i>We</i></b> don’t have to be the ones doing the cutting."
 msgstr ""
+"あら、ええと、そうですね、生体から樹液を抽出するのは問題がありそうです。彼ら仲間みたいですから。でも、えーと、ここは戦場ですよね。伐るのは<b>私達に限る必要はない</b>…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:300
 msgid ""
 "You’re asking me to help you rob the dead. Don’t you think that’s a bit "
 "ghoulish, Jeniver?"
-msgstr ""
+msgstr "あなたは私に死体を奪えと言っているのですか？それはちょっとグールみたいですよ、Jeniver？"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:304
@@ -18455,21 +18460,23 @@ msgid ""
 "wose when it dies. If I can, I’m sure — yes I’m sure I can gather enough sap"
 " to begin curing poisons."
 msgstr ""
+"色々な可能性を考えましょう！そう、例えば、ウーズが死ぬ時にたまたま私が隣に立っていたとしましょう。そうすれば── "
+"ええ、そうすればなんと私が毒の治療に必要な量の樹液を集めることができてしまうのです！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:313
 msgid "It’s falling over! Oh, now’s my chance to collect some sap!"
-msgstr ""
+msgstr "ああ、倒れてしまいそう！あら、これは樹液を集めるチャンスですね！"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:329
 msgid "Antivenom"
-msgstr ""
+msgstr "抗毒"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:330
 msgid "Jeniver has gained the “<i>cures</i>” ability!"
-msgstr ""
+msgstr "Jeniver は<b>「治療」</b>能力を獲得しました！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:334
@@ -18477,61 +18484,61 @@ msgid ""
 "It works! It works! Oh, I knew it! Now, err, I suppose I’d better quickly "
 "get back to the battle before the woses wonder what I was doing with their "
 "friend."
-msgstr ""
+msgstr "うまくいった！うまくいったわ！ああ、やっぱり！ええ、そうですね、倒れた方のお仲間達が疑問に思う前に素早く戦闘に復帰できたと思いますよ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:356
 msgid ""
 "Everyone ready? Good. Now that Konrad has distracted them from the west, "
 "we’ll push in from the east."
-msgstr ""
+msgstr "みんな準備は良い？良し。Konrad が西から気を引いている内に、私達は東から押し入りましょう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:379
 msgid ""
 "The river is clean and fresh in this direction. There are no undead to hunt "
 "this way."
-msgstr ""
+msgstr "こちらの方向は川もきれいで清潔そうだ。こちらにはアンデッドはいないのだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:405
 msgid "Look, saurians! What business do you have in these caves?"
-msgstr ""
+msgstr "見ろ、トカゲだ！この洞窟で何をしている？"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:409
 msgid "Fssssh! Ssslay you! Ssslay you all!"
-msgstr ""
+msgstr "フシシシィー！殺すすすす！みんな殺すすすす！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:413
 msgid "I don’t think diplomacy will get us far with these ones."
-msgstr ""
+msgstr "彼らとの外交が成功することはないでしょう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:428
 msgid ""
 "The aggressive saurians are vanquished, but the undead are the greater evil "
 "here. We must not waver!"
-msgstr ""
+msgstr "攻撃的なトカゲを倒した。しかしまだ巨悪たるアンデッドは健在だ。立ち止まっている場合じゃない！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:440
 msgid "Master. Is away. I guard. I will fight. Until Iliah. Malal returns."
-msgstr ""
+msgstr "マスター。不在。守る。Iliah 戻るまで。Malal。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:444
 msgid ""
 "Your master Malal is gone, you undead fool! Go back to your eternal rest."
-msgstr ""
+msgstr "愚かなアンデッド、お前のマスター、Malal はもういない！お前も永遠の安息へと戻るが良い。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:448
 msgid ""
 "Iliah-Malal? That is the lich we fought in the swamp. What would one of his "
 "minions be doing here? And why is it so powerful!?"
-msgstr ""
+msgstr "Iliah-Malal？沼地で戦ったリッチですか。彼の下僕がこんなところで何を？それになんでこんなに強力なのですか？"
 
 #. [message]: speaker=Delfador
 #. reference to Eastern Invasion's "Dark Sanctuary" scenario
@@ -18541,6 +18548,8 @@ msgid ""
 "in these hills. I do not think we have time to search for it, though. "
 "Perhaps a task for another hero, another time."
 msgstr ""
+"あのアンデッドは守ると言っていたな── Malal "
+"はこの丘陵のどこかに聖域のようなものを隠しているのではないだろうか。しかし、残念ながら我々に捜索している時間はない。誰か別の英雄がいつか成すべき仕事であろうな。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:471
@@ -18549,26 +18558,28 @@ msgid ""
 "running water has washed away most of the ink, but one passage is still "
 "readable..."
 msgstr ""
+"古い本がある。ラベルには<b>「Isaac Mallat ── "
+"日誌」</b>とある。流れる水でインクはほとんど落ちてしまっているが、一節だけはまだ読めそうだ…"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:476
 msgid ""
 "—died in my arms. My own brother! He could have been saved!! This imbecile "
 "king’s quarantine will be the end of us all."
-msgstr ""
+msgstr "──私の腕の中で死んだ。我が実の兄弟よ！救うことができたはずなのに！愚かな王に隔離され、我らは皆最期を迎えるのだろう。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:478
 msgid ""
 "I’m sure I’m not contagious. I’m sure there’s some way to cure it. If I "
 "sneak out of the village and make my way north to—"
-msgstr ""
+msgstr "これは人から人へ感染するものではない。私はそう確信している。治療の方法もあるはずだ。村を抜け出して北に向かえば──"
 
 #. [message]: speaker=Haralamdum
 #. Well done. Very good.
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:498
 msgid "Har hum har ... hmm ... well ... har alam dum ... good."
-msgstr ""
+msgstr "ハル ハム ハル… ハムム… うまくいった… ハル アラム ダム。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:502
@@ -18576,6 +18587,8 @@ msgid ""
 "Those undead will bother you no more, Sir Wose. Will you join us? We march "
 "towards Weldyn, to depose the dark queen Asheviere."
 msgstr ""
+"ウーズの賢者よ、これでアンデッドに悩まされることはないでしょう。我々に力を貸してもらえませんか？我々はこれから Weldyn へ向かい、闇の女王 "
+"Asheviere を追い落とそうとしているのです。"
 
 #. [message]: speaker=Haralamdum
 #. March? So hasty. No, we are not soldiers, not at all. And we are not many.
@@ -18583,18 +18596,18 @@ msgstr ""
 msgid ""
 "March? So hasty. Harum-alam-alam ... no, we are not soldiers ... harum ... "
 "not at all. And we are not ... hum ... not many."
-msgstr ""
+msgstr "向かう？そんなに急いで。ハラム アラム アラム… 我々戦士じゃない… ハラム… まったく違う。それに… ハム… 我々数少ない。"
 
 #. [message]: speaker=Haralamdum
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:511
 msgid "Hmm ... but there was something ... something to help ..."
-msgstr ""
+msgstr "フムム… 何かないか… 何か助けに……"
 
 #. [message]: speaker=Haralamdum
 #. Oh, yes. The dust.
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:517
 msgid "Har dum ... oh, yes, the dust."
-msgstr ""
+msgstr "ハル ダム… ああ、あった、あの粉だ。"
 
 #. [message]: speaker=Haralamdum
 #. Dust carried by a skeleton. Something magical. I put it— where did I put
@@ -18603,7 +18616,7 @@ msgstr ""
 msgid ""
 "Dust carried ... har alam dum ... by a skeleton. Something magical. I put it"
 " ... harum ... where did I put it..."
-msgstr ""
+msgstr "スケルトンが…… ハル アラム ダム… 運んでいた粉。何か魔法の品。どこに… ハラム… 置いたか…"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:529
@@ -18612,28 +18625,30 @@ msgid ""
 "of spells. I used the last of my supply in the defense of Elensefar, and "
 "have sorely missed it since. Thank you for your gift, Haralamdum."
 msgstr ""
+"なるほど── 粉末サファイアの小袋か！あらゆる呪文の役に立つ品だ。Elensefar "
+"の防衛時に私は手持ちを使い果たしてしまい、それ以来、どうにかして手に入れられないかと思っていた。Haralamdum、素晴らしい贈り物に感謝する。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:533
 msgid ""
 "Konrad, with this I can conjure up powerful earthen elementals. Malal must "
 "have stashed it away here. Now it is ours."
-msgstr ""
+msgstr "Konrad、これがあれば強力な大地の精霊を召喚できるぞ。Malal はここで秘密裏に保管していたに違いない。ありがたく頂戴しよう。"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:539
 msgid "Delfador can now recruit Granite Golems!"
-msgstr ""
+msgstr "Delfador は「花崗岩のゴーレム」を雇用できるようになりました！"
 
 #. [message]: speaker=Haralamdum
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:559
 msgid "Harum ... huff ..."
-msgstr ""
+msgstr "ハラム… ハフ……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:565
 msgid "The woses have been defeated! The undead have won."
-msgstr ""
+msgstr "ウーズが負けてしまった！アンデッドの勝利だ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:580
@@ -18641,7 +18656,7 @@ msgid ""
 "We should hurry, Konrad. There are storm clouds on the horizon. If we take "
 "too long to finish our battle and it starts to rain, this entire cave system"
 " might flood."
-msgstr ""
+msgstr "Konrad、時間がなさそうだ。地平線に雷雲が見える。時間をかければ雨が降り始め、やがては洞窟全体で洪水が起きるかもしれない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:591
@@ -18650,13 +18665,14 @@ msgid ""
 "survive underwater, but I can’t. Even the merfolk must surface often for "
 "air! We’ll have to break off the attack."
 msgstr ""
+"雨が降り始めた。洞窟に洪水が起きそうだ！アンデッドは水中でも平気だろうが、私には無理だ。マーフォークですら呼吸のために頻繁に水面に上がる必要がある！攻撃を中断するしかない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:596
 msgid ""
 "It’s starting to rain, and these caves are about to flood! The undead can "
 "survive underwater, but I can’t. We’ll have to break off the attack."
-msgstr ""
+msgstr "雨が降り始めた。洞窟に洪水が起きそうだ！アンデッドは水中でも平気だろうが、私には無理だ。攻撃を中断するしかない。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:8
@@ -18666,7 +18682,7 @@ msgstr "クランの試練"
 #. [side]: type=Grand Knight, id={ID}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:41
 msgid "Plainsmen"
-msgstr ""
+msgstr "平原の住民"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:193
@@ -18676,7 +18692,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:197
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:198
 msgid "30 gold"
-msgstr ""
+msgstr "30 ゴールド"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:203
@@ -18685,17 +18701,18 @@ msgid ""
 "overflowing with stockpiled supplies. We’ll make better use of it than they "
 "would."
 msgstr ""
+"騎兵クランは母の統治下でも裕福で、大きな力をもっている。彼らの土地では物資が山積みになって溢れている。彼らのかわりに我々が有効に活用してあげるべきだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:258
 msgid "Hail, men of the plains! I greet you with a proposal."
-msgstr ""
+msgstr "やあ、平原の者達よ！提案したいことがある。"
 
 #. [message]: speaker=Daryn
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:262
 msgid ""
 "What do these intruders want? We did not invite them here, that is certain."
-msgstr ""
+msgstr "侵入者は何を望んでいる？我々は奴等を招待したりはしていない、それは確かだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:266
@@ -18705,6 +18722,9 @@ msgid ""
 "service. What prestige do you plainsmen hold under Asheviere, queen of the "
 "cities and employer of orcs?"
 msgstr ""
+"クランの友であった亡くなった叔父、Garard "
+"II世のことは知っているだろう。あなたがた騎士達は王の軍勢の中核を成し、その働きにより敬意を払われていた。都市の女王であり、オークの雇用主である "
+"Asheviere の下であなたがたはどんな名声を得たのだ？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:270
@@ -18713,27 +18733,29 @@ msgid ""
 "prominence within the courts of Weldyn. Oppose us, and I will strip you of "
 "your power once the throne is rightfully reclaimed."
 msgstr ""
+"邪悪な女王を追い落とすために力を貸せ。そうすれば Weldyn "
+"の法廷でクランの名声を復活させよう。反抗するのであれば、私が王位を取り戻した後にその力を削り落とす。"
 
 #. [message]: speaker=Alric
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:276
 msgid ""
 "Hah! You think you can seize the throne? You who are led by these youths and"
 " this old man?"
-msgstr ""
+msgstr "ハハハ！王位を取り戻せると思っているのか？お前たち若造共と年寄りに率いられた連中が？"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:280
 msgid ""
 "He will confront Asheviere, as he claims. Then he will die. And if we have "
 "lent our support it will be all the worse for us."
-msgstr ""
+msgstr "彼は宣言通り、Asheviere と対決し、そして死ぬのであろう。それならば、そんな連中を支援したところで我々にとって良いことがない。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:284
 msgid ""
 "“These youths”, you dare call us? Don’t think me so weak that I cannot prove"
 " my worth in pitched battle."
-msgstr ""
+msgstr "「若造共」、そう言ったか？会戦では私は何もできないとでも思っているのか？侮ってもらっては困る。"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:288
@@ -18741,125 +18763,126 @@ msgid ""
 "Hah! You would challenge us? I accept. Rout our clansmen and we will "
 "repudiate the queen. Or otherwise leave now and never return!"
 msgstr ""
+"ほう、我らに挑むか？ならばかかってこい。我らがクランを打ち破れば、女王と縁を切ると約束しよう。戦えないのであれば立ち去れ。そして二度と姿を見せるな！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:292
 msgid ""
 "If you will not listen to reason, then so be it. Ready your lances, men of "
 "the plains!"
-msgstr ""
+msgstr "理屈の問題ではないというのであれば、そうするしかなかろう。平原の小僧共、ランスの準備はできているか？"
 
 #. [message]: speaker=Ruga
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:298
 msgid "Fools! We will run you down like dogs!"
-msgstr ""
+msgstr "愚か者どもめ！犬の群れのように蹴散らしてやろう！"
 
 #. [message]: speaker=Daryn
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:302
 msgid "There is no turning back for you now. You will not break us!"
-msgstr ""
+msgstr "もはや退路はないぞ。お前らごときに俺たちは負けん！"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #. $clansmen_remaining will be between 1 and 60
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:348
 msgid ""
 "Defeat 30 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
-msgstr ""
+msgstr "敵を 30 体倒して騎兵クランを屈服させる（残り $clansmen_remaining remaining|）"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:349
 msgid ""
 "Defeat 40 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
-msgstr ""
+msgstr "敵を 40 体倒して騎兵クランを屈服させる（残り $clansmen_remaining remaining|）"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:350
 msgid ""
 "Defeat 50 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
-msgstr ""
+msgstr "敵を 50 体倒して騎兵クランを屈服させる（残り $clansmen_remaining remaining|）"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:351
 msgid ""
 "Defeat 60 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
-msgstr ""
+msgstr "敵を 60 体倒して騎兵クランを屈服させる（残り $clansmen_remaining remaining|）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:357
 msgid ""
 "Defeat one or more enemy leaders — defeated leaders will join your recall "
 "list after this scenario"
-msgstr ""
+msgstr "敵リーダーを１人以上倒す：シナリオクリア後、倒したリーダー達が召還リストに加わる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:365
 msgid ""
 "Defeat mounted enemies with Haldiel or Simyr — defeated cavalry will join "
 "your recall list after this scenario"
-msgstr ""
+msgstr "騎乗した敵を Haldiel か Simyr が倒す：シナリオクリア後、倒したユニットが召還リストに加わる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:375
 msgid ""
 "Defeat mounted enemies with Haldiel — defeated cavalry will join your recall"
 " list after this scenario"
-msgstr ""
+msgstr "騎乗した敵を Haldiel が倒す：シナリオクリア後、倒したユニットが召還リストに加わる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:385
 msgid ""
 "Defeat mounted enemies with Simyr — defeated cavalry will join your recall "
 "list after this scenario"
-msgstr ""
+msgstr "騎乗した敵を Simyr が倒す：シナリオクリア後、倒したユニットが召還リストに加わる"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:407
 msgid ""
 "This is sheer madness. We cannot afford to wage war against these clansmen "
 "when we should be marching against the Queen..."
-msgstr ""
+msgstr "女王との戦いに向けて行軍中、騎兵クランと戦争？そんなことをしている余裕があるはずはない。これは完全に狂っている。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:412
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1700
 msgid "Lord Bayar, halt this folly! I challenge you to a personal combat."
-msgstr ""
+msgstr "Bayar 卿、馬鹿な真似はやめろ！私はあなたに１対１の決闘を申し込む。"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:416
 msgid "Ho! You have amused me, young heir. Ho, ho, challenge indeed."
-msgstr ""
+msgstr "ほう！楽しませてくれるな、若き後継者よ。ふふふっ、まさに試練だな。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:420
 msgid "Young heir? Then you assent to my claim?"
-msgstr ""
+msgstr "若き後継者？ならばあなたは私の王位継承を認めているのか？"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:424
 msgid ""
 "Impudence. Bah! Do you see orcs on our plains? Did we not grant you a test "
 "of your strength?"
-msgstr ""
+msgstr "厚かましい物言いだな。この平原にオークはいるか？お前は我々に力を示さねばならないだろう？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:428
 msgid ""
 "This is hardly a test. Our battle serves only to spill needless blood and "
 "weaken us both."
-msgstr ""
+msgstr "こんなことは試練とは言えない。ここで無意味に血を流しても、我々双方が弱体化するだけだ。"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:432
 msgid "No, whelp. You may be weakened, but the horse clans are eternal."
-msgstr ""
+msgstr "それは違うぞ、小僧。お前達の力は弱まるかもしれんが、騎兵クランは不滅だ。"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:434
 msgid ""
 "I will promise you this, however. If your forces can defeat me personally, I"
 " myself will join your cause."
-msgstr ""
+msgstr "しかし約束はしよう。もしお前たちが私を倒すことができたら、私が自らお前たちの戦列に加わろう。"
 
 #. [message]: speaker=Ruga
 #. [message]: speaker=Daryn
@@ -18868,7 +18891,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:444
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:450
 msgid "Aye."
-msgstr ""
+msgstr "賛成。"
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:480
@@ -18876,6 +18899,8 @@ msgid ""
 "This is my home, Konrad, and Simyr’s too. Although we were barely men when "
 "we left, their Horsemen will still recognize us as kin."
 msgstr ""
+"Konrad、ここが私の故郷です。Simyr "
+"も同郷です。ここを出た時は二人ともまだ一人前とは言えないくらいでしたが、クランの者達は今でも同胞だと思ってくれているようです。"
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:486
@@ -18883,6 +18908,7 @@ msgid ""
 "This is my home, Konrad. Although I was barely a man when I left, their "
 "Horsemen will still recognize me as kin."
 msgstr ""
+"Konrad、ここが私の故郷です。ここを出た時はまだ一人前とは言えないくらいでしたが、クランの者達は今でも同胞だと思ってくれているようです。"
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:492
@@ -18892,12 +18918,13 @@ msgid ""
 "combat, and I believe I can persuade them to follow their leaders and join "
 "you."
 msgstr ""
+"リーダー達が我々の目的に参加すると承知しました。私であれば、リーダー以外の戦士達を説得することもできると思います。私が竜騎兵や騎兵を倒せば、リーダー達と同様に彼らも仲間となってくれるでしょう。"
 
 #. [message]: speaker=second_unit
 #. said by either Haldiel or Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:521
 msgid "I have persuaded this one to join us in the next battle, Konrad."
-msgstr ""
+msgstr "Konrad、この戦士は次の戦闘では仲間になってくれると約束してくれました。"
 
 #. [message]: speaker=second_unit
 #. said by either Haldiel or Simyr
@@ -18905,65 +18932,65 @@ msgstr ""
 msgid ""
 "This fighter is injured now, but he is willing to join us for our next "
 "battle."
-msgstr ""
+msgstr "今は負傷しているので戦えませんが、次の戦闘では喜んで戦いに参加してくれるでしょう。"
 
 #. [message]: speaker=second_unit
 #. said by either Haldiel or Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:537
 msgid "Konrad, I have convinced this fighter to join us in our next battle."
-msgstr ""
+msgstr "Konrad、この戦士の説得に成功しました。次の戦闘では味方として戦ってくれるでしょう。"
 
 #. [message]: speaker=second_unit
 #. said by either Haldiel or Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:545
 msgid ""
 "I have spoken with this one, Konrad. He will join us in the next battle."
-msgstr ""
+msgstr "Konrad、この戦士と話しました。次の戦闘では味方してくれるとのことです。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:609
 msgid ""
 "How can this be?! You have bested me in combat! Impossible... but true. I "
 "will honor my pledge to join your army."
-msgstr ""
+msgstr "どうしてこんなことに？！私が戦闘で敗れるとは！ありえない… しかし事実だ。誓いに従い、軍勢に加わろう。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:610
 msgid ""
 "I cannot believe this! You have defeated me, despite everything. I pledge my"
 " lance into your service, young ones."
-msgstr ""
+msgstr "信じられない！しかし、なんであれ、お前は私を打ち負かした。若者達よ、我がランスをあなたたちに捧げよう。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:611
 msgid ""
 "A heroic battle! Yet in the end I am bested — incredible. I will join you, "
 "Konrad and Li’sar."
-msgstr ""
+msgstr "まさに語り継がれるべき戦いだった！しかも私が敗れて決着とは── 信じられない。Konrad、Li’sar、私も戦列に加わろう。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:612
 msgid ""
 "Bah, a humiliating defeat! But a defeat nonetheless. Let it not be said that"
 " Sir Rugan is without honor — as agreed, I will join your army."
-msgstr ""
+msgstr "フン、屈辱的な敗北だ！しかし敗北は敗北だ。Rugan は恥知らずと言われるわけにはいかん── 約束通り、私も戦列に加わろう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:648
 msgid ""
 "We have defeated many foes — the plainsmen’s resolve is shaken! Only a few "
 "more and they will surely break."
-msgstr ""
+msgstr "もうかなりの敵を倒した── クランの者達の意志も揺らいでいる！あと少し倒せば完全に意志をくじけるだろう。"
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:665
 msgid "Stop! Stop! Our armies can bear this no longer."
-msgstr ""
+msgstr "やめろやめろ！これ以上の被害は看過できん。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:669
 msgid "So you admit defeat! You assent to my claim and repudiate Asheviere?"
-msgstr ""
+msgstr "負けを認めるのだな！では、私の王位継承を認め、Asheviere と縁を切るか？"
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:673
@@ -18971,7 +18998,7 @@ msgid ""
 "Indeed — you have humbled us, bearers of the Sceptre. His and Her Royal "
 "Highnesses fighting in tandem... perhaps you truly do have a chance at "
 "defeating the great queen."
-msgstr ""
+msgstr "その通りだ── 我々の負けだ、笏の主よ。殿下達が協力して戦うとは… 本当にあの強大な女王を倒すことができるのかもしれない。"
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:677
@@ -18979,18 +19006,20 @@ msgid ""
 "The Clans cannot risk all by joining you in your attack on Weldyn, but you "
 "have proven yourself — neither shall we join Asheviere in opposition."
 msgstr ""
+"クランが表立って Weldyn への攻撃に全てを賭けることはできない。しかしあなたたちはその力を証明した── 我々は決して Asheviere "
+"の味方をしないと誓おう。"
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:679
 msgid ""
 "And as a gesture of goodwill, I instead offer you our warchest; a vast "
 "reserve of supplies and coin to sustain you on your crusade."
-msgstr ""
+msgstr "それと、我らの意志を示すため、我々の軍事費の一部を提供しよう。あなたたちの聖戦を支えるための膨大な物資と資金だ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:684
 msgid "Konrad and Li’sar have each gained 300 gold!"
-msgstr ""
+msgstr "Konrad と Li’sar はそれぞれ 300 ゴールドを獲得しました！"
 
 #. [message]: role=clanboss
 #. "Her" refers to Asheviere
@@ -18998,13 +19027,13 @@ msgstr ""
 msgid ""
 "Now go from this place, and fight with courage. Fight Her as ferociously as "
 "you have fought us."
-msgstr ""
+msgstr "では、出発の時だ。勇気を持って、そしてこの戦いで見せた激しさをもって、女王に挑むのだ。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:715
 msgid ""
 "Bah, the Sceptre is but a magic staff. Steel is the true test of a ruler."
-msgstr ""
+msgstr "フン、笏など魔法の杖に過ぎない。鋼こそが統治者の資質を試す試金石だ。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:10
@@ -20803,7 +20832,7 @@ msgstr ""
 #. [unit_type]: id=Granite Golem, race=monster
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Golem.cfg:4
 msgid "Granite Golem"
-msgstr ""
+msgstr "花崗岩のゴーレム"
 
 #. [unit_type]: id=Granite Golem, race=monster
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Golem.cfg:20

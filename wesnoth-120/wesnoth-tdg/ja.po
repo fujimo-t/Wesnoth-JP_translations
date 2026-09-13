@@ -2516,28 +2516,28 @@ msgstr ""
 msgid ""
 "I know my duty! A captain of Wesnoth will never entertain doubts of loyalty,"
 " whether to his country or his King."
-msgstr ""
+msgstr "私はおのが責務をしかと心得ておる！Wesnoth の士官たる者、国に対しても王に対しても、その忠誠心が揺らぐことなど、決してあり得ぬ！"
 
 #. [message]
 #. spoken by Elende (through Chantal's mirror image), referencing Cleodil's
 #. historic death and foreshadowing Deoran's upcoming death
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1555
 msgid "Chantal—"
-msgstr ""
+msgstr "Chantal ——"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1559
 msgid ""
 "I already know what you’re going to say Elende! Don’t you dare; I will when "
 "I’m ready."
-msgstr ""
+msgstr "仰っしゃりたいことは心得ております、Elende ！その必要はございません。その時が来れば、言われずともそういたしますわ。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1565
 msgid ""
 "Then you may soon understand some measure of your great-grandfather’s bygone"
 " sorrows..."
-msgstr ""
+msgstr "ならば、遠からずそなたも、曽祖父の過ぎ行きし悲哀を僅かなりとも識ることになるやも知れぬ・・・"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1644
@@ -2553,7 +2553,7 @@ msgstr "Elende"
 msgid ""
 "And what of the fire mage? Young but ambitious, brilliant yet foolish. It "
 "has been many moons since I spoke to you at Alduin."
-msgstr ""
+msgstr "そして、火炎の魔術師か。年若い野心家、才知ある愚者。Alduin でそなたに語りかけて以来、幾度月が周ったか。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1651
@@ -2561,6 +2561,8 @@ msgid ""
 "That was you, back at graduation? I knew I heard a voice! Master Leollyn "
 "thought I was going crazy..."
 msgstr ""
+"あれは、あなただったのですか？最終試練の時の声の主は？あの時、私は確かに誰かの声を聞きました。マスター Leollyn "
+"は私が正気を失っていると思われただろうが・・・"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1654
@@ -2577,7 +2579,7 @@ msgstr ""
 msgid ""
 "I see secrets in the dark; a pale spy slips their bonds. A death, a "
 "deceiver. Ringed swords, cold blood, false friends."
-msgstr ""
+msgstr "暗闇の中に秘め事が視える。縄を抜けし蒼白き逆賊。死と欺瞞。誓約の剣、冷たい血、偽りの友。"
 
 #. [message]
 #. referencing Delfador's adventures in scenarios 8-10, where he works with
@@ -2587,7 +2589,7 @@ msgstr ""
 msgid ""
 "The dark swamp looms. Purses and poachers, mirror and smoke. A figure of "
 "shadow cloaked in the spirits of the dead. Battles won while wars are lost."
-msgstr ""
+msgstr "仄暗き沼地が浮かび上がる。金の袋と密猟者、鏡と煙。死者の魂を纏いし影の姿。小さき勝利を重ねても、大き戦に勝つこと能わず。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1750
@@ -2604,6 +2606,8 @@ msgid ""
 "of mankind will be broken, and flames shall blaze anew across the embers of "
 "Haldric’s people."
 msgstr ""
+"兄と弟、父と子が相争う。主を持たぬ玉座から、灰の天使が立ち現れる。強大で、恐るべきもの。人々の危うき均衡は崩れ、Haldric "
+"の民に燻る火種は、再び烈しく燃え盛る。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1780
@@ -2619,7 +2623,7 @@ msgstr ""
 msgid ""
 "Black soot rains over Weldyn. The line of kings sundered; the ruby of the "
 "wesfolk restored. The nameless son and the ashen daughter."
-msgstr ""
+msgstr "黒き煤が Weldyn に降りかかる。王の血脈は引き裂かれ、Wesfolk の紅玉が再び現る。名も無き息子と灰を被りし娘。"
 
 #. [message]
 #. referencing Delfador's choice in S10x
