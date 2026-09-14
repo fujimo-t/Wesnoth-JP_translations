@@ -19047,20 +19047,22 @@ msgid ""
 "congratulations. We were comrades, once. I’m sorry we now find ourselves on "
 "opposing sides."
 msgstr ""
+"ああ、Isolde。母はあなたを Dan’Tonk の代官に任命したようね── "
+"おめでとう。前は仲間だったのに、今はもう敵対する陣営に別れてしまっている。残念ね。"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:269
 msgid ""
 "Hello, Li’sar. I’m sorry too. I never saw you as one to turn against your "
 "sovereign; your own kin. ...I suppose it runs in the family."
-msgstr ""
+msgstr "こんにちは、Li’sar。私も残念だわ。あなたが女王に、自身の母に敵対するなんて思っていなかったから。……これは血筋のせいかしらね。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:273
 msgid ""
 "You are bold to march out from behind your walls and meet us on the open "
 "plain. Are you not worried we will defeat you?"
-msgstr ""
+msgstr "城壁から出て、開けた平原で我らと対峙するとは大胆だな。絶対に自分は負けないと思っているのか？"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:277
@@ -19069,6 +19071,8 @@ msgid ""
 " someone causing problems. First it was Garard, then the baron. Outlaws on "
 "the isles, elves in the Aethenwood. Always one more thing."
 msgstr ""
+"フン。私はずっと平和な人生を送りたいと思っていた。でもいつも問題ばかり。初めは Garard、次は男爵。島々の無法者、Aethen "
+"の森のエルフ。いつまでたっても無くならない。"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:281
@@ -19077,11 +19081,12 @@ msgid ""
 "your queen’s city — in person. I can vanquish you and your armies all at "
 "once."
 msgstr ""
+"そして今度はあなたたち３人。ただ、あなたたちは自ら私の都市── 女王の都市へ直接来てくれた。あなたたちもその軍勢も一回でまとめて片付けられる。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:311
 msgid "Defeat Isolde"
-msgstr ""
+msgstr "Isolde を倒す"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:325
@@ -19089,22 +19094,22 @@ msgid ""
 "Gryphons will appear periodically near the northwest corner of the map. They"
 " aren’t your allies, but will prefer to attack Isolde’s soldiers when given "
 "the choice."
-msgstr ""
+msgstr "マップ北西の端から定期的にグリフォンが現れます。彼らは味方ではありませんが、Isolde の兵士を優先的に攻撃します。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:344
 msgid "Kraww!!"
-msgstr ""
+msgstr "クラァゥゥ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:348
 msgid "Look, gryphons are attacking soldiers inside the city walls!"
-msgstr ""
+msgstr "見ろ、城壁内の兵士をグリフォンが攻撃している！"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:352
 msgid "These vermin again. What did that dwarf do to rile them up so badly?!"
-msgstr ""
+msgstr "羽虫共がまた来たか。あそこまで奴等を激昂させるとは、あのドワーフは一体何をしたのだ？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:356
@@ -19113,6 +19118,8 @@ msgid ""
 "but we should still do our best to stay out of their way — they remain wild "
 "animals."
 msgstr ""
+"彼らはどうも Dan’Tonk の兵士に激しい敵意を向けているようだ。それでも我々はできるだけ近づかないようにした方が無難だろう── "
+"彼らは野生動物なのだから。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:396
@@ -19121,6 +19128,8 @@ msgid ""
 "defenses. Do you have any insight into its weaknesses? Is there anything we "
 "can use against the general?"
 msgstr ""
+"Li’sar、Wesnoth の将軍だったのだから Dan’Tonk "
+"の防衛体制には詳しいだろう？何か弱点はないだろうか？あるいは、あの将軍に対して何か有効な手立てはないだろうか？"
 
 #. [message]: speaker=Lisar
 #. reference to Asheviere's Dogs
@@ -19128,12 +19137,12 @@ msgstr ""
 msgid ""
 "There was a hidden tunnel, once, but I had it collapsed some years ago. "
 "Sorry."
-msgstr ""
+msgstr "秘密のトンネルが存在していたわ。しかしそれも昔のこと。数年前に私が潰してしまったわ。ごめんなさい。"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:429
 msgid "Argh! This is going terribly. Retreat! Retreat!"
-msgstr ""
+msgstr "ああっ！これはまずい。撤退！撤退だ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:454
@@ -19142,6 +19151,8 @@ msgid ""
 "walls. Her army is defeated, but not broken. We lack the supplies or time to"
 " besiege the city proper."
 msgstr ""
+"勝ったな。しかし予想通り、Isolde "
+"は城壁の内側に逃げ込んでしまった。軍勢は負かしたが、崩壊しているわけではない。そして、この都市を包囲するために必要な物資や時間は我々にはない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:458
@@ -19151,6 +19162,9 @@ msgid ""
 "queen is not so unbeatable as she once seemed. I do not think Isolde will be"
 " able to leave Dan’Tonk again without risking its revolt."
 msgstr ""
+"包囲の必要はないでしょう、Delfador。力とは脆いもの。女王に勝つことは不可能ではない── "
+"我々は都市全体にそのことを示しましたから。ましてや、この都市はかつて Asheviere と戦っているのです。反乱の危険を放置して Isolde が "
+"Dan’Tonk を離れられるとは思えません。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:462
@@ -19158,27 +19172,29 @@ msgid ""
 "That, and also I’ll leave a few of my men behind to destroy the roads and "
 "harass any sorties. Dan’Tonk won’t pose any problem when we attack Weldyn."
 msgstr ""
+"その通りだ。それと、何人か残して道の破壊と種々の嫌がらせをさせるつもりだ。我々が Weldyn を攻撃中に Dan’Tonk "
+"が横槍を入れることはできないだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:478
 msgid ""
 "We’re doing well. If we can keep up the fight for a little longer, I suspect"
 " Isolde will be forced to give up the fight."
-msgstr ""
+msgstr "我々はよくやっている。もうすこしだけ凌げれば、Isolde は戦闘を諦めざるをえないはずだ。"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:485
 msgid ""
 "You are a more skilled fighter than you look, Konrad. I don’t believe I can "
 "defeat you today. It’s time to cut our losses and retreat."
-msgstr ""
+msgstr "Konrad、お前は思ったよりもずっと優れた戦士のようだ。今日ここでお前を倒すのは無理そうだ。損失を最小限に抑えて撤退すべき頃合いだな。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:490
 msgid ""
 "That’s a poor choice, soldiers. I hope you weren’t planning on ever seeing "
 "retirement."
-msgstr ""
+msgstr "兵士よ、それはまずい選択だ。平穏無事には脱隊できないと理解できていればいいのだが。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:8
@@ -19188,57 +19204,57 @@ msgstr "The Battle for Wesnoth"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:120
 msgid "Orcish Auxiliaries"
-msgstr ""
+msgstr "オークの補助部隊"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:124
 msgid "Shnog"
-msgstr ""
+msgstr "Shnog"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:125
 msgid "Agnarz"
-msgstr ""
+msgstr "Agnarz"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:126
 msgid "Arob"
-msgstr ""
+msgstr "Arob"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:187
 msgid "Royal Guard"
-msgstr ""
+msgstr "親衛隊"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:191
 msgid "Asheviere"
-msgstr ""
+msgstr "Asheviere"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:192
 msgid "Sir Aeollet"
-msgstr ""
+msgstr "Aeollet 卿"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:193
 msgid "Sir Gunter"
-msgstr ""
+msgstr "Gunter 卿"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:194
 msgid "Sir Aebaud"
-msgstr ""
+msgstr "Aebaud 卿"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:206
 msgid "Beastmaster Burlin"
-msgstr ""
+msgstr "猛獣使い Burlin"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:305
 msgid "Raag!"
-msgstr ""
+msgstr "ガアッ！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:312
@@ -19247,6 +19263,7 @@ msgid ""
 "city, Konrad. I’ll move forward and recruit from there once it’s clear. "
 "You’re welcome to share, of course."
 msgstr ""
+"Konrad、あのオークの主塔は都市を攻撃する上で最高の足がかりとなる。邪魔者がいなくなったら私はそこから指揮をする。もちろん、あなたも一緒に使ってもらって構わない。"
 
 #. [event]: id=sapper_ability_object
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:773
@@ -19256,90 +19273,90 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:777
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:778
 msgid "Bridge Guard"
-msgstr ""
+msgstr "橋の衛兵"
 
 #. [dummy]: id=sapper
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:858
 msgid "sapper"
-msgstr ""
+msgstr "爆破"
 
 #. [dummy]: id=sapper
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:859
 msgid ""
 "This unit is carrying explosives. When defeated, it will destroy whatever "
 "terrain it is standing on."
-msgstr ""
+msgstr "このユニットは爆発物を運んでいます。ユニットがどのような地形に立っていようと、このユニットが倒された時、地形は破壊されます。"
 
 #. [dummy]: id=sapper
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:861
 msgid ""
 "This unit will not detonate if overkilled by 25 hitpoints or more, as long "
 "as the vanquishing damage type is not fire."
-msgstr ""
+msgstr "ただし、火炎以外の攻撃属性で 25 HP 以上のオーバーキルをされた場合、爆破に失敗します。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:910
 msgid "Ack!"
-msgstr ""
+msgstr "うわっ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:916
 msgid ""
 "That guard was carrying some kind of strange device! Whatever it was, we "
 "slew him with such a mighty blow that he had not the chance to use it."
-msgstr ""
+msgstr "この衛兵は何か奇妙な装置を持っていた！これが何なのかはわからないが、あれほど強力な攻撃でやられては、最期にこれを使う暇もなかっただろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:921
 msgid ""
 "Well done! We slew this guard with such a mighty blow that he had not a "
 "chance to destroy his bridge."
-msgstr ""
+msgstr "良くやった！あのように強力な攻撃で止めを刺せば、最期に橋を爆破することすらできないぞ。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:940
 msgid "The fire is getting to the explosive powder! Your Majesty—"
-msgstr ""
+msgstr "火が爆発物に燃え移る！女王陛下──"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:949
 msgid "Argh! Your Majesty... it doesn’t even need to walk..."
-msgstr ""
+msgstr "ううっ！女王陛下… こいつは歩く必要すらない……"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:954
 msgid "Argh! Your Majesty... the plan..."
-msgstr ""
+msgstr "ううっ！女王陛下… 計画を……"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:959
 msgid "Carry out your orders. Do not disappoint me."
-msgstr ""
+msgstr "命令を遂行せよ。私を失望させるな。"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1035
 msgid ""
 "So. After burning half my fields, these rebels come at last to face me."
-msgstr ""
+msgstr "さて。ついに反乱軍が私の前に姿を見せたな。ここに来る前に私の農地を半分焼き払ったか。"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1040
 msgid "So, these rebels come at last to face me."
-msgstr ""
+msgstr "さて。ついに反乱軍が私の前に姿を見せたな。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1045
 msgid ""
 "Surrender, Mother. The land’s blood is spent. I have come to take my "
 "rightful place."
-msgstr ""
+msgstr "母よ、降伏してください。この国はもう十分血を流しました。私は本来の立場を取り戻すためにここに来ました。"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1049
 msgid ""
 "Ahh. My own daughter, a turncoat. Such treason my reign must endure! But "
 "endure it will."
-msgstr ""
+msgstr "ああ、実の娘までもが裏切り者とは。我が治世はこのような反逆さえも耐え忍ばねばならないのか！しかし、何としても耐え切ってみせる。"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1053
@@ -19347,6 +19364,7 @@ msgid ""
 "For the walls of Weldyn are strong. And her allies are many! They will "
 "arrive in days — and then you will die."
 msgstr ""
+"Weldy の城壁は難攻不落。さらに味方も多くいる！彼らは数日の内にここへ駆けつけるだろう── そして、お前たちは惨めに骸を晒すことになるのだ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1073
@@ -19355,27 +19373,29 @@ msgid ""
 "the north now swollen even further with your mage Mirya’s new recruits. We "
 "know, and we are prepared."
 msgstr ""
+"騎兵クランの騎士達、Dan’Tonk の歩兵、お前の魔術師 Mirya "
+"によって大きく増強された北のオークの軍勢。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1075
 msgid ""
 "Knights from the Horse Clans, footmen from Dan’Tonk, and orcish hordes from "
 "the north. We know, and we are prepared."
-msgstr ""
+msgstr "騎兵クランの騎士達、Dan’Tonk の歩兵、北のオークの軍勢。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1076
 msgid ""
 "Knights from the Horse Clans, footmen from Dan’Tonk, and your mage Mirya "
 "with her newly-recruited grunts. We know, and we are prepared."
-msgstr ""
+msgstr "騎兵クランの騎士達、Dan’Tonk の歩兵、お前の魔術師 Mirya が新たに集めたオーク。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1077
 msgid ""
 "Footmen from Dan’Tonk, orcish hordes from the north, and your mage Mirya "
 "with her newly-recruited grunts. We know, and we are prepared."
-msgstr ""
+msgstr "Dan’Tonk の歩兵、北のオークの軍勢、お前の魔術師 Mirya が新たに集めたオーク。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1078
@@ -19383,49 +19403,49 @@ msgid ""
 "Knights from the Horse Clans and orcish hordes from the north, now swollen "
 "even further with your mage Mirya’s new recruits. We know, and we are "
 "prepared."
-msgstr ""
+msgstr "騎兵クランの騎士達にお前の魔術師 Mirya によって大きく増強された北のオークの軍勢。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1080
 msgid ""
 "Knights from the Horse Clans and footmen from Dan’Tonk. We know, and we are "
 "prepared."
-msgstr ""
+msgstr "騎兵クランの騎士達に Dan’Tonk の歩兵。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1081
 msgid ""
 "Footmen from Dan’Tonk and orcish hordes from the north. We know, and we are "
 "prepared."
-msgstr ""
+msgstr "Dan’Tonk の歩兵と北のオークの軍勢。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1082
 msgid ""
 "Knights from Horse Clans and orcish hordes from the north. We know, and we "
 "are prepared."
-msgstr ""
+msgstr "騎兵クランの騎士達と北のオークの軍勢。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1083
 msgid ""
 "Footmen from Dan’Tonk and your mage Mirya with her newly-recruited orcs. We "
 "know, and we are prepared."
-msgstr ""
+msgstr "Dan’Tonk の歩兵とお前の魔術師 Mirya が新たに集めたオーク。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1084
 msgid ""
 "Knights from the Horse Clans and your mage Mirya with her newly-recruited "
 "orcs. We know, and we are prepared."
-msgstr ""
+msgstr "騎兵クランの騎士達とお前の魔術師 Mirya が新たに集めたオーク。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1085
 msgid ""
 "Orcish hordes from the north, now swollen even further with your mage "
 "Mirya’s new recruits. We know, and we are prepared."
-msgstr ""
+msgstr "お前の魔術師 Mirya によって大きく増強された北のオークの軍勢。我々は承知している。そして準備もしてきた。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1087
@@ -19434,27 +19454,28 @@ msgid ""
 "and her newly-recruited orcs are still ready to aid you. We did not come "
 "here unprepared."
 msgstr ""
+"お前が期待するほど味方は多くないぞ。残っているのはお前の魔術師 Mirya が新たに集めたオークだけだ。我々も何の準備もなしにここへ来たわけではない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1088
 msgid ""
 "Fewer than there might have been. Of all your allies, only the orcish hordes"
 " of the north still stand ready to aid you. We did not come here unprepared."
-msgstr ""
+msgstr "お前が期待するほど味方は多くないぞ。残っているのは北のオークの軍勢だけだ。我々も何の準備もなしにここへ来たわけではない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1089
 msgid ""
 "Fewer than there might have been. Of all your allies, only the Horse Clans "
 "still stand ready to aid you. We did not come here unprepared."
-msgstr ""
+msgstr "お前が期待するほど味方は多くないぞ。残っているのは騎兵クランだけだ。我々も何の準備もなしにここへ来たわけではない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1090
 msgid ""
 "Fewer than there might have been. Of all your allies, only the footmen of "
 "Dan’Tonk still stand ready to aid you. We did not come here unprepared."
-msgstr ""
+msgstr "お前が期待するほど味方は多くないぞ。残っているのは Dan’Tonk の歩兵だけだ。我々も何の準備もなしにここへ来たわけではない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1092
@@ -19463,6 +19484,8 @@ msgid ""
 "is barricaded; the orcish clans are embroiled in civil war. Even your mage "
 "Mirya is gone. You have nothing more than the forces arrayed before us here."
 msgstr ""
+"どこに味方がいるのですか、女王様？騎兵クランは背中を向けた。Dan’Tonk "
+"との間の道は封鎖されている。オークの氏族は内戦に大忙し。そしてあなたの魔術師 Mirya は死にました。残っているのは我々の目の前にいる軍勢だけだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1099
@@ -19470,30 +19493,32 @@ msgid ""
 "How long must the people endure your rule, woman? Give the throne to your "
 "daughter. She is the rightful heir. We even hold the Sceptre to prove it!"
 msgstr ""
+"女狐よ、人々はいつまで貴様の圧政に耐えつづけねばならないのだ？王位を娘に譲れ。Li'sar "
+"は正当なる後継者だ。こちらにはその正当性の証たる炎の笏もあるのだ！"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1103
 msgid ""
 "Delfador! My old tormentor! Treason! Men! Seize them! Kill them! Kill them "
 "all!"
-msgstr ""
+msgstr "Delfador！また私を苦しめるつもりか！この逆賊め！兵士達よ、ヤツらを捕らえろ！ヤツらを殺せ！皆殺しにしろ！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1111
 msgid "Defeat Asheviere"
-msgstr ""
+msgstr "Asheviere を倒す"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1130
 msgid ""
 "It’s you! The dwarf from Gryphon Mountain! I thought you were merely "
 "delivering eggs to Asheviere, not fighting for her."
-msgstr ""
+msgstr "お前は！グリフォンの山で会ったドワーフだな！Asheviere のために戦うのか？ただ卵を届けるだけだと思っていたが。"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1134
 msgid "Well, you know what they say: money talks. It’s nothing personal."
-msgstr ""
+msgstr "女王に恩が、ってわけじゃないし、お前に恨みが、ってわけでもない。金がモノを言うって話だ。それだけさ。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1169
