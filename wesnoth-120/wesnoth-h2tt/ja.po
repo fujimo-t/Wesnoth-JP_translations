@@ -18775,7 +18775,7 @@ msgstr "理屈の問題ではないというのであれば、そうするしか
 #. [message]: speaker=Ruga
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:298
 msgid "Fools! We will run you down like dogs!"
-msgstr "愚か者どもめ！犬の群れのように蹴散らしてやろう！"
+msgstr "愚か者どもめ！一息に蹴散らしてやろう！"
 
 #. [message]: speaker=Daryn
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:302
@@ -19526,6 +19526,7 @@ msgid ""
 "Their initial attack will be especially powerful, but they will continue "
 "reinforcing Asheviere every day or two until she is defeated — or we are."
 msgstr ""
+"敵の最初の攻勢は特に強烈であろうが、その後も毎日あるいは一日置きに Asheviere の援軍が来るであろう── 女王か我々、どちらかが倒れるまで。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1173
@@ -19533,7 +19534,7 @@ msgid ""
 "Each wave of attackers will be ready to move and fight the instant they "
 "arrive, so we should be careful not to leave our soldiers exposed near the "
 "attackers’ entry points."
-msgstr ""
+msgstr "敵の増援は到着と同時に戦闘に入り、移動や攻撃を行う。敵の到着する場所の近くには兵を置かないようにするべきであろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1181
@@ -19542,6 +19543,8 @@ msgid ""
 "not especially powerful, but I suspect that each subsequent follow-up will "
 "be more deadly than the last."
 msgstr ""
+"Konrad、Asheviere "
+"の味方が再度の攻撃を準備している！今回の増援はそこまで強力ではないだろうが、回を重ねるごとに増援の戦力も大きくなっていくかもしれない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1324
@@ -19550,78 +19553,80 @@ msgid ""
 "suspect we will soon encounter that teleporting mage of Asheviere’s, along "
 "with her orcish allies and mage followers."
 msgstr ""
+"Konrad、北の道から魔力の流れを感じる。瞬間移動を操る Asheviere "
+"の魔術師がもうすぐ現れるようだ。同盟者のオークに加えて、配下の魔法使いも一緒に現れるかもしれない。"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1341
 msgid "Ah, we’ve arrived at the perfect time."
-msgstr ""
+msgstr "あら、最高のタイミングで到着できたようね。"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1378
 msgid ""
 "Congratulations on your entry into the queen’s service, orcs. To earn your "
 "first payment, bring me the heads of the rebel leaders."
-msgstr ""
+msgstr "オーク達もこれで女王陛下の配下よ、おめでとう。反乱軍のリーダーの首を持ってくれば、最初の報酬が得られるわ。がんばって。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1387
 msgid "You’re a good mage, Mirya. It’s a shame you’re a bad person."
-msgstr ""
+msgstr "Mirya、あなたは優れた魔術師だ。人格がもう少しだけでもまともだったら良かったのに。"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1395
 msgid ""
 "Ow! I think it’s time to take my leave. No point dying for the cause when I "
 "could live for it instead."
-msgstr ""
+msgstr "あら！私はこのあたりでお暇させていただこうかしら。むざむざ命を捨てる必要はないわ。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #. "Morium libre vintis" doesn't mean anything. It's just some gibberish that
 #. sounds like a magic spell.
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1401
 msgid "You will not leave. Morium libre vintis!"
-msgstr ""
+msgstr "逃がさんぞ。モリアム リブレ ヴィンティス！"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1409
 msgid "My spell is broken!"
-msgstr ""
+msgstr "私の魔法が壊された！？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1436
 msgid ""
 "Look, to the west! There is a great plume of dust visible just over the "
 "horizon."
-msgstr ""
+msgstr "西を見ろ！地平線の向こうで大きく砂煙が上がっている。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1441
 msgid ""
 "That road leads to Dan’Tonk — there must be a column of soldiers marching to"
 " my mother’s aid. They’ll be here any moment."
-msgstr ""
+msgstr "これは Dan’Tonk に続く道── 母を助けるために増援部隊が来ているに違いない。すぐにでもここにやってくるでしょう。"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1455
 msgid ""
 "Your Majesty! So Konrad has come, just as you said he would. My army will "
 "make short work of him."
-msgstr ""
+msgstr "女王陛下！あなたの言われた通り、Konrad が来たのですね。私の部隊がすぐに片付けてみせます。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1506
 msgid "I’m sorry it had to come to this, Isolde. I respected you."
-msgstr ""
+msgstr "Isolde、こんなことになってしまってごめんなさい。私はあなたを尊敬していたわ。"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1510
 msgid "You picked the wrong side, princess. I’ll try to capture you alive."
-msgstr ""
+msgstr "王女殿下、間違った道を選んでしまいましたね。あなたは生け捕りにしてあげましょう。"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1518
 msgid "Don’t surrender, my queen! Do not let my death be in vain!"
-msgstr ""
+msgstr "女王陛下、どうか諦めないでください！私の死を無駄にしないでください！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1537
@@ -19630,44 +19635,45 @@ msgid ""
 "approaching from the northeast, behind us! They must have come a long way to"
 " make war."
 msgstr ""
+"リズミカルな太鼓の音が聞こえる。北東、我々の背後からからオークの大軍が迫ってきている！戦争をするため、遠くからわざわざやってきたに違いない。"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1553
 msgid ""
 "Should’ve taken me up on my offer when you had the chance, Konrad. If I "
 "can’t kill the chief, maybe I can still win his favor by killing you!"
-msgstr ""
+msgstr "Konrad、あの時に俺の提案を受けておくべきだったな。族長を殺せないかわりに、お前を殺して族長に気に入られるのも悪くないな！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1606
 msgid ""
 "Coming here was a poor decision, orc. The dark queen’s reign is at an end. "
 "You tie yourself to a sinking ship."
-msgstr ""
+msgstr "オークよ、ここに来たのは間違いだったな。闇の女王の治世はもう終わる。お前は沈みゆく船に乗り込んでしまったのだ。"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1610
 msgid "Yeah yeah. Let’s get on with the fighting!"
-msgstr ""
+msgstr "へへ、そうかい。そんじゃあ始めるとしようや！"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1618
 msgid "Arrrgh! What a waste..."
-msgstr ""
+msgstr "うわ！なんてもったいない……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1637
 msgid ""
 "There is a thunder of approaching hooves in the south! The Horse Clans have "
 "come."
-msgstr ""
+msgstr "南から馬蹄の音が近づいてくる！騎兵クランが来る。"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1655
 msgid ""
 "Hail, good Asheviere! We have taken the long road and come around by the "
 "south to surprise the rebels!"
-msgstr ""
+msgstr "善良なる Asheviere 女王よ、我々も参上しました！遠回りして反乱軍の南に回りこみました。これより急襲を仕掛けます！"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1659
@@ -19675,26 +19681,27 @@ msgid ""
 "More likely you took the long road hoping to miss the worst of the fighting."
 " I expected better, Bayar. We will discuss this after the battle."
 msgstr ""
+"わざわざ遠回りして時間を稼ぎ、大きな損害を避けようとしたな。私も甘く見られたものだな、Bayar。この戦いの後にゆっくり話を聞かせてもらおう。"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1704
 msgid "Ignore him. Run them down like dogs."
-msgstr ""
+msgstr "相手にするな。一気に蹴散らしてしまえ。"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1712
 msgid "No! I am beaten! Perhaps the dark queen truly can be bested..."
-msgstr ""
+msgstr "何だと！私が負けるとは！闇の女王もこれまでなのかもしれんな…"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1751
 msgid "Mother, I swore to end your reign of evil, and now I shall."
-msgstr ""
+msgstr "母よ、私はあなたの邪悪な世界を終わらせると誓った。今ここでその誓いを果たそう。"
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1755
 msgid "Daughter, I built this kingdom for you. It has all been for you!"
-msgstr ""
+msgstr "娘よ、この王国はお前のために築き上げたのよ。全てはあなたのため！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1759
@@ -19703,20 +19710,22 @@ msgid ""
 "You are a monster! A murderess! It pains me to kill you, Mother, but you "
 "have chosen your own fate. For Wesnoth!"
 msgstr ""
+"この期に及んでも本当のことを言えないの？強欲のためにあなたの魂は堕落してしまった。あなたは怪物！単なる殺人鬼よ！本当を命を奪いたくはない。でも、もうこうするしかないの。Wesnoth"
+" のために！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1777
 msgid ""
 "You have hunted me across the countryside, indeed across the years. Here I "
 "am, Dark Queen."
-msgstr ""
+msgstr "辺境一帯を、それも何年もの間、よくも飽きもせずに私を追いかけ回ったものだな。さあ、私はここだぞ、闇の女王よ。"
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1781
 msgid ""
 "I was sure I had killed you, yet you haunt me still. Be gone, demon! I "
 "banish you, ghost!"
-msgstr ""
+msgstr "確かに殺したはずなのに、どうして未だに私を悩ませるのだ。悪魔よ、去れ！亡霊よ、消え去れ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1785
@@ -19725,66 +19734,68 @@ msgid ""
 " ambition. You will now be held to account for your misdeeds. For the young "
 "Prince Konrad! For WESNOTH!"
 msgstr ""
+"おお、哀れなご婦人、私は悪魔や幽霊などではない。この通りきちんと存在しているのですよ。さて、この国はお前の野心と強欲によって苦しめられた。今こそこれまでの悪業の責任を取ってもらうぞ。幼き"
+" Konrad 王子のために！<b>Wesnoth のために！</b>"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1803
 msgid "As I destroyed your son, I now destroy you."
-msgstr ""
+msgstr "息子と同じようにお前も私が潰してやろう。"
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1807
 msgid ""
 "You were always defiant, wizard, and no one has thwarted my plans as "
 "determinedly as you."
-msgstr ""
+msgstr "魔術師、お前はいつも私に逆らってきた。そしてお前ほどに私の計画を邪魔してきた奴はいない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1811
 msgid ""
 "I have always been a humble servant of the Crown, and remain such even now."
-msgstr ""
+msgstr "私は常に王家の慎ましい召使いであろうとしていた。今もそれは変わらない。"
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1815
 msgid ""
 "Delfador! You utterly disgust me, you sniveling worm. How dare you confront "
 "me, your queen?"
-msgstr ""
+msgstr "Delfador！お前には心底うんざりだ！女々しい羽虫め。慎ましい召使いがなぜ女王に歯向かうのだ！？"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1819
 msgid "How dare I? I, High Provost of the Council of Archmagi..."
-msgstr ""
+msgstr "なぜだと？私は、大魔術師評議会の議長…"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1821
 msgid ""
 "... bearer of the staff of An-Usrukhar, guardian of the book of Crelanu ..."
-msgstr ""
+msgstr "An-Usrukhar の杖の所有者であり、Crelanu の書の守護者……"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1823
 msgid ""
 "... Mage Protector of The Kingdom Of The Peoples Of The West-North, Chief "
 "Advisor to the Crown..."
-msgstr ""
+msgstr "はるか北西の地より来た人々が作った王国の守護魔術師で、王家の筆頭相談役……"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1825
 msgid ""
 "... and personal counselor to my King and my friend, Garard the Second, whom"
 " you most foully betrayed..."
-msgstr ""
+msgstr "そして貴様が卑劣にも裏切った、王であり我が友でもある Garard II 世の個人的な相談役……"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1827
 msgid "I am Delfador the Great and TODAY YOU MEET YOUR ATONEMENT!"
-msgstr ""
+msgstr "我こそが偉大なる Delfador！<b>貴様には今日こそ罪を償ってもらうぞ！</b>"
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1858
 msgid "Treason! The evil ones have slain me!"
-msgstr ""
+msgstr "反逆者め！こんな悪党に私は命を奪われるのか！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1863
