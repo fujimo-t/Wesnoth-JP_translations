@@ -19802,12 +19802,12 @@ msgstr "反逆者め！こんな悪党に私は命を奪われるのか！"
 msgid ""
 "For too long has your darkness troubled the world, Asheviere. Your time has "
 "come!"
-msgstr ""
+msgstr "Asheviere、お前の闇のせいでこの世界は長い間苦しめられてきた。しかし、それもこれまでだ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1864
 msgid "Vengeance for the fallen! Vengeance for Deoran!"
-msgstr ""
+msgstr "復讐を！死者たちのために！Deoran のために！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1865
@@ -19815,46 +19815,46 @@ msgstr ""
 msgid ""
 "The hand of the Clans strikes you down, witch! Vengeance for my king! "
 "Vengeance for Garard!"
-msgstr ""
+msgstr "魔女よ、クランの手で貴様を討つ！Garard 陛下の仇を取るのだ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1867
 msgid ""
 "Dark queen, your evil ends this day. In the name of the Light, I purge you "
 "from this world!"
-msgstr ""
+msgstr "闇の女王、貴様の悪事もこれまでだ。光の名のもとに、貴様をこの世界から追放する！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1868
 msgid "Here’s for Baldras! Here’s for Delwyn and Dallben!"
-msgstr ""
+msgstr "Baldras のために！そして Delwyn と Dallben のために！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1869
 msgid ""
 "Dinnae recognize me, do ye? You sent me to the gibbet, ye milksop, ye "
 "coward! Ah’ll cut that lubberworting head right off yer steamin’ corpse!"
-msgstr ""
+msgstr "俺を覚えているか？よくも絞首台に送ってくれたな、この腰抜けの臆病者が！俺がその空っぽの頭を跳ね飛ばしてやろう！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1870
 msgid "Sorry about this! Oh, how did I get caught up in all this?"
-msgstr ""
+msgstr "ごめんなさい！ええと、どうしてこんなことに巻き込まれてしまったのかしら？"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1871
 msgid "For Alduin! For my friends, my apprentices, and my home! Now burn!"
-msgstr ""
+msgstr "Alduin のために！友のために、弟子達のために、そして故郷のために！燃えてしまえ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1872
 msgid "For Alduin! For my friends, my family, and my home! Now burn!"
-msgstr ""
+msgstr "Alduin のために！友のために、家族のために、そして故郷のために！燃えてしまえ！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1873
 msgid "Dis not personal, queen. But Dosh gonna squash you like frog."
-msgstr ""
+msgstr "女王、Dosh 恨みない。でも Dosh お前カエルみたい潰す。"
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #. "struck by some lowborn grunt" hints to the player that there's messages if
@@ -19862,29 +19862,29 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1878
 msgid ""
 "Oh, such indignity to have the final blow struck by some lowborn grunt..."
-msgstr ""
+msgstr "ああ、こんな下賤な輩に命を絶たれようとは… 口惜しや……"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1886
 msgid "And so passes Asheviere, queen of Wesnoth."
-msgstr ""
+msgstr "かくして Asheviere、Wesnoth の女王はこの世を去った。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1890
 msgid "We have won at last! Li’sar! You will be queen!"
-msgstr ""
+msgstr "ついにやったぞ！Li’sar！君が女王になるんだ！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1894
 msgid ""
 "Yes, but I won’t ever forget what you have done for me, Konrad. And you, "
 "Delfador."
-msgstr ""
+msgstr "ええ。あなたが私のためにしてくれたことは絶対に忘れないわ、Konrad。そしてもちろん Delfador、あなたのことも。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1899
 msgid "So much blood. So much death. For what? A title?"
-msgstr ""
+msgstr "あまりに多くの血。数え切れないほどの死。これは一体何のためだったのか。名誉のためか？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1903
@@ -19893,18 +19893,20 @@ msgid ""
 "But, I implore you to let the dead have their rest. We have taken victory. "
 "Tomorrow is a new day, friends... let us build this kingdom anew."
 msgstr ""
+"正義のためよ、エルフの長老。戦わねば邪悪がはびこる、だから私達は戦った。でも、死者にはどうか安らぎを与えてあげて欲しい。今日、私達は勝った。そして明日からは新しい日が始まる……"
+" 仲間達よ、この王国をもう一度作り上げましょう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1908
 msgid ""
 "We have taken victory. Tomorrow is a new day, friends... let us build this "
 "kingdom anew."
-msgstr ""
+msgstr "今日、私達は勝った。そして明日からは新しい日が始まる…… 仲間達よ、この王国をもう一度作り上げましょう。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2000
 msgid "And so the Dark Queen’s reign was ended."
-msgstr ""
+msgstr "こうして闇の女王の治世は終焉を迎えました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2004
@@ -19914,6 +19916,8 @@ msgid ""
 " successors. Her reign was long, and she undid much of the evil deeds of her"
 " mother."
 msgstr ""
+"Garard II 世の娘であり、Wesnoth の王位継承者である Li’sar "
+"は、炎の笏を手に女王として戴冠しました。彼女の治世は長く続き、母の成した悪業の多くを正しました。そして、笏は後継者達にも受け継がれていくこととなりました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2006
@@ -19922,6 +19926,9 @@ msgid ""
 "matters of state. He lived until a ripe old age and was granted a royal "
 "funeral, after which he was buried in the Royal Crypt in Weldyn."
 msgstr ""
+"Delfador は Li’sar "
+"の筆頭相談役となり、国家の最重要課題について助言をしました。彼は長寿を全うし、その死に際しては国葬が執り行われました。その後、彼は Weldyn "
+"の王家の墓に埋葬されました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2011
