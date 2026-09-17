@@ -19937,20 +19937,22 @@ msgid ""
 "grandfather Kalenz among many other prisoners. Together they returned to "
 "their home in the north and never again came to the lands of men."
 msgstr ""
+"Chantal は自ら王宮の地下牢へと向かい、数多の囚人の中に曾祖父 Kalenz "
+"を見つけました。二人は一緒に北の故郷へと戻り、二度と人間の地に来ることはありませんでした。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2012
 msgid ""
 "Kalenz and Chantal returned to their homes in the north, and never again "
 "came to the lands of men."
-msgstr ""
+msgstr "Kalenz と Chantal は北の故郷に戻り、二度と人間の地に来ることはありませんでした。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2013
 msgid ""
 "Kalenz returned to his home in the north and never again came to the lands "
 "of men."
-msgstr ""
+msgstr "Kalenz は北の故郷に戻り、二度と人間の地に来ることはありませんでした。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2014
@@ -19959,6 +19961,8 @@ msgid ""
 " and her supporters among the the Horse Lords disgraced, the returnees "
 "gained much clout within the Horse Clans, and enacted reform."
 msgstr ""
+"Haldiel と Kaylan 卿は馬平原に戻りました。女王を支援していた貴族達は女王の敗北で面目を失い、代わりに Haldiel や Kaylan "
+"のような帰還者達が騎兵クランで大きな名声を得るようになり、その後の改革を指揮することになりました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2015
@@ -19967,6 +19971,8 @@ msgid ""
 "embarrassed by her defeat, but Kaylan’s death left Konrad’s allies with no "
 "one to rally behind. Change would be slow."
 msgstr ""
+"Haldiel は馬平原に戻りました。女王の支援者達はその敗北で面目を失いましたが、Kaylan 卿の死で Konrad "
+"の仲間達も結束するための核を失ってしまいました。変化は緩やかに進むことになりそうです。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2016
@@ -19975,6 +19981,8 @@ msgid ""
 "and hope wherever he went. When at last he fell, he was buried with honors "
 "and laid to rest among the other heroes of his order."
 msgstr ""
+"Moremirmu "
+"はその後の日々を放浪の戦士として過ごし、各地に光と希望をもたらし、そしてついに倒れました。彼は名誉をもって埋葬され、他の組織の英雄達と共に眠りにつくことになりました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2017
@@ -19983,6 +19991,8 @@ msgid ""
 "mainland, to reclaim their ruined hometowns. Delwyn and Dallben were "
 "rebuilt, and prospered."
 msgstr ""
+"Harper は三姉妹の島に戻りました。そして、廃墟となった故郷を取り戻すため、Harper は人々を引き連れて大陸へと帰還しました。Delwyn と "
+"Dallben は再建され、繁栄しました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2018
@@ -19991,6 +20001,8 @@ msgid ""
 "men both — and set out to fight for Knalga. They were never heard from "
 "again."
 msgstr ""
+"Konrad の賛同を受け、Ulfdain は多くの兵士 ── ドワーフだけでなく人間も参加していました ── を集め、Knalga "
+"のための戦いに向かいました。それ以来、彼らの消息は不明です。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2019
@@ -19999,6 +20011,8 @@ msgid ""
 " she was awarded a professorship, and would go on to contribute greatly to "
 "the advancement of alchemy and the training of young minds."
 msgstr ""
+"Jeniver は自尊心を抑えて Alduin へと向かいました。Delfador "
+"の強い勧めで教授の地位を得た彼女は、錬金術の発展と若者の育成に多大な貢献を果たすことになります。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2020
@@ -20007,11 +20021,14 @@ msgid ""
 "reviled by a few). He presided over the academy for many years, where he was"
 " often visited by his friend Delfador."
 msgstr ""
+"Seimus は Alduin "
+"へ戻り、多くの人々から英雄として称えられました（そして一部の人達からは罵倒されました）。彼はそれから長年に渡ってアカデミーの長を勤めました。友人である "
+"Delfador は良く Seimus のところを訪れていたようです。"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2024
 msgid "His grandparents’ loan was repaid in full, plus interest."
-msgstr ""
+msgstr "なお、彼の祖父母からの借入金は利息を含めて全額きちんと返済されました。"
 
 #. [then]
 #. [else]
@@ -20022,6 +20039,8 @@ msgid ""
 "instead devoted himself to the study of strategy. In time, he would become "
 "one of the Crown’s top generals."
 msgstr ""
+"Konrad の統率力に触発され、Elrian は魔術の勉強を放棄して戦略の勉強に専念するようになりました。やがて、Elrian "
+"は王軍の最高位の将軍の一人となります。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2030
@@ -20031,6 +20050,8 @@ msgid ""
 "time he accrued enough followers to start his own clan, which he ruled "
 "wisely as chief."
 msgstr ""
+"Dosh "
+"は北に戻りました。そして、これまでの戦功と並外れた知性（トロル基準で）により、彼は名高い英雄となりました。やがて彼は多くの仲間を集めて自身の氏族を作り、族長として賢明に統治しました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2031
@@ -20038,6 +20059,8 @@ msgid ""
 "Konrad kept his promise to Merle, channeling gold and attention towards the "
 "Dulatus hills. That place became known as a home of great craftsmen."
 msgstr ""
+"Konrad は Merle との約束を守り、Dulatus 丘陵に資金と注目を集めました。Dulatus "
+"丘陵は優れた職人の集まる場所として知られるようになりました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2032
@@ -20047,6 +20070,8 @@ msgid ""
 " prosperous settlement; a rare jewel of civilization in the northern "
 "wildlands."
 msgstr ""
+"Jotha はついに北にある故郷へと戻りました。他の多くのマーフォークも彼と行動を共にしました。Jotha "
+"の入り江と呼ばれるようになったその場所は、北方の荒野では宝石のように希少な文明の地で、豊かな集落へと成長していくことでしょう。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2033
@@ -20055,6 +20080,8 @@ msgid ""
 " many years. He would one day be crippled in battle, and would retire to "
 "teach at Weldyn’s military academy."
 msgstr ""
+"Warven は大元帥へと昇任し、長年に渡って Li’sar "
+"に忠実に仕えました。そしてある戦場で傷を負い、手足の自由が効かなくなった彼は将軍職から退き、Weldyn の士官学校で教鞭を執るようになりました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2034
@@ -20063,6 +20090,8 @@ msgid ""
 "Asheviere’s demise. He was laid to rest at the Royal Library, in a glass "
 "ossuary ornamented with all manner of trinkets and baubles."
 msgstr ""
+"カラスのブラックウィングはすでにかなりの高齢でしたが、Asheviere "
+"の死後まもなくこの世を去りました。王立図書館に数多の小物やガラス玉で飾られたガラスの納骨堂が作られ、彼はそこで眠りにつくことになりました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2047

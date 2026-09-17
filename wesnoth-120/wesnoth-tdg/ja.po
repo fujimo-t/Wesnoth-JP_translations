@@ -2634,6 +2634,8 @@ msgid ""
 "the power to alter the currents of time; to rewrite the future that is "
 "written."
 msgstr ""
+"されど、この運命のみが唯一の途にあらず。Alduin "
+"の魔術師よ、そなたは糸の結び目、欠片の継ぎ目に立っている。ほんの一瞬間、時の流れを変え、予記されし未来を書き換える力を得るであろう。"
 
 #. [message]
 #. referencing Delfador's choice in S10x. He can either listen to a drunk
