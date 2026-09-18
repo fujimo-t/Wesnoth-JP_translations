@@ -20100,6 +20100,8 @@ msgid ""
 "for their ordeal. Most returned to their homes, singing the new Queen’s "
 "praises."
 msgstr ""
+"Asheviere "
+"が脅迫に利用した囚人達は発見され、解放されました。過酷な日々ではありましたが、幸いにも彼らは身体に支障もなく、以前と変わらぬ様子を見せていました。解放された彼らの多くは故郷に戻り、新しい女王を賞賛しました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2053
@@ -20108,13 +20110,15 @@ msgid ""
 "buried in the Royal Crypt in Weldyn, which our Konrad visited to pay homage "
 "every week."
 msgstr ""
+"幼い Konrad 王子の遺骨はエルフの地から Weldyn へと戻り、王家の墓に埋葬されました。我らが Konrad "
+"は毎週のようにこの墓地を訪れ、哀悼の意を捧げました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2055
 msgid ""
 "And as for our Konrad himself... the foundling prince became a noble in "
 "Li’sar’s court."
-msgstr ""
+msgstr "そして我らが Konrad ですが…… 捨て子の王子は Li’sar の王宮で貴族となりました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2062
@@ -20123,6 +20127,7 @@ msgid ""
 "eventually something more. They were married, and together they had two sons"
 " and a daughter."
 msgstr ""
+"王子と女王の間にあった敬意は友情、信頼、そしてそれ以上のものへと発展していきました。やがて二人は結婚し、二人の息子と一人の娘をもうけました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2066
@@ -20131,11 +20136,13 @@ msgid ""
 "surrounding Weldyn would never entirely recover from their razing. The "
 "people there grew hard and bitter; that land spawned many outlaws."
 msgstr ""
+"彼らは賢明な統治を行いました。しかし、治りの遅い傷もありました。彼らが徹底的に破壊した Weldyn "
+"近郊の農地が完全に元通りの姿に戻ることはありませんでした。この地の人々は冷酷かつ非情になり、多くの無法者がこの地には現れました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2070
 msgid "But such was the cost of victory, wasn’t it?"
-msgstr ""
+msgstr "しかし、これも勝利のためには必要な代償、そうなのですよね？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2078
@@ -20144,23 +20151,24 @@ msgid ""
 "eventually something more. They were married, and together they had two sons"
 " and a daughter. The kingdom once more prospered under their rule."
 msgstr ""
+"王子と女王の間にあった敬意は友情、信頼、そしてそれ以上のものへと発展していきました。やがて二人は結婚し、二人の息子と一人の娘をもうけました。彼らの賢明な統治の下、王国は再び繁栄の時を迎えました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2082
 msgid "All was well."
-msgstr ""
+msgstr "全てがうまくいっています。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2091
 msgid ""
 "How unfortunate, for both you and your loved ones. I shall have to make an "
 "example of you."
-msgstr ""
+msgstr "かわいそうなことになった。お前とお前の愛する者達は見せしめにするしかないのだから。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:5
 msgid "Overlook"
-msgstr ""
+msgstr "作戦計画"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:19
@@ -20169,6 +20177,9 @@ msgid ""
 " prince strode among the ranks, visiting and encouraging soldiers: both his "
 "and Li’sar’s."
 msgstr ""
+"初めはボロボロな難民集団でしかなかった Konrad "
+"の一団も、今や巨大な軍勢へと成長を遂げました。若き王子は軍勢の中を堂々と歩き、兵士達に声をかけ、勇気づけます。自軍の者も Li’sar "
+"の配下も分け隔てなく。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:22
@@ -20177,6 +20188,8 @@ msgid ""
 "war. The weight of that thought bore on him. Much had changed since the "
 "flight from the Aethenwood."
 msgstr ""
+"多くの人々が平和で安全な故郷を離れて戦争を── 自分のために戦争をしている。この考えの重みが Konrad にのしかかっていました。Aethen "
+"の森からの逃亡以来、あまりに多くのことが変わってしまいました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:26
@@ -20186,6 +20199,8 @@ msgid ""
 "remained. Li’sar held the Sceptre, but Konrad’s claim was strong. The matter"
 " could not lie unresolved; not so near to the throne."
 msgstr ""
+"かつて不倶戴天の敵同士であった王子と王女は不安定な同盟を築き上げました。もしかしたら、友情すら芽生え始めていたかもしれません。しかし、とても大きな問題が残っていました。果たしてどちらが王位を継ぐのか。Li’sar"
+" は笏を持っていましたが、Konrad の主張にも説得力がありました。王位に大きく近付いてしまった今、この問題はこれ以上先送りにはできません。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:30
@@ -20195,6 +20210,8 @@ msgid ""
 "remained. Konrad held the Sceptre, but Li’sar’s claim was strong. The matter"
 " could not lie unresolved; not so near to the throne."
 msgstr ""
+"かつて不倶戴天の敵同士であった王子と王女は不安定な同盟を築き上げました。もしかしたら、友情すら芽生え始めていたかもしれません。しかし、とても大きな問題が残っていました。果たしてどちらが王位を継ぐのか。Konrad"
+" は笏を持っていましたが、Li’sar の主張にも説得力がありました。王位に大きく近付いてしまった今、この問題はこれ以上先送りにはできません。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:34
@@ -20203,6 +20220,7 @@ msgid ""
 "and paused there. To look at the city. To make plans for the battle, and to "
 "talk."
 msgstr ""
+"反乱軍はついに Weldyn 川の北岸へたどりつき、そこで一旦休止しました。都市を見るために。戦闘の計画を練るために。そして、話し合うために。"
 
 #. [message]: speaker=Lisar
 #. this is a lead-in to the main conversation, but also explains to the player
@@ -20214,6 +20232,7 @@ msgid ""
 "the river, to make use of our merfolk and to cover our flank. She’ll cut off"
 " our supply chain if we give her the chance."
 msgstr ""
+"──あと一日も進めば都市郊外に着く。我々は川沿いに進むべきだろう。そうすればマーフォーク達も進みやすいし、彼らに側面を固めてもらうこともできる。油断はできない。隙を見せれば、女王は我々の補給路を塞ごうとするだろう。"
 
 #. [message]: speaker=Lisar
 #. this is a lead-in to the main conversation, but also explains to the player
@@ -20227,6 +20246,7 @@ msgid ""
 "the northeast, using the river to cover our flank. She’ll cut off our supply"
 " chain if we give her the chance."
 msgstr ""
+"──あと一日も進めば都市郊外に着く。我々は北東から近付くべきだろう。そうすれば川を使って側面を守ることができる。油断はできない。隙を見せれば、女王は我々の補給路を塞ごうとするだろう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:100
@@ -20235,18 +20255,19 @@ msgid ""
 "surrender. But I don’t think it will come to that. She knows we’re not so "
 "foolish as to give in."
 msgstr ""
+"囚人を使って降伏を迫ってくることは問題ではある。しかし、そのような事態にはならないと思っている。我々がおとなしく降伏するほど愚かではないことは女王もわかっているし、囚人に手を出したとしても、かえって我々の士気を上げる可能性もある。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:112
 msgid "Delfador, what do you think? You’ve been very quiet recently."
-msgstr ""
+msgstr "Delfador、どう思いますか？あなたは最近口数がだいぶ減っていますが。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:116
 msgid ""
 "Weldyn. The great city. The ancient city. The city of evil. The city of "
 "good. The city of men."
-msgstr ""
+msgstr "Weldyn。偉大なる都市。歴史ある都市。邪悪の都市。正義の都市。人間の都市。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:124
@@ -20255,18 +20276,19 @@ msgid ""
 "years ago, when I should have been at the height of my power. But my "
 "strength failed me. I failed, and I cannot atone for it."
 msgstr ""
+"この都市を見るのは 17 年振りだ。17 年前、私はまさに絶頂期であった。しかし力及ばなかった。私は失敗した。そしてその罪を償うこともできない。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:129
 msgid ""
 "You could not defeat Asheviere, I know. But you rescued me. That was no "
 "failure."
-msgstr ""
+msgstr "Asheviere を倒すことができなかった、そのことは知っています。しかし私を助けてくれたではありませんか。これは失敗ではないでしょう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:133
 msgid "You do not understand."
-msgstr ""
+msgstr "お主は知らぬのだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:145
@@ -20275,6 +20297,8 @@ msgid ""
 "but I knew that Asheviere’s wrath would be great. That many innocents would "
 "be slain."
 msgstr ""
+"戦闘は長く激しいものだった。そして我々は敗れた。Eldred は討ったが、それにより Asheviere "
+"の怒りが凄まじいほどに膨らむことはわかっていた。多くの人々が命を落とすであろうと。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:147
@@ -20283,25 +20307,27 @@ msgid ""
 "Weldyn, before the guards of Asheviere could get there, to carry out their "
 "evil orders."
 msgstr ""
+"私は王の血筋を守らねばならなかった。王子たちを守らねばならなかった。私は Weldyn へと急いだ。Asheviere "
+"の手下がおぞましい命令を実行するより前にそこへ行かねばならなかった。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:151
 msgid ""
 "But I failed. I was too late. I entered the chambers of the youngest prince,"
 " Prince Konrad, just as one of the evil ones ran him through."
-msgstr ""
+msgstr "しかし失敗した。私は遅すぎた。最も若年の Konrad 王子の部屋に入った時、まさにその瞬間、おぞましい命令は果たされてしまった。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:153
 msgid ""
 "All was lost. The heirs were slain. Only Asheviere and her daughter had any "
 "claim to the throne."
-msgstr ""
+msgstr "全ての希望は失われた。後継者達はみんな死んでしまった。Asheviere とその娘以外に継承権を持つ者はいなくなってしまった。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:157
 msgid "I am not dead, Delfador. What is this you’re saying!?"
-msgstr ""
+msgstr "Delfador、私は生きています。あなたは一体何を言っているのですか！？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:161
@@ -20311,6 +20337,7 @@ msgid ""
 "little prince’s broken body, and away I rode. Far away, to the land of the "
 "elves."
 msgstr ""
+"もちろんお主は驚くであろうな。しかし、これこそが真実なのだ。私はすぐにおぞましい命令を実行した者共を始末した。そして幼い王子の亡骸を抱えて逃げ出した。遠く離れたエルフの地へと。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:165
@@ -20319,6 +20346,8 @@ msgid ""
 "human child. She knew not where he had come from, only that the orcs would "
 "have eaten him if it weren’t for her intervention."
 msgstr ""
+"奇妙で不可解な巡り合わせがあったのか、エルフの淑女 Parandra は偶然人間の子供を見つけた。その子がどこから来たのか Parandra "
+"は知らなかった。ただ、彼女が介入しなかったら、その子はオークに喰われていただろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:167
@@ -20326,6 +20355,7 @@ msgid ""
 "The elves felt that great fortune smiled upon this nameless child. Perhaps "
 "that is why this most truthful of peoples agreed to my plan."
 msgstr ""
+"エルフ達はこの名もなき子供に大きな幸運が微笑んでいると感じたらしい。今にして思えば、だからこそ、あの最も誠実な人々が私の計画に賛同してくれたのだろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:171
@@ -20334,6 +20364,8 @@ msgid ""
 "Instead, this orphan child we would call Konrad, and he would be brought up "
 "to be king."
 msgstr ""
+"幼い王子を埋葬した後、我々はこの事を口外しないことにした。かわりに、孤児のことを Konrad "
+"と呼ぶことにした。そして、この子を王となる者として育てると。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:173
@@ -20342,6 +20374,8 @@ msgid ""
 "evil deed, instead of after. No one would ever have to know. And no one did "
 "know for certain, until now."
 msgstr ""
+"私もおぞましい命令を実行される「前」に女王の手下を始末したと言うようにした。誰にも知られることはないはずだった。そして誰かが新たに真実を知ることもないはずだった……"
+" 今この時までは。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:183
@@ -20350,6 +20384,8 @@ msgid ""
 "that fate has made a different choice. That despite all of Asheviere’s evil,"
 " this Li’sar is fit for the throne."
 msgstr ""
+"Konrad、いつか我々はお主を王にできると考えていた。しかし今、運命は違う道を選んだのだと気がついた。Asheviere "
+"があれほど邪悪であるにも関わらず、Li’sar こそが王位に相応しいのだろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:188
@@ -20358,18 +20394,20 @@ msgid ""
 " of kings, stretching all the way back to the seafarers of old from the "
 "west."
 msgstr ""
+"Parandra が正しかった。Li’sar…… Li’sar "
+"こそが正当なる女王なのだ。古の西方の船乗り達まで遡る長き王家の系譜、そこに連なる正統なる女王。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:193
 msgid ""
 "Li’sar... Li’sar is the rightful queen. From a long line of kings, "
 "stretching all the way back to the seafarers of old from the west."
-msgstr ""
+msgstr "Li’sar…… Li’sar こそが正当なる女王なのだ。古の西方の船乗り達まで遡る長き王家の系譜、そこに連なる正統なる女王。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:199
 msgid "Li’sar... The rightful queen..."
-msgstr ""
+msgstr "Li’sar が…… 正統なる女王……"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:203
