@@ -20416,6 +20416,8 @@ msgid ""
 "revelation as are you. In truth, you’d nearly had me convinced we were of "
 "one blood. I can’t call you my cousin any more, now."
 msgstr ""
+"Delfador、光栄だわ。そして Konrad… "
+"あなたと同じく、私も驚いているわ。実際、私達は同じ血を引いているんだと信じかけていたから。もうあなたを「従弟」と呼ぶことはできないわね。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:211
@@ -20423,33 +20425,35 @@ msgid ""
 "Then call me a friend. I was ready to be king. But in our time together I "
 "have come to agree with Delfador — you will make a good queen."
 msgstr ""
+"なら、これからは友と呼んでくれ。私は王になるつもりだった。しかし時間を共に過ごす間に、Delfador と同じような考えも浮かんできていた── "
+"あなたなら立派な女王になれる。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:215
 msgid "It is decided."
-msgstr ""
+msgstr "これで決まったな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:220
 msgid ""
 "Now, let us not tarry here any longer! The dawn breaks! The time has come "
 "for the heir to the throne to claim it!"
-msgstr ""
+msgstr "ならばもうここで立ち止まっている理由はない！夜が明けるぞ！今こそ正統なる継承者が王位を取り戻す時だ！"
 
 #. [terrain_type]: id=impassable_fence
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:7
 msgid "Impassable Fence"
-msgstr ""
+msgstr "通行不能の柵"
 
 #. [terrain_type]: id=web
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:16
 msgid "Spiderweb"
-msgstr ""
+msgstr "蜘蛛の巣"
 
 #. [terrain_type]: id=dummy_obstacle
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:27
 msgid "Point of Interest"
-msgstr ""
+msgstr "興味関心地点"
 
 #. [unit_type]: id=Dwarvish Bloodaxe, race=dwarf
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Bloodaxe.cfg:18
@@ -20460,6 +20464,8 @@ msgid ""
 " troll-mother, laying low her people and forevermore claiming dominion in "
 "the underearth."
 msgstr ""
+"伝説によると、神秘的な血斧はまだ Irdya が炎と煤にまみれていていた頃、Dhur Darihm "
+"の巨大な石造りの炉で夜明けに鍛造されました。地下世界の永遠の支配権を求め、最初のドワーフ達がトロルの母とその眷属を倒すための戦争においてこの斧が使われたと伝えられています。"
 
 #. [unit_type]: id=Dwarvish Bloodaxe, race=dwarf
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Bloodaxe.cfg:20
@@ -20470,6 +20476,7 @@ msgid ""
 "jealously guarded, passed down from father to son and reclaimed from the "
 "fallen even at great cost."
 msgstr ""
+"伝説の真偽には諸説あるところですが、このような武器が実在し、所持者に大きな回復力をもたらしていることは厳然たる事実です。わずかに残っている血斧は厳重に守られ、父から息子へと受け継がれ、斧を持った者が倒れた時には多大なコストを払ってでも取り戻されました。"
 
 #. [attack]: type=blade
 #. [object]: id=bloodaxe
@@ -20481,7 +20488,7 @@ msgstr "血斧"
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Witness.cfg:5
 msgid "Dwarvish Witness"
-msgstr ""
+msgstr "ドワーフの証人"
 
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Witness.cfg:20
@@ -20493,23 +20500,25 @@ msgid ""
 "of a Witness is considered sacred, and Witnesses are often used as envoys "
 "between dwarvish clans."
 msgstr ""
+"ドワーフの証人（Dwarvish "
+"Witness）にはドワーフの歴史を見つめる目としての役割があります。その深遠な伝承を外部の者に開示することはありません。証人が存在すると、ドワーフの戦士達は自分達の功績、そして死が必ず記録に残るのだと認識します。そして戦士達は奮い立って驚くような功績を上げたり、英雄的な行いをしたりします。証人は神聖な人物と考えられており、証人がドワーフ氏族間の使節や使者を務めることも良くあります。"
 
 #. [dummy]: id=march
 #: data/campaigns/Heir_To_The_Throne/units/Elite_Units.cfg:19
 msgid "march"
-msgstr ""
+msgstr "行軍"
 
 #. [dummy]: id=march
 #: data/campaigns/Heir_To_The_Throne/units/Elite_Units.cfg:20
 msgid ""
 "This unit has improved movement on forest, cave, hill, mountain, frozen, and"
 " water terrain."
-msgstr ""
+msgstr "このユニットは森、洞窟、丘、山、氷、水の地形を移動しやすくなります。"
 
 #. [unit_type]: id=Elvish Civilian, race=elf, gender=male,female
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:4
 msgid "Elvish Civilian"
-msgstr ""
+msgstr "エルフの市民"
 
 #. [unit_type]: id=Elvish Civilian, race=elf, gender=male,female
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:19
@@ -20518,33 +20527,34 @@ msgid ""
 "even untrained they have talent for swords and bows. However, if you are "
 "hurling civilians at your foes, you’re clearly out of superior forces."
 msgstr ""
+"エルフは通常争い事を好みませんが、その生来の性質により、訓練を受けていない者でも剣や弓を扱う素質を持っています。しかし、訓練を受けた兵士達がいない時でもなければ、彼らを敵にぶつけるような事態は避けるべきでしょう。"
 
 #. [attack]: type=blade
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:22
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:32
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:30
 msgid "sword"
-msgstr ""
+msgstr "剣"
 
 #. [attack]: type=pierce
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:31
 msgid "bow"
-msgstr ""
+msgstr "弓"
 
 #. [male]: gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:42
 msgid "male^Elvish Civilian"
-msgstr ""
+msgstr "エルフの男性"
 
 #. [female]: gender=female
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:90
 msgid "female^Elvish Civilian"
-msgstr ""
+msgstr "エルフの女性"
 
 #. [unit_type]: id=Dark Queen, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:4
 msgid "female^Dark Queen"
-msgstr ""
+msgstr "闇の女王"
 
 #. [unit_type]: id=Dark Queen, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:27
@@ -20553,31 +20563,33 @@ msgid ""
 "knowledge of magic makes her a worthy foe in combat, although her power is "
 "mostly derived from those she commands."
 msgstr ""
+"邪悪な女王 Asheviere は、長年に渡って Wesnoth に恐怖をまき散らしています。 "
+"その力の大部分は彼女が命令を与えている者達のものですが、彼女自身の魔術の知識も戦闘において侮れるものではありません。"
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:32
 msgid "scepter"
-msgstr ""
+msgstr "笏"
 
 #. [attack]: type=pierce
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:41
 msgid "stiletto"
-msgstr ""
+msgstr "刺剣"
 
 #. [attack]: type=cold
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:53
 msgid "raging blizzard"
-msgstr ""
+msgstr "猛烈な吹雪"
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:135
 msgid "defeated"
-msgstr ""
+msgstr "敗北"
 
 #. [unit_type]: id=Delfador, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:8
 msgid "Elder Mage"
-msgstr ""
+msgstr "老魔術師"
 
 #. [unit_type]: id=Delfador, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:24
@@ -20588,60 +20600,62 @@ msgid ""
 "retains a dominating presence on the battlefield, calling devastating blasts"
 " of lightning down upon their foes."
 msgstr ""
+"徹底した研究と数多の苦労を長年続けた結果、老魔術師（Elder "
+"Mage）の知識や見識は比類なき高みへと至っています。歳月を重ねたことでその力は少し衰えていますが、依然として老魔術師は戦場において大きな脅威です。彼が呼び出す雷に敵は徹底的に焼き尽くされることでしょう。"
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:71
 msgid "levitate"
-msgstr ""
+msgstr "浮揚"
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:72
 msgid ""
 "This unit ignores most movement costs, bypasses Zone of Control, and always "
 "has at least 50% defense."
-msgstr ""
+msgstr "このユニットはほとんど地形の移動コストを無視し、ZOC も無視します。さらに、どんな地形でも最低でも 50 % の回避率を持ちます。"
 
 #. [leadership]: id=summoner
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:84
 msgid "summoner"
-msgstr ""
+msgstr "召喚者"
 
 #. [leadership]: id=summoner
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:85
 msgid ""
 "This unit is a skilled summoner. Adjacent allied elementals deal +100% "
 "damage and gain +100% experience."
-msgstr ""
+msgstr "このユニットは優れた召喚者です。隣接する友軍の精霊ユニットはダメージが 100% 増加し、得られる経験も 100 % 増加します。"
 
 #. [leadership]: id=summoner
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:87
 msgid "Recruited elementals dissipate at the end of each scenario."
-msgstr ""
+msgstr "雇用した精霊は各シナリオ終了時に消滅します。"
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:147
 msgid "staff"
-msgstr ""
+msgstr "杖"
 
 #. [attack]: type=fire
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:156
 msgid "lightning"
-msgstr ""
+msgstr "雷"
 
 #. [dummy]: id=chain
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:164
 msgid "chain"
-msgstr ""
+msgstr "連鎖"
 
 #. [dummy]: id=chain
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:165
 msgid "If this attack kills an enemy, you may attack again."
-msgstr ""
+msgstr "この攻撃で敵を殺すともう一度攻撃できます。"
 
 #. [unit_type]: id=Injured Lieutenant
 #: data/campaigns/Heir_To_The_Throne/units/Human_Injured_Lieutenant.cfg:7
 msgid "Injured Lieutenant"
-msgstr ""
+msgstr "負傷した副官"
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:245
