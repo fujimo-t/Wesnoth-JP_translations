@@ -2648,7 +2648,7 @@ msgid ""
 "that fire that you possess, but the gleaming light of truth instead. Quench "
 "the flames of fear before all your world is consumed."
 msgstr ""
-"その時が来たるれば・・・心せよ。そなたの具えし火の力を、破滅をもたらす炎となさずして、さやけき誠の光を灯すものなるよう努めるべし。そなたらの現し世が呑み込まれぬよう、怖れの業火を鎮めよ。"
+"その時が来たるれば、必ずこれを思い出せ・・・そなたの具えし火の力を、破滅をもたらす炎にせんとせず、さやけき誠の光を灯さんがために用うよう努めよ。そなたらの現し世が、紅煉の炎に呑み込まれぬよう、怖れの業火を鎮めるべし。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1896
@@ -2666,7 +2666,7 @@ msgstr "——よく分からないよ・・・"
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:10
 msgid "The Deceiver"
-msgstr ""
+msgstr "逆賊"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:21
