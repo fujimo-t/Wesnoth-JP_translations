@@ -189,12 +189,12 @@ msgstr "シナリオ 4：ゴボゴボ"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
 msgid "Defeat both enemy leaders in <i>The Deceiver</i> before Garard does."
-msgstr ""
+msgstr "『逆賊』において、Garard よりも先に敵のリーダーを両方倒す。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
 msgid "Scenario 5: Hook, Line, and Sinker"
-msgstr ""
+msgstr "シナリオ 5：二本釣り"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:27
@@ -2381,13 +2381,13 @@ msgstr "虚無"
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1128
 msgid "What was that?!"
-msgstr ""
+msgstr "今のは何だ！？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1139
 msgid ""
 "I think this whole mirror world is starting to fall apart! I have to hurry!"
-msgstr ""
+msgstr "鏡の世界が崩壊し始めてるみたいだ！急がないと！"
 
 #. [message]
 #. the player's units have just been transported into a strange realm, and
@@ -2450,25 +2450,25 @@ msgstr "この不可思議な世界では、あらゆる攻撃が運命に導か
 msgid ""
 "The mortal world beckons; tell me the rest of the prophecy when next we "
 "meet!"
-msgstr ""
+msgstr "現し世が呼んでいる。予言の続きは次に会った時に聞かせてくれ！"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1417
 msgid "Elende, I hope you know what you’re doing. Good luck, the rest of you!"
-msgstr ""
+msgstr "Elende 、何をしているのか分かっているのだろうな。皆に幸運を！"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1418
 msgid ""
 "Owww! Elende, it’s very rude to banish someone without their permission!"
-msgstr ""
+msgstr "あぃたたた！Elende 、いきなり追い払うなんて、あんまりじゃないか！"
 
 #. [message]: speaker=Delfador
 #. Delfador has just been reduced to 0hp, and been "kicked out" of Elenede's
 #. "mirror realm" or wherever she was giving the prophecy
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1426
 msgid "Hey, stop—"
-msgstr ""
+msgstr "ちょっと待ってくれ——"
 
 #. [time]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1443
@@ -2481,7 +2481,7 @@ msgstr "夜明け"
 #. scenario
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1467
 msgid "I didn’t get to finish hearing everything..."
-msgstr ""
+msgstr "まだ全てを聞き終わってないのに・・・"
 
 #. [message]
 #. spoken by Elende (through Kalenz's mirror image), referencing Legend of
@@ -2648,7 +2648,7 @@ msgid ""
 "that fire that you possess, but the gleaming light of truth instead. Quench "
 "the flames of fear before all your world is consumed."
 msgstr ""
-"その時が来たるれば、必ずこれを思い出せ・・・そなたの具えし火の力を、破滅をもたらす炎にせんとせず、さやけき誠の光を灯さんがために用うよう努めよ。そなたらの現し世が、紅煉の炎に呑み込まれぬよう、怖れの業火を鎮めるべし。"
+"その時が来たるれば、能くこれを呼び覚ませ・・・そなたの内なる火の力を、破滅をもたらす炎にせんとすることなく、さやけき誠の光を灯さんがために用うよう努めよ。そなたらの現し世が、紅煉の炎に呑み込まれぬよう、怖れの業火を鎮めるべし。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1896
@@ -2673,7 +2673,7 @@ msgstr "逆賊"
 msgid ""
 "Delfador and his companions departed the mirror grove in hushed silence. The"
 " Sylph’s words weighed heavily on each of their minds."
-msgstr ""
+msgstr "Delfador と仲間たちは静謐な鏡の木立を立ち去った。シルフの言葉はそれぞれの心に重くのしかかっていた。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:24
@@ -2683,16 +2683,18 @@ msgid ""
 "several days’ westward travel, they soon sighted the banners of the king’s "
 "army."
 msgstr ""
+"熟議の末、Chantal の異議を抑え、Delfador と Deoran "
+"は任務の継続を決意した。数日間の西進の後に森を抜けると、程なくして王の軍旗が視界に入ってきた。"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:47
 msgid "Shogro"
-msgstr ""
+msgstr "Shogro"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:61
 msgid "Khovak"
-msgstr ""
+msgstr "Khovak"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:253
@@ -2714,13 +2716,13 @@ msgstr ""
 msgid ""
 "Deoran, are you sure you won’t reconsider staying in the Lintanir? What "
 "Elende said..."
-msgstr ""
+msgstr "Deoran 、どうしても Lintanir に残る気はないのですか？Elende が語ったことは・・・"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:319
 msgid ""
 "My duty comes first, always. Would you truly want me any other way, Chantal?"
-msgstr ""
+msgstr "私は己が責務を果たすことを常に第一としています。貴女は私がそれを放り出すような人間になって欲しいと、本当に望むのですか、Chantal ？"
 
 #. [message]: speaker=Kalenz
 #. referencing the beginning of HttT, where Delfador and Konrad are staying
@@ -2731,6 +2733,10 @@ msgid ""
 "\n"
 "Should either of you ever find yourselves searching for a home away from Wesnoth, you will always be welcome with us."
 msgstr ""
+"Deoran 、この数年間、貴公を我等の元に迎えられたのは、この上のない喜びであった。そして、Delfador "
+"よ、そなたにも同様のことをいつの日か言えるよう願っている。Elende "
+"がそなたを認めた——そのことは私にとっても我が民にとっても重大な意味を持つ。そなたらのどちらかが、Wesnoth "
+"を離れてその身を寄せる拠り所を探すようなことがあれば、我等はいついかなる時でも歓迎しよう。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:341
@@ -2738,25 +2744,26 @@ msgid ""
 "Hail! The fledgling war-mage returns. Welcome, Delfador... and Deoran. Tell "
 "me, are the north-elves with us?"
 msgstr ""
+"よくぞ来た！駆け出しの戦闘魔術師殿のご帰還だな。待ちわびたぞ、Delfador に Deoran よ。首尾はどうだ、北部エルフ族は我等に与するのか？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:345
 msgid "Deepest apologies my Lord, but they are not. Lintanir—"
-msgstr ""
+msgstr "申し開きようもございませぬ、我が君。遺憾ながら彼らを説き伏せること能わず、Lintanir は——"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:349
 msgid ""
 "I see. Unfortunate, but ultimately of no consequence. Victory is nearly won "
 "even without their aid."
-msgstr ""
+msgstr "そうか。不本意ではあるが、大勢には影響せぬ。彼の者らの助力などなくとも、我等の勝利は目前だ。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:354
 msgid ""
 "See there: we’ve driven the Whitefang chieftain and the last of his guards "
 "into this old hill fort."
-msgstr ""
+msgstr "あれなるを見よ。Whitefang の頭目と取り巻きの残党を、この古びた山城に追い込んでやったわ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:358
@@ -2765,6 +2772,8 @@ msgid ""
 "Lionel and my brother Arand will press them from the front, while you sneak "
 "in the back and roast their chief like a pig on a spit."
 msgstr ""
+"これ以上は望めぬほどの絶好機に帰還したな、Delfador よ。Lionel 将軍と我が弟の Arand "
+"が正面から奴らを圧迫する。その隙にそなたは密かに背後に周り、奴らの頭目を串焼きの豚の如く丸焼きにしてやるのだ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:362
@@ -2772,23 +2781,26 @@ msgid ""
 "Without their chief the Whitefangs will dissolve into an infighting mass of "
 "petty squabbles, and our— Wesnoth’s victory will be complete!"
 msgstr ""
+"頭目を失えば、Whitefang "
+"の如きは細切れに分裂し、卑小な内輪揉めを繰り返すだけの烏合の衆へと成り下がるであろう。さすれば、我が王家の——否、Wesnoth "
+"の勝利は揺るぎなきものとなろう！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:370
 msgid "Defeat Khovak, the orcish warlord"
-msgstr ""
+msgstr "オークの将軍 Khovak を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:374
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:523
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:483
 msgid "Death of Delfador or Deoran"
-msgstr ""
+msgstr "Delfador または Deoran の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:378
 msgid "Death of Garard, Arand, Lionel, or Methor"
-msgstr ""
+msgstr "Garard 、Arand 、Lionel 、Methor いずれかの死"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:399
