@@ -189,7 +189,7 @@ msgstr "シナリオ 4：ゴボゴボ"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
 msgid "Defeat both enemy leaders in <i>The Deceiver</i> before Garard does."
-msgstr "『逆賊』において、Garard よりも先に敵のリーダーを両方倒す。"
+msgstr "『欺瞞』において、Garard よりも先に敵のリーダーを両方倒す。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
@@ -817,7 +817,7 @@ msgid ""
 "amusement. This one is a petty magician, not a wise sage or advisor of "
 "kings."
 msgstr ""
-"不合格。魔術師には知恵が必要だが、この見習いは己の愉悦しか頭にない。これでは凡庸な手品師がいいところ。賢者にも王の助言者にもなれそうにないわね。"
+"不合格。魔術師には知恵が必要だが、この見習いは己の愉悦しか頭にない。これでは凡庸な術士がいいところ。賢者にも王の助言者にもなれそうにないわね。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:475
@@ -1560,7 +1560,7 @@ msgstr "戦に秀でた魔術師を前線で浪費するのはあまりにも惜
 #. said by Delfador to himself (or maybe just thought in his mind)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:626
 msgid "Commendation from the king himself! This is a dream come true."
-msgstr "陛下が御自らお褒めくださるとは！ついに夢が叶ったな。"
+msgstr "陛下が御自らお褒めくださるとは！ついに夢が叶ったぞ。"
 
 #. [message]: speaker=Delfador
 #. Delfador is realy excited to go with the king, but deeply respects Methor
@@ -1793,7 +1793,7 @@ msgid ""
 "burning down half the forest would hardly be the good first impression King "
 "Garard tasked me with making."
 msgstr ""
-"攻撃体制を取っているのか！歩く柳の２本や３本など怖くはないけど、もしも森の半分を焼き払うことになったら、Garard王に課された「好印象を与える」という任務はかなり厳しくなっちまうな。"
+"攻撃体制を取っているのか！歩く柳の２本や３本など怖くはないけど、もしも森の半分を焼き払うことになったら、Garard王に課された「好印象を与える」という御下命とは正反対の行動になっちまうな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:212
@@ -2450,18 +2450,18 @@ msgstr "この不可思議な世界では、あらゆる攻撃が運命に導か
 msgid ""
 "The mortal world beckons; tell me the rest of the prophecy when next we "
 "meet!"
-msgstr "現し世が呼んでいる。予言の続きは次に会った時に聞かせてくれ！"
+msgstr "現し世が私を呼んでいるようだ。予言の続きは再会した折に聞かせてくれ！"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1417
 msgid "Elende, I hope you know what you’re doing. Good luck, the rest of you!"
-msgstr "Elende 、何をしているのか分かっているのだろうな。皆に幸運を！"
+msgstr "Elende 、貴女が何を成さんとしているのか、その自覚があらんことを。皆の無事を祈る！"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1418
 msgid ""
 "Owww! Elende, it’s very rude to banish someone without their permission!"
-msgstr "あぃたたた！Elende 、いきなり追い払うなんて、あんまりじゃないか！"
+msgstr "うぅぅぅ！Elende 、いきなり追い払うなんて、あんまりではございませんか！"
 
 #. [message]: speaker=Delfador
 #. Delfador has just been reduced to 0hp, and been "kicked out" of Elenede's
@@ -2615,6 +2615,8 @@ msgid ""
 "Spend 48 XP to grant yourself and all allies double movement and a second "
 "attack this turn. When this turn ends, affected units become slowed."
 msgstr ""
+"48 XP "
+"を消費して、このターン中に限り、自分自身とすべての味方に移動力倍増と２回目の攻撃を可能とする効果を与える。ターン終了後は、影響を受けたすべてのユニットが「遅化」の状態になる。"
 
 #. [message]
 #. referncing the future events of HttT; Konrad and Li'Sar retriving the
@@ -2666,7 +2668,7 @@ msgstr "——よく分からないよ・・・"
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:10
 msgid "The Deceiver"
-msgstr "逆賊"
+msgstr "欺瞞"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:21
@@ -2749,7 +2751,7 @@ msgstr ""
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:345
 msgid "Deepest apologies my Lord, but they are not. Lintanir—"
-msgstr "申し開きようもございませぬ、我が君。遺憾ながら彼らを説き伏せること能わず、Lintanir は——"
+msgstr "申し開きのしようもございませぬ、我が君。遺憾ながら彼らを説き伏せること能わず、Lintanir は——"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:349
@@ -2809,13 +2811,14 @@ msgid ""
 "to stage our forces outside their walls, then attack just before the second "
 "dawn."
 msgstr ""
+"慌てて突撃をするでないぞ、Lionel ！——貴重な兵を浪費する必要はない。城壁の周囲に我らが布陣するのを待ち、２度めの夜明け前に攻撃を仕掛けるのだ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:403
 msgid ""
 "We have them right where we want them. Once our forces are assembled, I "
 "shall join the battle personally and savor this victory up close."
-msgstr ""
+msgstr "奴らは我らが企図した通りの場所に逃げ込み、まさに袋の鼠だ。我が軍の陣形が整い次第、この私も自ら戦列に加わり、勝利を間近で味わうとしよう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:407
@@ -2824,6 +2827,8 @@ msgid ""
 "quickly. Chantal speaks of them as numerous and cunning... I wonder if "
 "something is amiss."
 msgstr ""
+"Whitefang がこれほど早く窮地に追い込まれるとは。Chantal "
+"の話では、奴らは数が多くて狡猾だということだったが・・・何か裏があるのでなければよいが。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:419
@@ -2832,6 +2837,7 @@ msgid ""
 "their apprentices as warriors, but Clan Whitefang usually keeps theirs far "
 "from the frontline."
 msgstr ""
+"オークの呪術師だと！他の氏族が見習いを戦士として用いているのを見たことはあるが、Whitefang が前線に投入しているのは、これまで見たことがない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:423
@@ -2840,6 +2846,7 @@ msgid ""
 " she was using, but now that I have her equipment I’ll bet I could figure "
 "out how to imitate that draining attack... for our next battle, at least."
 msgstr ""
+"なんておかしな魔法なんだ！あいつの使っていた力の根源に触れることはできないけど、使っていた杖を手に入れたから、生命吸収の真似事くらいは出来るようになるはずだ・・・少なくとも次の戦いまでには。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:449
