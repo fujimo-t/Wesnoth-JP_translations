@@ -13130,7 +13130,7 @@ msgstr "…ありました！ここに棒草のエッセンス… 暴君の骨�
 msgid ""
 "Smoke! Yes, earth turned to air... most useful for befuddling and bewitching"
 " the unprepared, and a validation of my theory of elemental humors!"
-msgstr "煙！あら、土が空気に変わったわ… 不意を突いて惑わせ、魅了するのに有効ですね、そして私の四大元素理論の証明にもなりますね！"
+msgstr "煙幕！あら、土が空気に変わったわ… 不意を突いて惑わせるのに有効ですね、そして私の四大元素理論の証明にもなりますね！"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:477
@@ -20660,7 +20660,7 @@ msgstr "負傷した副官"
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:245
 msgid "smoke"
-msgstr ""
+msgstr "煙幕"
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:246
@@ -20670,23 +20670,25 @@ msgid ""
 " enforce a zone of control. The cloud lasts until the start of this unit’s "
 "next turn."
 msgstr ""
+"命中してもしなくても、この攻撃は目標としたヘクスに鼻につく腐食性の煙幕を作り出します。そのヘクスにいるあらゆるユニットは ZOC "
+"を失い、攻撃の命中率が半分になります。煙幕はこのユニットの陣営の次ターンまで継続します。"
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:248
 msgid "<i>Magical</i> attacks are unaffected by smoke."
-msgstr ""
+msgstr "<b>魔法</b>の攻撃は煙幕の影響を受けません。"
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:249
 msgid ""
 "This unit’s attacks create clouds of caustic smoke, halving chance-to-hit "
 "and nullifying zone of control for any unit caught inside."
-msgstr ""
+msgstr "このユニットの攻撃は腐食性の煙幕を作りだします。煙幕の中に入ったあらゆるユニットは ZOC を失い、攻撃の命中率が半分になります。"
 
 #. [unit_type]: id=Alchemist, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:268
 msgid "Alchemist"
-msgstr ""
+msgstr "錬金術師"
 
 #. [unit_type]: id=Alchemist, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:282
@@ -20695,6 +20697,7 @@ msgid ""
 "of alchemy are concerned with the study of physical matter — especially "
 "herbs, minerals, and the four humors."
 msgstr ""
+"はっきりと魔術的な事象を扱う分野とは対照的に、錬金術師の研究者はもっと物質的な事象── 特に薬草、鉱物、四大元素に関わることに関心を持ちます。"
 
 #. [unit_type]: id=Alchemist, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:284
@@ -20705,30 +20708,32 @@ msgid ""
 "as a whole is often derided as the pastime of frauds — at least in the eye "
 "of the more traditional orders of magery."
 msgstr ""
+"そのような研究の最終的な目的は鉛を金に変換することです。過去に幾人かがそれは成し遂げたと主張していますが、決定的な証拠は示されていません。そして、そのような試みは十把一絡げに詐欺師達の商売の種である、と馬鹿にされています──"
+" 少なくとも、より伝統的な魔術研究者達からは。"
 
 #. [dummy]: id=transmutation
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:291
 msgid "transmutation"
-msgstr ""
+msgstr "変換"
 
 #. [dummy]: id=transmutation
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:292
 msgid "This unit generates 5 gold each turn."
-msgstr ""
+msgstr "このユニットは毎ターン 5 ゴールドを生成します。"
 
 #. [attack]: type=fire
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:299
 msgid "flashpowder"
-msgstr ""
+msgstr "発煙粉"
 
 #. [attack]: type=pierce
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:312
 msgid "blowgun"
-msgstr ""
+msgstr "吹き矢"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:4
 msgid "Fighter"
-msgstr ""
+msgstr "戦士"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:21
 msgid ""
@@ -20736,6 +20741,7 @@ msgid ""
 "seasoned enemies. At this early age, their greatest value is their "
 "potential."
 msgstr ""
+"若く向こう見ずな戦士は剣で戦います。より経験を積んだ敵からの攻撃にはかないません。このような若い段階では、その潜在力にこそ最も価値があります。"
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:87
@@ -20743,7 +20749,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:126
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:135
 msgid "with axe"
-msgstr ""
+msgstr "斧持ち"
 
 #. [variation]
 #. [variation]: race=human
@@ -20754,7 +20760,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:62
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:102
 msgid "with sceptre"
-msgstr ""
+msgstr "笏持ち"
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:103
@@ -20762,21 +20768,21 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:142
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:151
 msgid "with axe and sceptre"
-msgstr ""
+msgstr "斧と笏持ち"
 
 #. [unit_type]: id=Sleeping_Fighter, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1_Sleeping.cfg:5
 msgid "Sleeping Fighter"
-msgstr ""
+msgstr "睡眠中の戦士"
 
 #. [unit_type]: id=Unarmed_Fighter, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1_Unarmed.cfg:5
 msgid "Unarmed Fighter"
-msgstr ""
+msgstr "丸腰の戦士"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L2.cfg:4
 msgid "Captain"
-msgstr ""
+msgstr "隊長"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L2.cfg:21
 msgid ""
@@ -20788,10 +20794,11 @@ msgid ""
 "body alike, the most capable of these elf-trained leaders complement their "
 "improved swordsmanship with an uncanny accuracy at archery."
 msgstr ""
+"エルフの考え方では、隊長は大規模戦闘よりも小規模戦闘での指揮を学ぶべきとされています。そして、通常は一方的に命令するというよりも、仲間と互いに協調するような形で隊を導きます。彼らのような指揮官は、通常は小規模な部隊を長期間に渡って指揮します。そうすることで部隊の面々を直接指導し、良い関係を構築するのです。最も有能なエルフの指揮官達は、心身を研ぎ澄ませ、優れた剣術と正確な射術を両立しています。"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:4
 msgid "Prince"
-msgstr ""
+msgstr "王子"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:22
 msgid ""
@@ -20802,10 +20809,11 @@ msgid ""
 "victorious. Outfitted in finely-made weapons and armor, these leaders are a "
 "force to be reckoned with in both warfare and single combat."
 msgstr ""
+"最も才能ある隊長は、エルフだけでなくオークに関する事まで幅広く軍事に関する訓練を積みます。彼らは戦術に精通し、常識にとらわれない卓越した戦略家です。彼らが指揮すれば、圧倒的に不利な状況下、経験の浅い新兵しかいなくても、戦略的に効果的な攻撃を仕掛け、勝利を収めることすらできるでしょう。高品質な武器と鎧を身につけた彼ら指揮官は、単独の戦力としても戦場で大きな存在感を示すでしょう。"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:4
 msgid "Warrior Prince"
-msgstr ""
+msgstr "解放の王子"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:22
 msgid ""
@@ -20821,7 +20829,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:4
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:64
 msgid "female^Princess"
-msgstr ""
+msgstr "王女"
 
 #. [variation]: race=human
 #. [unit_type]: id=Princess, gender=female, race=human
@@ -20837,7 +20845,7 @@ msgstr ""
 #. [unit_type]: id=Bound Princess, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess_Bound.cfg:4
 msgid "female^Bound Princess"
-msgstr ""
+msgstr "捕らわれの王女"
 
 #. [unit_type]: id=Bound Princess, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess_Bound.cfg:31
@@ -20851,7 +20859,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:4
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:104
 msgid "female^Warrior Princess"
-msgstr ""
+msgstr "解放の王女"
 
 #. [variation]: race=human
 #. [unit_type]: id=Warrior Princess, gender=female, race=human

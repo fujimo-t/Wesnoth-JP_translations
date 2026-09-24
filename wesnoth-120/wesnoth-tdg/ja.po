@@ -2706,12 +2706,12 @@ msgstr "90 ゴールド"
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:253
 msgid "These orcs were sitting on some gold! We can put it to better use."
-msgstr ""
+msgstr "オークどもが結構な金を溜め込んでいたな！もっと有効に活用してやろう。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:267
 msgid "Captain Kestrel"
-msgstr ""
+msgstr "Kestrel 親衛隊長"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:315
@@ -2855,16 +2855,17 @@ msgid ""
 "defeated was standing on a keep. We should seize it and recruit our army "
 "before we attack the orcs’ main camp."
 msgstr ""
+"そう言えば、兵士の雇用も召還もまだ全然してないな！俺たちが倒したあのオークの呪術師は主塔にいたよな。そいつを確保して態勢を整えてから、オークの本陣を攻撃した方がいいな。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:472
 msgid "There’s more of them coming from the north! Should we go attack?"
-msgstr ""
+msgstr "北からも敵が来ている！攻撃しに行った方がいいか？"
 
 #. [message]: speaker=Khovak
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:476
 msgid "Stay in our fort, worm! Stick to the plan."
-msgstr ""
+msgstr "砦から出るんじゃねぇ、このクソムシが！計画通りにやるんだよ。"
 
 #. [message]: speaker=Garard
 #. "trog" is a made-up slur referring to an orc
@@ -2873,11 +2874,12 @@ msgid ""
 "You’re squatting in my summer home, trogs! No more raids for you; no more "
 "pillage and plunder. Last chance to surrender!"
 msgstr ""
+"断りもなくこの私の避暑地に居座りおって、この豚どもめ！これ以上の狼藉は断じて許さぬ。掠奪も強奪もこれでお終いだ。降伏するなら、これが最後の機会ぞ！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:493
 msgid "Up yours, pink-skin!"
-msgstr ""
+msgstr "くたばれ、薄皮野郎！"
 
 #. [message]: speaker=Delfador
 #. Delfador is telling his master Methor about the adventures he had in the
@@ -2887,6 +2889,7 @@ msgid ""
 "Hello there, master, it’s nice to see you again! You’ll never believe the "
 "adventures I’ve had. Did you know there’s an elvish prophecy about me?!"
 msgstr ""
+"やあ、マスター、またお会いできて嬉しいです！俺がどんな冒険をしてきたか、きっと信じてもらえないでしょうね。エルフが俺の未来を予言したって知ってましたか！？"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:522
@@ -2894,43 +2897,44 @@ msgid ""
 "(smiling) Delfador, don’t make me regret teaching you that psychedelic "
 "spell! I’m just glad you’ve made it back safe and sound."
 msgstr ""
+"（微笑みながら）Delfador よ、幻覚呪文をそなたに授けたことを後悔させないでくれ！ともかく、無事に帰還してくれただけでも、喜ばしいことだ。"
 
 #. [message]: speaker=Shogro
 #. the whitefangs orcs are luring Garard into overextending. Shogro is bait,
 #. and has just died
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:536
 msgid "Stinking Ushka’e! This was a terrible plan..."
-msgstr ""
+msgstr "臭っせぇ  Ushka’e め！こりゃ最悪の作戦だったぜ・・・"
 
 #. [message]: speaker=Khovak
 #. the whitefangs orcs are luring Garard into overextending. Khovak is bait,
 #. and has just died
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:561
 msgid "Human dogs! You’ve just sealed your deaths..."
-msgstr ""
+msgstr "犬野郎どもめ！お前らが死ぬことが、いま決まったんだよ・・・"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:578
 msgid "Run for the hills!"
-msgstr ""
+msgstr "丘まで逃げろ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:593
 msgid "Yes! Did I do well, Your Majesty?"
-msgstr ""
+msgstr "よし！私はお役に立てましたでしょうか、陛下？"
 
 #. [message]: speaker=Garard
 #. Garard thinks he's won, even though he hasn't
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:598
 msgid "Indeed you did. Fantastic battle, everyone, the orcs are broken!"
-msgstr ""
+msgstr "うむ、上出来だ。見事な戦いぶりであったぞ、皆の者！オークどもは打ち砕かれた！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:606
 msgid ""
 "Footmen — down into the fort’s dungeons! Flush out any stragglers and "
 "complete our victory."
-msgstr ""
+msgstr "歩兵隊——砦の地下牢へ下りよ！残党を炙り出し、我らの勝利を完遂せしめるのだ。"
 
 #. [message]: speaker=Garard
 #. Garard thinks he's won, even though he hasn't. "Wold" means "a piece of
@@ -2940,18 +2944,19 @@ msgid ""
 "Hah! I think “Garard’s Wold” will make a good name for the new province... "
 "or perhaps “Garard’s Triumph”? What do you think, Lionel?"
 msgstr ""
+"ハハッ！「Garard 高原」がこの新たな州の名に相応しいと思うが・・・あるいは「Garard の勝利」も良いか？お前はどう思う、Lionel ？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:655
 msgid ""
 "Delfador, something’s wrong. The orc leader we killed... isn’t the Whitefang"
 " chief."
-msgstr ""
+msgstr "Delfador 、何かがおかしい。我らが討ち取ったオークの頭目は・・・Whitefang の首領ではない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:659
 msgid "What? How can you tell?"
-msgstr ""
+msgstr "何だって？どうして分かるんだい？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:663
@@ -2960,6 +2965,8 @@ msgid ""
 " treaty. This orc’s face is narrower than I remember, and his helmet doesn’t"
 " have the right war-paint. Delfador, I think we’ve been tricked!"
 msgstr ""
+"１年ほど前、Lintanir が条約交渉をしていた時に、Whitefang "
+"の首領たちを目にしたことがある。このオークは私の記憶よりも顔が細く、兜にも正式な戦模様が施されていない。Delfador 、我らは嵌められたのだ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:710
@@ -2967,53 +2974,55 @@ msgid ""
 "Are you even trying to fight, Delfador!? I should have known a mage would "
 "never have the stomach for true battle; get back to Alduin where you belong!"
 msgstr ""
+"本気で戦う気があるのか、Delfador ！？魔術師などに真の戦いに耐え得る胆力などあろうはずもないと知っておくべきだったわ。お前にお似合いの "
+"Alduin へ引き下がるがよい！"
 
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:10
 msgid "Ring of Swords"
-msgstr ""
+msgstr "剣の輪"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:46
 msgid "Ghazgir"
-msgstr ""
+msgstr "Ghazgir"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:59
 msgid "Muhku"
-msgstr ""
+msgstr "Muhku"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:76
 msgid "Irbirch"
-msgstr ""
+msgstr "Irbirch"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:80
 msgid "Blackcrest Orcs"
-msgstr ""
+msgstr "Blackcrest オーク"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:88
 msgid "Ssisaix"
-msgstr ""
+msgstr "Ssisaix"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:92
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:104
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:75
 msgid "Blackcrest Saurians"
-msgstr ""
+msgstr "Blackcrest トカゲ"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:100
 msgid "Xairr"
-msgstr ""
+msgstr "Xairr"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:349
 msgid "Chief Ushka'e"
-msgstr ""
+msgstr "首領 Ushka'e"
 
 #. [message]: speaker=Ushka'e
 #. this is the whitefang chief. He's happy that Garard has walked into his
@@ -3024,6 +3033,7 @@ msgid ""
 "goblin runt, who does exactly what I want. The trap is sprung! Now we crush "
 "them."
 msgstr ""
+"見えるか？俺が言った通りだろう！奴らの王なんざ、頭の弱いゴブリンの出来損ないみてぇなもんだ。俺の望んだ通りに動いて、見事に罠にハマってくれたぜ！さあ、奴らを叩き潰すぞ！"
 
 #. [message]: speaker=Irbirch
 #. Irbirch is a representative of clan blackcrest, now (tenuously) allied with
@@ -3035,6 +3045,8 @@ msgid ""
 "spy? Blackcrest warriors would never have let humans advance so far into our"
 " lands!"
 msgstr ""
+"ぶわははは！Whitefang の連中め、いつからネズミの小細工に従うほどの弱虫になりやがった？ Blackcrest "
+"の戦士なら、自分たちの土地に人間どもをここまで踏み込ませたりは絶対にしねぇぞ！"
 
 #. [message]: speaker=Ushka'e
 #. referencing clan blackcrest's saurian allies.
@@ -3044,6 +3056,8 @@ msgid ""
 "But since Clan Blackcrest has begged so-like trembling goblins, Clan "
 "Whitefang will agree to work together."
 msgstr ""
+"お前らの「戦士」ってやつらは、ヌメヌメ肌のトカゲの同盟に守ってもらって、後ろでこそこそ隠れながら、ようやく生き延びてるだけじゃねぇか！<small>ん</small>が、Blackcrest"
+" がゴブリンみてぇにブルブル震えながら頼み込んできたから、Whitefang は協力してやってもいいってんだよ。"
 
 #. [message]: speaker=Irbirch
 #. neither side has actually offered to work together. Subversive messengers
@@ -3054,23 +3068,25 @@ msgid ""
 "Since WE begged!? YOU invited US here; your messenger was quaking in his "
 "boots when he groveled before Chief Ghuvog asking for help!"
 msgstr ""
+"<b>俺たちが</b>頼み込んだだと！？<b>お前らが</b>ここに<b>俺たちを</b>呼んだんだろうが！お前らの使いはブルブル震えながら土下座して "
+"Ghuvog 族長に助けを求めていたぜ！"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:391
 msgid ""
 "What are you talking abo— Oh forget it, just make sure your clan does its "
 "job! No human leaves this valley alive!"
-msgstr ""
+msgstr "お前はいったい何を——あぁもういい、とにかく自分の氏族の役目をちゃんと果たしやがれ！人間どもを１匹たりともこの谷間から生きて帰すな！"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:411
 msgid "Bazur"
-msgstr ""
+msgstr "Bazur"
 
 #. [message]: speaker=Bazur
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:419
 msgid "Lousy chief! Lousy plan! Next time I’m doing this on my own terms!"
-msgstr ""
+msgstr "クソ族長！クソ作戦！次こそは俺のやりたいようにやってやる！"
 
 #. [message]: speaker=Garard
 #. Garard has just realized he's surrounded
