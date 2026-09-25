@@ -20823,6 +20823,7 @@ msgid ""
 "commanders have survived many trials by fire, proving both their tactical "
 "wit and their considerable mettle at personal combat."
 msgstr ""
+"王子は人間社会で最も尊重される称号の一つです。平時にも油断なく徹底的に鍛えられた王子の戦闘技術は、戦場において驚嘆すべき光景を生み出すことでしょう。彼ら王族の指揮官は幾度もの厳しい試練を生き抜いており、戦術的な機知でも個人戦闘における胆力でもその力を余すことなく発揮することでしょう。"
 
 #. [variation]: race=human
 #. [unit_type]: id=Princess, gender=female, race=human
@@ -20841,6 +20842,8 @@ msgid ""
 " combatant and a leader. The units of lower level around the Princess will "
 "fight better due to her presence."
 msgstr ""
+"生まれながらの 貴人である王女は 大将軍から剣技を、大賢者から戦術を学んでおり、戦闘と指揮の両方に優れています。王女の周囲の低レベルのユニットは、 "
+"彼女の存在によってうまく戦えるようになります。"
 
 #. [unit_type]: id=Bound Princess, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess_Bound.cfg:4
@@ -20852,7 +20855,7 @@ msgstr "捕らわれの王女"
 msgid ""
 "Asheviere’s fearless princess now marches in chains, a prisoner of Konrad "
 "and his rebels."
-msgstr ""
+msgstr "Asheviere の恐れ知らずな王女は Konrad の反乱軍の捕虜となり、今は鎖につながれて歩かされています。"
 
 #. [variation]: race=human
 #. [unit_type]: id=Warrior Princess, gender=female, race=human
@@ -20871,33 +20874,35 @@ msgid ""
 " combatant and a leader. Now battle-hardened and strong of will, she can aid"
 " those around her in the art of combat."
 msgstr ""
+"生まれながらの貴人である王女は大将軍から剣技を、大賢者から戦術を学んでおり、 "
+"戦闘と指揮の両方に優れています。戦場での経験と強い意志を活かして、戦術によって周囲のユニットを支援する事ができます。"
 
 #. [unit_type]: id=Shackled Mage, gender=male, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:7
 msgid "Shackled Mage"
-msgstr ""
+msgstr "拘束された魔術師"
 
 #. [unit_type]: id=Shackled Mage, gender=male, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:15
 msgid ""
 "These mages have heavy manacles on their wrists and ankles, slowing their "
 "movement and restricting their magic."
-msgstr ""
+msgstr "この魔術師は重い枷を手と足につけられています。そのため移動は困難で、魔術を使うこともできません。"
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:26
 msgid "kick"
-msgstr ""
+msgstr "キック"
 
 #. [female]: gender=female
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:35
 msgid "female^Shackled Mage"
-msgstr ""
+msgstr "拘束された魔術師"
 
 #. [unit_type]: id=Warrior of Light, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:4
 msgid "Warrior of Light"
-msgstr ""
+msgstr "光の勇士"
 
 #. [unit_type]: id=Warrior of Light, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:21
@@ -20906,6 +20911,7 @@ msgid ""
 "spiritual powers. By strict devotion to the path of the light, they can call"
 " upon its aid to chase away the shadows of the night."
 msgstr ""
+"長年に渡って経験を重ね、最も敬虔な戦士達は巨大な神秘的な力を持つようになりました。光の神への献身的な信仰により、彼らは夜に潜む影を追い払う力を呼び出すことができます。"
 
 #. [unit_type]: id=Warrior of Light, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:23
@@ -20914,17 +20920,18 @@ msgid ""
 "find these champions of light working tirelessly to cleanse evil from the "
 "troubled world in which they live."
 msgstr ""
+"闇を生み出すその穴がたとえどんなに恐ろしいものであろうとも、そこにはきっと光の戦士達が現れるでしょう。彼らが諦めることはありません。必ずや私達の住む世界から邪悪を駆除してくれることでしょう。"
 
 #. [attack]: type=arcane
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:44
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:42
 msgid "lightbeam"
-msgstr ""
+msgstr "光線"
 
 #. [unit_type]: id=White Warrior, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:4
 msgid "White Warrior"
-msgstr ""
+msgstr "白の勇士"
 
 #. [unit_type]: id=White Warrior, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:20
@@ -20934,6 +20941,7 @@ msgid ""
 "out villainy wherever it lies, delving into dark places and cleansing them "
 "of evil."
 msgstr ""
+"白魔術師ならば誰でも世界を放浪し、病人や負傷者に治療を与えるわけではありません。白兵戦能力に優れた魔術師はしばしば邪悪を積極的に探し出そうとするようになります。彼らは闇の地へと分け入り、邪悪な存在を排除しようとします。"
 
 #. [unit_type]: id=White Warrior, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:22
@@ -20941,7 +20949,7 @@ msgid ""
 "Armed with a blessed sword and channeling their light towards the mending of"
 " their own wounds, such a warrior proves a potent ally against all things "
 "unnatural."
-msgstr ""
+msgstr "聖別された剣を手にし、内なる光によって自身の傷を癒す戦士は、自然の摂理に反するあらゆる存在と戦う際に心強い味方となってくれることでしょう。"
 
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:5
@@ -20955,11 +20963,12 @@ msgid ""
 "of the immense weight of the cargo this caravan carries, it is not nimble, "
 "but the driver can still try to drive off attackers with his whip."
 msgstr ""
+"隊商（Caravan）は金や物資を遠くに運ぶために使われます。とてつもなく重い積み荷を運んでいるので、とてもゆっくりしか移動できませんが、御者は鞭で襲撃者を追い払うことができます。"
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:29
 msgid "whip"
-msgstr ""
+msgstr "鞭"
 
 #. [unit_type]: id=Granite Golem, race=monster
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Golem.cfg:4
@@ -20974,26 +20983,27 @@ msgid ""
 "transport across long distances, their vast bulk renders them nigh-immune to"
 " most forms of damage."
 msgstr ""
+"戦場に高くそびえ立つこの巨大な土製の造形物は、精霊魔術の頂点を体現する存在です。極めて不器用で、長い距離を輸送することもできませんが、その圧倒的な質量によりあらゆる攻撃に対して極めて頑強です。"
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Golem.cfg:62
 msgid "fist"
-msgstr ""
+msgstr "拳"
 
 #. [unit_type]: id=Quintain, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Quintain.cfg:4
 msgid "Quintain"
-msgstr ""
+msgstr "クィンティン"
 
 #. [unit_type]: id=Quintain, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Quintain.cfg:15
 msgid "Quintains are used to practice swordplay and jousting on."
-msgstr ""
+msgstr "クィンティン（Quintain）は剣術や馬上槍試合の練習に使われます。"
 
 #. [unit_type]: id=Wagon, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Wagon.cfg:5
 msgid "Wagon"
-msgstr ""
+msgstr "荷馬車"
 
 #. [unit_type]: id=Wagon, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Wagon.cfg:22
@@ -21001,23 +21011,24 @@ msgid ""
 "Caravans are used to carry gold or supplies across long distances. This one "
 "is laden only lightly with hay, instead concealing Konrad and his soldiers."
 msgstr ""
+"隊商（Caravan）は金や物資を遠くに運ぶために使われます。これには干し草が少しだけ積まれていて、Konrad と彼の旗下の兵士を隠しています。"
 
 #. [unit_type]: id=Cave Wall, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Wall.cfg:5
 msgid "Cave Wall"
-msgstr ""
+msgstr "洞窟の壁"
 
 #. [unit_type]: id=Cave Wall, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Wall.cfg:17
 msgid ""
 "A crudely hewn cave wall, weakened by recent cave-ins. Experience gathered "
 "from mining is of little use on the battlefield."
-msgstr ""
+msgstr "粗く切り出された壁が最近の崩落で脆くなっています。鉱山での採掘作業で培われた経験は戦場ではあまり役に立ちません。"
 
 #. [unit_type]: id=Gryphlet, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Gryphlet.cfg:4
 msgid "Gryphlet"
-msgstr ""
+msgstr "グリフレット"
 
 #. [unit_type]: id=Gryphlet, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Gryphlet.cfg:18
@@ -21027,21 +21038,22 @@ msgid ""
 "fly, most have already grown larger than a wolf, and are more than capable "
 "of defending their nests from intruders."
 msgstr ""
+"未熟なグリフォンは白と灰色の羽毛をまとっています。この羽毛は成熟した個体のものより柔らかく、肌触りも良いことで知られています。大抵の場合、飛べるようになる前に既に狼よりも大きなっており、侵入者から巣を守る能力も充分にあります。"
 
 #. [unit_type]: id=Sleeping Gryphon, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:4
 msgid "Sleeping Gryphon"
-msgstr ""
+msgstr "睡眠中のグリフォン"
 
 #. [unit_type]: id=Sleeping Gryphon, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:21
 msgid "Shhhh! The gryphon is sleeping! You’d better not wake it up!"
-msgstr ""
+msgstr "シーッ！このグリフォンは眠っています！起さないほうがいいですよ！"
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:4
 msgid "Barrow Wight"
-msgstr ""
+msgstr "亡霊騎士"
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:18
@@ -21050,87 +21062,89 @@ msgid ""
 "wanders aimlessly in a delirium of darkness and despair. Their chill essence"
 " is shrouded behind cloak and bone, shielding them from most magic."
 msgstr ""
+"生前の薄れゆく記憶に絶え間なく突き動かされ、亡霊騎士（Barrow "
+"Wight）は闇と絶望の織りなす狂乱の中で目的もなく彷徨い歩きます。彼らの核はクロークと骨とに覆われており、大抵の魔術から身を守れるようになっています。"
 
 #. [resistance]: id=shroud
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:33
 msgid "shroud"
-msgstr ""
+msgstr "幕"
 
 #. [resistance]: id=shroud
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:34
 msgid "While defending, this unit has 50% fire and arcane resistance."
-msgstr ""
+msgstr "防御時、このユニットは 50 % の火炎と秘術への耐性を持ちます。"
 
 #. [unit_type]: id=Vampire Lady, gender=female, race=undead, description=
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Vampire_Lady.cfg:4
 msgid "female^Vampire Lady"
-msgstr ""
+msgstr "ヴァンパイアレディ"
 
 #. [attack]: type=blade
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Vampire_Lady.cfg:27
 msgid "blood kiss"
-msgstr ""
+msgstr "血の接吻"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:22
 msgid "It is spring; the next scenario will have normal days and nights."
-msgstr ""
+msgstr "今は春です。次のシナリオは通常の昼夜サイクルになるでしょう。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:28
 msgid "It is summer; the next scenario will have unusually long days."
-msgstr ""
+msgstr "今は夏です。次のシナリオは日中の時間が通常より長くなるでしょう。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:34
 msgid "It is autumn; the next scenario will have normal days and nights."
-msgstr ""
+msgstr "今は秋です。次のシナリオは通常の昼夜サイクルになるでしょう。"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:40
 msgid "It is winter; the next scenario will have unusually short days."
-msgstr ""
+msgstr "今は冬です。次のシナリオは日中の時間が通常より短くなるでしょう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:67
 msgid ""
 "This port has many small boats for us to use! I won’t be able to travel "
 "through deep water, but I can certainly reach the coastal islands and reef."
-msgstr ""
+msgstr "この港には我々が使えるボートがたくさんある！深水領域には入れないが、近くの島々や岩礁までは行けるだろう。"
 
 #. [time]: id=spring{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:186
 msgid "Spring"
-msgstr ""
+msgstr "春"
 
 #. [time]: id=summer{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:198
 msgid "Summer"
-msgstr ""
+msgstr "夏"
 
 #. [time]: id=autumn{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:211
 msgid "Autumn"
-msgstr ""
+msgstr "秋"
 
 #. [time]: id=winter{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:223
 msgid "Winter"
-msgstr ""
+msgstr "冬"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:50
 msgid ""
 "I hope Delfador is well. We could have used his help in this battle, but I "
 "know what he’s doing is important."
-msgstr ""
+msgstr "Delfador は大丈夫だろうか。この戦いを手伝ってくれていたらとも思うが、Delfador には重要な仕事があるのだから仕方ない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:54
 msgid ""
 "The attack on the Aethenwood was bad enough. Elensefar must surely be even "
 "more fierce..."
-msgstr ""
+msgstr "Aethen の森への攻撃でさえあれほどのものだった。Elensefar への攻撃は間違いなくさらにずっと……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:71
@@ -21139,26 +21153,27 @@ msgid ""
 "fight it. We may have plenty of time to roam the Great Continent right now, "
 "but we won’t always. We should make every battle count."
 msgstr ""
+"時間をかけただけの成果がこの戦闘から得られれば良いのだが。今はまだ大陸を動き回る時間があるが、今後もそうとは限らない。我々は確実に成果を積み重ねなければならない。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:86
 msgid ""
 "My hand tingles with power... Burn in the name of the kings of Wesnoth!"
-msgstr ""
+msgstr "大きな力が手にヒリヒリと伝わってくる…… Wesnoth の王達の名の元に燃え尽きるが良い！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:102
 msgid ""
 "I am glad to see that you have been taking good care of my familiar, Konrad."
 " Blackwing and I have been through many trials together."
-msgstr ""
+msgstr "Konrad、私の使い魔を大切にしてくれたことに感謝する。ブラックウィングは私と共にこれまで数多の試練を乗り越えてきたのだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:106
 msgid ""
 "Thank you for entrusting me with him! He has become a valuable member of our"
 " team."
-msgstr ""
+msgstr "私と彼を信頼してくれて感謝します！彼は我々にとって欠かすことのできない仲間です。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:119
@@ -21166,17 +21181,19 @@ msgid ""
 "Seimus, I am glad that you still stand with us. I fear you would have gone "
 "down a dark path had Konrad and I not come to Alduin that day."
 msgstr ""
+"Seimus、まだ君が我々の側に立ってくれていることがとても嬉しい。あの日 Konrad と私が Alduin "
+"に行かなければ、君が闇の側に堕ちてしまったのではないかと不安になってしまってな。"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:123
 msgid ""
 "Oh yes, don’t remind me. I’m trying not to think too much about all that."
-msgstr ""
+msgstr "ああ、そうだな。だが、あまり思い出させないでくれ。そのことについてはできるだけ考えないようにしているのだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:141
 msgid "Fool girl! You shall meet the same fate as did your brother!"
-msgstr ""
+msgstr "愚かな小娘め！お前の兄と同じ運命をたどらせてやろう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:162
@@ -22032,171 +22049,171 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:112
 msgid "Autumn, Year 517"
-msgstr ""
+msgstr "517 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:113
 msgid "Winter, Year 517"
-msgstr ""
+msgstr "517 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:114
 msgid "Spring, Year 518"
-msgstr ""
+msgstr "518 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:115
 msgid "Summer, Year 518"
-msgstr ""
+msgstr "518 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:116
 msgid "Autumn, Year 518"
-msgstr ""
+msgstr "518 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:117
 msgid "Winter, Year 518"
-msgstr ""
+msgstr "518 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:118
 msgid "Spring, Year 519"
-msgstr ""
+msgstr "519 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:119
 msgid "Summer, Year 519"
-msgstr ""
+msgstr "519 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:120
 msgid "Autumn, Year 519"
-msgstr ""
+msgstr "519 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:121
 msgid "Winter, Year 519"
-msgstr ""
+msgstr "519 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:122
 msgid "Spring, Year 520"
-msgstr ""
+msgstr "520 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:123
 msgid "Summer, Year 520"
-msgstr ""
+msgstr "520 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:124
 msgid "Autumn, Year 520"
-msgstr ""
+msgstr "520 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:125
 msgid "Winter, Year 520"
-msgstr ""
+msgstr "520 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:126
 msgid "Spring, Year 521"
-msgstr ""
+msgstr "521 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:127
 msgid "Summer, Year 521"
-msgstr ""
+msgstr "521 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:128
 msgid "Autumn, Year 521"
-msgstr ""
+msgstr "521 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:129
 msgid "Winter, Year 521"
-msgstr ""
+msgstr "521 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:130
 msgid "Spring, Year 522"
-msgstr ""
+msgstr "522 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:131
 msgid "Summer, Year 522"
-msgstr ""
+msgstr "522 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:132
 msgid "Autumn, Year 522"
-msgstr ""
+msgstr "522 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:133
 msgid "Winter, Year 522"
-msgstr ""
+msgstr "522 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:134
 msgid "Spring, Year 523"
-msgstr ""
+msgstr "523 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:135
 msgid "Summer, Year 523"
-msgstr ""
+msgstr "523 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:136
 msgid "Autumn, Year 523"
-msgstr ""
+msgstr "523 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:137
 msgid "Winter, Year 523"
-msgstr ""
+msgstr "523 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:138
 msgid "Spring, Year 524"
-msgstr ""
+msgstr "524 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:139
 msgid "Summer, Year 524"
-msgstr ""
+msgstr "524 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:140
 msgid "Autumn, Year 524"
-msgstr ""
+msgstr "524 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:141
 msgid "Winter, Year 524"
-msgstr ""
+msgstr "524 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:142
 msgid "Spring, Year 525"
-msgstr ""
+msgstr "525 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:143
 msgid "Summer, Year 525"
-msgstr ""
+msgstr "525 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:144
 msgid "Autumn, Year 525"
-msgstr ""
+msgstr "525 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:145
 msgid "Winter, Year 525"
-msgstr ""
+msgstr "525 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:146
 msgid "Spring, Year 526"
-msgstr ""
+msgstr "526 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:147
 msgid "Summer, Year 526"
-msgstr ""
+msgstr "526 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:148
 msgid "Autumn, Year 526"
-msgstr ""
+msgstr "526 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:149
 msgid "Winter, Year 526"
-msgstr ""
+msgstr "526 年 ─ 冬"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:150
 msgid "Spring, Year 527"
-msgstr ""
+msgstr "527 年 ─ 春"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:151
 msgid "Summer, Year 527"
-msgstr ""
+msgstr "527 年 ─ 夏"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:152
 msgid "Autumn, Year 527"
-msgstr ""
+msgstr "527 年 ─ 秋"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:153
 msgid "Winter, Year 527"
-msgstr ""
+msgstr "527 年 ─ 冬"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:184

@@ -3068,8 +3068,8 @@ msgid ""
 "Since WE begged!? YOU invited US here; your messenger was quaking in his "
 "boots when he groveled before Chief Ghuvog asking for help!"
 msgstr ""
-"<b>俺たちが</b>頼み込んだだと！？<b>お前らが</b>ここに<b>俺たちを</b>呼んだんだろうが！お前らの使いはブルブル震えながら土下座して "
-"Ghuvog 族長に助けを求めていたぜ！"
+"俺たちが頼み込んだって言ったか！？お前ら「が」俺たち「を」呼んだんだろうが！お前らの伝令はブルブル震えながら土下座して Ghuvog "
+"族長に助けを求めていたぜ！"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:391
@@ -3094,14 +3094,14 @@ msgstr "クソ族長！クソ作戦！次こそは俺のやりたいようにや
 msgid ""
 "What devilry is this? How did they sneak in behind us. I’m separated from my"
 " generals and most of my soldiers..."
-msgstr ""
+msgstr "これは悪魔の仕業か？奴らは如何にして我らの背後に回り込んだのだ？将校たちからも軍の主力からも切り離されたか・・・"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:441
 msgid ""
 "Foul orcs, come at me then! If this is where I am to fall, I shall make such"
 " a stand as to stir the gods themselves to tears!"
-msgstr ""
+msgstr "汚らわしいオークどもめ、かかってくるがよい！ここが私の死に場所ならば、神々をして感涙せしむるほどの奮戦をしてみせよう！"
 
 #. [message]: speaker=Irbirch
 #. Asheviere is next to Irbirch. The player is led to think she's been
@@ -3112,6 +3112,7 @@ msgid ""
 "Nice speech! I wonder what your wife thinks of it? Don’t worry, we’ll have "
 "plenty of fun with her, <b><i>and</i></b> your unborn heir. Haw, haw, haw!"
 msgstr ""
+"感動的な演説だな！ところで、お前の妻はどう思ってるだろうな？心配するな、お前の妻<b>と</b>腹の中の跡継ぎは、俺たちがたっぷり遊んでやるよ。ハッ、ハッ、ハッ！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:475
