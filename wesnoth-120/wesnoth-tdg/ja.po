@@ -204,7 +204,7 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:27
 msgid "Scenario 6: Royal Privilege"
-msgstr ""
+msgstr "シナリオ 6：王の特権"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:28
@@ -1306,7 +1306,7 @@ msgstr "Garard 砦"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:50
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:63
 msgid "Whitefang Orcs"
-msgstr "Whitefang オーク"
+msgstr "Whitefang のオーク"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:39
@@ -3000,7 +3000,7 @@ msgstr "Irbirch"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:80
 msgid "Blackcrest Orcs"
-msgstr "Blackcrest オーク"
+msgstr "Blackcrest のオーク"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:88
@@ -3012,7 +3012,7 @@ msgstr "Ssisaix"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:104
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:75
 msgid "Blackcrest Saurians"
-msgstr "Blackcrest トカゲ"
+msgstr "Blackcrest のトカゲ"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:100
@@ -3120,6 +3120,8 @@ msgid ""
 "(aghast) That’s— They’ve captured the queen! Asheviere’s no warrior, and "
 "fragile with pregnancy. We have to rescue her!"
 msgstr ""
+"（愕然として）なんと——奴らは妃殿下を拉致したのか！Asheviere "
+"様は戦いなど無縁のお方である上に、身重で大事な時期ではないか。何としても救出せねば！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:479
@@ -3129,32 +3131,34 @@ msgid ""
 "Asheviere, and have the rest protect King Garard until Lionel and Arand can "
 "break through to us!"
 msgstr ""
+"四方を敵に囲まれ、妃殿下は敵の手に。これは一大事だ！急ぎ、生き残った歩兵を再編し、そのうち１隊を Asheviere 妃殿下の救出隊に、残りの者は "
+"Garard 陛下をお守りしろ！ Lionel と Arand が包囲網を突破して来るまで、何としても持ちこたえるのだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:483
 msgid "I won’t let you down! For Wesnoth!"
-msgstr ""
+msgstr "絶対にやってやる！ Wesnoth のために！"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:490
 msgid "Fail to rescue Asheviere before turns run out"
-msgstr ""
+msgstr "規定のターンが終了するまでに Asheviere の救出ができない"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:493
 msgid ""
 "Defeat Irbirch to recapture Asheviere, then survive until turns run out"
-msgstr ""
+msgstr "Irbirch を倒して Asheviere を奪還し、規定のターンが終了するまで生き延びる"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:500
 msgid "Survive until turns run out"
-msgstr ""
+msgstr "規定のターンが終了するまで生き残る"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:527
 msgid "Death of Garard, Asheviere, or Methor"
-msgstr ""
+msgstr "Garard 、Asheviere 、Methor いずれかの死"
 
 #. [message]: speaker=Ssisaix
 #. the player (and Garard) is still alive. The orcs and saurians expected them

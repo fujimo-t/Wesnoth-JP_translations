@@ -21202,6 +21202,8 @@ msgid ""
 "come join me, could you not have brought an elvish army along with you? I "
 "know you’re a powerful lord and greatly loved by your people."
 msgstr ""
+"Kalenz "
+"候、あなたの助力に感謝します。しかし、私のところに来る際にエルフの軍勢を連れてくることはできなかったのですか？あなたは大きな力を持つ有力者で、人々からも大いに敬愛されている方です。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:166
@@ -21210,6 +21212,7 @@ msgid ""
 "quest! Your kin are many, and I know firsthand their great skill at sword "
 "and bow."
 msgstr ""
+"たとえ少数でもエルフの勇士達がいればそれだけで大きな戦力になります！エルフは数が多いですし、その剣術や弓術が非常に優れていることはこの身を持って知っています。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:170
@@ -21217,6 +21220,7 @@ msgid ""
 "Not so many as we once were, Konrad. And one elf alone can quietly travel "
 "through human lands far easier than can an army or war-band."
 msgstr ""
+"Konrad、エルフの数は以前ほどは多くないのだ。それに、単独だったからこそ速やかに移動できたのだ。軍勢や部隊であったら、これほど速やかに人間の地を移動することはできなかっただろう。"
 
 #. [message]: speaker=Kalenz
 #. this is a hint that there's a special reward if you bringing Kalenz to
@@ -21228,6 +21232,8 @@ msgid ""
 "after Asheviere’s crimes in the Aethenwood. A victory for you is a victory "
 "for all elves."
 msgstr ""
+"ただ、もし我々が東へ向かい、Lintanir の森にある家まで戻ることができれば、配下の者達から資金や物資の供給を受けられるだろう。Aethen "
+"の森における Asheviere の悪業を踏まえれば、お前の勝利は全てのエルフにとっての勝利でもあるのだから。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:189
@@ -21236,6 +21242,8 @@ msgid ""
 "Prince Arand, and Delfador’s regrets regarding him. I feel I would very much"
 " have liked to have met him."
 msgstr ""
+"Kalenz、私の父、Arand 王子のことは知っていますか？Delfador からは父について色々と聞いていて、Delfador "
+"が今も後悔していることについても聞きました。もしかしたら、あなたも私の父に会ったことがあるのでは？"
 
 #. [message]: speaker=Kalenz
 #. Kalenz knows that Arand is not Konrad's father. Konrad does not.
@@ -21246,6 +21254,8 @@ msgid ""
 "Delfador and I have spoken about your parentage, and there is nothing for me"
 " to add."
 msgstr ""
+"お前の父親？いや、お前の父にも、その家族の誰とも会ったことはない。お前の出自に関しては Delfador "
+"と詳しく話し合ってはいるが、私が殊更付け加えられることはない。"
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -21253,7 +21263,7 @@ msgstr ""
 msgid ""
 "It is sad to see what Wesnoth has fallen to, Konrad. Do not make the same "
 "mistakes as did my people."
-msgstr ""
+msgstr "Konrad、Wesnoth もこのような状態になってしまうとは悲しいな。我が種族と同じ間違いを繰り返してはならないぞ。"
 
 #. [message]: speaker=Konrad
 #. Konrad speaks about the events of LoW
@@ -21263,6 +21273,8 @@ msgid ""
 "lived as if in a dream, untroubled by even the rumor of strife. That sounds "
 "an envious life."
 msgstr ""
+"エルフの歴史も少しは知っています。Delfador "
+"から聞いたところによると、争いの噂が発生することすらない、夢のような生活を送っていたのですよね。うらやましい。"
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -21270,7 +21282,7 @@ msgstr ""
 msgid ""
 "Indeed. But then man came. And with man came the orcs, chasing after the "
 "very sceptre that your cousin now holds."
-msgstr ""
+msgstr "そうだ。しかし、そこに人間が来た。そして一緒にオークも来た。お前の従姉が手にする笏を追って。"
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -21278,7 +21290,7 @@ msgstr ""
 msgid ""
 "Indeed. But then man came. And with man came the orcs, chasing after that "
 "very sceptre you now hold."
-msgstr ""
+msgstr "そうだ。しかし、そこに人間が来た。そして一緒にオークも来た。お前が手にする笏を追って。"
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -21288,6 +21300,7 @@ msgid ""
 "across the open plain to make war, first against the orcs, then against each"
 " other. Now so few of us remain."
 msgstr ""
+"その時代、我々は壮大で悲惨な戦いを経験した。エルフの軍勢は開けた平原を闊歩した。初めはオークとの戦争のためだったが、しかしやがて同胞と争うために。生き残った者はわずかだ。"
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -21297,6 +21310,8 @@ msgid ""
 "you, Konrad. But some scars do not heal. I hope your civil war will end "
 "better than did mine."
 msgstr ""
+"Aethen "
+"の森はまだ若い。同胞達がお前と共に歩んでいることを嬉しく思う。しかし、癒えない傷もある。この内戦が我々の時よりも良い形で決着することを心より願う。"
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -21306,6 +21321,8 @@ msgid ""
 "Konrad. But some scars do not heal. I hope your civil war will end better "
 "than did mine."
 msgstr ""
+"Aethen "
+"の森はまだ若い。Konrad、お前が彼らのところで育てられたことを嬉しく思う。しかし、癒えない傷もある。この内戦が我々の時よりも良い形で決着することを心より願う。"
 
 #. [message]: speaker=Delfador
 #. Delfador and Chantal first met in The Deceiver's Gambit
@@ -21313,7 +21330,7 @@ msgstr ""
 msgid ""
 "Chantal, it has been a long time since we first met in the Lintanir. I have "
 "grown old. You are as young as ever."
-msgstr ""
+msgstr "Chantal、初めて Lintanir で会ってからもう随分経ったな。私はもう年寄りとなったが、君は相変わらず若いままだ。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:270
@@ -21321,25 +21338,27 @@ msgid ""
 "I am young in body, at least. Do I detect a hint of jealousy in the voice of"
 " Delfador the Great? Hah — I am glad to have your company once again."
 msgstr ""
+"少なくとも私の身体は若いわ。偉大なる Delfador の声にほんの少しだけ嫉妬が混じっているように感じるのは気のせいかしら？ははっ── "
+"またあなたと一緒に過ごせるのは嬉しいわね。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:274
 msgid ""
 "Jealousy? Banish the thought. It is good to travel with you as well. I am "
 "sure you will enjoy getting to know our lively band of warriors."
-msgstr ""
+msgstr "嫉妬？そんなことはないぞ。私も君と一緒に旅をすることができて嬉しいぞ。我々の仲間の若く活気ある戦士達ともきっと仲良くなれるだろうな。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:290
 msgid ""
 "Haldiel, you fought in Garard’s war against the orcs. Did you know my "
 "father?"
-msgstr ""
+msgstr "Haldiel、あなたは Garard がオークに仕掛けた戦争に参加したのですよね？私の父のことは知っていますか？"
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:294
 msgid "Prince Arand? No, I was a member of King Garard’s Royal Cavalry."
-msgstr ""
+msgstr "Arand 王子ですか？いいえ、知りません。私は Garard 陛下の親衛騎兵隊の一員でしたので。"
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:298
@@ -21348,18 +21367,19 @@ msgid ""
 "bestowed much favor upon the Horse Clans, but only so long as we trained "
 "ever-greater numbers of young men for his cavalry."
 msgstr ""
+"あなたの父が亡くなられた時、私はまだ成人したばかりの若造でした。陛下は騎兵クランに多大な支援をしてくれましたが、それも自身の騎兵隊のために多くの若者を訓練している間だけのことでした。"
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:317
 msgid "Sir Kaylan sends his regards, Lords of the Clans."
-msgstr ""
+msgstr "Kaylan 卿に代わってご挨拶申し上げます、皆様。"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:321
 msgid ""
 "We do not send ours. Kaylan defies the will of the Horse Clans by supporting"
 " the upstart prince. What of his duty to his kin?"
-msgstr ""
+msgstr "フン。Kaylan は成り上がり王子を支援することで騎兵クランに逆らった。同胞に対する義務はどうしたのだ？"
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:325
@@ -21367,11 +21387,12 @@ msgid ""
 "What of justice for Garard? What of our honor? Once, the Clans stood for "
 "those ideals. How far you have fallen."
 msgstr ""
+"Garard のための正義、我々の名誉、これらはどうしたのですか？かつてクランはこの理念のもとに立っていた。あなた方はどこまで落ちぶれてしまったのだ！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:329
 msgid "Bah! Impudence! We have nothing more to speak about."
-msgstr ""
+msgstr "フン！口だけは良く回るようだな！もはや話すことはない。かかってこい！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:349
@@ -21379,6 +21400,8 @@ msgid ""
 "I’m grateful for your commitment, Elrian. Few are accepted into Alduin, and "
 "even fewer choose to leave it. You gave up everything to fight alongside me."
 msgstr ""
+"Elrian、あなたの献身に感謝します。Alduin に受け入れられる者は少数、そこから Alduin "
+"を離れる者はさらに少ない。私と共に戦うためにあなたに全てを諦めさせてしまった。"
 
 #. [message]: speaker=Elrian
 #. this is a hint that there's a special event if Konrad brings Elrian to Tath
@@ -21388,6 +21411,8 @@ msgid ""
 "grandparents are “new money”; wealthy merchants from the east side of Tath. "
 "(As an aside — we should visit them if we’re ever in the area.)"
 msgstr ""
+"正直に言えば、魔術を学ぶことは私の、というよりも私の家族の夢でした。私の祖父はいわゆる新興富裕層、Tath "
+"の東の裕福な商人なのです。（ヒント：近くに行くことがあったら立ち寄ってみましょう。）"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:363
@@ -21396,6 +21421,8 @@ msgid ""
 "grandparents are “new money”; wealthy merchants from the east side of Tath. "
 "You’ve already been there and met them."
 msgstr ""
+"正直に言えば、魔術を学ぶことは私の、というよりも私の家族の夢でした。もう既にあなたも会っていますが、私の祖父はいわゆる新興富裕層、Tath "
+"の東の裕福な商人なのです。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:369
@@ -21404,6 +21431,8 @@ msgid ""
 "connections and making inroads with Wesnoth’s more established elites. I "
 "suppose that hasn’t really worked out, seeing as I’m now a rebel and all."
 msgstr ""
+"彼らは最年長の孫── 私を Alduin に送り、Wesnoth "
+"の老舗のエリート層に食い込むため、つながりを作ろうと考えたのです。まあ、どうやらその目論見はうまくいかなかったようですが。なにせ、今や私は反逆者なのですから。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:385
@@ -21412,6 +21441,8 @@ msgid ""
 "a shame he decided to side with Asheviere instead of joining us as you did, "
 "Elrian."
 msgstr ""
+"Alduin で戦った「Seimus 学長」は非常に優れた魔術師に見えた。Elrian のように私に味方してくれるのではなく、Asheviere "
+"の側に立ってしまったのは残念だった。"
 
 #. [message]: speaker=Elrian
 #. this is a hint that Konrad can recruit Seimus if he brings Delfador to
@@ -21423,27 +21454,29 @@ msgid ""
 " only way Alduin can survive is by bending the knee. It would probably take "
 "a talking-to from Delfador himself to convince him otherwise..."
 msgstr ""
+"Seimus は本当のところは良い人物なのだと思います。しかし、Alduin "
+"が生き延びるには膝を折るしかないと考えてしまったのでしょう。Delfador 本人から小言でもぶつければ、あるいは説得できたのかもしれません……"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:406
 msgid ""
 "Hello Seimus, my old master. I’ll bet you regret expelling me now, don’t "
 "you!"
-msgstr ""
+msgstr "やあ Seimus、かつての師匠。私を追放したことを後悔しているだろう！"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:410
 msgid ""
 "Err, are you— who are you again? Many aspire to join the ranks of the magi, "
 "but few have the skill."
-msgstr ""
+msgstr "えっと、君は…… 誰だったかな？魔術師の道を志す者は多いが、実力のある者は少なくてな…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:433
 msgid ""
 "Moremirmu, I’ve met White Mages before, but never someone quite like you. "
 "Where do you hail from?"
-msgstr ""
+msgstr "Moremirmu、白魔術師には以前にも会ったことがありますが、あなたのような方はいませんでした。あなたはどこの出身なのですか？"
 
 #. [message]: speaker=Moremirmu
 #. this is a hint that there's a special event for bringing Moremirmu to the
@@ -21454,6 +21487,8 @@ msgid ""
 " Light that I was rescued and raised there, high in the Gryphon Mountains. "
 "We ought to visit there someday."
 msgstr ""
+"偉大なる封印の修道院であるぞ、善良なる Konrad "
+"よ！光の神の恩寵により、グリフォンの山の奥地で私は救われ、育てられた。いつか我々もあそこを訪れるべきだろう。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:442
@@ -21462,13 +21497,15 @@ msgid ""
 "smite. And lo! You and I united, and lo! Now we quest together against the "
 "evils of Asheviere."
 msgstr ""
+"そして、私はやがて剣を取り、悪を探し、討つという道を歩み始めたのだ。そしてなんと！こうして私とお主の道が交わったのだ！そして今、Asheviere "
+"という悪を討つため我々は行動を共にしている。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:455
 msgid ""
 "What strange magic you wield, Kalenz. It is light, yet it is not of the "
 "Light! What manner of unhallowed spells do you weave?"
-msgstr ""
+msgstr "Kalenz、お主の扱う魔術は変わっているな。それは光だが、我が神のものではない！どうやってその清浄でない呪文を紡いでいるのだ？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:459
@@ -21477,6 +21514,7 @@ msgid ""
 "it is natural to the elves. Few are the male elves permitted to learn it. "
 "And no outsiders, for it is an art inherited only by my kind."
 msgstr ""
+"これは妖精の魔法だ。お前の神のものとどこか似ている部分はあるが、エルフにとって自然なものだ。男のエルフでこの魔法を学ぶことを許される者は少ない。これは我らの種族の中だけで受け継がれてきたもので、部外者に教えることはできない。"
 
 #. [message]: speaker=Kalenz
 #. this is a reference to the events of LoW, where Kalenz gained his magic
@@ -21485,14 +21523,14 @@ msgstr ""
 msgid ""
 "Although I gained my magic in a different manner than do most of my kind, it"
 " is now as much a part of me as is my blood."
-msgstr ""
+msgstr "私は通常とは違う方法でこの魔法を使えるようになったが、今や自身の血のように私の一部となっている。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:477
 msgid ""
 "You wield your lightning with a nigh-supernatural skill, Delfador. Truly you"
 " have been blessed by the Light."
-msgstr ""
+msgstr "Delfador、あなたは神業と言って過言ではない技術で雷を扱っている。まさにあなたは光の神に祝福された存在なのであろう。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:481
@@ -21500,7 +21538,7 @@ msgid ""
 "But what of your skill with the sword? Our foes are not content to loiter at"
 " a distance and await their destruction. Enemies of evil must stand ready to"
 " fight with steel!"
-msgstr ""
+msgstr "しかしその剣の技術はどうだ？我々の敵は遠くでじっと焼き尽くされるのを待っているわけではない。邪悪な敵は鋼でもって立ち向かってくるぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:486
@@ -21508,6 +21546,8 @@ msgid ""
 "I need little strength of body, Moremirmu, for I wield the magical flaming "
 "sword of the Lintanir. A mighty boon, and one I am well grateful for."
 msgstr ""
+"Moremirmu、私は Lintanir "
+"で魔法の炎の剣を受け取ったから、物理的な力はあまり必要としていないのだよ。実に助かる贈り物であり、私はとても感謝している。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:491
@@ -21515,13 +21555,15 @@ msgid ""
 "I am an old man, Moremirmu. My magic serves me where my body has failed. I "
 "shall trust in you, Konrad, and our allies to carry the steel."
 msgstr ""
+"Moremirmu、年寄りに無茶を言ってくれるな。既に身体の力が足りない時は魔法でどうにかしているのだ。鋼についてはお主や "
+"Konrad、他の仲間たちを頼りにさせてもらおう。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:510
 msgid ""
 "Accede not your souls to the unclean, my fellow warriors! We shall cleanse "
 "these dead in holy fire!"
-msgstr ""
+msgstr "同志たちよ、不浄なものに魂を委ねてはならない！私が聖なる炎でこの死者達を浄化してみせよう！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:529
