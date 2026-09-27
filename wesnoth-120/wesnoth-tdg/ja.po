@@ -3165,7 +3165,7 @@ msgstr "Garard 、Asheviere 、Methor いずれかの死"
 #. to die by now
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:588
 msgid "They ssstill sssurvive! Thisss was not the plan!"
-msgstr ""
+msgstr "奴らは<small>シシ</small>しぶとく生きている！計画と違う！"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:592
@@ -3174,6 +3174,8 @@ msgid ""
 "lizards! This is <b>our</b> homeland; our ranks swell by the hour, while "
 "these humans dwindle every moment."
 msgstr ""
+"だったら、もっと戦士を送り込んで奴らをぶち殺せよ、Blackcrest "
+"の能無しトカゲどもが！ここは<b>俺たちの</b>縄張りだ。こっちの勢力は増え続けて、人間どもはどんどんすり減っているじゃねぇか。"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:597
@@ -3182,11 +3184,12 @@ msgid ""
 " in more orcs! This is <b>our</b> homeland; our ranks swell by the hour, "
 "while these humans dwindle every moment."
 msgstr ""
+"役立たずのトカゲどもが！テメェらのケツさえ拭けやしねぇのに、戦に勝つなんて到底無理だな。オークたちをもっと送り込め！ここは<b>俺たちの</b>縄張りだ。こっちの勢力は増えていき、人間どもはどんどん減っていってるんだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:610
 msgid "They’re being reinforced!"
-msgstr ""
+msgstr "奴ら、さらに増えてるぞ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:649
@@ -3195,6 +3198,7 @@ msgid ""
 "recruit trolls, but seldom saurians. And with these three factions fighting "
 "together, soon all the warlords will hear of their prowess."
 msgstr ""
+"この異種族同盟はかなりまずいな！オークがトロルを雇うことがあるとはしばしば聞き及んでいるが、トカゲはついぞ聞いたことがない。これら３種族が共闘するとなれば、他の頭目たちにも時を待たずしてその武威が及ぶだろう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:653
@@ -3203,6 +3207,8 @@ msgid ""
 "this disaster countless more will surely flock to the Blackcrest and "
 "Whitefang banners. Orcs follow might above all else, even clan blood."
 msgstr ""
+"分裂しやすいオークどもをまとめ上げるには力の誇示が必要だが、我らにこれほどの打撃を与えたとなれば、Blackcrest と Whitefang "
+"の旗の下にはさらに多くの者たちが 雲霞のごとく群がるだろう。オークというものは、強大な力を何よりも求め、それは氏族の血縁にさえも勝るからな。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:657
@@ -3211,46 +3217,47 @@ msgid ""
 " never have been kicked. Pillagers and raids we can deal with, but total war"
 " is something else entirely."
 msgstr ""
+"全くもって狂気の沙汰だな！オークの大同団結を招くなど、スズメバチの巣を蹴り飛ばしたようなものではないか！散発の掠奪や襲撃ならば対処のしようもあるが、全面戦争となると話は別だ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:661
 msgid "Quiet, both of you! If I wanted your advice I would have asked for it!"
-msgstr ""
+msgstr "両名とも口を慎め！求めてもおらぬ助言を勝手に喚くでない！"
 
 #. [message]: speaker=Ushka'e
 #. the player has just attacked the whitefang chief. He then flees
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:673
 msgid "Worthless humans! You’ll never defeat me, or clan Whitefang!"
-msgstr ""
+msgstr "能無しの人間どもが！お前らごときがこの俺様や Whitefang を倒すことなどできるわけがないわ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:679
 msgid "Coward! Stand and fight!"
-msgstr ""
+msgstr "腰抜けめ！尋常に勝負しろ！"
 
 #. [message]: speaker=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:694
 msgid ""
 "They sssneak off to the northeassst, towardsss their queen! Ssshould I "
 "pursssue?"
-msgstr ""
+msgstr "奴ら、女王のいる北東に、こ<small>ソソ</small>っそり向かってる！追いかけるか？"
 
 #. [message]: speaker=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:698
 msgid "Finish off their king, lizard! I’ll handle things here."
-msgstr ""
+msgstr "奴らの王にとどめを刺せよ、トカゲ野郎！こっちは俺の持ち場なんだよ。"
 
 #. [message]: speaker=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:710
 msgid "Come to ransom back your queen? Too bad, she’s mine!"
-msgstr ""
+msgstr "身代金でも持ってきたのか？残念だったな、こいつは俺のもんだ！"
 
 #. [message]: speaker=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:714
 msgid ""
 "Maybe once she pops out her kid you can pay me double for both! Haw, haw, "
 "haw."
-msgstr ""
+msgstr "この女がガキをひり出したら、身代金が二人分になるかもなぁーハハハッ！"
 
 #. [message]: speaker=Irbirch
 #. a representative of clan blackcrest has died
@@ -3258,53 +3265,53 @@ msgstr ""
 msgid ""
 "Great Chief Ghuvog will avenge me! Clan Blackcrest will never rest.. until "
 "Wesnoth is... razed to... ash..."
-msgstr ""
+msgstr "Ghuvog 大首領が仇を取ってくれる！ Blackcrest  は必ず戦い続ける・・・Wesnoth が・・・灰に・・・なるまで・・・"
 
 #. [message]: speaker=Asheviere
 #. Asheviere tries to say something, but gets interrupted
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:739
 msgid "Thank yo—"
-msgstr ""
+msgstr "ありがと——"
 
 #. [message]: speaker=Deoran
 #. both Deoran and Garard talk over Asheviere. She doesn't get any agency of
 #. her own, even from Deoran (who generally stands up for her)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:744
 msgid "Not now, milady! We have to get you out of here!"
-msgstr ""
+msgstr "お話は後です、妃殿下！ここから脱出するのが先決です！"
 
 #. [message]: speaker=Asheviere
 #. asheviere tries to say something, but gets interrupted
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:754
 msgid "Garard, I—"
-msgstr ""
+msgstr "Garard 私は——"
 
 #. [message]: speaker=Garard
 #. both Deoran and Garard talk over Asheviere. She doesn't get any agency of
 #. her own, even from Deoran (who generally stands up for her)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:759
 msgid "Not now, woman! I have a battle to fight!"
-msgstr ""
+msgstr "女と話す暇はない！今は戦いの最中だ！"
 
 #. [message]: speaker=Ghazgir
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:772
 msgid "I’m not dying! Just... need a moment..."
-msgstr ""
+msgstr "俺は死なねぇ！少し・・・休むだけだ・・・"
 
 #. [message]: speaker=Mukhu
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:779
 msgid "Nooo! Help meeee!"
-msgstr ""
+msgstr "嫌だぁぁぁ！助けてくれぇぇぇ・・・"
 
 #. [message]: speaker=Xairr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:786
 msgid "Ssssuch ssssskill!"
-msgstr ""
+msgstr "<small>スス</small>すげぇ殺<small>シシ</small>し方だ！"
 
 #. [message]: speaker=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:793
 msgid "Cursessss, I am sssslain!"
-msgstr ""
+msgstr "く<small>ソソ</small>そっ、殺<small>ササ</small>される！"
 
 #. [message]: speaker=Lionel
 #. Lionel appears with reinforcments to help Garard
@@ -3312,7 +3319,7 @@ msgstr ""
 msgid ""
 "Rally behind me, men! We swore our oaths, now we do our duty. Fight, fight "
 "through to the king!"
-msgstr ""
+msgstr "我に続け、皆の者！共に立てた誓いを忘れるな。今こそ忠義を示す時ぞ。進め、王の元まで！"
 
 #. [message]: speaker=Deoran
 #. the player has survived, but failed ot rescue the queen
@@ -3320,12 +3327,12 @@ msgstr ""
 msgid ""
 "But the queen! If we leave her in the hands of the orcs she’ll surely be "
 "tortured and killed!"
-msgstr ""
+msgstr "ですが、王妃様が！オークどもの手に残していけば、間違いなく妃殿下は拷問されて殺されます！"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:864
 msgid "I’m sorry, there’s no time! We have to get the king out of here!"
-msgstr ""
+msgstr "すまぬが、時間がない！我らは陛下をお連れして、ここから脱出せねばならぬのだ！"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:885

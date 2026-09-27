@@ -2577,7 +2577,7 @@ msgid ""
 "all others gain regeneration for one turn.</b></span>"
 msgstr ""
 "Konrad 用アイテム：<span color='#EFBF04'><b>Konrad の友軍で命あるユニットが\n"
-"死ぬと、他のユニットは１ターンだけ再生を得ます。</b></span>"
+"死ぬと、他のユニットは１ターンだけ再生を獲得します。</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:68
@@ -2655,7 +2655,8 @@ msgid ""
 "This nondescript horn is infused with powerful orcish magic. Whenever one of"
 " Konrad’s living soldiers dies, all others gain regeneration for one turn."
 msgstr ""
-"一見普通の角笛ですが、強力なオークの魔法がかけられています。Konrad の仲間の生きている兵士が死んだ時、他のユニットは１ターンだけ再生能力を得ます。"
+"一見普通の角笛ですが、強力なオークの魔法がかけられています。Konrad "
+"の仲間の生きている兵士が死んだ時、他のユニットは１ターンだけ再生能力を獲得します。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:189
@@ -11258,9 +11259,9 @@ msgid ""
 "Smite: each time Moremirmu strikes a finishing blow, he will deal\n"
 "30 arcane damage to all adjacent enemies."
 msgstr ""
-"Moremirmu が戻りました！ダメージが +2、HP が +20 され、強力な「強打」能力を獲得しました！\n"
+"Moremirmu が戻りました！ダメージが +2、HP が +20 され、強力な「神罰」能力を獲得しました！\n"
 "\n"
-"強打：Moremirmu が敵に止めを刺した時、Moremirmu に隣接する敵ユニットは 30 の秘術ダメージを受けます。"
+"神罰：Moremirmu が敵に止めを刺した時、Moremirmu に隣接する敵ユニットは 30 の秘術ダメージを受けます。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:641
@@ -13803,7 +13804,7 @@ msgstr ""
 msgid ""
 "I was so sure he’d be okay... but I suppose it woulda been too good to be "
 "true. At least you’ve survived, Somf."
-msgstr "叔父さんは元気にしていると思ったけど… やっぱり、都合良く考えすぎていたのだろうね。それでも、Somf おじさんが無事でよかった。"
+msgstr "おじさんは元気にしていると思ったけど… やっぱり、都合良く考えすぎていたのだろうね。それでも、Somf おじさんが無事でよかった。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:440
@@ -21572,6 +21573,8 @@ msgid ""
 "your crimes! Return to the Light, or soon shall come the black soot over "
 "Weldyn and the death of all men!"
 msgstr ""
+"Wesnoth の者よ、貴様等は光に背を向けた！我が言葉を聴け！罪を償え！光の御元へと戻るのだ、さもなくば、程なく Weldyn "
+"に黒き灰が舞い降り、全ての人間が死ぬであろう！"
 
 #. [message]: speaker=Harper
 #. Harper and Konrad discuss the events of Liberty
@@ -21581,6 +21584,8 @@ msgid ""
 "Three Sisters? It be a powerful story, an’ one that matters for how you’re "
 "fightin’ Asheviere too! I’ve been excited to tell you!"
 msgstr ""
+"Konrad、アタシ達がどうやって三姉妹の島に来たのかを聞かないのはどうしてだ？ビックリするような話だし、Asheviere "
+"と戦う時にも参考になるかもしれないぞ！お前に話したくてずっとウズウズしてるんだ！"
 
 #. [message]: speaker=Konrad
 #. Harper and Konrad discuss the events of Liberty
@@ -21590,6 +21595,8 @@ msgid ""
 " your homes, destroyed Halstead, and ended up on the islands. Just like "
 "that, right?"
 msgstr ""
+"ああ、他の人からもう聞きましたよ！Asheviere が王位を簒奪し、あなたたちが故郷から逃げ出して、あの Halstead "
+"要塞を破壊し、最終的にあの島にたどり着いたのですよね！そんな感じでしたよね？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:557
@@ -21597,6 +21604,7 @@ msgid ""
 "... err, but you can still tell me again. Your parts especially, Harper! I’d"
 " always be happy to listen."
 msgstr ""
+"……っと、改めてあなたからも聞いてみたいですね、Harper！何と言っても、あなたはまさにその場にいた当事者なんですから！いつでも喜んで聞きますよ。"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:570
@@ -21605,6 +21613,7 @@ msgid ""
 "get away from th’ queen. Why’re you fightin’ for this “Konrad” now, an’ "
 "draggin’ me into it too?"
 msgstr ""
+"Harper、お前は王子サマや王サマなんかに従うようなヤツじゃなかったろ？俺たちは女王から逃れるためにあんなに派手に戦ったってのに。なんで、あの「Konrad」とか言うのと一緒に戦ってんだ？それになんで俺まで引きずり込んだ？"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:574
@@ -21612,6 +21621,7 @@ msgid ""
 "We never fought just to get away. Baldras fought fer a better life fer all "
 "of us, an’ fer everyone!"
 msgstr ""
+"アタシらはただ逃げるためだけに戦ったわけじゃないでしょ。Baldras はアタシ達が、そしてみんながもっと良い生活をできるようにするために戦ったんだよ！"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:578
@@ -21619,25 +21629,26 @@ msgid ""
 "Konrad’s a good person. He wants what’s best fer everyone too. And he saved "
 "my life from a lich! That’s gotta be worth somethin’."
 msgstr ""
+"Konrad は良いヤツだ。あいつもみんなのことを考えてる。それにリッチからアタシの命を救ってくれた！だから、それだけの価値はあると思ってる。"
 
 #. [message]: speaker=Ulfdain
 #. stay in your graves, you rotting heaps of bones
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:599
 msgid "Stay in yer graves, ye rottin’ heaps o’ bones!"
-msgstr ""
+msgstr "腐った骨付き肉どもはさっさと墓に帰れ！"
 
 #. [message]: speaker=Ulfdain
 #. ah, insulting these dead ones is just no fun. They can't understand me...
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:606
 msgid ""
 "Ah, insultin’ these dead’uns is jus’ no fun. They cannae understand me..."
-msgstr ""
+msgstr "あー、死体をバカにしてもつまんねぇ。こいつら反応しねぇから……"
 
 #. [message]: speaker=Ulfdain
 #. And stay down!
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:625
 msgid "An’ stay down!"
-msgstr ""
+msgstr "もう起き上がってくるなよ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:637
@@ -21646,6 +21657,8 @@ msgid ""
 "the dwarves preferred to keep their own company in Knalga, except for their "
 "human friends at the Doors."
 msgstr ""
+"Ulfdain、どうして Wesnoth に来たのです？Delfador に聞いた限りでは、戸口で人間と共に暮らす方々を除けば、ドワーフは Knalga"
+" で自分たちだけで過ごすことを好むと聞いています。"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:641
@@ -21655,6 +21668,8 @@ msgid ""
 "the truth, there ain’t much hope left in Knalga, least not that I’ve heard "
 "about."
 msgstr ""
+"ああ、そのとおりだ。俺たちドワーフは社交的じゃないからな。一部はトロル並に頭が固い上、さらに頑固だ！しかし正直に言えば、Knalga "
+"にはあまり希望が残っていないのだ。少なくとも俺の知る限りでは。"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:645
@@ -21664,13 +21679,15 @@ msgid ""
 "friends dyin’ one by one? I fled our dyin’ home in search o’ a better life "
 "elsewhere."
 msgstr ""
+"Konrad、あまり認めたくはないが、俺は Knalga "
+"から逃げたのだ。俺のような狂戦士はトロルもオークも恐れない。しかし、自分の家が目の前で少しずつ崩れていくのは？友が一人、また一人と死んでいくのは？俺はどこかもっとマシな場所を求めて逃げたのだ。"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:649
 msgid ""
 "An ye see how that ended up. A great galumphing gallow-fool I’ve been. If ye"
 " hadn’t helped me miners and I when ye did..."
-msgstr ""
+msgstr "その果てにどうなったのかはお前が見たとおりだ。俺は大物気取りの大馬鹿者でしかなかった。あの時、お前が俺と坑夫達を助けてくれなかったら…"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:662
@@ -21679,6 +21696,8 @@ msgid ""
 "to show tha’ dew-beatin’ gobermouch excuse for a queen exactly what I think "
 "o’ her!"
 msgstr ""
+"この戦闘もなかなか良いが、いつになったら Weldyn "
+"に着くんだ？俺の罪を減免していただくために考えた、最高に無意味で頭の悪い弁明を早く女王サマに披露したいんだが！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:667
@@ -21687,6 +21706,8 @@ msgid ""
 "have come a long way together since you first joined us, Ulfdain — now even "
 "the princess is on our side!"
 msgstr ""
+"おそらく近いうちに Weldyn に向かうことになるでしょう。Ulfdain が仲間に加わってからもう随分経ちますね ── "
+"今ではあの王女すら味方になっていますしね！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:672
@@ -21695,6 +21716,7 @@ msgid ""
 "anytime soon! For now we should focus on surviving and building up our "
 "strength."
 msgstr ""
+"やる気があるのは大歓迎ですが、今すぐ Asheviere と対峙することはできません！当面は生きながらえながら戦力を積み増していくしかないでしょうね。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:689
@@ -21703,6 +21725,8 @@ msgid ""
 " looked kindly upon by Alduin. There are some who think it hogwash and "
 "superstition."
 msgstr ""
+"Jeniver、お主は錬金術師なのか？それは勇敢な選択だ。そのような技術は Alduin "
+"ではあまり好意的に見られないだろうからな。でたらめや迷信と思っている者すらいるだろう。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:693
@@ -21711,13 +21735,15 @@ msgid ""
 "ignorance! Alchemy is just— it’s the future! There’s so much for us to "
 "learn, it’s—"
 msgstr ""
+"迷信？！違う、違います！それは良くある誤解です！それは── えっと、そう、無知という愚かさが原因です！錬金術はそう── "
+"未来なのです！学ぶべきことは山ほどあります、まずは──"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:697
 msgid ""
 "No offense meant, my lady. Perhaps we can discuss your studies in more depth"
 " at another time."
-msgstr ""
+msgstr "いや、侮辱しようとしたわけではないぞ、お嬢さん。研究の詳しい話はまた今度聞かせてもらおう。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:727
@@ -21726,31 +21752,33 @@ msgid ""
 "venom — I suppose it’s not really poison — for my blowdarts. Can you kill "
 "one for me?"
 msgstr ""
+"あら！別の巨大蜘蛛？もうちょっと毒── えっと、注入毒？が欲しいですね。私の吹き矢用の毒だから── "
+"経口毒ではないですね。というわけでもう一匹お願いできますか？"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:735
 msgid "Wonderful, the spider is dead! Just, ah, just give me a moment here..."
-msgstr ""
+msgstr "あらあら！蜘蛛が死にましたね！えっと、ちょっとだけ時間を…"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:817
 msgid "Improved Blowgun"
-msgstr ""
+msgstr "改良型吹き矢"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:818
 msgid "Jeniver’s “<i>blowgun</i>” attack can now be used twice each turn!"
-msgstr ""
+msgstr "Jeniver の「吹き矢」が毎ターン２回使えるようになりました。"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:838
 msgid "Improved Flashpowder"
-msgstr ""
+msgstr "改良型発煙粉"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:839
 msgid "Jeniver’s “<i>flashpowder</i>” attack can now be used twice each turn!"
-msgstr ""
+msgstr "Jeniver の「発煙粉」が毎ターン２回使えるようになりました！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:856
@@ -21758,11 +21786,12 @@ msgid ""
 "Konrad, I had no idea you had a troll with you! What was his name? Dosh? "
 "Dosh, CAN. YOU. UNDERSTAND. ME?"
 msgstr ""
+"Konrad、トロルと一緒にいるなんて驚きですね！あなたの名前は？Dosh？Dosh、<b>私、の、言って、いる、こと、が、わかり、ますか？</b>"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:860
 msgid "Dere sometin’ wrong wit’ your head, girl? You talkin’ real funny."
-msgstr ""
+msgstr "女、お前頭おかしいか？話しかたすごいおかしい。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:864
@@ -21771,13 +21800,15 @@ msgid ""
 "It’ll grow back, I’m sure. I have this, err, theory I want to try with "
 "regeneration, you see..."
 msgstr ""
+"あら！それなら "
+"Dosh、あなたの肉を少しわけてもらえないかしら？大丈夫、すぐに回復するでしょう、トロルなんですから。私の、ええっと、再生に関する理論で実験したいことがあって、ちょっと待ってね……"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:868
 msgid ""
 "You want some pieces of Dosh? Dere definitely sometin’ wrong wit’ your head."
 " But okay. Here you go."
-msgstr ""
+msgstr "お前 Dosh 身体一部欲しいか？お前絶対頭おかしい。Dosh 承知。いいぞ。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:892
@@ -21786,25 +21817,27 @@ msgid ""
 "regeneration... in fact, I have something of a theory about the curative "
 "properties of troll-flesh..."
 msgstr ""
+"あら、トロルですね！えっと、Konrad、トロルは驚異的な再生能力があるのは知っていますね… "
+"それでちょっと、トロルの治癒能力に関する理論があるのですが…"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:903
 msgid ""
 "The troll’s dead? Oh, wonderful— yes, yes there’s something I’ve been "
 "meaning to try with regeneration..."
-msgstr ""
+msgstr "トロルの死体？あら、素晴らしいですね── よし、よし、これでずっとやりかたった再生に関する実験ができますね…"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:918
 msgid ""
 "Mix with one vial of frostbone... infusion of boar... heat over an open "
 "flame..."
-msgstr ""
+msgstr "フロストボーンの小瓶を一つ… イノシシ用の輸液… 混ぜ合わせて… 火であぶって…"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:931
 msgid "Oh! Oh Light, that’s foul! That stings! It blew up in my face!"
-msgstr ""
+msgstr "あら！神様ひどい！痛い！爆発して顔に怪我をしました…"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:935
@@ -21814,6 +21847,8 @@ msgid ""
 "on. But trollish regeneration seems, err, well— incompatible with my "
 "methods."
 msgstr ""
+"私は── なんとか無事ですね。注入毒からの迅速な回復法の秘密を解き明かそうとしていたのですが… "
+"解毒や身体強化ができると思ったのに。しかしトロルの再生方法は、うーん、そうですねぇ── どうも私の理論と適合しなかった、という感じでしょうか？"
 
 #. [message]: speaker=Jeniver
 #. this is a hint that Jeniver will get a bonus if you bring her to
@@ -21822,7 +21857,7 @@ msgstr ""
 msgid ""
 "Although, if you could someday find some other species of regenerating "
 "creature for me to take a sample of..."
-msgstr ""
+msgstr "でも、他に再生能力をもつ生物を見つけられたら、また実験させてくださいね…"
 
 #. [message]: speaker=Ulfdain
 #. "from below" implying that dwarves believe that they end up in some
@@ -21832,28 +21867,28 @@ msgid ""
 "Ah can’t believe yer expecting me to fight side-by-side with some half-wit, "
 "bog-handed, mumblecrest o’ a troll, Konrad. I kin feel my ancestors laughin’"
 " at me from below!"
-msgstr ""
+msgstr "おい Konrad、まさかマヌケで不器用でモゴモゴしゃべるトロルと俺を並べて戦わせる気か？先祖が地の底から俺を嘲笑っているように感じるぞ！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:974
 msgid ""
 "Hey, who you calling... uhh... thing. Not like Dosh been killin’ hundred "
 "dwarves or nothin’ like that."
-msgstr ""
+msgstr "おい、お前何言ってる。Dosh ドワーフ 100 人殺すとかやってない。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:978
 msgid ""
 "Dosh only ever kill two, small ones, an’ dey not even fight back. Dwarves "
 "not hard to kill. You probably not hard either."
-msgstr ""
+msgstr "Dosh 殺したたった二人。小さいの。そいつら反撃しなかった。ドワーフ殺す簡単。お前も多分簡単。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:982
 msgid ""
 "Enough, both of you! Behave, or you’ll find yourselves needing to fight me, "
 "too."
-msgstr ""
+msgstr "二人とももうやめろ！それ以上争うなら、私とも戦うことになるぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:995
@@ -21861,7 +21896,7 @@ msgid ""
 "I am not well-accustomed to fighting alongside trolls, Dosh. In the past I "
 "have fought against your kind instead. I hope there will be no tension "
 "between us."
-msgstr ""
+msgstr "Dosh、私はトロルと並んで戦うのにはあまり慣れていない。過去にはお主の同族と戦ったこともある。仲良くやっていけると良いのだが。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:999
@@ -21869,26 +21904,26 @@ msgid ""
 "Nah, Dosh excited to be fightin’ with Delfador. Da orcs and trolls all be "
 "telling stories about all da big battles you fought back when. Now soon dey "
 "telling stories about Dosh too!"
-msgstr ""
+msgstr "それ違う。Delfador 一緒戦う、Dosh 興奮。オークトロルみんな言う、あの大戦、お前大活躍。もうすぐ Dosh 活躍もみんな言う！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1014
 msgid "You bad troll, bad! Bad trolls be getting hit with big sticks!"
-msgstr ""
+msgstr "お前悪いトロル、悪いヤツ！悪いトロル、叩く！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1031
 msgid ""
 "I never thought I’d be fighting alongside the very wizard who killed my "
 "brother. I never had a chance to meet him. Thanks to you."
-msgstr ""
+msgstr "兄を殺した魔術師と共に戦うなんて想像してなかったわ。もっとも、兄とは直接会ったことはないのだけれど。あなたのおかげで。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1035
 msgid ""
 "You never had a chance to meet your father, either. I think Garard would be "
 "proud of you. You have his skill with the sword."
-msgstr ""
+msgstr "お主は実の父と会う機会もなかったであろう。Garard が今の姿を見れば喜ぶだろうな。王の剣の才能は間違いなくお主に受け継がれている。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1039
@@ -21897,55 +21932,57 @@ msgid ""
 "with flattery and lies, but it was his hand and his hand alone that slew the"
 " old king. Your brother sealed his own fate that day, Li’sar."
 msgstr ""
+"しかしお主の兄については… 間違いなく Asheviere は世辞と嘘で Eldred "
+"をおだて上げていた。それでも、王を弑したのは間違いなくあやつで、あやつは単独でそれを成し遂げている。あの日、あの男は自身の運命を閉ざしてしまったのだ、Li’sar。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1043
 msgid ""
 "Save your breath. You’re not making this any easier. Let’s just do what "
 "needs to be done."
-msgstr ""
+msgstr "これくらいにしておきましょう。何にせよ、過ぎたことよ。まずは今やるべきことをやりましょう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1058
 msgid "A powerful magic awakens in my hands. Behold the Sceptre of Fire!"
-msgstr ""
+msgstr "私の手の中で大きな魔力が目覚める。炎の笏の力、とくと見よ！"
 
 #. [message]: id=$defector1.id
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1157
 msgid "Is that... the Sceptre of Fire?! Ye gods, it’s real!"
-msgstr ""
+msgstr "これは…… 炎の笏？！ああ神々よ、これは本物だ！"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1164
 msgid "The legends are true! The true queen has come!"
-msgstr ""
+msgstr "伝説は本当だった！真の女王が現れた！"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1165
 msgid "Spare me, madam, and I will pledge myself into your service!"
-msgstr ""
+msgstr "どうかお助けを、殿下！私はあなたに従います！"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1167
 msgid "The legends are true! The true king has come!"
-msgstr ""
+msgstr "伝説は本当だった！真の王が現れた！"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1168
 msgid "Spare me, sir, and I will pledge myself into your service!"
-msgstr ""
+msgstr "どうかお助けを、殿下！私はあなたに従います！"
 
 #. [message]: id=$defector2.id
 #. [message]: id=$defector1.id
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1186
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1191
 msgid "And I!"
-msgstr ""
+msgstr "私も！"
 
 #. [dummy]: id=exacting
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:9
 msgid "exacting"
-msgstr ""
+msgstr "厳密"
 
 #. [dummy]: id=exacting
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:10
@@ -21953,6 +21990,7 @@ msgid ""
 "Li’sar has drilled her infantry to perfection. Though few in number, each of"
 " her soldiers possesses skills not usually seen on others of their type."
 msgstr ""
+"Li’sar は配下の歩兵を完璧に鍛え上げています。数こそ少ないですが、彼女の部下達は同じ兵種の者達が通常持たないような能力を身につけています。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:62
@@ -21961,6 +21999,8 @@ msgid ""
 "large in number, they are exactingly trained — each of them possesses one "
 "ability not usually seen on others of their type."
 msgstr ""
+"Aethen の森にいたころ、Li’sar について学んだことがある。彼女の部隊はそこまで数が多いわけではないが、非常に厳しく訓練されている── "
+"彼らは同じ兵種の者達が通常持たないような能力を身につけているだろう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:77
@@ -21969,11 +22009,14 @@ msgid ""
 "Aethenwood. Though not large in number, they are exactingly trained — each "
 "of them possesses one ability not usually seen on others of their type."
 msgstr ""
+"あれを見ろ、Li’sar 配下の者だ！Aethen の森にいたころ、Li’sar "
+"について学んだことがある。彼女の部隊はそこまで数が多いわけではないが、非常に厳しく訓練されている── "
+"彼らは同じ兵種の者達が通常持たないような能力を身につけているだろう。"
 
 #. [dummy]: id=rejuvenate
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:126
 msgid "rejuvenates"
-msgstr ""
+msgstr "活性"
 
 #. [dummy]: id=rejuvenate
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:127
@@ -21981,18 +22024,19 @@ msgid ""
 "This unit will heal itself and adjacent allied units for 4 HP each turn. "
 "This ability cannot cure poison, however, only delay its effect."
 msgstr ""
+"このユニットは自身と隣接する味方ユニットを毎ターン 4 HP 回復させます。毒の治療はできませんが、毒によるダメージを抑えることはできます。"
 
 #. [dummy]: id=smite
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:194
 msgid "smite"
-msgstr ""
+msgstr "神罰"
 
 #. [dummy]: id=smite
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:195
 msgid ""
 "Each time this unit strikes a finishing blow, it deals 30 arcane damage to "
 "adjacent enemies."
-msgstr ""
+msgstr "このユニットが敵にとどめを刺すと、隣接する敵ユニットに 30 の秘術ダメージを与えます。"
 
 #. [object]: id=sceptre_of_fire, type=fire, type=fire, type=fire, type=fire
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:231
@@ -22002,6 +22046,8 @@ msgid ""
 "Continent. Among its many powers is the ability to hurl fireballs of great "
 "size."
 msgstr ""
+"Haldric II 世の依頼で Knalga "
+"のドワーフが創り上げた品で、笏の中心にある魔法のルビーはその起源を謎めいた旧大陸時代にまで遡ります。様々な力があり、巨大なファイアボールを打ち出すこともできます。"
 
 #. [object]: id=sceptre_of_fire, type=fire, type=fire, type=fire, type=fire
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:236
@@ -22014,7 +22060,7 @@ msgstr "炎の笏"
 #. [object]: id=royal_chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:310
 msgid "Royal Chainmail"
-msgstr ""
+msgstr "王家の鎖帷子"
 
 #. [object]: id=royal_chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:311
@@ -22022,59 +22068,61 @@ msgid ""
 "Masterfully crafted by Weldyn smiths, then magically duplicated and enhanced"
 " by Delfador, this armor grants Konrad +40% resistance to all damage."
 msgstr ""
+"Weldyn の鍛冶師の優れた技術で作られ、Delfador によって複製、強化された鎖帷子です。この鎧は Konrad の全ての攻撃に対する耐性を "
+"40% 増加させます。"
 
 #. [dummy]: id=chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:316
 msgid "chainmail"
-msgstr ""
+msgstr "鎖帷子"
 
 #. [dummy]: id=chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:317
 msgid "This unit gains +40% resistance to all damage."
-msgstr ""
+msgstr "このユニットの全ての耐性が 40% 増加します。"
 
 #. [object]: id=moonbow
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:343
 msgid "moonbow"
-msgstr ""
+msgstr "月の弓"
 
 #. [dummy]: id=sandals
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:364
 msgid "sandals"
-msgstr ""
+msgstr "サンダル"
 
 #. [dummy]: id=sandals
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:365
 msgid "This unit has 40% defense and full movement on water, swamp, and snow."
-msgstr ""
+msgstr "このユニットは水、沼、雪の地形での移動コストが１に、回避率が 40% になります。"
 
 #. [dummy]: id=horn
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:420
 msgid "orc-horn"
-msgstr ""
+msgstr "角笛"
 
 #. [dummy]: id=horn
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:421
 msgid ""
 "Whenever one living ally dies, all others gain regeneration for one turn."
-msgstr ""
+msgstr "仲間の命あるユニットが死ぬと、他のユニットは１ターンだけ再生を獲得します。"
 
 #. [floating_text]
 #. this is floating text, to be shown above a unit that's temporarily gained
 #. the "regeneration" ability
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:469
 msgid "+regen"
-msgstr ""
+msgstr "+再生"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:504
 msgid "Take heart, men! Rally and avenge the fallen!"
-msgstr ""
+msgstr "勇気を出せ！仲間の仇を取るんだ！"
 
 #. [object]: id=amulet
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:517
 msgid "Artificer’s Amulet"
-msgstr ""
+msgstr "職人のアミュレット"
 
 #. [object]: id=amulet
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:518
@@ -22083,11 +22131,13 @@ msgid ""
 " Konrad for 1 HP each turn. This value doubles (2, 4, 8, etc) for each other"
 " magic item that Konrad wields."
 msgstr ""
+"この奇妙な形のお守りは近くにある魔法の品からエネルギーを吸い出し、毎ターン Konrad の HP を +1 回復します。Konrad "
+"が他の魔法の品を持っている場合、その効果は１つごとに倍増（+2, +4, +8 ....）します。"
 
 #. [menu]: id=menu-main
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:34
 msgid "Menu"
-msgstr ""
+msgstr "メニュー"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:112
 msgid "Autumn, Year 517"
@@ -22264,233 +22314,234 @@ msgid ""
 "learn to work together. If you believe we’ll fight better by your taking "
 "direct command of my army, I’m willing to allow it."
 msgstr ""
+"従弟よ、我々は友軍となった。気は進まないが、我々も協力して戦う術を学ぶ必要がある。もしお前が私の軍勢を直接指揮することで戦いが有利になると思うのであれば、私は受け入れよう。"
 
 #. [option]
 #. $stored_side.base_income  will be between 4 and 32
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:255
 msgid "Leave Li’sar under AI control ($stored_side.base_income bonus income)"
-msgstr ""
+msgstr "Li’sar を AI 操作のままにする（収入ボーナス $stored_side.base_income）"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:266
 msgid "Take manual control of Li’sar’s army (no bonus income)"
-msgstr ""
+msgstr "Li’sar の軍勢を手動で操作する（収入ボーナスなし）"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:444
 msgid "loyal"
-msgstr ""
+msgstr "忠義"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:445
 msgid "Zero upkeep"
-msgstr ""
+msgstr "維持費なし"
 
 #. [unit]: id=Kaylan, type=Grand Knight
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:484
 msgid "Sir Kaylan"
-msgstr ""
+msgstr "Kaylan 卿"
 
 #. [unit]: id=Maddock, type=Lord of Elensefar
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:497
 msgid "Lord Maddock"
-msgstr ""
+msgstr "Maddock 候"
 
 #. [unit]: id=Reglok, type=Rogue
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:510
 msgid "Reglok"
-msgstr ""
+msgstr "Reglok"
 
 #. [unit]: id=Ethiliel, type=Elvish Shyde
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:520
 msgid "Ethiliel"
-msgstr ""
+msgstr "Ethiliel"
 
 #. [unit]: id=Galdrad, type=Elvish Champion
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:533
 msgid "Galdrad"
-msgstr ""
+msgstr "Galdrad"
 
 #. [unit]: id=Isolde, type=General, gender=female
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:559
 msgid "Isolde"
-msgstr ""
+msgstr "Isolde"
 
 #. [unit]: id=Mirya, type=Silver Mage, gender=female
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:571
 msgid "Mirya"
-msgstr ""
+msgstr "Mirya"
 
 #. [unit]: id=Warven, type=Lieutenant
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:581
 msgid "Warven"
-msgstr ""
+msgstr "Warven"
 
 #. [unit]: id=Kalenz, type=Elvish High Lord
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:595
 msgid "Kalenz"
-msgstr ""
+msgstr "Kalenz"
 
 #. [unit]: id=Chantal, type=Elvish Shyde
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:608
 msgid "Chantal"
-msgstr ""
+msgstr "Chantal"
 
 #. [unit]: id=Ulfdain, type=Dwarvish Ulfserker
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:621
 msgid "Ulfdain"
-msgstr ""
+msgstr "Ulfdain"
 
 #. [unit]: id=Harper, type=Fugitive, gender=female
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:631
 msgid "Harper"
-msgstr ""
+msgstr "Harper"
 
 #. [unit]: id=Somf, type=Bandit
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:644
 msgid "Uncle Somf"
-msgstr ""
+msgstr "Somf おじさん"
 
 #. [unit]: id=Moremirmu, type=White Warrior
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:653
 msgid "Moremirmu"
-msgstr ""
+msgstr "Moremirmu"
 
 #. [unit]: id=Jeniver, type=Alchemist
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:666
 msgid "Jeniver"
-msgstr ""
+msgstr "Jeniver"
 
 #. [unit]: id=Dosh, type=Troll
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:676
 msgid "Dosh"
-msgstr ""
+msgstr "Dosh"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:764
 msgid "We are vanquished, for I have been defeated!"
-msgstr ""
+msgstr "我々の敗北だ！なぜなら、私が負けてしまったからだ！"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:765
 msgid "This is the end! Without me, who will guide the prince?"
-msgstr ""
+msgstr "これまでか！私がいなくなったら、誰が王子を導くというのか？"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:766
 msgid "Fight on without me, friends! The Light shall always prevail!"
-msgstr ""
+msgstr "友よ、後は頼んだぞ！光は必ず勝利するのだ！"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:767
 msgid "Ah’m not wounded! Jus’ need a moment... ta catch my breath..."
-msgstr ""
+msgstr "俺は怪我なんかしちゃいねぇ！ちょっとだけ… 息を整えれば……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:768
 msgid "Well, this is a new experience..."
-msgstr ""
+msgstr "あら、これは新しい経験ですね……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:769
 msgid "Harper! No!"
-msgstr ""
+msgstr "Harper！そんな！"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:769
 msgid "Unngh... Sorry Baldras..."
-msgstr ""
+msgstr "うーん… ごめん、Baldras……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:770
 msgid "Ack! I tried my best..."
-msgstr ""
+msgstr "うぐっ！まあ、やれるだけのことはやったか……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:770
 msgid "Somf! No!"
-msgstr ""
+msgstr "Somf！そんな！"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:771
 msgid "Chantal! A dark shadow falls upon my soul..."
-msgstr ""
+msgstr "Chantal！私の魂に暗い影が落ちる……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:771
 msgid "—Oh!"
-msgstr ""
+msgstr "──あっ！"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:772
 msgid "Dosh don’ feel so good..."
-msgstr ""
+msgstr "Dosh 気分悪い……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:773
 msgid "Krawww..."
-msgstr ""
+msgstr "クラァァ……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:775
 msgid "Send word of my fall to Sir Kaylan, Konrad! I fought my best..."
-msgstr ""
+msgstr "Konrad、Kaylan 卿にお伝えください！私は全力を尽くしたと……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:776
 msgid ""
 "Tell Sir Kaylan of my demise, Konrad... I have served you as best I could..."
-msgstr ""
+msgstr "Konrad、Kaylan 卿に伝えてくれ… 私は精一杯あなたにお仕えましたと……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:777
 msgid "Oh... I suppose I deserve this..."
-msgstr ""
+msgstr "おお… まあ、当然の報いなのだろうな……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:778
 msgid "Ow!"
-msgstr ""
+msgstr "うっ！"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:779
 msgid "Jotha regrets nothing..."
-msgstr ""
+msgstr "Jotha に後悔は無い……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:780
 msgid "Bury me back home in the Dulatus..."
-msgstr ""
+msgstr "故郷の Dulatus に葬ってくれ……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:784
 msgid "At least I die an honorable death..."
-msgstr ""
+msgstr "少なくとも、誇り高く死ぬことはできそうだ…"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:786
 msgid "Gah! At least I die a death worthy of the Horse Lords of old..."
-msgstr ""
+msgstr "くそ！しかし、少なくとも伝統ある騎兵貴族に相応しい死ではあるか……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:787
 msgid "Argh! I may fall, but the Clans shall always endure!"
-msgstr ""
+msgstr "うぐっ！私はここまでだが、クランは永遠に滅びない！"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:788
 msgid "Ack! Bury me under the Horse Plains..."
-msgstr ""
+msgstr "うっ！馬平原に私を葬ってくれ……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:789
 msgid "Bah! Tell the Clans I died fighting..."
-msgstr ""
+msgstr "フン！私は戦って死んだとクランに伝えて……"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:797
 msgid "I have met my match..."
-msgstr ""
+msgstr "手強い奴に会ってしまったな…"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:803
 msgid ""
 "Tie him up and bind his wounds. The queen will want to make an example of "
 "this one."
-msgstr ""
+msgstr "この男を縛り上げて傷を治療しろ。女王陛下はこの男を見せしめにするだろう。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:813
 msgid "I have given all in defense of my home..."
-msgstr ""
+msgstr "家を守るために全力を尽くしたのに…"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:819
 msgid "Bind her arms and wings! The queen wants their leaders taken alive."
-msgstr ""
+msgstr "この女の腕と羽を縛れ！女王陛下はリーダーを生け捕りにするよう望んでいる。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:833
 msgid ""
 "Argh! I am nearly finished! But if I were to die here, my people would be "
 "left leaderless."
-msgstr ""
+msgstr "ううっ！このままではまずい！私がここで死んだら、我が民が指導者を失ってしまう。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:837
@@ -22498,39 +22549,41 @@ msgid ""
 "I have aided you in what ways I could, Konrad. Now I must leave your party, "
 "and retreat eastwards to Lintanir Forest. May we someday meet again there."
 msgstr ""
+"Konrad、できるだけの手助けはした。私はここでお前の一団から離れ、東の Lintanir "
+"の森に戻ろうと思う。いつかそこで再会できることを願っている。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:855
 msgid "I can’t believe it should end like this!"
-msgstr ""
+msgstr "こんな最期なんて信じられないわ！"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:869
 msgid "At least I die alongside my princess..."
-msgstr ""
+msgstr "少なくとも、王女殿下の側で死ぬことはできる……"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:885
 msgid "Death of Konrad"
-msgstr ""
+msgstr "Konrad の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:893
 msgid "Death of Konrad or Delfador"
-msgstr ""
+msgstr "Konrad または Delfador の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:901
 msgid "Death of Konrad or Li’sar"
-msgstr ""
+msgstr "Konrad または Li’sar の死"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:909
 msgid "Death of Konrad, Delfador, or Li’sar"
-msgstr ""
+msgstr "Konrad、Delfador、Li’sar いずれかの死"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:922
 msgid ""
 "Delfador is a leader, and can recruit elementals when standing on a keep."
-msgstr ""
+msgstr "Delfador はリーダーで、主塔にいるとき精霊を雇用できます。"

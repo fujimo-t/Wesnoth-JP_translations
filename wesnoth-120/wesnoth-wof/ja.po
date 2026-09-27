@@ -2797,7 +2797,7 @@ msgid ""
 "Hail-loooo! Dragons, can you ssspeak? Zedrix, you sssaid dragons can "
 "ssssspeak!"
 msgstr ""
-"ドラゴンばんざぁぁぁい！ 貴方たちは話<small>セセ</small>せますか？ Zedrix "
+"ドラゴンばんざぁぁぁい！ 貴方たちは話<small>セセ</small>せま<small>スス</small>すか？ Zedrix "
 "、お前はドラゴンは話<small>セセ</small>せると話<small>シシ</small>した！"
 
 #. [message]: speaker=Gorlack
@@ -2817,8 +2817,8 @@ msgid ""
 "By every sssign upon firmament, we hear you Shek’kahan! You are our "
 "moonlight!"
 msgstr ""
-"天空のあらゆる<small>シシ</small>しる<small>シシ</small>しに従い、Shek’kahan "
-"の言葉を聞く！貴方は我らを照ら<small>スス</small>す月の光だ！"
+"天空のあらゆる<small>シシ</small>しるし<small>シシ</small>に従い、Shek’kahan "
+"の言葉を聞く！貴方は我らを照らす<small>スス</small>月の光だ！"
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:639
@@ -3250,9 +3250,9 @@ msgid ""
 "\n"
 "These humans ssslaughtered all but my entire clan! On the ruins of my hatchplace they raised their towering Fort Elenssse. Pray dragons, rain jussst fire down upon these abominations!"
 msgstr ""
-"無意味ではありま<small>セセ</small>せん！ 貴方が見た生き物は自分たちを「人間」と呼びま<small>スス</small>す。奴らはヒキガエルの<small>シシ</small>湿った皮を被った鈍くて気味悪い怪物で<small>スス</small>す。奴らは深くて暗い Wesssmere の森のエルフによって地下<small>セセ</small>世界から呼び出<small>ササ</small>された雇われ兵で<small>スス</small>す。\n"
+"無意味ではありま<small>セセ</small>せん！ 貴方が見た生き物は自分たちを「人間」と呼びます<small>スス</small>。奴らはヒキガエルの<small>シシ</small>湿った皮を被った鈍くて気味悪い怪物です<small>スス</small>。奴らは深くて暗い Wesssmere の森のエルフによって地下<small>セセ</small>世界から呼び出<small>ササ</small>された雇われ兵です<small>スス</small>。\n"
 "\n"
-"人間どもはあたいの一族を皆殺<small>シシ</small>しに<small>シシ</small>しま<small>シシ</small>した！ あたいの孵化場の跡に、奴らは<small>ソソ</small>そびえ立つ Elenssse の砦を築きま<small>シシ</small>した。この忌まわ<small>シシ</small>しき者どもにドラゴンの火の雨を降ら<small>セセ</small>せてくだ<small>ササ</small>さい！"
+"人間どもはあたいの一族を皆殺し<small>シシ</small>に<small>シシ</small>しま<small>シシ</small>した！ あたいの孵化場の跡に、奴らは<small>ソソ</small>そびえ立つ Elenssse の砦を築きま<small>シシ</small>した。この忌まわ<small>シシ</small>しき者どもにドラゴンの火の雨を降ら<small>セセ</small>せてくだ<small>ササ</small>さい！"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:256
@@ -4206,7 +4206,7 @@ msgid ""
 "<i>That is jussst what they do. Now I will further pacify them with "
 "praise—</i>"
 msgstr ""
-"<small>ソソ</small>それが奴らのやり方で<small>スス</small>す。これから奴らをおだてて、もっと落ち着か<small>セセ</small>せます"
+"<small>ソソ</small>それが奴らのやり方です<small>スス</small>。これから奴らをおだてて、もっと落ち着か<small>セセ</small>せます"
 " ——"
 
 #. [message]: speaker=Arinexis
@@ -4819,7 +4819,7 @@ msgid ""
 "that dies sssomeday rises again as one of those."
 msgstr ""
 "<small>ソソ</small>それは骨人間 —— "
-"人間の本当の<small>ササ</small>最強の形で<small>スス</small>す。<small>シシ</small>死んだ人間はいつか<small>ソソ</small>その形で蘇るので<small>スス</small>す。"
+"人間の本当の<small>ササ</small>最強の形です<small>スス</small>。<small>シシ</small>死んだ人間はいつか<small>ソソ</small>その形で蘇るのです<small>スス</small>。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:508
@@ -4884,7 +4884,7 @@ msgstr "また運試しに来たのか？ Khrakrahs よ。"
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:583
 msgid "It is to his ssstronger brother, Shek’kahan, that you ssspeak!"
-msgstr "お前が話<small>スス</small>すよりもっと強い兄弟の Shek’kahan だ。"
+msgstr "お前が話す<small>スス</small>よりもっと強い兄弟の Shek’kahan だ。"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:589
@@ -4998,7 +4998,7 @@ msgid ""
 msgstr ""
 "（舌をチロチロして）\n"
 "\n"
-"ドラゴンの皆<small>ササ</small>様！ <small>シシ</small>しゃべる骨の向こうにある門から<small>シシ</small>新鮮な空気の匂いが<small>シシ</small>しま<small>スス</small>す。<small>ソソ</small>それが山を抜ける道で<small>スス</small>す。あの門を破らなければならない！ い<small>ソソ</small>そいで、ドラゴンたち！"
+"ドラゴンの皆<small>ササ</small>様！ <small>シシ</small>しゃべる骨の向こうにある門から<small>シシ</small>新鮮な空気の匂いが<small>シシ</small>します<small>スス</small>。<small>ソソ</small>それが山を抜ける道です<small>スス</small>。あの門を破らなければならない！ い<small>ソソ</small>そいで、ドラゴンたち！"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:667
@@ -5461,7 +5461,7 @@ msgstr "いずれかのユニットをトンネルに移動させると、出入
 msgid "I sssee now you are not Shek’kahan. I sssaw as I wished to sssee."
 msgstr ""
 "貴方が Shek’kahan "
-"ではないと、今なら分かりま<small>スス</small>す。俺は見たいものを見ていま<small>シシ</small>した。"
+"ではないと、今なら分かります<small>スス</small>。俺は見たいものを見ていま<small>シシ</small>した。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:340
@@ -6149,7 +6149,7 @@ msgid ""
 "hunt. Many of usss will follow you."
 msgstr ""
 "Karron "
-"<small>ササ</small>様、貴女こ<small>ソソ</small>そ鱗を持つ唯一のドラゴンで<small>スス</small>す。あたいはあなたの狩りに加わりま<small>スス</small>す。我らの多くが貴方に付いてゆくでしょう。"
+"<small>ササ</small>様、貴女こ<small>ソソ</small>そ鱗を持つ唯一のドラゴンです<small>スス</small>。あたいはあなたの狩りに加わります<small>スス</small>。我らの多くが貴方に付いてゆくでしょう。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:410
