@@ -199,7 +199,7 @@ msgstr "シナリオ 5：二本釣り"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:27
 msgid "Complete <i>Ring of Swords</i> with Garard at full hp."
-msgstr ""
+msgstr "Garard の HP が最大の状態で『剣の輪』をクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:27
@@ -312,7 +312,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:29
 msgid "Shield"
-msgstr ""
+msgstr "魔法の盾"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:31
 msgid ""
@@ -322,7 +322,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:39
 msgid "Panacea"
-msgstr ""
+msgstr "秘薬"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:41
 msgid ""
@@ -344,7 +344,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:63
 msgid "Chill Touch"
-msgstr ""
+msgstr "冷却"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:65
 msgid ""
@@ -377,7 +377,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:91
 msgid "Mnemonic"
-msgstr ""
+msgstr "記憶術"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:93
 msgid "Whenever an adjacent ally gains XP, you gain the same amount of XP."
@@ -396,7 +396,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:114
 msgid "Siphon"
-msgstr ""
+msgstr "吸収"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:116
 msgid ""
@@ -406,7 +406,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:123
 msgid "Blizzard"
-msgstr ""
+msgstr "吹雪"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:125
 msgid ""
@@ -418,7 +418,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:133
 msgid "Counterspell"
-msgstr ""
+msgstr "結界"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:135
 msgid ""
@@ -428,7 +428,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:143
 msgid "Polymorph"
-msgstr ""
+msgstr "変化"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:145
 msgid ""
@@ -472,7 +472,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:199
 msgid "Animate Fire"
-msgstr ""
+msgstr "火の守護者召喚"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:201
 msgid ""
@@ -570,7 +570,7 @@ msgstr ""
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:131
 msgid "Confirm Spells <small><i>(can be changed every scenario)</i></small>"
-msgstr ""
+msgstr "呪文を確定する<small>（シナリオ毎に変更可能）</small>"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:134
@@ -641,7 +641,7 @@ msgstr "Saegwylyn"
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:157
 msgid "The Author"
-msgstr ""
+msgstr "作者"
 
 #. [message]
 #. notice that appears at the beginning of the scenario if you select Deadly
@@ -3337,14 +3337,14 @@ msgstr "すまぬが、時間がない！我らは陛下をお連れして、こ
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:885
 msgid "Sir, look out!"
-msgstr ""
+msgstr "陛下、危ない！"
 
 #. [message]: speaker=Lionel
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:900
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1384
 msgid "<b><i>NNnrgh!</i></b>"
-msgstr ""
+msgstr "<b>ぐはっ！</b>"
 
 #. [message]: speaker=Lionel
 #. Lionel has appeared with reinforcments to help Garard
@@ -3354,11 +3354,13 @@ msgid ""
 "surprise. We’re holding a corridor but I don’t know for how long — we’ve got"
 " to get you back to Fort Garard, sir."
 msgstr ""
+"炎の笏のご加護により、なんとか間に合いました！完全に不意をつかれましたが、退路は確保してあります。いつまで持つかは分かりませんが——陛下、Garard "
+"砦まで退却いたしましょう。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:923
 msgid "Lionel! I’d almost feared this was the end."
-msgstr ""
+msgstr "Lionel ！最早これまでかと覚悟しておったぞ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:936
@@ -3366,6 +3368,7 @@ msgid ""
 "But how did this disaster happen? We were on the eve of victory! Did someone"
 " betray our plans to the enemy? Or am I really just that predictable!?"
 msgstr ""
+"だが、何故にかような有様となったのだ？勝利は目前にあったはずなのに！何者かが敵に作戦を漏らしたのか？それとも、私の策が見透かされていたとでもいうのか！？"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:940
@@ -3373,6 +3376,7 @@ msgid ""
 "Couldn’t tell you, m’lord. But there’ll be time to talk later. It looks like"
 " this war is going to last a lot longer than we’d planned..."
 msgstr ""
+"それは分かりかねます、陛下。ですが、追って話す時間はいくらでもございましょう。この戦は当初の計画よりも遥かに長引きそうでございますゆえ・・・"
 
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:16
@@ -3382,7 +3386,7 @@ msgstr "大いなる川"
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:41
 msgid "Part II"
-msgstr ""
+msgstr "Part II"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:47
@@ -3435,7 +3439,7 @@ msgstr ""
 #. [side]: type=Saurian Ambusher
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:88
 msgid "Ysaxis"
-msgstr ""
+msgstr "Ysaxis"
 
 #. [side]: type=Saurian Ambusher
 #. [side]
@@ -3448,7 +3452,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:121
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:126
 msgid "Clan Blackcrest"
-msgstr ""
+msgstr "Blackcrest の氏族"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:109
