@@ -119,7 +119,7 @@ msgid ""
 "As losses continue to mount, Delfador embarks on a dangerous mission behind enemy lines. The journey will be perilous, but what awaits at its end will be worse still. What does it truly mean to be a hero?\n"
 "    \n"
 msgstr ""
-"戦力が損耗し続ける中、Delfador は敵陣のただ中での危険な任務を買って出る。その困難な旅路の果てには、さらなる苦難が待ち受けているだろう。英雄であることの真の意味とは何なのか？\n"
+"戦力が損耗し続ける中、Delfador は敵陣のただ中での危険な任務を買って出る。その険しい旅路の果てには、さらなる苦難が待ち受けているだろう。英雄であることの真の意味とは？\n"
 "\n"
 
 #. [campaign]: id=The Deceivers Gambit 2
@@ -3397,6 +3397,8 @@ msgid ""
 "heavily fortified, and river commerce grinds to a halt. Many years pass, "
 "with neither side able to gain an advantage."
 msgstr ""
+"Blackcrest 氏族の参戦で戦線はさらに西方に伸び、迅速な対応が必要となった。Wesnoth "
+"は全軍を投入し、Abezの浅瀬では、血で血を洗う激闘の末に膠着状態に陥った。浅瀬には堅固な要塞が構築され、水運は完全に停止した。双方とも優勢を得られぬまま、長い年月が経過した。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:51
@@ -3408,6 +3410,9 @@ msgid ""
 "nephew are able to stabilize the eastern front around Fort Garard. Whitefang"
 " orcs still firmly hold the hills, but limited settlement begins."
 msgstr ""
+"その間、Asheviere は健康な男児——皇太子 Eldred を出産した。両親からの強い期待を受けた Eldred は、Lionel "
+"将軍の指導のもと、瞬く間に戦う皇太子へと成長した。Arand 王子は Eldred を手元に置き、叔父と甥が手を携えて Garard "
+"砦周辺の東部戦線を安定させた。Whitefang 氏族のオークは依然として丘陵地帯を強固に支配していたが、東方への限定的な入植が開始された。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:55
@@ -3418,6 +3423,8 @@ msgid ""
 "lines several times at the Ford of Abez, but continually become stymied by "
 "saurian reinforcements."
 msgstr ""
+"Delfador "
+"は歳を重ね、思慮深さと圧倒的な魔力を身につけていた。その名は国王が最も重用する戦闘魔術師として広く知れ渡り、勇猛な戦士としての評価は急速に高まっていった。その大胆な用兵により、Abezの浅瀬においては幾度もオークの戦線を突破したが、その度に尽きることのないトカゲの増援によって押し返されていた。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:59
@@ -3427,6 +3434,9 @@ msgid ""
 " force of mercenary northmen to sneak behind enemy lines and determine the "
 "nature of Clan Blackcrest’s orc-saurian alliance..."
 msgstr ""
+"Wesnoth の死傷者が増え続け、終息の兆しが見えない中、Delfador "
+"は自ら行動を起こすことを決意する。かの戦闘魔術師は、北方の傭兵を集めて部隊を編成し、敵陣の背後に密かに潜入する準備を進めた。Blackcrest "
+"氏族におけるオークとトカゲの同盟関係を調査するために・・・"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:76
@@ -3434,7 +3444,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:30
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:28
 msgid "Delfador’s Hirelings"
-msgstr ""
+msgstr "Delfador の傭兵隊"
 
 #. [side]: type=Saurian Ambusher
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:88
@@ -3457,22 +3467,22 @@ msgstr "Blackcrest の氏族"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:109
 msgid "Fish (and Beacon)"
-msgstr ""
+msgstr "魚（と狼煙台）"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:147
 msgid "Mount Oromore"
-msgstr ""
+msgstr "Oromore 山"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:316
 msgid "Lynyan"
-msgstr ""
+msgstr "Lynyan"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:320
 msgid "Ritharran"
-msgstr ""
+msgstr "Ritharran"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:339
