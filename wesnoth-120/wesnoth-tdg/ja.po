@@ -3487,13 +3487,13 @@ msgstr "Ritharran"
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:339
 msgid "Alright men—"
-msgstr ""
+msgstr "よし、男ども——"
 
 #. [message]: speaker=Lynyan
 #. and women
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:344
 msgid "And wom’n!"
-msgstr ""
+msgstr "女もいるよ！"
 
 #. [message]: speaker=Delfador
 #. Delfador is paying these mercenaries himself; they're not wesnoth regulars
@@ -3503,6 +3503,8 @@ msgid ""
 " importantly: you work for cheap. <span size='x-small'>Lousy Eldred wouldn’t"
 " give me any of my veterans.</span>"
 msgstr ""
+"——そして女たちよ。お前たちを選んだのは、足が速く、隠密行動に長けていて、そして何より安く使えるからだ。<span "
+"size='x-small'>あのいまいましい Eldred の奴が、ベテラン兵を一人も貸してくれないからな。</span>"
 
 #. [message]: speaker=Delfador
 #. cross the Great River. Not at the Ford of Abez, but near.
@@ -3513,6 +3515,8 @@ msgid ""
 " our movements. We should have time to clear this saurian outpost and sneak "
 "past the frontline before the main orcish army wakes at nightfall."
 msgstr ""
+"今こそ川を渡る絶好の機会だ！ "
+"夜明けだから、オークやトカゲの大半は眠っているはずだし、立ち込める冬の河霧が我々の動きを隠してくれる。日暮れにオークの本隊が目を覚ます前に、このトカゲの前哨基地を掃討し、前線を密かに突破する時間は十分あるはずだ。"
 
 #. [message]: speaker=Delfador
 #. there's a large metal brazier on a mountain filled with wood. If lit, the
@@ -3520,7 +3524,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:359
 msgid ""
 "But first, our objective must be to destroy this outpost’s signal beacon."
-msgstr ""
+msgstr "だがまずは、この前哨基地の狼煙台を破壊せねばならん。"
 
 #. [message]: speaker=Delfador
 #. there's a large metal braizer on a mountain filled with wood. If lit, the
@@ -3531,6 +3535,8 @@ msgid ""
 " the orcish host at the Ford of Abez is alerted before we can get through to"
 " the swamp, we’ll be slaughtered!"
 msgstr ""
+"霧の中でも、これほど大きな狼煙火なら何マイル先からでも見えてしまう。我々が沼地に辿り着く前に Abezの浅瀬 "
+"にいるオークの大軍に感づかれたら、全滅は必至だ！"
 
 #. [message]: speaker=Ritharran
 #. Ritharran is a rogue mage; a half-mage, half-bandit. "Hey genius, you
@@ -3542,16 +3548,17 @@ msgid ""
 "how to levitate, and the girl ’haint swimming that far even if’t it weren’t "
 "the middle of winter."
 msgstr ""
+"なぁ天才様よぉ、川のことを忘れてやしねぇかい？俺は空中浮揚を覚える前に退学になっちまったし、真冬じゃなかったとしても、あの娘があんな遠くまで泳げるわけがねぇだろうが。"
 
 #. [message]: speaker=Ritharran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:387
 msgid "Oh."
-msgstr ""
+msgstr "まじかよ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:395
 msgid "Destroy the signal beacon"
-msgstr ""
+msgstr "狼煙台を破壊する"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:399
@@ -3579,26 +3586,33 @@ msgid ""
 "\n"
 "Rogue Mages are fragile fighters with both physical and magical attacks."
 msgstr ""
+"正規兵を北方への潜入に帯同させることはできませんが、代わりに「追いはぎ」「盗賊」「はぐれ魔術師」を雇用できます！\n"
+"\n"
+"「追いはぎ」は足が速い反面、脆弱な偵察兵で、近接攻撃と遠隔攻撃のどちらも非力です。\n"
+"\n"
+"「盗賊」は「追いはぎ」のような遠隔攻撃を持たない代わりに、近接攻撃が強力で、特に敵の背後から攻撃する際に大きな効果を発揮します。\n"
+"\n"
+"「はぐれ魔術師」は脆弱なユニットですが、物理攻撃と魔法攻撃の両方を備えた戦士です。"
 
 #. [message]: speaker=Delfador
 #. the player has spotted a goblin or saurian on lookout duty
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:568
 msgid ""
 "Take care! If that guard spots us on its turn, it’ll alert all the others."
-msgstr ""
+msgstr "気をつけろ！あの番兵の行動中に見つかれば、他の者全員に知らされてしまうぞ。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:653
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:667
 msgid "Fog and Vision:"
-msgstr ""
+msgstr "霧と視界："
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:654
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:668
 msgid ""
 "In fog, units (including yours) can see 1 hex further than their movement."
-msgstr ""
+msgstr "霧の中では、自軍を含む全ユニットが、自身の移動力よりも 1 ヘックス遠くまで見渡すことができます。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:656
@@ -8287,7 +8301,7 @@ msgstr ""
 #. [dummy]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:283
 msgid "panacea"
-msgstr ""
+msgstr "劇薬"
 
 #. [leadership]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:365

@@ -42,7 +42,7 @@ msgid ""
 "You, the old king’s last legitimate living heir, must embark on a long and "
 "perilous journey to dismantle the dark queen’s armies and finally end her "
 "reign of terror."
-msgstr "あなたは亡き王の唯一で、正統な後継者です。闇の女王の軍勢を打ち破って恐怖の治世に終止符を打つべく、長く過酷な旅へと乗り出すのです。"
+msgstr "あなたは亡き王の正統な後継者です。闇の女王の軍勢を打ち破って恐怖の治世に終止符を打つべく、長く過酷な旅へと乗り出すのです。"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:69
@@ -320,7 +320,7 @@ msgstr "「親しい友人」を敵リーダーの HP を半分より多く残�
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:49
 msgid "Rest in Pieces"
-msgstr "安らかな眠りを"
+msgstr "無事にお休みなさい"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:50
@@ -598,14 +598,13 @@ msgid ""
 "Either way, Li’sar will have normal gold carryover\n"
 "and a normal early finish bonus."
 msgstr ""
-"Li’sar とその軍勢は地下での苦難のために弱体化\n"
-"しています。しかし、戦場で重要な存在である\n"
-"ことに変わりはありません。\n"
+"Li’sar 王女とその軍勢は地下での苦難のために\n"
+"弱体化しています。しかし、戦場で重要な存在\n"
+"であることに変わりはありません。\n"
 "\n"
 "王女の軍勢はデフォルトでは収入にボーナスを\n"
 "得た上で AI が操作しますが、<b>シナリオ開始時に\n"
-"彼女の軍勢を直接操作するか選択することができ\n"
-"ます。</b>\n"
+"彼女の軍勢を直接操作することも選択できます。</b>\n"
 "\n"
 "いずれの場合でも、Li’sar にも通常の早期終了\n"
 "ボーナスとゴールド引き継ぎがあります。"
@@ -720,7 +719,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:105
 msgid ""
 "Don’t worry Delfador, I’m ready. Now come on, let’s go save the kingdom!"
-msgstr "心配は無用だよ、Delfador。準備はもうできている。さあ王国を救いに行こう！"
+msgstr "Delfador、心配はいらない。準備はもうできている。さあ王国を救いに行こう！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:123
@@ -760,7 +759,7 @@ msgid ""
 "of them might still have been saved."
 msgstr ""
 "森は静寂に包まれている。エルフ達は死んでしまったか、捕らわれるかして、人間の軍勢は Weldyn に戻ったのだろう…… "
-"もう少し早く行動できていれば、救うことができた人もいただろうに。"
+"もう少し早く行動できていれば救うことができた人もいただろうに。"
 
 #. [message]: role=s02_speaker_1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:249
@@ -786,7 +785,9 @@ msgstr "まあ、お前を育てていたこと、それがそもそも攻撃を
 msgid ""
 "The elves have gone into hiding; safely escaped into the southern "
 "Aethenwood! May they prosper again once Asheviere is overthrown."
-msgstr "エルフを姿を隠してしまった。Aethen の森の南へ安全に逃れたのだろう。いつか Asheviere にかつての繁栄が戻りますように。"
+msgstr ""
+"エルフを姿を隠してしまった。Aethen の森の南へ安全に逃れたのだろう。いつの日か Asheviere "
+"を追い落とし、森にかつての繁栄が戻りますように。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:271
@@ -808,7 +809,7 @@ msgstr "黒水港 - 残り１ターン (最後のチャンス！)"
 msgid ""
 "Konrad, I am hard-pressed by the dark queen’s forces! Without your aid, "
 "Blackwater Port shall soon fall to ruin!"
-msgstr "Konrad、私を闇の女王の軍勢に追い詰められている！お前の助けがなければ、黒水港が廃墟となる日も遠くないだろう！"
+msgstr "Konrad、私は闇の女王の軍勢に追い詰められている！お前の助けがなければ、黒水港が廃墟となる日も遠くないだろう！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:363
@@ -817,8 +818,8 @@ msgid ""
 "one of the few who is willing to oppose the Dark Crown. Rumor has it that "
 "his lance has slain fifty men and a hundred orcs."
 msgstr ""
-"Konrad、Kaylan 卿のことは知っておろう ── 最も力を持つ騎士侯の一人で、闇の女王への抵抗を躊躇わない数少ない勇者の一人だ。彼のランスは "
-"50 の人間と 100 のオークを倒したと言われている。"
+"Konrad、Kaylan 卿のことは知っておろう ── 大きな力を持つ騎兵貴族の一人で、闇の女王への抵抗を躊躇わない数少ない勇者の一人だ。彼のランスは"
+" 50 の人間と 100 のオークを倒したと言われている。"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:367
@@ -842,7 +843,7 @@ msgstr ""
 msgid ""
 "Alas, poor Sir Kaylan has perished! At least the good people of Blackwater "
 "Port are safe."
-msgstr "ああ、なんてことだ。Kaylan 卿が亡くなられてしまった！それでも、黒水港の良き人々の安全は確保できた。"
+msgstr "ああ、なんてことだ。Kaylan 卿が亡くなられてしまった！それでも、黒水港の善良な人々の安全は確保できた。"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:441
@@ -7147,7 +7148,7 @@ msgstr "反乱軍"
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:262
 msgid "Uncle Kaylan, we’re here! Are you alright? What can I do to help?"
-msgstr "Kaylan 叔父さん、我々も来ました！ご無事ですか？どうすればお役に立てますか？"
+msgstr "Kaylan おじさん、我々も来ました！ご無事ですか？どうすればお役に立てますか？"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:267
@@ -7382,7 +7383,7 @@ msgid ""
 "pierced by Asheviere’s spears. It is thanks to his sacrifice that Blackwater"
 " Port still stands free."
 msgstr ""
-"叔父さん── Kaylan 卿は勇敢に戦い… そして Asheviere の槍に倒れました。Kaylan "
+"おじさん── Kaylan 卿は勇敢に戦い… そして Asheviere の槍に倒れました。Kaylan "
 "卿の犠牲があったからこそ、黒水港は今も自由を保つことができています……"
 
 #. [message]: speaker=Simyr
@@ -7481,7 +7482,7 @@ msgstr "正当なる後継者とこの港を守るという責務を果たせぬ
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:645
 msgid ""
 "Kaylan, no! Please, you have to get back up! You have to keep fighting!"
-msgstr "そんな、叔父さん！お願いだから立ち上がって！負けちゃダメだ！"
+msgstr "そんな、おじさん！お願いだから立ち上がって！負けちゃダメだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:652
