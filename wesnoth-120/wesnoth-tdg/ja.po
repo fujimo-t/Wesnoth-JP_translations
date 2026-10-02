@@ -3855,7 +3855,7 @@ msgstr ""
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:108
 msgid "My Liege, I fear you give insufficient weight to—"
-msgstr ""
+msgstr "陛下、それは些か軽んじすぎではないかと——"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:112
@@ -3863,6 +3863,8 @@ msgid ""
 "And “<i>Sceptre of the Wesfolk</i>” is the worst of it all... as if it’s my "
 "fault Haldric’s dwarves lost the accursed thing."
 msgstr ""
+"中でも「Wesfolk の笏」に至っては最悪だ・・・まるでわしのせいであるかのように放言しおって・・・あの呪物の喪失は Haldric "
+"時代のドワーフのせいであるというに。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:114
@@ -3872,6 +3874,8 @@ msgid ""
 "treasure-seekers and other such nonsense. What do you make of it all, "
 "brother?"
 msgstr ""
+"王妃までもが踊らされおって！ Delfador があの予言を我らに語って以来、Asheviere "
+"から聞かされるのは下らん噂話ばかりだ・・・やれ貴族がどうしただの、遠征隊やら盗掘屋どもがどうしただの、実に下らん。そなたはどう思う？我が弟よ。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:118
@@ -3879,6 +3883,7 @@ msgid ""
 "The Sceptre of Fire may have gone missing years ago, but it is still well-"
 "known as Wesnoth’s symbol of kingship, among lords and common-folk alike."
 msgstr ""
+"「炎の笏」は長きに渡り行方知れずとなってはおりますが、貴族から平民に至るまで、今なお Wesnoth の王権の象徴として広く知られております。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:120
@@ -3887,6 +3892,7 @@ msgid ""
 "and a noble actually manages to find and retrieve the Sceptre, well, such a "
 "misfortune could put your claim to the throne in serious jeopardy."
 msgstr ""
+"我が密偵たちは「笏捜し」をする者の情報は何も掴んでおりませぬが、仮にそれが事実であり、どこかの貴族が実際に「笏」を見つけ出して手中に収めるようなことにでもなれば・・・左様な事態が生ずれば、兄上の王位の正統性が深刻な危機に晒されぬとも限りませぬでしょうな。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:124

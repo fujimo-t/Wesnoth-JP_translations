@@ -1341,7 +1341,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1181
 msgid "Konrad can now recruit Poachers!"
-msgstr "Konrad は密猟者を雇用できるようになりました！"
+msgstr "Konrad は「密猟者」を雇用できるようになりました！"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1188
@@ -1692,7 +1692,7 @@ msgid ""
 "it to pay fer his wars, an’ his bride Asheviere took the rest. Now we’ve got"
 " nothin’ but empty mines an’ dusty vaults."
 msgstr ""
-"昔は金と花崗岩のおかげでこの丘陵も景気が良かったんだがな。Garard 王が戦争のためにほとんどを持っていって、残りはお后の Asheviere "
+"昔は金と花崗岩のおかげでこの丘陵も景気が良かったんだがな。Garard 王が戦争のためにほとんどを持っていって、残りは嫁の Asheviere "
 "が持っていっちまった。ここに残っているのは空っぽの鉱山とホコリまみれの地下室だけさ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
@@ -1814,12 +1814,12 @@ msgstr "Merle の村を買う（全ての貯金を失い、悪漢を雇用可能
 msgid ""
 "Alright, then, we’re with you. Whether this works out for us or not, at "
 "least it’s better than sittin’ around this old town waiting to rot."
-msgstr "良しわかった。ついていくぜ。これが吉と出るか凶と出るかはわからんが、この古い町でただ朽ち果てていくよりはずっとマシだろう。"
+msgstr "よしわかった。ついていくぜ。これが吉と出るか凶と出るかはわからんが、この古い町でただ朽ち果てていくよりはずっとマシだろう。"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:258
 msgid "Konrad can now recruit Ruffians!"
-msgstr "Konrad は悪漢を雇用できるようになりました！"
+msgstr "Konrad は「悪漢」を雇用できるようになりました！"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:265
@@ -1956,7 +1956,7 @@ msgstr "恐れることはありませんよ、Gwatharry。Kaelor 修道士が�
 msgid ""
 "And may he return soon. The sacred seal continues to weaken, and undead are "
 "starting to slip through..."
-msgstr "そして彼が早く戻ってきますように。神聖なる封印は弱まりつづけていて、アンデッドが現れ始めています…"
+msgstr "そして彼が早く戻ってきますように。神聖なる封印は弱まり続けていて、アンデッドが現れ始めています…"
 
 #. [message]: speaker=Gwatharry
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:525
@@ -1985,7 +1985,7 @@ msgstr "見知らぬ人たち… あなたは Moremirmu 修道士ですか？修
 msgid ""
 "Are you the help we have been waiting for, stranger? Your aid would be most "
 "welcome."
-msgstr "見知らぬ人、あなたがたが私達の待ち望んだ助けなのでしょうか？どうかそのお力をお貸しいただけないでしょうか。"
+msgstr "見知らぬ人、あなた方が私達の待ち望んだ助けなのでしょうか？どうかそのお力をお貸しいただけないでしょうか。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:562
@@ -2039,7 +2039,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:659
 msgid ""
 "Hey, wait! You’re a Shadow Mage! One o’ Helicrom’s. Wait — it’s me, Harper!"
-msgstr "おい、待てって！お前は影の魔術師だろ？！Helicrom のところの。だから待てって ── アタシだ、Harper だ！"
+msgstr "おい、待てって！アンタは影の魔術師だろ？！Helicrom のところの。だから待てって ── アタシだ、Harper だ！"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:663
@@ -2134,7 +2134,7 @@ msgstr "取引成立ですね。ご協力に感謝します ── この剣に�
 #. [else]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:748
 msgid "Konrad can now recruit Rogue Mages!"
-msgstr "Konrad はならず者魔術師を雇用できるようになりました！"
+msgstr "Konrad は「ならず者魔術師」を雇用できるようになりました！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:760
@@ -2172,8 +2172,8 @@ msgid ""
 "Hello, “cousin” — if you really are Konrad and not an imposter. I am Li’sar,"
 " princess of Wesnoth and my mother’s most able commander."
 msgstr ""
-"こんにちは、「いとこ」さん ── もっとも、あなたが偽者ではなくて、本物の Konrad ならば、だけど。私は Li’sar、Wesnoth "
-"の王女で、母にとって最も有能な指揮官でもあるわ。"
+"こんにちは、我が「いとこ」 ── もっとも、あなたが偽者ではなくて、本物の Konrad ならば、だけれど。私は Li’sar、Wesnoth "
+"の王女で、母にとって最も信頼できる指揮官でもある。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:810
@@ -2199,14 +2199,14 @@ msgstr "Li’sar 王女が囚人達と共にここにいたが、もうどこか
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:854
 msgid "You may have bested me today Konrad, but this isn’t over."
-msgstr "今日は負けたけど、これで終わりじゃないわ……"
+msgstr "今日は負けたが、これで終わりではない……"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:868
 msgid ""
 "Thank ye again for freein’ me! If I ever get my hands on that cowardly, "
 "sniveling, sissy, waste-o-space princess..."
-msgstr "ワシを助けてくれて感謝するぞ！あの王女、弱虫で泣き虫で 惰弱なロクでなしはいつか捕まえて…"
+msgstr "俺を助けてくれて感謝するぞ！あの王女、弱虫で泣き虫で惰弱なロクでなしは、いつか捕まえて…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:880
@@ -2218,7 +2218,7 @@ msgstr "Tath"
 msgid ""
 "Konrad, you’ll remember I told you my family lives in Tath? Well, they’re "
 "quite well off, financially speaking."
-msgstr "Konrad、私の家族が Tath に住んでいると言ったことを覚えておられますか？私の家族は経済的に裕福な方なのです。"
+msgstr "Konrad、私の家族が Tath に住んでいると言ったことを覚えておられますか？私の家族は経済的に裕福なのです。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:925
@@ -2338,7 +2338,7 @@ msgid ""
 " we’ve helped Maddock repel her attack, they’ve begun transporting soldiers "
 "and weapons from the front back towards Dan’Tonk."
 msgstr ""
-"Asheviere にとっては Elensefar 攻略のための足場でもある。私達が Maddock "
+"Asheviere にとっては Elensefar 攻略のための足場でもあった。私達が Maddock "
 "を助け、女王の攻撃が失敗したため、女王の軍は兵や武器を前線からこの Dan’Tonk まで下げようとしている。"
 
 #. [message]: speaker=Konrad
@@ -2348,8 +2348,8 @@ msgid ""
 " she’s taken the city, they’ve begun transporting soldiers and weapons from "
 "the front back towards Dan’Tonk."
 msgstr ""
-"Asheviere にとっては Elensefar 攻略のための足場でもある。Elensefar の制圧は完了したため、女王の軍は兵や武器を前線からこの"
-" Dan’Tonk まで下げようとしている。"
+"Asheviere にとっては Elensefar 攻略のための足場でもあった。Elensefar "
+"の制圧は完了したため、女王の軍は兵や武器を前線からこの Dan’Tonk まで下げようとしている。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1109
@@ -2390,7 +2390,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1139
 msgid "Konrad can now recruit Fencers, Spearmen, and Bowmen!"
-msgstr "Konrad は剣術士、槍兵、弓兵を雇用できるようになりました！"
+msgstr "Konrad は「剣術士」、「槍兵」、「弓兵」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1145
@@ -2405,7 +2405,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1147
 msgid "Konrad can now recruit Spearmen and Fencers!"
-msgstr "Konrad は槍兵と剣術士を雇用できるようになりました！"
+msgstr "Konrad は「槍兵」と「剣術士」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1153
@@ -2421,7 +2421,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1155
 msgid "Konrad can now recruit Fencers!"
-msgstr "Konrad は剣術士を雇用できるようになりました！"
+msgstr "Konrad は「剣術士」を雇用できるようになりました！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1161
@@ -2451,12 +2451,12 @@ msgstr "Abez の浅瀬"
 msgid ""
 "Crossin’ through Stoneskin ford? Dat’ll be $bm_ford_cost gold for passage, "
 "whelp."
-msgstr "石皮の浅瀬を渡るか？なら通行料 $bm_ford_cost ゴールド払え、若造。"
+msgstr "石皮浅瀬渡るか？通行料 $bm_ford_cost ゴールド払え、子供。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1216
 msgid "You know da deal, softskin. Pay up."
-msgstr "お前取引知ってるな、柔皮。払え。"
+msgstr "お前取引知ってる、柔皮。払え。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1220
@@ -2468,7 +2468,7 @@ msgstr "何だって！？もう支払ったじゃないか！"
 msgid ""
 "Fee works every time, both ways. Das why Dosh be givin’ you the membership "
 "discount, see? Only $bm_ford_cost gold for repeat customers."
-msgstr "通行料毎回。片道あたり。でも Dosh はメンバーシップ割引を提供する？常連客はたった $bm_ford_cost ゴールド。"
+msgstr "通行料毎回。片道あたり。でも Dosh メンバーシップ割引提供。常連客たった $bm_ford_cost ゴールド。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1238
@@ -2478,7 +2478,7 @@ msgstr "支払う（$bm_ford_cost ゴールド）"
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1246
 msgid "You don’t got ’nuff gold, softskin. Come back later."
-msgstr "柔皮、お前金足りない。出直せ。"
+msgstr "柔皮、金足りない。出直せ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1259
@@ -2492,7 +2492,7 @@ msgstr "これは実質的に強盗だが、戦っている暇はない。金は
 msgid ""
 "Wow. Two-hunnerd fifty gold... you make me richest troll who ever lived! "
 "Konrad good troll-friend."
-msgstr "おお。250 ゴールド… お前俺を一番リッチなトロルにした！Konrad トロルの良いトモダチ。"
+msgstr "おお。250 ゴールド… お前おかげ Dosh 一番金持ちトロル！Konrad トロル友達。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1279
@@ -2500,32 +2500,31 @@ msgid ""
 "Now that Dosh so rich, no point runnin’ ford toll no more. Might as well "
 "join Konrad, help you out with throne. We done ’nuff time making friends. "
 "Now’s time for smashing bad guys."
-msgstr ""
-"Dosh リッチなったから通行料取らなくていい。Konrad の仲間なる。王位取るの助ける。トモダチなるのに十分時間使った。これからは悪い奴殴る。"
+msgstr "Dosh すごくリッチ、もう通行料取らない。Konrad 仲間なる。王位取る助ける。トモダチなる十分。Dosh 悪い奴殴る。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1294
 msgid "You okay in da head, softskin? Das one-hunnerd gold you done paid me."
-msgstr "柔皮、お前頭大丈夫か？お前俺に 100 ゴールド払ってる。"
+msgstr "柔皮、お前頭大丈夫か？お前 Dosh 100 ゴールド払った。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1296
 msgid ""
 "Maybe Dosh otta be charging more... fifty gold next time. Only a real troll-"
 "friend would keep paying."
-msgstr "Dosh もっと高く請求すべき… 次 50 ゴールド。本物のトロルのトモダチだけ支払い続ける。"
+msgstr "Dosh もっと高く請求する… 次 50 ゴールド。本物トロル友達支払い続ける。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1303
 msgid ""
 "You payin’ Dosh a lot o’ coins, Konrad. My retirement fund got seventy gold "
 "in it now!"
-msgstr "Konrad、お前 Dosh にたくさんコイン払った。俺の退職金は今 70 ゴールドもある！"
+msgstr "Konrad、お前 Dosh たくさんコインくれた。Dosh 退職金、今 70 ゴールド！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1309
 msgid "You a good customer, softskin. Das forty gold you done paid me so far."
-msgstr "柔皮、お前良い客。もう合計 40 ゴールドも払った。"
+msgstr "柔皮、お前良い客。合計 40 ゴールド払った。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1315
@@ -2552,7 +2551,7 @@ msgstr "一度払うのもうんざりだったが… ゴールドは返して�
 msgid ""
 "Dosh glad Konrad and he didn’t have to fight. Fighting with Konrad much "
 "better than fighting against him!"
-msgstr "Dosh、Konrad と戦わない嬉しい。Konrad 一緒戦う、Konrad と戦うよりずっといい。"
+msgstr "Dosh、Konrad 戦わない嬉しい。Konrad 一緒戦う、Konrad 戦うよりずっといい。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1379
@@ -2704,7 +2703,7 @@ msgstr "何をしに来た？取引か？あいにく、Jotha のところには
 msgid ""
 "Is this your home, strange merman? The bay is warm, but fishing alone so far"
 " north must make for a lonely life."
-msgstr "変わったマーマンの方、ここはあなたの家ですか？この湾は温かいですが、こんな北の果てで一人で釣りをして暮らすのは寂しいでしょう。"
+msgstr "変わったマーマンの方、ここはあなたの家ですか？この湾は暖かいですが、こんな北の果てで一人で釣りをして暮らすのは寂しいでしょう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:266
@@ -2831,7 +2830,7 @@ msgid ""
 "middle of winter. We should speak to this woman and see if she needs any "
 "help."
 msgstr ""
-"北の大地は一人で歩くには危険過ぎる場所だ。こんなひどい吹雪の真ん中では特に。<b>ましてや、真冬となれば論外だ。</b>何か手助けできることはないか、女性に話しかけるべきだろう。"
+"北の大地は一人で歩くには危険過ぎる場所だ。こんなひどい吹雪の真ん中では特に。<b>ましてや、真冬ともなれば論外だ。</b>何か手助けできることはないか、女性に話しかけるべきだろう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:421
@@ -2907,7 +2906,7 @@ msgstr "親しい友人"
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:562
 msgid "Great-grandfather?! What is the meaning of this?"
-msgstr "偉大なお祖父様？！これはどういうこと？"
+msgstr "曾祖父様？！これはどういうこと？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:566
@@ -2983,7 +2982,7 @@ msgstr ""
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:629
 msgid "Konrad can now recruit Elvish Shamans!"
-msgstr "Konrad はエルフの呪術師を雇用できるようになりました！"
+msgstr "Konrad は「エルフの呪術師」を雇用できるようになりました！"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:633
@@ -3067,7 +3066,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:775
 msgid "50 gold; physical training: <b>Konrad gains +1MP</b>"
-msgstr "50 ゴールドで物理トレーニング：<b>Konrad の移動力 +1</b>"
+msgstr "50 ゴールドで体力トレーニング：<b>Konrad の移動力 +1</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:778
@@ -3124,7 +3123,7 @@ msgid ""
 "slaughter. My father an’ his father alike perished defendin’ th’ West Gate, "
 "an’ soon after fell the Doors, an’ our King Thunedain with them."
 msgstr ""
-"おう… そいつは破滅と偉業、炎と血と殺戮の時だった。ワシの父もその父も西門を守って死んだ。それからすぐに戸口は陥落し、ワシらの王 Thunedain "
+"おう… そいつは破滅と偉業、炎と血と殺戮の時だった。俺の父もその父も西門を守って死んだ。それからすぐに戸口は陥落し、俺たちの王 Thunedain "
 "もまた倒れた。"
 
 #. [message]: speaker=Ulfdain
@@ -3135,7 +3134,7 @@ msgid ""
 "once-proud people. Or betrayin’ their kin to start anew in human lands, like"
 " me..."
 msgstr ""
-"あの数年でワシらの魂は殆ど失われた。以来、ドワーフは衰退の一途、トンネルですすり泣くことしかできず、嘗ての誇り高い種族も今や瀕死の抜け殻だ。あるいはそんな同胞を見捨てて人間の国で出直そうとする裏切り者となるか。そう、ワシのように…"
+"あの数年で俺たちの魂は殆ど失われた。以来、ドワーフは衰退の一途、トンネルですすり泣くことしかできず、嘗ての誇り高い種族も今や瀕死の抜け殻だ。あるいはそんな同胞を見捨てて人間の国で出直そうとする裏切り者となるか。そう、俺のように…"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:849
@@ -3153,7 +3152,7 @@ msgid ""
 "besides. No, there ain’t no use cryin’ over it. Ah’ve given up hope; it’s "
 "only death in battle tha’ I wish fer now..."
 msgstr ""
-"北のオークを全て撃退することは能わぬであろう、ましてやトロルやアンデッドも居るのだ。泣いても仕方ない。希望はもう無いのだ。ワシは戦いの中で死ねれば良い、それだけだ…"
+"北のオークを全て撃退することは能わぬであろう、ましてやトロルやアンデッドも居るのだ。泣いても仕方ない。希望はもう無いのだ。俺は戦いの中で死ねれば良い、それだけだ…"
 
 #. [message]: speaker={KONRAD_OR_NOBODY}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:868
@@ -3178,7 +3177,7 @@ msgid ""
 "people in decline, sniveling in our tunnels, th’ dyin’ dregs of a once-proud"
 " people..."
 msgstr ""
-"オークとトロルとアンデッドをまとめて駆逐できるってんなら話は別だが、それができないんだったらできることは無い。ワシらドワーフは衰退し、トンネルですすり泣き、嘗ては誇り高き種族であっても今や瀕死の抜け殻に過ぎない…"
+"オークとトロルとアンデッドをまとめて駆逐できるってんなら話は別だが、それができないんだったらできることは無い。ワシらドワーフは衰退し、トンネルですすり泣くばかり。嘗ては誇り高き種族であっても今や瀕死の抜け殻に過ぎない…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:921
@@ -3369,7 +3368,7 @@ msgstr "人間？友たる戸口が陥落して後、久しく見ておらなん
 msgid ""
 "Let us in, ye chicken-hearted cad! Cannae a dwarf return to ’is home without"
 " bein’ set upon like some horde o’ trolls?"
-msgstr "さっさとワシらを中に入れい！鶏が如き臆病者めが！トロルなぞここに来るまでに飽きるほど戦ったわ！"
+msgstr "さっさと俺達を中に入れろ！ニワトリが如き臆病者めが！トロルなぞここに来るまでに飽きるほど戦ったわ！"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1249
@@ -3377,7 +3376,7 @@ msgstr "さっさとワシらを中に入れい！鶏が如き臆病者めが！
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1302
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1330
 msgid "I dunno..."
-msgstr "それが…"
+msgstr "それが何だと…"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1254
@@ -3458,7 +3457,7 @@ msgid ""
 "instead. I help with a problem someone is having, and then they send some "
 "spare fighters to join my army. Can you and I arrange anything like that?"
 msgstr ""
-"正直なところ、いつもは先に先に<b>私が</b>何かを求められていたのでちょっと驚いています。そうですね、私が何かお手伝いをするかわりに、予備戦力の一部を我が軍に参加させてもらいたいと願っています。あなたと私で何かそのような感じでできることはありませんか？"
+"正直なところ、いつもは先に先に<b>私が</b>何かを求められていたのでちょっと驚いています。そうですね、私が何かお手伝いをするかわりに、予備戦力の一部を我が軍に参加させてもらいたいと願っています。あなたと私の間で何かそのような感じでできることはありませんか？"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1374
@@ -3469,7 +3468,7 @@ msgid ""
 "ye?"
 msgstr ""
 "予備戦力？ハッ！Durrasil "
-"がトロルに襲われて以来、かような冗談は聞いたことがなかったぞ！腐れ砕けたワシらの帝国の残骸を歩いてここまで来て、斧手が余っているかと聞くか？その糞度胸は褒めて欲しいか？"
+"がトロルに襲われて以来、かような冗談は聞いたことがなかったぞ！腐れ砕けたワシらの帝国の残骸を歩いてここまで来て、斧手が余っているかと聞くか？その糞度胸を褒めて欲しいか？"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1378
@@ -3548,7 +3547,7 @@ msgstr "お主は礼はいらんと言ったが、それではワシらの気持
 msgid ""
 "Konrad can now recruit Dwarvish Steelclads, Stalwarts, Thunderguards, and "
 "Berserkers!"
-msgstr "Konrad はドワーフの装甲歩兵、守備兵、雷撃衛兵、狂戦士を雇用できるようになりました！"
+msgstr "Konrad はドワーフの「装甲歩兵」、「守備兵」、「雷撃衛兵」、「熟練狂戦士」を雇用できるようになりました！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1494
 msgid ""
@@ -10743,7 +10742,7 @@ msgid ""
 "The hills to the north — now the home of my order — were once a wholly "
 "accursed place, blighted by necromancy and consumed by darkness."
 msgstr ""
-"北にある丘── 今は我々の組織の本拠地となっているが、ここはかつて完全に呪われた土地であった。降霊術によって汚され、闇に飲み込まれてしまっていたのだ。"
+"北にある丘── 今は我々の修道会の本拠地となっているが、ここはかつて完全に呪われた土地であった。降霊術によって汚され、闇に飲み込まれてしまっていたのだ。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:353
@@ -10762,14 +10761,14 @@ msgid ""
 "Men and women of our order, servants of the light, have made it our mission "
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
-msgstr "組織の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としている。そこに修道院を建てて闇が決して逃げないようにしたのだ。"
+msgstr "修道会の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としている。そこに修道院を建てて闇が決して逃げないようにしたのだ。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:361
 msgid ""
 "But it has been decades since the Crown sent to us men or supplies, and the "
 "power of our order has waned. Now the seals are beginning to fail..."
-msgstr "しかし、この数十年、王家は人員も物資も送ってくれていない。組織の力も衰え、ついには封印が綻び始めてしまっている…"
+msgstr "しかし、この数十年、王家は人員も物資も送ってくれていない。修道会の力も衰え、ついには封印が綻び始めてしまっている…"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:376
@@ -10896,7 +10895,7 @@ msgstr "Konrad、見よ、ここが我らの本拠地だ！やっと戻ってこ
 msgid ""
 "Lo and behold, Konrad! Fate has brought us to my home; the monastery of my "
 "order."
-msgstr "Konrad、見よ！運命がこの我らが本拠地へと導いた。ここが我が組織の修道院だ。"
+msgstr "Konrad、見よ！運命がこの我らが本拠地へと導いた。ここが我が修道会の修道院だ。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:176
@@ -11134,14 +11133,14 @@ msgid ""
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
 msgstr ""
-"組織の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としています。ここに修道院を建てて、闇が決して逃げださないようにしていたのです。"
+"修道会の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としています。ここに修道院を建てて、闇が決して逃げださないようにしていたのです。"
 
 #. [message]: speaker=Vinrar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:445
 msgid ""
 "But it’s been decades since the Crown last sent to us men or supplies, and "
 "the power of our order has waned. And now even the seal has fallen..."
-msgstr "しかし、この数十年、王家は人員も物資も送ってくれていません。組織の力も衰え、ついには封印が破れてしまいました…"
+msgstr "しかし、この数十年、王家は人員も物資も送ってくれていません。修道会の力も衰え、ついには封印が破れてしまいました…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:457
@@ -16822,7 +16821,7 @@ msgstr ""
 msgid ""
 "—no, that can’t be right. You and your order are doing important work; it "
 "should be the crown’s responsibility to keep you provisioned."
-msgstr "──違う。そんなわけがない。お前と組織の者達は重要な仕事をしていた。必要な支援を提供することは王家の義務だ。"
+msgstr "──違う。そんなわけがない。お前と修道会の者達は重要な仕事をしていた。必要な支援を提供することは王家の義務だ。"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
 #. SPEAKER=Moremirmu, SPEAKER=Kalenz
@@ -19987,7 +19986,7 @@ msgid ""
 "and laid to rest among the other heroes of his order."
 msgstr ""
 "Moremirmu "
-"はその後の日々を放浪の戦士として過ごし、各地に光と希望をもたらし、そしてついに倒れました。彼は名誉をもって埋葬され、他の組織の英雄達と共に眠りにつくことになりました。"
+"はその後の日々を放浪の戦士として過ごし、各地に光と希望をもたらし、そしてついに倒れました。彼は名誉をもって埋葬され、他の修道会の英雄達と共に眠りにつくことになりました。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2017
