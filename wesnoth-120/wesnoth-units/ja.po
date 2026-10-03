@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-23 23:10 UTC\n"
+"POT-Creation-Date: 2026-09-21 00:25 UTC\n"
 "PO-Revision-Date: 2026-03-28 19:10+0000\n"
 "Last-Translator: RatArmy, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
@@ -45,7 +45,9 @@ msgstr "メイス"
 #: data/core/units/dunefolk/Falconer.cfg:138
 #: data/core/units/dunefolk/Sky_Hunter.cfg:136
 #: data/core/units/humans/Loyalist_Bowman.cfg:23
-#: data/core/units/orcs/Crossbowman.cfg:32 data/core/units/orcs/Slurbow.cfg:34
+#: data/core/units/orcs/Crossbowman.cfg:32 data/core/units/orcs/Slurbow.cfg:32
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:26
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:45
 msgid "short sword"
 msgstr "短剣"
 
@@ -75,8 +77,12 @@ msgstr "冷気の嵐"
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:47
 #: data/core/units/undead/Necro_Dark_Adept.cfg:39
 #: data/core/units/undead/Necro_Dark_Sorcerer.cfg:67
-#: data/core/units/undead/Necro_Lich.cfg:50
+#: data/core/units/undead/Necro_Lich.cfg:49
 #: data/core/units/undead/Necromancer.cfg:49
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:59
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:35
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:66
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:63
 msgid "shadow wave"
 msgstr "影の波動"
 
@@ -94,7 +100,7 @@ msgstr "影の波動"
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shyde.cfg:32
 #: data/core/units/elves/Druid.cfg:24 data/core/units/elves/Enchantress.cfg:26
 #: data/core/units/elves/Shaman.cfg:31 data/core/units/elves/Sorceress.cfg:26
-#: data/core/units/humans/Mage.cfg:28 data/core/units/humans/Mage_Arch.cfg:38
+#: data/core/units/humans/Mage.cfg:27 data/core/units/humans/Mage_Arch.cfg:38
 #: data/core/units/humans/Mage_Elder.cfg:26
 #: data/core/units/humans/Mage_Great.cfg:33
 #: data/core/units/humans/Mage_Red.cfg:31
@@ -124,7 +130,7 @@ msgstr "杖"
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Scout.cfg:39
 #: data/core/units/dunefolk/Skirmisher.cfg:40
 #: data/core/units/humans/Outlaw.cfg:31
-#: data/core/units/humans/Outlaw_Footpad.cfg:33
+#: data/core/units/humans/Outlaw_Footpad.cfg:32
 #: data/core/units/humans/Outlaw_Fugitive.cfg:34
 #: data/core/units/trolls/Rocklobber.cfg:33
 msgid "sling"
@@ -149,7 +155,7 @@ msgstr "スリング"
 #: data/core/units/bats/Bat_Blood.cfg:117
 #: data/core/units/bats/Bat_Dread.cfg:32
 #: data/core/units/bats/Bat_Vampire.cfg:116
-#: data/core/units/goblins/Direwolf_Rider.cfg:32
+#: data/core/units/goblins/Direwolf_Rider.cfg:39
 #: data/core/units/goblins/Knight.cfg:34
 #: data/core/units/goblins/Pillager.cfg:59
 #: data/core/units/goblins/Wolf_Rider.cfg:46
@@ -170,7 +176,7 @@ msgstr "スリング"
 #: data/core/units/monsters/Shadow_Jumping_Spider.cfg:85
 #: data/core/units/monsters/Water_Serpent.cfg:42
 #: data/core/units/monsters/Wolf.cfg:48
-#: data/core/units/monsters/Wolf_Dire.cfg:33
+#: data/core/units/monsters/Wolf_Dire.cfg:40
 #: data/core/units/monsters/Wolf_Great.cfg:33
 msgid "fangs"
 msgstr "牙"
@@ -237,22 +243,21 @@ msgstr "ランス"
 #: data/core/units/undead/Corpse_Soulless.cfg:115
 #: data/core/units/undead/Corpse_Walking.cfg:114
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:27
-#: data/core/units/undead/Necro_Lich.cfg:30
+#: data/core/units/undead/Necro_Lich.cfg:29
 #: data/core/units/undead/Spirit_Ghost.cfg:57
 msgid "touch"
 msgstr "接触"
 
 #. [attack]: type=impact
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Twilight_Mage.cfg:73
-#: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Witness.cfg:28
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Tutorial_Quintain.cfg:25
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:33
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:35
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:29
 #: data/campaigns/The_South_Guard/units/MECH_Quintain.cfg:25
 #: data/core/units/humans/Loyalist_Iron_Mauler.cfg:26
 #: data/core/units/humans/Loyalist_Shock_Trooper.cfg:23
 #: data/core/units/humans/Mage_of_Light.cfg:46
+#: data/internal/Dwarvish_Witness/units/Dwarvish_Annalist.cfg:33
+#: data/internal/Dwarvish_Witness/units/Dwarvish_Loremaster.cfg:34
+#: data/internal/Dwarvish_Witness/units/Dwarvish_Witness.cfg:29
 msgid "flail"
 msgstr "フレイル"
 
@@ -271,11 +276,10 @@ msgstr "フレイル"
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:25
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L2.cfg:51
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:53
-#: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:53
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:35
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:93
-#: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:35
-#: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:132
+#: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:34
+#: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:131
 #: data/campaigns/Heir_To_The_Throne/units/Orcish_Sea_Orc.cfg:38
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:57
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Battle_Princess.cfg:34
@@ -290,7 +294,7 @@ msgstr "フレイル"
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Tutorial_Fighteress.cfg:25
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Tutorial_Warrior.cfg:25
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Tutorial_Warrioress.cfg:26
-#: data/campaigns/Of_Pearls_and_Pirates/units/Thea2.cfg:24
+#: data/campaigns/Of_Pearls_and_Pirates/units/Thea2.cfg:23
 #: data/campaigns/Of_Pearls_and_Pirates/units/Thea3.cfg:24
 #: data/campaigns/Sceptre_of_Fire/units/Haldric_II.cfg:26
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Noble_Commander.cfg:34
@@ -323,12 +327,12 @@ msgstr "フレイル"
 #: data/core/units/humans/Loyalist_Cavalryman.cfg:58
 #: data/core/units/humans/Loyalist_Dragoon.cfg:54
 #: data/core/units/humans/Loyalist_Lieutenant.cfg:25
-#: data/core/units/humans/Loyalist_Longbowman.cfg:25
+#: data/core/units/humans/Loyalist_Longbowman.cfg:24
 #: data/core/units/humans/Loyalist_Master_Bowman.cfg:25
 #: data/core/units/humans/Loyalist_Sergeant.cfg:25
 #: data/core/units/humans/Loyalist_Swordsman.cfg:29
 #: data/core/units/humans/Woodsman_Ranger.cfg:49
-#: data/core/units/nagas/Fighter.cfg:30 data/core/units/nagas/Myrmidon.cfg:29
+#: data/core/units/nagas/Fighter.cfg:30 data/core/units/nagas/Myrmidon.cfg:28
 #: data/core/units/nagas/Warrior.cfg:27 data/core/units/orcs/Grunt.cfg:88
 #: data/core/units/orcs/Leader.cfg:25
 msgid "sword"
@@ -353,15 +357,17 @@ msgstr "剣"
 #: data/core/units/humans/Loyalist_Sergeant.cfg:34
 #: data/core/units/orcs/Crossbowman.cfg:41
 #: data/core/units/orcs/Crossbowman.cfg:50 data/core/units/orcs/Leader.cfg:34
-#: data/core/units/orcs/Ruler.cfg:34 data/core/units/orcs/Slurbow.cfg:43
-#: data/core/units/orcs/Slurbow.cfg:52 data/core/units/orcs/Sovereign.cfg:35
+#: data/core/units/orcs/Ruler.cfg:34 data/core/units/orcs/Slurbow.cfg:41
+#: data/core/units/orcs/Slurbow.cfg:50 data/core/units/orcs/Sovereign.cfg:35
 #: data/core/units/undead/Skele_Death_Knight.cfg:39
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:50
 msgid "crossbow"
 msgstr "クロスボウ"
 
 #. [attack]: type=blade
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Commander.cfg:46
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Lieutenant.cfg:44
+#: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:53
 #: data/campaigns/Heir_To_The_Throne/units/Human_Maddock.cfg:56
 #: data/campaigns/Liberty/units/Maddock.cfg:51
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Mirror.cfg:30
@@ -420,7 +426,7 @@ msgstr "踏みつけ"
 #: data/campaigns/Secrets_of_the_Ancients/units/Necro_Ancient_Lich.cfg:44
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:99
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:37
-#: data/core/units/undead/Necro_Lich.cfg:40
+#: data/core/units/undead/Necro_Lich.cfg:39
 msgid "chill tempest"
 msgstr "冷気の大嵐"
 
@@ -428,7 +434,7 @@ msgstr "冷気の大嵐"
 #. [attack]: type=fire
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L2.cfg:60
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:62
-#: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:62
+#: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:65
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Commander.cfg:33
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Lord.cfg:34
 #: data/campaigns/Of_Pearls_and_Pirates/units/Thea1.cfg:30
@@ -453,7 +459,7 @@ msgstr "冷気の大嵐"
 #: data/core/units/humans/Woodsman_Trapper.cfg:42
 #: data/core/units/orcs/Archer.cfg:33 data/core/units/orcs/Archer.cfg:42
 #: data/core/units/orcs/Warlord.cfg:39
-#: data/core/units/undead/Skele_Banebow.cfg:38
+#: data/core/units/undead/Skele_Banebow.cfg:37
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:36
 #: data/core/units/undead/Skeleton_Archer.cfg:44
 msgid "bow"
@@ -465,21 +471,21 @@ msgstr "弓"
 #. [attack]: type=pierce
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Gryphlet.cfg:29
-#: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:29
-#: data/campaigns/Heir_To_The_Throne_Classic/units/Sleeping_Gryphon.cfg:30
+#: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:28
+#: data/campaigns/Heir_To_The_Throne_Classic/units/Sleeping_Gryphon.cfg:29
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:160
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Soulless.cfg:132
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:60
 #: data/campaigns/The_Hammer_of_Thursagan/units/Sleeping_Gryphon.cfg:30
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Crab_Man.cfg:23
 #: data/core/units/drakes/Burner.cfg:29
-#: data/core/units/goblins/Direwolf_Rider.cfg:41
+#: data/core/units/goblins/Direwolf_Rider.cfg:48
 #: data/core/units/gryphons/Gryphon.cfg:28
 #: data/core/units/gryphons/Gryphon_Master.cfg:28
 #: data/core/units/gryphons/Gryphon_Rider.cfg:27
 #: data/core/units/monsters/Bear.cfg:51
 #: data/core/units/monsters/Cat_Forest.cfg:80
-#: data/core/units/monsters/Cat_Jump.cfg:78
+#: data/core/units/monsters/Cat_Jump.cfg:101
 #: data/core/units/monsters/Elder_Falcon.cfg:75
 #: data/core/units/monsters/Falcon.cfg:86
 #: data/core/units/monsters/Icemonax.cfg:53
@@ -487,7 +493,7 @@ msgstr "弓"
 #: data/core/units/monsters/Jinn.cfg:91
 #: data/core/units/monsters/Raven_Harbinger.cfg:83
 #: data/core/units/monsters/Roc.cfg:55
-#: data/core/units/monsters/Skeletal_Dragon.cfg:40
+#: data/core/units/monsters/Skeletal_Dragon.cfg:44
 #: data/core/units/undead/Corpse_Ghoul.cfg:37
 #: data/core/units/undead/Corpse_Necrophage.cfg:29
 #: data/core/units/undead/Corpse_Soulless.cfg:182
@@ -545,7 +551,7 @@ msgstr ""
 #: data/core/units/boats/Orc_Warship.cfg:24
 #: data/core/units/boats/Raider_Coastal.cfg:31
 #: data/core/units/boats/Raider_Iron.cfg:32 data/core/units/boats/Skiff.cfg:26
-#: data/core/units/drakes/Enforcer.cfg:44
+#: data/core/units/drakes/Enforcer.cfg:53
 #: data/core/units/drakes/Thrasher.cfg:41
 msgid "ram"
 msgstr "角"
@@ -614,8 +620,8 @@ msgstr "大弓兵"
 
 #. [unit_type]: id=Longbowman Thea, race=human, gender=female
 #. [unit_type]: id=Longbowman, race=human, gender=male
-#: data/campaigns/Of_Pearls_and_Pirates/units/Thea2.cfg:18
-#: data/core/units/humans/Loyalist_Longbowman.cfg:19
+#: data/campaigns/Of_Pearls_and_Pirates/units/Thea2.cfg:17
+#: data/core/units/humans/Loyalist_Longbowman.cfg:18
 msgid ""
 "Longbows are fearsome weapons, but too difficult for beginning archers to "
 "wield. It takes great strength to draw one, and the added range and power it"
@@ -628,11 +634,11 @@ msgstr ""
 "大弓は恐ろしい武器ですが、初心者が扱うにはあまりに難しい武器です。大弓を引くには相当な力が必要である上、この武器で良い狙いがつけられなければ、増加した射程範囲と力は役立たずになります。大弓兵は誇りの記章として自分の武器を携帯しており、多くの弓兵はこれを使えるようになる日を夢見ています。"
 
 #. [attack]: type=pierce
-#: data/campaigns/Of_Pearls_and_Pirates/units/Thea2.cfg:33
+#: data/campaigns/Of_Pearls_and_Pirates/units/Thea2.cfg:32
 #: data/campaigns/Of_Pearls_and_Pirates/units/Thea3.cfg:33
 #: data/core/units/elves/Marksman.cfg:38
 #: data/core/units/elves/Sharpshooter.cfg:33
-#: data/core/units/humans/Loyalist_Longbowman.cfg:34
+#: data/core/units/humans/Loyalist_Longbowman.cfg:33
 #: data/core/units/humans/Loyalist_Master_Bowman.cfg:34
 msgid "longbow"
 msgstr "大弓"
@@ -715,7 +721,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: data/campaigns/Secrets_of_the_Ancients/units/Delinquent.cfg:27
-#: data/core/units/humans/Outlaw_Footpad.cfg:24
+#: data/core/units/humans/Outlaw_Footpad.cfg:23
 #: data/core/units/humans/Outlaw_Ruffian.cfg:29
 #: data/core/units/humans/Outlaw_Thug.cfg:22
 #: data/core/units/merfolk/Entangler.cfg:26
@@ -761,7 +767,7 @@ msgstr "疫病の杖"
 #: data/core/units/monsters/Dragonfly.cfg:31
 #: data/core/units/monsters/Dragonfly_Grand.cfg:32
 #: data/core/units/monsters/Dragonfly_Naiad.cfg:62
-#: data/core/units/monsters/Fire_Dragon.cfg:53
+#: data/core/units/monsters/Fire_Dragon.cfg:62
 #: data/core/units/monsters/Frost_Stoat.cfg:92
 #: data/core/units/monsters/Giant_Rat.cfg:30
 #: data/core/units/monsters/Horned_Scarab.cfg:39
@@ -849,7 +855,7 @@ msgstr ""
 
 #. [unit_type]: id=Dwarvish Masked Berserker, race=dwarf
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:18
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:19
 #: data/core/units/dwarves/Berserker.cfg:18
 msgid ""
 "Berserkers are a rare caste of Dwarves, who work themselves into a towering "
@@ -860,10 +866,10 @@ msgstr ""
 "Berserker）はドワーフ族の中では珍しい階級で、彼らは戦闘の前に激しい激怒に身を浸します。狂戦士は防御というものを知らず、容赦のない攻撃に集中します。彼らの攻撃は伝説として残るほど激しいのです。"
 
 #. [attack]: type=blade
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:36
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:37
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Ulfserker.cfg:30
 #: data/core/units/dwarves/Berserker.cfg:43
-#: data/core/units/dwarves/Ulfserker.cfg:30
+#: data/core/units/dwarves/Ulfserker.cfg:29
 msgid "berserker frenzy"
 msgstr "狂戦"
 
@@ -886,13 +892,13 @@ msgstr ""
 #. [attack]: type=blade
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg:24
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:29
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:26
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:25
 #: data/core/units/dunefolk/Burner.cfg:33
 #: data/core/units/dunefolk/Firetrooper.cfg:87
 #: data/core/units/dunefolk/Scorcher.cfg:34
-#: data/core/units/dwarves/Dragonguard.cfg:38
+#: data/core/units/dwarves/Dragonguard.cfg:37
 #: data/core/units/dwarves/Thunderer.cfg:64
-#: data/core/units/dwarves/Thunderguard.cfg:39
+#: data/core/units/dwarves/Thunderguard.cfg:38
 #: data/core/units/humans/Outlaw_Assassin.cfg:25
 #: data/core/units/humans/Outlaw_Rogue.cfg:24
 #: data/core/units/humans/Outlaw_Thief.cfg:94
@@ -902,20 +908,20 @@ msgstr ""
 #: data/core/units/humans/Woodsman_Trapper.cfg:33
 #: data/core/units/nagas/Dirkfang.cfg:29 data/core/units/orcs/Archer.cfg:24
 #: data/core/units/orcs/Assassin.cfg:26 data/core/units/orcs/Slayer.cfg:34
-#: data/core/units/undead/Skele_Banebow.cfg:29
+#: data/core/units/undead/Skele_Banebow.cfg:28
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:27
 msgid "dagger"
 msgstr "ダガー"
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg:33
-#: data/core/units/dwarves/Dragonguard.cfg:47
+#: data/core/units/dwarves/Dragonguard.cfg:46
 msgid "dragonstaff"
 msgstr "竜の杖"
 
 #. [unit_type]: id=Dwarvish Masked Fighter, race=dwarf
 #. [unit_type]: id=Dwarvish Fighter, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:17
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:18
 #: data/core/units/dwarves/Fighter.cfg:17
 msgid ""
 "Dwarvish Fighters wield mighty battle axes and hammers, which make them "
@@ -927,7 +933,7 @@ msgstr ""
 "Fighter）は強固な戦斧とハンマーを装備しており、近接戦闘では敵に恐れられています。彼らは山岳や地下の地形に適応しています。その力と耐久力は比較的乏しい機動力を補って余りあるものです。"
 
 #. [attack]: type=blade
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:32
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:33
 #: data/core/units/dunefolk/Explorer.cfg:36
 #: data/core/units/dunefolk/Rover.cfg:88
 #: data/core/units/dunefolk/Wayfarer.cfg:44
@@ -940,22 +946,22 @@ msgstr ""
 #: data/core/units/undead/Skele_Death_Squire.cfg:48
 #: data/core/units/undead/Skele_Deathblade.cfg:51
 #: data/core/units/undead/Skele_Draug.cfg:28
-#: data/core/units/undead/Skele_Revenant.cfg:29
+#: data/core/units/undead/Skele_Revenant.cfg:28
 #: data/core/units/undead/Skeleton.cfg:47
 #: data/core/units/undead/Skeleton_Rider.cfg:85
 msgid "axe"
 msgstr "斧"
 
 #. [attack]: type=impact
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:40
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:37
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:41
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:38
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:37
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:42
-#: data/core/units/dwarves/Arcanister.cfg:29
+#: data/core/units/dwarves/Arcanister.cfg:28
 #: data/core/units/dwarves/Fighter.cfg:65 data/core/units/dwarves/Lord.cfg:57
-#: data/core/units/dwarves/Runemaster.cfg:29
-#: data/core/units/dwarves/Runesmith.cfg:28
-#: data/core/units/dwarves/Steelclad.cfg:57
+#: data/core/units/dwarves/Runemaster.cfg:28
+#: data/core/units/dwarves/Runesmith.cfg:27
+#: data/core/units/dwarves/Steelclad.cfg:56
 #: data/core/units/trolls/Great.cfg:24 data/core/units/trolls/Hero.cfg:24
 #: data/core/units/trolls/Warrior.cfg:36
 msgid "hammer"
@@ -980,7 +986,7 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Stalwart.cfg:32
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Fighter.cfg:29
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Fighter.cfg:45
-#: data/core/units/drakes/Clasher.cfg:34
+#: data/core/units/drakes/Clasher.cfg:33
 #: data/core/units/drakes/Thrasher.cfg:32
 #: data/core/units/dunefolk/Harrier.cfg:29
 #: data/core/units/dunefolk/Skirmisher.cfg:30
@@ -997,7 +1003,7 @@ msgstr ""
 #: data/core/units/goblins/Spearman.cfg:36
 #: data/core/units/humans/Horseman.cfg:23
 #: data/core/units/humans/Loyalist_Javelineer.cfg:30
-#: data/core/units/humans/Loyalist_Spearman.cfg:85
+#: data/core/units/humans/Loyalist_Spearman.cfg:84
 #: data/core/units/merfolk/Hoplite.cfg:33
 #: data/core/units/merfolk/Hunter.cfg:24 data/core/units/merfolk/Hunter.cfg:32
 #: data/core/units/merfolk/Javelineer.cfg:23
@@ -1032,21 +1038,21 @@ msgstr "槍"
 #: data/core/units/dwarves/Sentinel.cfg:45
 #: data/core/units/dwarves/Stalwart.cfg:40
 #: data/core/units/humans/Loyalist_Javelineer.cfg:39
-#: data/core/units/humans/Loyalist_Spearman.cfg:95
+#: data/core/units/humans/Loyalist_Spearman.cfg:94
 msgid "javelin"
 msgstr "投げ槍"
 
 #. [attack]: type=blade
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:28
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:29
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:28
 #: data/core/units/dwarves/Explorer.cfg:28 data/core/units/dwarves/Lord.cfg:48
-#: data/core/units/dwarves/Steelclad.cfg:48
+#: data/core/units/dwarves/Steelclad.cfg:47
 #: data/core/units/undead/Skele_Death_Knight.cfg:30
 msgid "battle axe"
 msgstr "戦斧"
 
 #. [attack]: type=blade
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:46
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:47
 #: data/core/units/dwarves/Lord.cfg:66
 msgid "hatchet"
 msgstr "手斧"
@@ -1091,14 +1097,14 @@ msgstr ""
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:38
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:35
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:34
 #: data/core/units/dwarves/Thunderer.cfg:73
-#: data/core/units/dwarves/Thunderguard.cfg:48
+#: data/core/units/dwarves/Thunderguard.cfg:47
 msgid "thunderstick"
 msgstr "雷撃棒"
 
 #. [unit_type]: id=Dwarvish Masked Thunderguard, race=dwarf
-#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:18
+#: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:17
 msgid ""
 "The Dwarven Thunderguards are famed for their curious weaponry, these strange staves of wood and iron that make a thunderous noise in their anger. The machinations behind this weaponry are a mystery, a secret taken to the grave by the dwarves of Knalga who wield them, and are assumed to have even forged them. The most that is known are reports of dwarves pouring a strange black dust into the mouth of their weapons, which some say is a food to fuel the beast imprisoned within.\n"
 "\n"
@@ -1113,7 +1119,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Masked Ulfserker, race=dwarf
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Ulfserker.cfg:18
-#: data/core/units/dwarves/Ulfserker.cfg:18
+#: data/core/units/dwarves/Ulfserker.cfg:17
 msgid ""
 "Dwarves are an ancient race of powerful fighters. Ulfserkers are the most "
 "ferocious of these; in battle, they will work themselves into a blind rage "
@@ -1127,7 +1133,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Rune Lord, race=dwarf
 #. [unit_type]: id=Dwarvish Runemaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:16
-#: data/core/units/dwarves/Runemaster.cfg:5
+#: data/core/units/dwarves/Runemaster.cfg:4
 msgid "Dwarvish Runemaster"
 msgstr "ドワーフのルーンマスター"
 
@@ -1136,7 +1142,7 @@ msgstr "ドワーフのルーンマスター"
 #. [unit_type]: id=Dwarvish Runemaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:37
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:89
-#: data/core/units/dwarves/Runemaster.cfg:24
+#: data/core/units/dwarves/Runemaster.cfg:23
 msgid ""
 "Except for those with almost supernatural skill, the highest rank a "
 "runecrafter can rise to is that of the Dwarvish Runemaster. Striking blows "
@@ -1191,7 +1197,7 @@ msgstr "シールドバッシュ"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
-#: data/campaigns/Under_the_Burning_Suns/units/monsters/Darawf.cfg:23
+#: data/campaigns/Under_the_Burning_Suns/units/monsters/Darawf.cfg:22
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Small_Mudcrawler.cfg:16
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Divine_Avatar.cfg:28
 #: data/core/units/merfolk/Brawler.cfg:22
@@ -1223,7 +1229,7 @@ msgstr "光線"
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Druid.cfg:53
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shaman.cfg:53
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shyde.cfg:56
-#: data/core/units/elves/Druid.cfg:43 data/core/units/elves/Shyde.cfg:48
+#: data/core/units/elves/Druid.cfg:43 data/core/units/elves/Shyde.cfg:46
 msgid "thorns"
 msgstr "刺の術"
 
@@ -1655,7 +1661,7 @@ msgid "Armageddon Drake"
 msgstr "アルマゲドンドレーク"
 
 #. [unit_type]: id=Armageddon Drake, race=drake, gender=male,female
-#: data/core/units/drakes/Armageddon.cfg:20
+#: data/core/units/drakes/Armageddon.cfg:19
 msgid ""
 "Were it not for the armor they wear, certain drakes might be "
 "indistinguishable from true dragons, at least to the lesser races for whom "
@@ -1667,21 +1673,21 @@ msgstr ""
 "彼らが着ている鎧がなければ、ある種のドレークは本物のドラゴンと区別がつかないかも知れません。少なくともドラゴンが伝説にすぎない他の劣った種族にとっては。「アルマゲドンドレーク」として知られている生き物は非常に大きいもので、炎に対して素晴らしい耐性をもち、また、強大な炎を操ります。"
 
 #. [attack]: type=blade
-#: data/core/units/drakes/Armageddon.cfg:37 data/core/units/drakes/Fire.cfg:30
-#: data/core/units/drakes/Inferno.cfg:32
+#: data/core/units/drakes/Armageddon.cfg:36 data/core/units/drakes/Fire.cfg:30
+#: data/core/units/drakes/Inferno.cfg:31
 msgid "battle claws"
 msgstr "格闘かぎ爪"
 
 #. [attack]: type=fire
-#: data/core/units/drakes/Armageddon.cfg:46
-#: data/core/units/drakes/Blademaster.cfg:37
+#: data/core/units/drakes/Armageddon.cfg:45
+#: data/core/units/drakes/Blademaster.cfg:36
 #: data/core/units/drakes/Burner.cfg:38 data/core/units/drakes/Fighter.cfg:34
 #: data/core/units/drakes/Fire.cfg:39 data/core/units/drakes/Flameheart.cfg:38
 #: data/core/units/drakes/Flare.cfg:37 data/core/units/drakes/Glider.cfg:39
 #: data/core/units/drakes/Hurricane.cfg:61
-#: data/core/units/drakes/Inferno.cfg:41 data/core/units/drakes/Sky.cfg:60
+#: data/core/units/drakes/Inferno.cfg:40 data/core/units/drakes/Sky.cfg:60
 #: data/core/units/drakes/Warrior.cfg:35
-#: data/core/units/monsters/Fire_Dragon.cfg:71
+#: data/core/units/monsters/Fire_Dragon.cfg:80
 #: data/core/units/monsters/Fire_Guardian.cfg:32
 #: data/core/units/monsters/Fire_Wisp.cfg:53
 #: data/core/units/monsters/Fire_Wraith.cfg:60
@@ -1689,7 +1695,7 @@ msgid "fire breath"
 msgstr "火炎のブレス"
 
 #. [female]: gender=female
-#: data/core/units/drakes/Armageddon.cfg:65
+#: data/core/units/drakes/Armageddon.cfg:64
 msgid "female^Armageddon Drake"
 msgstr "女アルマゲドンドレーク"
 
@@ -1699,7 +1705,7 @@ msgid "Drake Blademaster"
 msgstr "ドレークの熟練剣士"
 
 #. [unit_type]: id=Drake Blademaster, race=drake, gender=male,female
-#: data/core/units/drakes/Blademaster.cfg:20
+#: data/core/units/drakes/Blademaster.cfg:19
 msgid ""
 "Black armor marks the elite order of the Fighter caste: the Blademasters. "
 "Only a few manage to gain the skill and power necessary to be admitted to "
@@ -1713,15 +1719,15 @@ msgstr ""
 "黒い鎧は戦士階級の精鋭部隊である、熟練剣士の印です。戦いで死ぬことなく、この最高階級に認められるのに必要な技能と力を手に入れられる者は、ごくわずかしかいません。他のドレークは戦士階級を貶すとしても、周囲に誰もいないのをいつも二度確認します。熟練剣士は猛烈に彼らの仲間の名誉を守っており、彼らがそうする権利に疑いを挟もうとする者は誰もいないのです。"
 
 #. [attack]: type=blade
-#: data/core/units/drakes/Blademaster.cfg:28
-#: data/core/units/drakes/Clasher.cfg:25
+#: data/core/units/drakes/Blademaster.cfg:27
+#: data/core/units/drakes/Clasher.cfg:24
 #: data/core/units/drakes/Enforcer.cfg:35
 #: data/core/units/drakes/Thrasher.cfg:23
 msgid "war talon"
 msgstr "戦爪"
 
 #. [female]: gender=female
-#: data/core/units/drakes/Blademaster.cfg:61
+#: data/core/units/drakes/Blademaster.cfg:60
 msgid "female^Drake Blademaster"
 msgstr "ドレークの女熟練剣士"
 
@@ -1752,7 +1758,7 @@ msgid "Drake Clasher"
 msgstr "ドレークの粉砕者"
 
 #. [unit_type]: id=Drake Clasher, race=drake, gender=male,female
-#: data/core/units/drakes/Clasher.cfg:19
+#: data/core/units/drakes/Clasher.cfg:18
 msgid ""
 "The Clashers are members of a unique caste among the drakes. Their thick armor, while compensating for the drakes’ natural weakness against spears and arrows, is so heavy and restricting that they are not able to fly or muster enough breath to use their inner fire. They have embraced this handicap, completely encasing their wings to emphasize that they do not need flight to triumph in battle.\n"
 "\n"
@@ -1760,7 +1766,7 @@ msgid ""
 msgstr ""
 
 #. [female]: gender=female
-#: data/core/units/drakes/Clasher.cfg:109
+#: data/core/units/drakes/Clasher.cfg:108
 msgid "female^Drake Clasher"
 msgstr "ドレークの女粉砕者"
 
@@ -1784,9 +1790,9 @@ msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
-#: data/core/units/drakes/Enforcer.cfg:53
+#: data/core/units/drakes/Enforcer.cfg:44
 #: data/core/units/merfolk/Fighter.cfg:22
-#: data/core/units/merfolk/Triton.cfg:24 data/core/units/merfolk/Triton.cfg:33
+#: data/core/units/merfolk/Triton.cfg:23 data/core/units/merfolk/Triton.cfg:32
 #: data/core/units/merfolk/Warrior.cfg:22
 msgid "trident"
 msgstr "トライデント"
@@ -1950,7 +1956,7 @@ msgid "Inferno Drake"
 msgstr "インフェルノドレーク"
 
 #. [unit_type]: id=Inferno Drake, race=drake, gender=male,female
-#: data/core/units/drakes/Inferno.cfg:20
+#: data/core/units/drakes/Inferno.cfg:19
 msgid ""
 "Inferno Drakes are masters of the fire they breathe, respected and feared in"
 " their tribes nearly as much as the draconic ancestors themselves. They can "
@@ -1962,7 +1968,7 @@ msgstr ""
 "Drake）は彼らが吐く炎の熟練者であり、彼らの部族ではドラゴンの祖先と同等に近い敬意と恐怖を受けています。彼らは自分の作り出した炎の嵐の中を無傷でうろつけます。鱗は彼ら自身の内なる炎の過度な使用で赤く染まりました。彼らの赤い金の彫刻された鎧は、彼らが本当にドラゴンであるという錯覚を助長します。"
 
 #. [female]: gender=female
-#: data/core/units/drakes/Inferno.cfg:64
+#: data/core/units/drakes/Inferno.cfg:63
 msgid "female^Inferno Drake"
 msgstr "女インフェルノドレーク"
 
@@ -2762,7 +2768,7 @@ msgid "Dwarvish Arcanister"
 msgstr "ドワーフの秘儀術師"
 
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
-#: data/core/units/dwarves/Arcanister.cfg:24
+#: data/core/units/dwarves/Arcanister.cfg:23
 msgid ""
 "The most powerful of all the runecrafters, the Dwarvish Arcanister destroys "
 "wounded enemies almost instantly, and rarely fails to cause a wound when "
@@ -2783,7 +2789,7 @@ msgid "Dwarvish Dragonguard"
 msgstr "ドワーフのドラゴン衛兵"
 
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
-#: data/core/units/dwarves/Dragonguard.cfg:19
+#: data/core/units/dwarves/Dragonguard.cfg:18
 msgid ""
 "It is not clear why the Dragonguards are called what they are, a name given "
 "by their dwarven brethren. Some speculate that the name comes from their "
@@ -2886,7 +2892,7 @@ msgid "Dwarvish Runesmith"
 msgstr "ドワーフのルーンスミス"
 
 #. [unit_type]: id=Dwarvish Runesmith, race=dwarf
-#: data/core/units/dwarves/Runesmith.cfg:23
+#: data/core/units/dwarves/Runesmith.cfg:22
 msgid ""
 "Dwarvish Runesmiths, now practiced at their craft, carve arcane runes into "
 "their weapons and armor. These runes infuse the Runesmith’s blows with power"
@@ -2942,7 +2948,7 @@ msgid "Dwarvish Steelclad"
 msgstr "ドワーフの装甲歩兵"
 
 #. [unit_type]: id=Dwarvish Steelclad, race=dwarf
-#: data/core/units/dwarves/Steelclad.cfg:18
+#: data/core/units/dwarves/Steelclad.cfg:17
 msgid ""
 "Outfitted in the strongest plate and mail of Knalgan forges, the Steelclads "
 "are the vanguard of dwarvish armies. They are renowned for their resilience "
@@ -2963,7 +2969,7 @@ msgid "Dwarvish Thunderguard"
 msgstr "ドワーフの雷撃衛兵"
 
 #. [unit_type]: id=Dwarvish Thunderguard, race=dwarf
-#: data/core/units/dwarves/Thunderguard.cfg:18
+#: data/core/units/dwarves/Thunderguard.cfg:17
 msgid ""
 "The Dwarven Thunderguards are famed for their curious weaponry, these strange staves of wood and iron that make a thunderous noise in their anger. The machinations behind this weaponry are a mystery, a secret taken to the grave by the dwarves of Knalga who wield them, and are assumed to have even forged them. The most that is known are reports of dwarves pouring a strange black dust into the mouth of their weapons, which some say is a food to fuel the beast imprisoned within.\n"
 "\n"
@@ -3000,7 +3006,7 @@ msgstr ""
 "エルフ族は元来、狩猟採集生活者です。そのため、ほとんどの者が幼少期から弓術を学び始め、射手として一人前になることを目指します。彼らにとって弓術は、実用的なスキルであるばかりではなく、一般的な娯楽でもあり、多くの競技会が開催されます。競技会では、出場者が技を競うことを楽しみ、同時に観客を楽しませます。また、弓術は直ちに戦闘に使える能力であることから、戦時においては、多くのエルフが武器として弓を握る選択をします。人間族の弓兵（Bowman）やオークの弓兵（Orcish Archer）と比較すると、頑強さでは劣りますが、それでもなお、エルフの射手（Elvish Archer）は有能な戦闘員であり、特に森の加護を受けて戦う場合は、その能力を遺憾なく発揮します。"
 
 #. [female]: gender=female
-#: data/core/units/elves/Archer.cfg:80
+#: data/core/units/elves/Archer.cfg:144
 msgid "female^Elvish Archer"
 msgstr "エルフの女射手"
 
@@ -3098,7 +3104,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: data/core/units/elves/Druid.cfg:33 data/core/units/elves/Lady.cfg:25
-#: data/core/units/elves/Shyde.cfg:38
+#: data/core/units/elves/Shyde.cfg:36
 msgid "ensnare"
 msgstr "罠の術"
 
@@ -3128,14 +3134,14 @@ msgstr ""
 #. [attack]: type=impact
 #. in game mechanics an upgrade of the Shaman’s slowing “entangle”, but in
 #. lore has the different magic style of the Enchantress’s unit description
-#: data/core/units/elves/Enchantress.cfg:37 data/core/units/elves/Sylph.cfg:39
+#: data/core/units/elves/Enchantress.cfg:36 data/core/units/elves/Sylph.cfg:38
 msgid "ethereal web"
 msgstr ""
 
 #. [attack]: type=arcane
-#: data/core/units/elves/Enchantress.cfg:47
+#: data/core/units/elves/Enchantress.cfg:46
 #: data/core/units/elves/High_Lord.cfg:56 data/core/units/elves/Lord.cfg:35
-#: data/core/units/elves/Sorceress.cfg:45 data/core/units/elves/Sylph.cfg:49
+#: data/core/units/elves/Sorceress.cfg:44 data/core/units/elves/Sylph.cfg:48
 msgid "faerie fire"
 msgstr "妖精の炎"
 
@@ -3420,7 +3426,7 @@ msgstr ""
 "少しの訓練を積むことで、エルフの自然界への親和性は物理面に影響を及ぼす物質魔法へと繋がります。訓練中の呪術師（Shaman）は自身のスキルを、自身の力と自然を結びつけることに使うことが多いです。その結果、彼女らの住処の周囲は不自然なほど青々と生い茂った森で囲まれています。この魔法は回復術に応用することができ、彼女らは癒し手として広く知られています。呪術師は信心深く平和的であるため戦闘を行うことは稀ですが、魔法で大地を操作して敵の妨害・鎮圧を行います。"
 
 #. [attack]: type=impact
-#: data/core/units/elves/Shaman.cfg:40 data/core/units/elves/Sorceress.cfg:36
+#: data/core/units/elves/Shaman.cfg:40 data/core/units/elves/Sorceress.cfg:35
 #: data/core/units/monsters/Caribe_Hunter.cfg:122
 #: data/core/units/wose/Wose_Shaman.cfg:43
 msgid "entangle"
@@ -3453,7 +3459,7 @@ msgid "female^Elvish Sharpshooter"
 msgstr "エルフの女狙撃手"
 
 #. [unit_type]: id=Elvish Shyde, race=elf, gender=female
-#: data/core/units/elves/Shyde.cfg:23
+#: data/core/units/elves/Shyde.cfg:22
 msgid ""
 "As an elf maiden entwines herself more and more with nature, the essence of "
 "earth begins to transform her body. The butterfly wings that sprout on the "
@@ -3467,7 +3473,7 @@ msgstr ""
 "エルフの乙女がより深く自然と結びつくと、大地の真髄が彼女の体に変化をもたらし始めます。シェード（Shyde）の背中にはえた蝶の羽は彼女の妖精との繋がりを直接的に示しており、妖精特有の静かで恐ろし気な神秘的なオーラを放っています。シェードは不思議な力に導かれた現世の支配者であり、他のエルフからは非常に敬われています。しばしば本物の要請や「森の精霊」と勘違いされますが、森の使いであるシェードたちはエルフの自然との神秘的な繋がりの典型的な例です。"
 
 #. [attack]: type=impact
-#: data/core/units/elves/Shyde.cfg:27 data/core/units/elves/Sylph.cfg:28
+#: data/core/units/elves/Shyde.cfg:26 data/core/units/elves/Sylph.cfg:28
 msgid "faerie touch"
 msgstr "妖精の接触"
 
@@ -3529,7 +3535,7 @@ msgid "Direwolf Rider"
 msgstr "ダイアウルフライダー"
 
 #. [unit_type]: id=Direwolf Rider, race=wolf
-#: data/core/units/goblins/Direwolf_Rider.cfg:19
+#: data/core/units/goblins/Direwolf_Rider.cfg:24
 msgid ""
 "While the ferocity and danger of direwolves makes them somewhat of an omen to most, the diminutive goblins have an unusual bond with these savage creatures. While it is beyond the abilities of goblins to tame these beasts, a certain amount of respect can be achieved between the two if a daring goblin chooses to live among the wolves and care for a pup from a young age. Having recognized said goblin as one of their own, a direwolf may then permit the goblin to ride it.\n"
 "\n"
@@ -4047,7 +4053,7 @@ msgid "Spearman"
 msgstr "槍兵"
 
 #. [unit_type]: id=Spearman, race=human
-#: data/core/units/humans/Loyalist_Spearman.cfg:18
+#: data/core/units/humans/Loyalist_Spearman.cfg:17
 msgid ""
 "Swords are, for many, an expensive luxury, and one which peasants can ill "
 "afford. Spears are much easier to make and will do well even without a "
@@ -4088,7 +4094,7 @@ msgid "Mage"
 msgstr "魔術師"
 
 #. [unit_type]: id=Mage, race=human, gender=male,female
-#: data/core/units/humans/Mage.cfg:19
+#: data/core/units/humans/Mage.cfg:18
 msgid ""
 "Humans have often pondered the workings of the world in which they live. Some endeavor to take this beyond idle musing, to set it as the primary enterprise of their lives. Any magi worthy of the title have spent at least a decade in study, amassing a sum of knowledge which sets them apart from other people. These men and women, who have committed themselves fully to the pursuit of wisdom, stand in stark contrast to a world where few can even read and write. Their ranks are filled with the children of hopeful nobility, or those who sought an escape from the intellectual void of manual labor.\n"
 "\n"
@@ -4105,13 +4111,13 @@ msgstr ""
 "肉体的に弱く、また戦闘にも慣れていませんが、魔術師は戦闘で大変有用な技術を保有しています。"
 
 #. [attack]: type=fire
-#: data/core/units/humans/Mage.cfg:37
+#: data/core/units/humans/Mage.cfg:36
 #: data/core/units/humans/Mage_Silver.cfg:45
 msgid "missile"
 msgstr "魔法の矢"
 
 #. [female]: gender=female
-#: data/core/units/humans/Mage.cfg:157
+#: data/core/units/humans/Mage.cfg:156
 msgid "female^Mage"
 msgstr "女魔術師"
 
@@ -4372,7 +4378,7 @@ msgid "Footpad"
 msgstr "追いはぎ"
 
 #. [unit_type]: id=Footpad, race=human, gender=male,female
-#: data/core/units/humans/Outlaw_Footpad.cfg:19
+#: data/core/units/humans/Outlaw_Footpad.cfg:18
 msgid ""
 "These petty criminals are often derisively called ‘Footpads’ by their "
 "superiors, for they are tasked with any job that requires a great deal of "
@@ -4383,7 +4389,7 @@ msgid ""
 msgstr ""
 
 #. [female]: gender=female
-#: data/core/units/humans/Outlaw_Footpad.cfg:89
+#: data/core/units/humans/Outlaw_Footpad.cfg:88
 msgid "female^Footpad"
 msgstr "女追いはぎ"
 
@@ -4627,9 +4633,9 @@ msgstr "ことのほか大きくて強靭なマーマンは、武器を使うよ
 #. [attack]: type=impact
 #. [attack]: type=fire
 #: data/core/units/merfolk/Brawler.cfg:30
-#: data/core/units/monsters/Cat_Jump.cfg:88
+#: data/core/units/monsters/Cat_Jump.cfg:111
 #: data/core/units/monsters/Cat_Redtail.cfg:101
-#: data/core/units/monsters/Fire_Dragon.cfg:62
+#: data/core/units/monsters/Fire_Dragon.cfg:71
 #: data/core/units/monsters/Icemonax_Greater.cfg:72
 msgid "tail"
 msgstr "尾"
@@ -4685,7 +4691,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/merfolk/Enchantress.cfg:32
 #: data/core/units/merfolk/Initiate.cfg:34
-#: data/core/units/merfolk/Siren.cfg:38
+#: data/core/units/merfolk/Siren.cfg:37
 #: data/core/units/monsters/Seahorse.cfg:43
 msgid "water spray"
 msgstr "水撃"
@@ -4849,7 +4855,7 @@ msgstr ""
 "この魔法の用途は陸地の住人にはほとんど思いつかず、それを見れば驚くことになるでしょう。"
 
 #. [attack]: type=impact
-#: data/core/units/merfolk/Siren.cfg:28
+#: data/core/units/merfolk/Siren.cfg:27
 msgid "naia touch"
 msgstr "水精の接触"
 
@@ -4878,7 +4884,7 @@ msgid "Merman Triton"
 msgstr "マーマンのトリトン"
 
 #. [unit_type]: id=Merman Triton, race=merman
-#: data/core/units/merfolk/Triton.cfg:19
+#: data/core/units/merfolk/Triton.cfg:18
 msgid ""
 "Tritons are combat masters of the sea. Skilled in use of the trident, "
 "Tritons easily defeat any enemy foolish enough to wander into their "
@@ -4964,7 +4970,9 @@ msgid "Fire Ant"
 msgstr "火蟻"
 
 #. [unit_type]: id=Fire Ant, race=monster
+#. [unit_type]: id=Firebane Ant, race=monster
 #: data/core/units/monsters/Ant_Fire.cfg:53
+#: data/core/units/monsters/Ant_Firebane.cfg:51
 msgid ""
 "Small but deadly in large numbers, Fire Ants possess fierce fangs and an "
 "unusual ability to generate fire. Though these creatures typically function "
@@ -4999,17 +5007,6 @@ msgstr ""
 #: data/core/units/monsters/Ant_Firebane.cfg:11
 msgid "Firebane Ant"
 msgstr "焚殺アリ"
-
-#. [unit_type]: id=Firebane Ant, race=monster
-#: data/core/units/monsters/Ant_Firebane.cfg:51
-msgid ""
-"Small but deadly in large numbers, fire ants possess fierce fangs and an "
-"unusual ability to generate fire. Though these creatures typically function "
-"as scavengers, a burrow of fire ants can become aggressive when provoked and"
-" have even been known to attack small groups of threatening troops."
-msgstr ""
-"火蟻（Fire "
-"Ant）は小さいですが群れをなすと危険な生物で、荒々しい牙と火を生み出す超常的な力を持ちます。通常は死肉を食料としますが、巣穴を刺激されると攻撃的になり、軍の小隊にすら攻撃することが知られています。"
 
 #. [unit_type]: id=Firebomb Ant, race=monster
 #: data/core/units/monsters/Ant_Firebomb.cfg:11
@@ -5354,7 +5351,7 @@ msgid "Fire Dragon"
 msgstr "ファイアドラゴン"
 
 #. [unit_type]: id=Fire Dragon, race=monster
-#: data/core/units/monsters/Fire_Dragon.cfg:44
+#: data/core/units/monsters/Fire_Dragon.cfg:53
 msgid ""
 "A dragon is a legendary creature, normally seen only in fantastic tales. They are very rare, and were it not for the historical events, the singlehanded destruction of cities and towns that these creatures have wrought, they might be dismissed as mere myth. Legends are very specific about the ravages of dragons; noting their great strength, speed, their preternatural cunning, and above all else, the great fire that burns inside of them.\n"
 "\n"
@@ -5466,7 +5463,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:49
-#: data/core/units/monsters/Mudcrawler.cfg:50
+#: data/core/units/monsters/Mudcrawler.cfg:49
 msgid "mud glob"
 msgstr "泥のしずく"
 
@@ -5791,7 +5788,7 @@ msgid "Mudcrawler"
 msgstr "泥蟲"
 
 #. [unit_type]: id=Mudcrawler, race=monster
-#: data/core/units/monsters/Mudcrawler.cfg:29
+#: data/core/units/monsters/Mudcrawler.cfg:28
 msgid ""
 "Simple beings conjured up from soil and water, Mudcrawlers fend for "
 "themselves by spitting globs of mud with surprising force. Even though they "
@@ -5975,7 +5972,7 @@ msgid "Skeletal Dragon"
 msgstr "スケルトンドラゴン"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
-#: data/core/units/monsters/Skeletal_Dragon.cfg:26
+#: data/core/units/monsters/Skeletal_Dragon.cfg:30
 msgid ""
 "Long ago one of the mightiest living creatures, the feared Dragon has become"
 " only bones and dark sinew. Long after its death, it was raised through the "
@@ -5988,7 +5985,7 @@ msgstr ""
 "かつて、もっとも強力な生物のひとつであった、恐れられたドラゴンもただの骨と筋だけとなってしまいました。その死から長い時を経て、降霊術師の暗黒の力によって蘇り、今は彼に仕えています。スケルトンドラゴンは、ただの骨の山にしか見えないかもしれませんが、そう考えた人間で、その考えを改めるくらい十分に生き長らえたものはほとんどいません。"
 
 #. [attack]: type=blade
-#: data/core/units/monsters/Skeletal_Dragon.cfg:30
+#: data/core/units/monsters/Skeletal_Dragon.cfg:34
 msgid "jaw"
 msgstr "顎爪"
 
@@ -6063,7 +6060,7 @@ msgid "Direwolf"
 msgstr "ダイアウルフ"
 
 #. [unit_type]: id=Direwolf, race=wolf
-#: data/core/units/monsters/Wolf_Dire.cfg:19
+#: data/core/units/monsters/Wolf_Dire.cfg:24
 msgid ""
 "‘Direwolves’ differ from the common variety only in size and color. They "
 "typically stand taller than a horse at the shoulder, and have an appetite to"
@@ -6219,7 +6216,7 @@ msgid "Naga Myrmidon"
 msgstr "ナーガのミュルミドーン"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga, gender=male,female
-#: data/core/units/nagas/Myrmidon.cfg:20
+#: data/core/units/nagas/Myrmidon.cfg:19
 msgid ""
 "The most practiced of the naga blademasters are initiated into the caste of "
 "the Myrmidon, masters of their twin-bladed art. They strike as fast as the "
@@ -6231,12 +6228,12 @@ msgstr ""
 "Myrmidon）の階級に加わっています。彼らは自身に似たヘビと同じくらい速く攻撃でき、優雅に踊りながら攻撃を回避します。あらゆる開けた土地の敵に有効なだけでなく、水泳能力によって素晴しい移動力を持っています。"
 
 #. [female]: gender=female
-#: data/core/units/nagas/Myrmidon.cfg:48
+#: data/core/units/nagas/Myrmidon.cfg:47
 msgid "Nagini Myrmidon"
 msgstr "ナギニのミュルミドーン"
 
 #. [female]: gender=female
-#: data/core/units/nagas/Myrmidon.cfg:50
+#: data/core/units/nagas/Myrmidon.cfg:49
 msgid ""
 "The most practiced of the nagini blademasters are initiated into the caste "
 "of the Myrmidon, masters of their twin-bladed art. They strike as fast as "
@@ -6586,6 +6583,7 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/orcs/Ruler.cfg:25 data/core/units/orcs/Sovereign.cfg:26
 #: data/core/units/orcs/Warlord.cfg:30 data/core/units/orcs/Warrior.cfg:38
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:41
 msgid "greatsword"
 msgstr "大剣"
 
@@ -6615,7 +6613,7 @@ msgid "Orcish Slurbow"
 msgstr "オークのスラーボウ兵"
 
 #. [unit_type]: id=Orcish Slurbow, race=orc
-#: data/core/units/orcs/Slurbow.cfg:20
+#: data/core/units/orcs/Slurbow.cfg:18
 msgid ""
 "The basic design of a crossbow gives rise to the arbalest or ‘slurbow’, a much more intricate device complete with a hand-turned cranequin to recock the weapon, and often with a multi-ply arc of laminate wood or bone, driving the projectile. Such a device is much easier to work with, and much more powerful than simpler crossbows; it is also beyond typical orcish manufacture.\n"
 "\n"
@@ -7236,7 +7234,7 @@ msgid "Lich"
 msgstr "リッチ"
 
 #. [unit_type]: id=Lich, race=undead
-#: data/core/units/undead/Necro_Lich.cfg:20
+#: data/core/units/undead/Necro_Lich.cfg:19
 msgid ""
 "A Lich is the physical embodiment of black magic’s first goal: the quest to achieve immortality. Though a great deal is sacrificed in the rebirth, in becoming a Lich one cheats death of that which truly gives it terror. For it is the mind that is retained, and the spirit which follows, though the body may wither away.\n"
 "\n"
@@ -7262,12 +7260,12 @@ msgid "female^Necromancer"
 msgstr "女ネクロマンサー"
 
 #. [unit_type]: id=Banebow, race=undead
-#: data/core/units/undead/Skele_Banebow.cfg:5
+#: data/core/units/undead/Skele_Banebow.cfg:4
 msgid "Banebow"
 msgstr "ベインボウ"
 
 #. [unit_type]: id=Banebow, race=undead
-#: data/core/units/undead/Skele_Banebow.cfg:19
+#: data/core/units/undead/Skele_Banebow.cfg:18
 msgid ""
 "The most powerful of the undead archers invariably end up being those who "
 "were themselves archers in their previous life. They wander the fields of "
@@ -7401,7 +7399,7 @@ msgid "Revenant"
 msgstr "レブナント"
 
 #. [unit_type]: id=Revenant, race=undead
-#: data/core/units/undead/Skele_Revenant.cfg:18
+#: data/core/units/undead/Skele_Revenant.cfg:17
 msgid ""
 "Given false life to do battle once more, the creatures known as Revenants "
 "were clearly great warriors in their time, though the memory of that time is"
@@ -7629,4 +7627,121 @@ msgid ""
 " use their powers to hinder their enemies in combat, and are generally "
 "believed to be different from the magic of elves or merfolk. The details of "
 "this craft can only be speculated on by other races."
+msgstr ""
+
+#. [unit_type]: id=Arcane Enforcer, race=human, gender=male,female
+#. "enforcer" as in "gang enforcer"
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:6
+msgid "Arcane Enforcer"
+msgstr ""
+
+#. [unit_type]: id=Arcane Enforcer, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:21
+msgid ""
+"The harsh, violent life of an outlaw does not readily lend itself to magical"
+" study. Rogue mages who survive their first few years often do so with the "
+"aid of organized bandit gangs, who are more than happy to provide protection"
+" in return for muscle and loyalty. Outfitted with stolen crossbows and "
+"augmenting their piecemeal armor with scraps of half-remembered magic, these"
+" ex-magi brawl with surprising competence, especially under the cover of "
+"darkness."
+msgstr ""
+
+#. [female]: gender=female
+#: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:122
+msgid "female^Arcane Enforcer"
+msgstr ""
+
+#. [unit_type]: id=Rogue Mage, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:5
+msgid "Rogue Mage"
+msgstr ""
+
+#. [unit_type]: id=Rogue Mage, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:19
+msgid ""
+"Not every student has the skill and temperament to become a mage. Novices often find themselves abandoned by their masters, sometimes for attempting to practice forbidden arts, but more often for mundane transgressions such as theft or embezzlement, or even a simple lack of funds.\n"
+"\n"
+"While most of these failed wizards switch to other paths, a driven few turn to banditry as a way of continuing to fund their independent studies. Now completely outside the law, Rogue Mages do whatever is necessary to support themselves, and will often dabble in the use of black magic as a result. Although they are rarely as skilled as wizards with more formal training, their spells can still be quite dangerous, and their banditry has resulted in moderate skill with the short sword."
+msgstr ""
+
+#. [female]: gender=female
+#: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:80
+msgid "female^Rogue Mage"
+msgstr ""
+
+#. [unit_type]: id=Shadow Lord, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:5
+msgid "Shadow Lord"
+msgstr ""
+
+#. [unit_type]: id=Shadow Lord, race=human, gender=male,female
+#. I think of regular mages as modern-day professors, or perhaps ancient greek
+#. philosophers. In comparison, a Shadow Lord is more like an unemployed,
+#. obsessive savant who hasn't showered in three months but somehow discovered
+#. the secret to cold fusion while working alone in his dingy apartment.
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:20
+msgid ""
+"The fruits of the paths of either light or darkness are well known to magi: "
+"the brilliance of a white mage or the deep gloom of a necromancer. Much less"
+" well known is the art of the Shadow Lord, those few who master a union of "
+"both white and black magic. Though decades of zealous study and self-neglect"
+" have left them drained of strength, these savants have transcended the need"
+" for crude physical weapons, instead channeling their energies into "
+"devastatingly accurate magical attacks that undercut their enemies’ "
+"defenses."
+msgstr ""
+
+#. [attack]: type=blade
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:48
+msgid "astral blade"
+msgstr ""
+
+#. [damage_type]: id=cold_damage
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:54
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:52
+msgid "chill"
+msgstr ""
+
+#. [damage_type]: id=cold_damage
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:55
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:53
+msgid ""
+"This attack can deal either blade or cold damage, depending on which would "
+"be more effective."
+msgstr ""
+
+#. [damage_type]: id=cold_damage
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:56
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:54
+msgid ""
+"This unit’s melee attack can deal either blade or cold damage, depending on "
+"which would be more effective."
+msgstr ""
+
+#. [female]: gender=female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:104
+msgid "female^Shadow Lord"
+msgstr ""
+
+#. [unit_type]: id=Shadow Mage, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:5
+msgid "Shadow Mage"
+msgstr ""
+
+#. [unit_type]: id=Shadow Mage, race=human, gender=male,female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:18
+msgid ""
+"Dabbling in many schools of magic yet not fully embracing any, the "
+"impoverished, obsessive study of an independent mage can sometimes yield "
+"impressive results. Unrestrained by the structure of formal apprenticeship, "
+"Shadow Magi have learned to weave together spell and sword, seizing the "
+"secrets of both light and darkness with equal fervor. One of the many fruits"
+" of their labor is the unnerving power to vanish and evade seemingly-lethal "
+"blows, only to reappear moments later and strike in sudden retaliation."
+msgstr ""
+
+#. [female]: gender=female
+#: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:101
+msgid "female^Shadow Mage"
 msgstr ""

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-01-20 17:31 UTC\n"
+"POT-Creation-Date: 2026-08-03 03:45 UTC\n"
 "PO-Revision-Date: 2026-03-28 19:10+0000\n"
 "Last-Translator: RatArmy, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
@@ -38,7 +38,7 @@ msgstr "Konrad"
 #. [modify_side]
 #: data/campaigns/Heir_To_The_Throne_Classic/gui/character_selection.cfg:118
 #: data/campaigns/Heir_To_The_Throne_Classic/lua/character_selection.lua:34
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:179
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:181
 msgid "Li’sar"
 msgstr "Li’sar"
 
@@ -117,7 +117,7 @@ msgstr "移動に関するレッスンを修了するまでターンを終える
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:176
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:190
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:198
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:196
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:198
 msgid "Welcome to Wesnoth!"
 msgstr "Wesnothへようこそ！"
 
@@ -323,7 +323,7 @@ msgstr "退却した方がいいかしら？"
 #. [message]: speaker=Delfador
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:580
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1079
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1081
 msgid "Good idea!"
 msgstr "ご明察！"
 
@@ -372,7 +372,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:626
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:708
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:820
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:499
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:501
 msgid "End your turn"
 msgstr "ターンを終了しましょう"
 
@@ -745,7 +745,7 @@ msgid "Defenses"
 msgstr "回避"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1082
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1081
 msgid ""
 "Whenever one of your units is selected, you’ll see varying percentages as "
 "you move the mouse over the map. The higher the percentage, the more "
@@ -758,74 +758,74 @@ msgstr ""
 "ユニットを選択している時、マップ上でマウスを動かすごとに異なるパーセンテージが表示されます。この数値は地形の種類によって決まっており、高いほど<i>回避</i>できる確率が上がります。例えば、大抵のユニットは城や村では回避率が高く、川の中では低くなります。一部のユニットは、このクィンティンのように、<i>魔法</i>攻撃を有し、目標がどんな地形を占めていても70%の確率で命中させます。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1094
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1093
 msgid "Agh! This training is too much for me..."
 msgstr "うぐ！訓練辛すぎだよ..."
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1095
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1094
 msgid "female^Agh! This training is too much for me..."
 msgstr "あぁ！少し無理をし過ぎたようね..."
 
 #. [message]: speaker=second_unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1131
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1130
 msgid "The quintain is destroyed, and I have gained more experience!"
 msgstr "クィンティンを倒すことで、経験値を手に入れたぞ！"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1136
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1135
 msgid ""
 "Yes, you gain experience through battle, especially by killing an opponent. "
 "Gain enough experience and you’ll become more powerful."
 msgstr "そうじゃ、戦いを通して経験値を貯めるのじゃ。特に、敵にトドメを刺すと経験値は多く手に入る。経験を積むことで、ユニットは強くなるのじゃ。"
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1142
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1141
 msgid ""
 "Now, Konrad, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
 msgstr "さあ、Konradよ。さらに練習用のクィンティンを置いておくぞ！それが終わったら、ひと仕事してもらおうかの..."
 
 #. [message]: speaker=Delfador
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1147
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1146
 msgid ""
 "Now, Li’sar, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
 msgstr "さあ、Li’sarよ。さらに練習用のクィンティンを置いておくぞ！それが終わったら、ひと仕事してもらおうかの..."
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1209
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1208
 msgid "Note"
 msgstr "メモ"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1211
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1210
 msgid ""
 "These dummies only attack if you are a single tile away. With care, you "
 "should be able to kill them one at a time."
 msgstr "クィンティンは1ヘクスの距離まで近づいたときにだけ攻撃してきます。注意してプレイすれば、1体ずつ倒すことができるはずです。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1220
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1219
 msgid ""
 "Well, I think I know the basics. Onwards! Maybe I can fight in a real battle"
 " next?"
 msgstr "よし、基本は分かったぞ。進もう！次こそは実戦かな？"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1221
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1220
 msgid ""
 "female^Well, I think I know the basics. Onwards! Maybe I can fight in a real"
 " battle next?"
 msgstr "よし、基本は分かったわ。行きましょう！ 次こそは実戦かしら？"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1236
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1235
 msgid "Victory"
 msgstr "勝利"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1237
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:1236
 msgid ""
 "After your victory notice, the map will be grayed out to indicate that the "
 "scenario is over; this is called <i>linger mode</i>. You will still be able "
@@ -856,75 +856,75 @@ msgid "Galdrad"
 msgstr "Galdrad"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:125
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:127
 msgid "I hope I have a chance to retreat after this!"
 msgstr "そろそろ退却させてくれ。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:126
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:128
 msgid "One lucky attack by an Orcish Grunt, and I’m done for!"
 msgstr "オークの兵卒から致命打を受けてしまった。もうだめだ！"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:127
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:129
 msgid "I could make use of some healing in a village."
 msgstr "村で少し回復を利用したい。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:128
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:130
 msgid "I had better retreat, before I get caught out with such low health!"
 msgstr "退却した方がいいだろう、HPが残り少ない！"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:129
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:131
 msgid "female^I hope I have a chance to retreat after this!"
 msgstr "このターンのあとに退却できることを願いましょう。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:130
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:132
 msgid "female^One lucky attack by an Orcish Grunt, and I’m done for!"
 msgstr "オークの兵卒から致命打を受けてしまったわ。もうだめね..."
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:131
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:133
 msgid "female^I could make use of some healing in a village."
 msgstr "村で回復しなきゃ。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:132
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:134
 msgid ""
 "female^I had better retreat, before I get caught out with such low health!"
 msgstr "退却した方がいいわね、HPが残り少ないし！"
 
 #. [objective]: condition=win
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:137
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:139
 msgid "Defeat the Orc Leader"
 msgstr "オークのリーダーを倒す"
 
 #. [objective]: condition=lose
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:142
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:144
 msgid "Death of Konrad"
 msgstr "Konradの死"
 
 #. [objective]: condition=lose
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:153
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:155
 msgid "Death of Li’sar"
 msgstr "Li’sarの死"
 
 #. [objective]: condition=lose
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:164
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:166
 msgid "Death of Galdrad"
 msgstr "Galdradの死"
 
 #. [disallow_end_turn]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:185
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:187
 msgid ""
 "You cannot end your turn until you have recruited troops and captured a "
 "village!"
 msgstr "ユニットを雇用し、村を確保するまでターンを終えることはできません！"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:198
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:200
 msgid ""
 "Welcome back! This is the second part of the two-part tutorial. Part 2 will "
 "teach you about recalling units, abilities and weapon specials, income and "
@@ -934,21 +934,21 @@ msgstr ""
 "では、ユニットの召還、能力と特殊武器、収入と維持費、長距離移動、支配領域（ZOC）、時刻について学べます。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:204
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:206
 msgid ""
 "Ho, Galdrad! Has Delfador conjured something else to beat me with? A flock "
 "of scarecrows, perhaps?"
 msgstr "やあ、Galdrad！またDelfadorが魔法の刺客を送り込んできたのかい？もしかして、かかしの群れとか？"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:205
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:207
 msgid ""
 "female^Ho, Galdrad! Has Delfador conjured something else to beat me with? A "
 "flock of scarecrows, perhaps?"
 msgstr "あら、Galdrad！また魔法の刺客をDelfadorが送り込んできたのかしら？もしかして、かかしの群れとか？"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:211
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:213
 msgid ""
 "This is no game, Konrad! Orcs have encamped across the river. This is elven "
 "country; they are fools to enter here. We elves are fast and hard to hit in "
@@ -958,7 +958,7 @@ msgstr ""
 "Konrad、これは訓練ではありません！オークが川の向こう側で野営しています。ここはエルフ領であるにもかかわらず、奴らは愚かにも侵入してきたのです。我々エルフは森の中では機動力、回避率ともに向上するというのに。二度と我々を脅かすことが無いようにオークのリーダーを倒さなければなりません。私が補佐いたしましょう。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:216
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:218
 msgid ""
 "This is no game, Li’sar! Orcs have encamped across the river. This is elven "
 "country; they are fools to enter here. We elves are fast and hard to hit in "
@@ -969,31 +969,31 @@ msgstr ""
 "Li’sar、これは訓練ではありません！オークが川の向こう側で野営しています。ここはエルフ領であるにもかかわらず、奴らは愚かにも侵入してきたのです。我々エルフは森の中では機動力、回避率ともに向上するというのに。二度と我々を脅かすことが無いようにオークのリーダーを倒さなければなりません。私が補佐いたしましょう。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:222
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:224
 msgid "What should I do?"
 msgstr "さて、どうしようか？"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:223
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:225
 msgid "female^What should I do?"
 msgstr "何をすればいいかしら？"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:226
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:228
 msgid ""
 "First, we will have to deal with the Orcish Grunt stationed in the middle of"
 " the river. He should be little trouble."
 msgstr "まず、川の中央にいるオークの兵卒をなんとかしなければいけません。少し面倒です。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:228
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:230
 msgid ""
 "By then, their leader will have recruited more units to send against us and "
 "the real fight will begin."
 msgstr "それまでに、彼らのリーダーは沢山のユニットを雇って私たちの方に送り込んでくるでしょう。そこからが正念場です。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:230
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:232
 msgid ""
 "See this dark blue water? It’s too deep for either side to cross. The orcs "
 "could slowly wade through that narrow band of shallow lighter-blue water in "
@@ -1004,7 +1004,7 @@ msgstr ""
 "そこは深すぎて、どちらの陣営も渡ることができません。一方、明るい色に見えるところは水深が浅くなっています。オークは北側の狭い帯状になっている浅瀬を渡ってくる可能性が考えられるでしょう。しかし、渡河には時間が掛かるので、我等は水際で迎え撃つことができます。そうすれば、奴らの上陸を防ぎ、無防備な状態での戦闘を強いることが可能です。逆に我等は森の守護を得られます。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:232
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:234
 msgid ""
 "The more likely attack, then, is across the bridge. That middle island is "
 "the key: it has a village for healing injured units and forests in which we "
@@ -1012,19 +1012,19 @@ msgid ""
 msgstr "また、橋を渡って来る可能性も高いでしょう。中央の島が鍵です。島には村があり、傷を癒やすことができますし、森で地の利を得ることもできます。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:236
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:238
 msgid "Let’s go! Attack!"
 msgstr "行こう！攻撃開始！"
 
 #. [message]: speaker=student
 #. The "us" in "let's" refers to Galdrad and Li'sar.
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:238
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:240
 msgid "female^Let’s go! Attack!"
 msgstr "行くわよ！攻撃開始！"
 
 #. [message]: speaker=Galdrad
 #. Addressing Konrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:245
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:247
 msgid ""
 "Hang on! You need to gather your forces. Or do you intend to fight the orcs "
 "single-handedly?"
@@ -1032,14 +1032,14 @@ msgstr "お待ちください！軍勢を集める必要があります。それ
 
 #. [message]: speaker=Galdrad
 #. Addressing Li'sar
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:251
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:253
 msgid ""
 "female^Hang on! You need to gather your forces. Or do you intend to fight "
 "the orcs single-handedly?"
 msgstr "お待ちください！軍勢を集める必要があります。それとも、1人でオークに挑むつもりですか？"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:265
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:267
 msgid ""
 "I see you have veteran troops from your training! You should <i>recall</i> "
 "them so as to start off the battle with more experienced units. Think "
@@ -1049,14 +1049,14 @@ msgstr ""
 "あなたと共に訓練を終えた兵士たちがいるはずです！経験豊富な兵を<i>召還</i>し、戦いを始めましょう。ですが、召還するユニットの持つXPが低すぎる場合、新しい兵を雇用した方が良いでしょう。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:271
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:273
 msgid ""
 "Some of your units have also managed to level up. They’re even more "
 "formidable, so you should recall them as well."
 msgstr "あなたのユニットの一部はレベルアップしているようですね。高レベルユニットは強力ですから、召還しておくべきでしょう。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:286
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:288
 msgid ""
 "Unfortunately, none of your troops survived your training, so you will have "
 "to recruit new units. If you had any veteran troops, you could have "
@@ -1066,12 +1066,12 @@ msgstr ""
 "残念なことに、あなたの兵たちは訓練を生き残れなかったようですね。従って、新しいユニットを雇用する必要があります。熟練した兵がいたのなら、<i>召還</i>することができたのですが。高レベルのユニットはオークとの戦いでより役に立つでしょう。"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:292
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:294
 msgid "Recalling"
 msgstr "召還"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:293
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:295
 msgid ""
 "In addition to recruiting new units each scenario, you can also "
 "<i>recall</i> your experienced veterans from previous scenarios, for the "
@@ -1085,7 +1085,7 @@ msgstr ""
 "各シナリオにおいては、新しいユニットの雇用に加え、以前のシナリオで生き残った歴戦のユニットを20ゴールドの費用で<i>召還</i>することが可能です。高レベルのユニットや特性と能力の組み合わせが良いユニットを召還することで、複数のシナリオに渡って強力な軍隊を編成することができます。ユニットを召還するには、リーダーが主塔にいる時に付近の城ヘクスを右クリックして<i>召還</i>を選択してください。古参兵を召還するだけでなく、新兵を雇用することも忘れないでください。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:298
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:300
 msgid ""
 "You also have two new types of units to recruit this scenario: Elvish "
 "Archers and Elvish Shamans. I’ll tell you more about them when you recruit "
@@ -1096,19 +1096,19 @@ msgstr ""
 
 #. [event]
 #. [on_undo]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:301
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:510
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:552
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:303
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:512
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:554
 msgid "Recruit or recall your troops"
 msgstr "兵を雇用・召還しましょう"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:315
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:317
 msgid "Elvish Shaman"
 msgstr "エルフの女呪術師"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:316
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:318
 msgid ""
 "The Shaman has the ability to <i>heal</i> friendly units around her. She "
 "also has a special attack which <i>slows</i> enemies, halving the damage "
@@ -1118,12 +1118,12 @@ msgstr ""
 "女呪術師は<i>回復</i>の能力を持ち、周囲の味方ユニットを回復させることができます。また、<i>遅化</i>の特殊攻撃は、1ターンの間、敵の攻撃力を半分にする効果があります。しかしながら、身体的には戦士や射手より弱いので、戦闘をさせる際は注意してください。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:321
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:323
 msgid "The <i>Heal</i> Ability"
 msgstr "<i>回復</i>能力"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:323
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:325
 msgid ""
 "At the start of each turn, allied units adjacent to a Shaman will recover 4 hitpoints, which is only half of the amount that a village would provide. The Shaman doesn’t gain experience from healing, only from combat, but advancing her is worthwhile — her second-level Elvish Druid advancement has healing equivalent to a village.\n"
 "\n"
@@ -1134,12 +1134,12 @@ msgstr ""
 "回復の詳細はヘルプにある<i>ゲームの遊び方</i>を参照してください。（デフォルトのホットキーは<b>F1</b>です。）"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:330
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:332
 msgid "Weapon Specials"
 msgstr "特殊武器"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:332
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:334
 msgid ""
 "Weapon specials are special attack modifiers that make certain attacks more powerful. In this case, the Shaman has the Slows special on her entangle attack. When this attack successfully hits an enemy, it will halve the damage they do for one turn. Other weapon specials include First Strike, which allows that attack to always hit first no matter who attacks first, and Magical, which gives that attack a constant 70% chance to hit.\n"
 "\n"
@@ -1150,14 +1150,14 @@ msgstr ""
 "能力と特殊武器の一覧については、特性と同様にヘルプを参照してください。（デフォルトのホットキーは<b>F1</b>です）"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:362
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:373
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:364
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:375
 msgid "Multiple Healers"
 msgstr "複数のヒーラー"
 
 #. [message]: speaker=narrator
 #. both healers are level one elvish shamans
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:364
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:366
 msgid ""
 "You now have two healers. However, each unit can only receive healing from one healer — a unit will still only be healed 4 hitpoints per turn even when adjacent to both Shamans.\n"
 "\n"
@@ -1170,7 +1170,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #. one healer is a level one shaman, but the other healer is a druid or (very
 #. unlikely) a shyde
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:375
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:377
 msgid ""
 "You now have two healers. Your Druid can heal adjacent units by 8 hitpoints "
 "per turn compared to your Shaman’s 4. However, each unit can only receive "
@@ -1180,19 +1180,19 @@ msgstr ""
 "現在、あなたの陣営には2人のヒーラーがいます。呪術師の回復の力が4であるのに対し、ドルイド僧は隣接するユニットのHPを1ターンに8回復させることができます。しかしながら、個々のユニットが回復を受けられるのは1人のヒーラーからのみです。あるユニットが複数のヒーラーに隣接している場合、最もレベルが高いヒーラーから回復を受けることになります。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:382
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:384
 msgid "Healers and Villages"
 msgstr "ヒーラーと村"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:383
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:385
 msgid ""
 "A unit in a village will receive healing from the village instead of from "
 "adjacent healers."
 msgstr "村にいるユニットは村から回復を受け、隣接するヒーラーからは回復を受けません。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:387
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:389
 msgid ""
 "Having more than one healer allows them to heal each other or to cover "
 "separate areas of the battlefield. It can also allow better tactical "
@@ -1203,12 +1203,12 @@ msgstr ""
 "ヒーラーが複数いると、お互いに回復させあわせたり、隔たりのある戦闘地域へ派遣したりすることができます。また、より戦術的な行動も可能になります。休息による2HPの回復とその他の手段による回復は合算されますので、傷ついたユニットを動かさずにヒーラーを動かした方が良い場合が多いでしょう。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:402
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:404
 msgid "Elvish Archer"
 msgstr "エルフの射手"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:403
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:405
 msgid ""
 "Unlike the Elvish Fighter, which has strong melee attacks, the Elvish Archer"
 " has strong ranged attacks. It’s useful to attack enemy units with strong "
@@ -1218,14 +1218,14 @@ msgstr ""
 "近接攻撃を得意とするエルフの戦士とは異なり、エルフの射手は遠隔攻撃が得意です。遠隔攻撃は強力な近接攻撃を持つユニットを攻撃するのに最適で、逆もまたしかりです。これによって、敵ユニットからの反撃ダメージを抑えることができます。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:429
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:431
 msgid ""
 "You certainly have a fondness for shamans, I see. They will provide a lot of"
 " healing, but not much offensive potential."
 msgstr "随分と呪術師にご執心のようですね。彼女たちの回復の力は大きいでしょうが、攻撃的な資質は充分とは言えませんよ。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:440
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:442
 msgid ""
 "While none of your recruited units can move yet, you still can. You need "
 "more income; there are some villages near the keep you can capture."
@@ -1233,42 +1233,42 @@ msgstr "このターンには雇用したユニットは動けなくとも、あ
 
 #. [event]
 #. [on_undo]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:443
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:565
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:445
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:567
 msgid "Capture a village"
 msgstr "村を確保しましょう"
 
 #. [disallow_end_turn]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:446
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:448
 msgid "You still have to capture a village!"
 msgstr "村を確保しなければなりません！"
 
 #. [then]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:478
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:545
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:480
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:547
 msgid ""
 "You forgot to recruit troops! You can press <b>u</b> to undo your last move."
 msgstr "ユニットを雇用するのを忘れています！ <b>u</b>キーを押すことで、直前の移動を取り消すことができます。"
 
 #. [disallow_end_turn]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:481
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:483
 msgid "You still have to recruit troops!"
 msgstr "兵を雇用しなければなりません！"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:489
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:491
 msgid ""
 "Excellent! As Delfador mentioned earlier, each captured village will support"
 " one unit and provide you with 1 extra gold per turn."
 msgstr "良いですね！Delfadorが言っていたように、それぞれの村ごとに１ゴールドの維持費が免除されます。"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:493
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:495
 msgid "Income and Upkeep"
 msgstr "収入と維持費"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:494
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:496
 msgid ""
 "Each turn, you will gain 2 gold plus one for each village you own. However, "
 "<i>upkeep</i> is subtracted from that. You can support as many levels worth "
@@ -1279,42 +1279,42 @@ msgstr ""
 "毎ターン、確保している村1つにつき2ゴールドの収入が手に入ります。しかし、<i>維持費</i>がそこから引かれます。村の数が自軍ユニットのレベルの合計値以上であれば、維持費は0となります。しかし、レベルの合計値が上であれば、その分を維持費として毎ターン支払わなければなりません。ユニットを雇い過ぎると、収入がマイナスになり、毎ターンゴールドが減っていくので注意してください。"
 
 #. [else]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:558
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:560
 msgid ""
 "You forgot to capture a village! You can press <b>u</b> to undo your last "
 "move."
 msgstr "村を確保するのを忘れています！ <b>u</b>キーを押すことで、直前の移動を取り消すことができます。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:577
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:579
 msgid ""
 "Now, young man, it is time to discuss strategy. Your units are ready to "
 "attack, and the orcish leader has begun gathering his own troops."
 msgstr "Konrad、戦略を話しあいましょう。ユニットたちの攻撃準備はできています。オークのリーダーも徴兵を開始したようです。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:582
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:584
 msgid ""
 "Now, young lady, it is time to discuss strategy. Your units are ready to "
 "attack, and the orcish leader has begun gathering his own troops."
 msgstr "さあ、お嬢さん。戦略を話し合いましょう。ユニットの攻撃準備はできています。オークのリーダーも徴兵を開始したようです。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:588
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:590
 msgid ""
 "Galdrad, if I go by the ford, I could sneak up near his keep and dispatch "
 "him quickly."
 msgstr "Galdrad、川瀬に向かえばオークのリーダーの主塔に素早く近づくことができるんじゃないかな。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:589
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:591
 msgid ""
 "female^Galdrad, if I go by the ford, I could sneak up near his keep and "
 "dispatch him quickly."
 msgstr "Galdrad、川瀬に向かえば、オークのリーダーの主塔に素早く近づくことができるはずよ。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:594
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:596
 msgid ""
 "You could. However, elves (and orcs) have bad <i>defense</i> in water. "
 "You’ll be more vulnerable as you try to wade slowly across the ford; the "
@@ -1327,7 +1327,7 @@ msgstr ""
 " 60% 、呪術師と射手であれば 70% の確率で敵の攻撃を回避できます。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:599
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:601
 msgid ""
 "However, keep an eye on that ford. The orcs may try to sneak around behind "
 "our forces. It might do to send a few units to defend the banks, and the "
@@ -1336,20 +1336,20 @@ msgstr ""
 "しかし、川瀬を見てください。オークは我々の軍に忍び寄り、背後を取ろうとするかもしれません。川岸とそこにある村を防衛するために、少数のユニットを送っておいた方が良いでしょう。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:604
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:606
 msgid ""
 "Alright. The bridge it is, then, but I’ll be careful about the crossing."
 msgstr "わかったよ。あの橋を渡る時は注意した方が良さそうだね。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:605
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:607
 msgid ""
 "female^Alright. The bridge it is, then, but I’ll be careful about the "
 "crossing."
 msgstr "確かにそうね。橋を渡る時には注意するわ。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:608
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:610
 msgid ""
 "That Orcish Grunt is still blocking our path. He has no ranged attacks, so "
 "your archers should be able to engage him with little risk. Unfortunately, "
@@ -1361,14 +1361,14 @@ msgstr ""
 "オークの兵卒が道を塞いでいます。兵卒は遠隔攻撃を持たないので、射手なら低いリスクで攻撃を仕掛けることができます。このターン中は兵卒に攻撃を行うことはできませんが、何もしないわけにはいきません。次のターンに兵卒を攻撃できるように、移動しておくと良いでしょう。川のこちら側には、他の村もあります。収入と回復のためにも、それらを防衛するべきです。"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:611
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:999
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:613
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1001
 msgid "Long-distance Movement"
 msgstr "長距離の移動"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:612
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1000
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:614
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1002
 msgid ""
 "You can order a unit to move for multiple turns by selecting the unit and "
 "clicking on the destination. A number will indicate how many turns it will "
@@ -1377,20 +1377,20 @@ msgstr ""
 "ユニットを選択して移動先をクリックすることで、複数ターンかかる場所への移動命令をあらかじめ出しておくことができます。その際には、そこに到達するまでにかかるターン数が数字で表示されます。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:617
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:619
 msgid ""
 "I think I’ll stick around the keep for now, in order to recruit more units."
 msgstr "私は主塔に留まって、さらにユニットを雇用しようかな。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:618
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:620
 msgid ""
 "female^I think I’ll stick around the keep for now, in order to recruit more "
 "units."
 msgstr "私は主塔に留まって、増援を雇用しようかしら。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:624
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:626
 msgid ""
 "You’ve learned well, Konrad. It is indeed a good idea to keep your leader "
 "safe and protected and in range of your keep early in the game. The tide of "
@@ -1400,7 +1400,7 @@ msgstr ""
 "良く学んでいるようですね、Konrad。リーダーを安全に保ち、主塔の近くに留まるのも良策です。戦局はすぐに変わっていきますから、いつでも増援を送れるようにしておきたいですね。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:629
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:631
 msgid ""
 "You’ve learned well, Li’sar. It is indeed a good idea to keep your leader "
 "safe and protected and in range of your keep early in the game. The tide of "
@@ -1410,12 +1410,12 @@ msgstr ""
 "よく学んでいるようですね、Li’sar。リーダーを安全に保ち、主塔の近くに留まるのも良策です。戦局はすぐに変わっていきますから、いつでも増援を送れるようにしておきたいですね。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:699
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:701
 msgid "The tutorial isn’t meant to be this difficult"
 msgstr "チュートリアルはこの難易度を意図したものではありません"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:701
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:703
 msgid ""
 "The orc on the island was supposed to move over the bridge, so that he could be attacked by several elves at once. Something’s broken the scripted event, which will make the scenario harder by leaving him in a defensive position.\n"
 "\n"
@@ -1426,12 +1426,12 @@ msgstr ""
 "バグを報告してください。"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:713
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:715
 msgid "Tracking Enemy Movement"
 msgstr "敵の移動可能範囲の確認"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:714
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:716
 msgid ""
 "You can see where an enemy can reach by moving the mouse over them. You can "
 "see all possible enemy moves at once with the <b>Show Enemy Moves</b> "
@@ -1440,23 +1440,23 @@ msgstr ""
 "敵ユニットの上にマウスカーソルを置くことで、１ターンの間に移動できる範囲を知ることができます。<b>行動</b>メニューから<b>敵の動きを見る</b>を選択することで、全ての敵ユニットが移動できる範囲を一度に知ることができます。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:717
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:719
 msgid "We must occupy that island before the Wolf Riders reach it!"
 msgstr "ウルフライダーが来る前に、島に移動しましょう！"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:722
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:724
 msgid "Can’t we just move around the orcs?"
 msgstr "オークの近くを移動してはだめかな？"
 
 #. [message]: speaker=student
 #. "we" refers to Li'sar, Galdrad, and the mixed-gender troops
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:724
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:726
 msgid "female^Can’t we just move around the orcs?"
 msgstr "オークのそばを通過できないの？"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:737
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:739
 msgid ""
 "No. Once you move close to an enemy unit, you are in its <i>Zone of "
 "Control</i> and cannot move further that turn. To move your troops onto that"
@@ -1467,12 +1467,12 @@ msgstr ""
 "Control）</i>によってそのターン中は移動ができなくなります。水中を避けて兵を島に送るには、兵卒を倒す必要があります。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:741
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:743
 msgid "Zone of Control"
 msgstr "支配領域（ZoC：Zone of Control）"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:743
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:745
 msgid ""
 "The hexes immediately around a unit constitute its <i>Zone of Control</i>. "
 "When an enemy unit enters those hexes, they cannot move any further that "
@@ -1485,7 +1485,7 @@ msgstr ""
 "Control）</i>が存在します。敵ユニットがこれらのヘクスに侵入すると、そのターンはそれ以上移動できなくなります（ただし、<i>散兵</i>能力を持つユニットは支配領域の影響を受けません）。支配領域を利用することで、ユニットの数が少なくとも、敵の攻撃を受け止めるバリケードを築くことができます。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:770
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:772
 msgid ""
 "I hope I will survive the counter-attack if my units can’t take this grunt "
 "out this turn. I should order them to grab more villages if they can and "
@@ -1494,14 +1494,14 @@ msgstr ""
 "このターンでこいつを倒せなければ、反撃を凌げるかは運任せになりそうだ。可能な限り多くの村を確保するようユニットたちに命じるとともに、次のターンに備えて皆を接近させておかなければ。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:775
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:777
 msgid ""
 "If one of your Shamans stands just behind you, she will heal you 4 hitpoints"
 " at the beginning of the next turn."
 msgstr "もし呪術師があなたの隣にいれば、次のターンの開始時にHPを4回復してくれます。"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:781
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:783
 msgid ""
 "I hope my units will survive the counter-attack if I can’t take this grunt "
 "out this turn. I’d better grab more villages if I can and move everyone "
@@ -1510,28 +1510,28 @@ msgstr ""
 "このターンでこいつを倒せなければ、ユニットたちが反撃を凌げるかは運任せになってしまう。出来る限り多くの村を確保しなければ。それから、次のターンに備えて、皆を接近させておかないと。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:786
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:788
 msgid ""
 "If one of your Shamans stands just behind your wounded units, she will heal "
 "each of them 4 hitpoints at the beginning of the next turn."
 msgstr "もし呪術師が負傷したユニットの隣にいれば、次のターンの開始時に各ユニットのHPを4回復してくれます。"
 
 #. [message]: speaker=second_unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:822
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:824
 msgid ""
 "One fewer orc to deal with, and our way across the bridge is clear! I also "
 "gained experience from striking the killing blow!"
 msgstr "オークが倒れ、橋への道が開かれたぞ！敵を倒すことで経験値を得ることもできた！"
 
 #. [message]: speaker=second_unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:823
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:825
 msgid ""
 "female^One fewer orc to deal with, and our way across the bridge is clear! I"
 " also gained experience from striking the killing blow!"
 msgstr "オークが倒れ、橋への道が開かれたわ！敵を倒して経験値を得ることもできたし！"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:844
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:846
 msgid ""
 "Be careful! If you stand on the bridge you are exposed to attack from "
 "multiple directions! Even though the orcs have low defense in water, they "
@@ -1540,7 +1540,7 @@ msgstr ""
 "気を付けてください！橋の上にいる時は、複数の方向から攻撃を受けるかもしれません。オークは水の中では回避率は低いですが、数で我々を圧倒することでしょう。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:860
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:862
 msgid ""
 "Well done! The island village is ours. You can use the trees to set up a "
 "blockade against the orcs; they can only come across the bridge one by one "
@@ -1550,7 +1550,7 @@ msgstr ""
 "良い調子です！島の村は私達のものです。森にユニットを置くことでオークを防ぐための防壁を築けますよ。オークは橋を渡らなければ、水中を進むしかありませんし、森の地形にいれば高い回避を得ることができますから。"
 
 #. [then]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:872
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:874
 msgid ""
 "Don’t forget about that last village near the channel. The orcs will capture"
 " it if they try to sneak around via the ford! It will be hard to dislodge "
@@ -1560,7 +1560,7 @@ msgstr ""
 "そうなれば、排除するのは難しくなるでしょう。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:889
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:891
 msgid ""
 "It’s very dangerous to stand in water when there are enemies about! Your "
 "unit will have an 80% chance of being hit. Get back, and wait for them to "
@@ -1568,7 +1568,7 @@ msgid ""
 msgstr "敵がいる時に水の中に入り込むのは非常に危険です！80%の確率で敵の攻撃を受けてしまいます。陸に戻って、敵を待ち伏せしましょう。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:915
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:917
 msgid ""
 "You’re venturing away from your keep. You might need to recruit more units, "
 "and I doubt the orc leader will let you use his! Careful!"
@@ -1576,7 +1576,7 @@ msgstr ""
 "主塔から離れ過ぎるのは危険です。増援を呼ぶ必要があるかもしれませんし、オークのリーダーが自らの主塔を明け渡すとは思えません。気をつけてください！"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:924
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:926
 msgid ""
 "When moving a unit, the percentages shown are the unit’s defense on that "
 "hex. The higher the number, the less likely they are to get hit."
@@ -1584,7 +1584,7 @@ msgstr ""
 "ユニットを移動させるときに表示されるパーセンテージは、そのヘクス（六角形のマス）での、敵からの攻撃に対する回避率です。数値が高いほど攻撃のダメージを受けにくくなります。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:939
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:941
 msgid ""
 "We need to occupy that village, otherwise they will take it soon! Move a "
 "unit into the village to stop the orcs capturing it. Whichever unit you "
@@ -1594,7 +1594,7 @@ msgstr ""
 "ユニットを村に移動させ、オークに占拠されるのを阻止してください。村に置くユニットにはどれを選んでも、回復の恩恵を受けられることも申し添えておきます。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:945
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:947
 msgid ""
 "Careful! It is now nighttime. Orcs are <i>chaotic</i>, which means their "
 "attacks are now 25% stronger. By day, their attacks are 25% weaker, which is"
@@ -1605,12 +1605,12 @@ msgstr ""
 "夜です、警戒を強めましょう！オーク族は<i>混沌</i>ユニットです。そのため、彼らの攻撃力は夜間に25%上昇します。一方、日中には25%減少します。つまり、日中と夜間の攻撃力にはかなりの差があります。あなたは<i>秩序</i>ユニットです。そのため、日中に強くなりますが夜には弱くなってしまいます。エルフ族は<i>中立</i>ユニットです。夜間でも日中でも影響を受けません。"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:948
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:950
 msgid "Time of Day"
 msgstr "時刻"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:949
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:951
 msgid ""
 "During a scenario, the time of day will shift as turns pass. There are four "
 "<i>alignments</i> a unit may be: Lawful, Neutral, Chaotic, or Liminal. Each "
@@ -1622,8 +1622,8 @@ msgstr ""
 
 #. [then]
 #. [else]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:971
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:978
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:973
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:980
 msgid ""
 "Remember to retreat your wounded units to villages. Shamans can only heal 4 hitpoints per turn, while villages can heal them faster at 8 per turn.\n"
 "\n"
@@ -1638,12 +1638,12 @@ msgstr ""
 "ただし、休息による回復はこの規定の例外です。ユニットが何もせずに1ターン過ごすとHPが2回復し、村やヒーラーから受けられる回復に加算されるので、合算するとHPの回復は最大で10となります。"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1008
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1010
 msgid "Tracking Unused Units"
 msgstr "行動可能ユニットの確認"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1009
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1011
 msgid ""
 "You can ensure you use all your troops by pressing <b>n</b> to step from one"
 " unit to the next. If you press <b>space</b>, you can mark the currently "
@@ -1656,12 +1656,12 @@ msgstr ""
 " を押しても次のユニットが選択できなくなってから、あなたのターンを終了させると安全です。"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1017
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1019
 msgid "Status Table"
 msgstr "ステータステーブル"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1018
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1020
 msgid ""
 "The Status Table details the sides’ current status and starting conditions. "
 "Fog and shroud will affect what you can see in this table, and occasionally "
@@ -1671,12 +1671,12 @@ msgstr ""
 "ステータステーブルでは、陣営の現在のステータスと初期状態を確認することができます。霧と幕は、このテーブルで見える情報に影響を与え、陣営が隠される場合もあります。シナリオ開始時にこの表を確認すると有益でしょう。ステータステーブルには<b>メニュー</b>からアクセスできます．"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1026
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1028
 msgid "Speeding Up Animations"
 msgstr "アニメーションのスピードアップ"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1027
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1029
 msgid ""
 "Holding down <b>shift</b> will make the animations for moving and fighting "
 "quicker. The <b>acceleration factor</b> can be set, and turned on by "
@@ -1686,12 +1686,12 @@ msgstr ""
 "を押しっぱなしにすると移動と戦闘のアニメーションを高速化できます。また、<b>高速化の倍率</b>や高速化の常時有効化は<b>設定</b>メニューの<b>一般</b>タブで設定できます。"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1035
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1037
 msgid "Victory Conditions"
 msgstr "勝利条件"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1036
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1038
 msgid ""
 "In this scenario, you only need to defeat the orc leader to win. Victory "
 "conditions for a scenario are given under <b>Objectives</b> in the "
@@ -1700,48 +1700,48 @@ msgstr ""
 "このシナリオでは、オークのリーダーを倒すことによってのみ勝利することができます。シナリオの勝利条件は<b>メニュー</b>の<b>目標</b>から確認できます。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1045
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1047
 msgid "Hurry up and defeat the orcs before they become entrenched!"
 msgstr "急ぎましょう、オークが守りを固める前に！"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1073
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1075
 msgid "I have enough gold to recruit more units!"
 msgstr "ゴールドに余裕があるし、増援を雇おうか！"
 
 #. [message]: speaker=student
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1074
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1076
 msgid "female^I have enough gold to recruit more units!"
 msgstr "ゴールドに余裕があるし、増援を雇おうかしら！"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1083
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1085
 msgid "Recruit the Right Units"
 msgstr "正しいユニットの雇用"
 
 #. [hint_message]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1084
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1086
 msgid ""
 "Remember to recruit troops useful for the situation. Archers are "
 "particularly effective against Grunts, Wolf Riders and the orcish leader."
 msgstr "状況に合わせて有利な部隊を雇用しましょう。射手は兵卒やウルフライダー、そしてオークのリーダーに対して特に効果的です。"
 
 #. [then]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1123
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1125
 msgid ""
 "Beware of those orcs crossing the river! If they get into the forest they’ll"
 " be hard to dislodge!"
 msgstr "川を渡ってくるオークに気をつけましょう！彼らを森に入れたら、撃退するのは困難です！"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1163
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1165
 msgid ""
 "That unit is about one kill (8 experience points) away from gaining a level!"
 " Do not let it die!"
 msgstr "そのユニットは、敵をあと1人倒す（8XPを得る）とレベルが上がります！死なせてはなりません！"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1185
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1187
 msgid ""
 "Their leader has moved into that village! He’s not as stupid as I thought. "
 "The village heals him each turn and provides good defense."
@@ -1749,7 +1749,7 @@ msgstr ""
 "オークのリーダーが村に移動しました！奴は私が思っていたほど間抜けではないようです。村にいれば毎ターン回復することができ、さらに回避率も高くなります。"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1196
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1198
 msgid ""
 "That unit has captured our village! You’d better get him out; it heals him "
 "each turn and provides good defense."
@@ -1757,14 +1757,14 @@ msgstr "あのユニットが私たちの村を占拠しました！奴を排除
 
 #. [message]: speaker=unit
 #. The speaker is female
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1209
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1211
 msgid ""
 "Using me to attack is risky! I can slow the opponent with my ranged attack, "
 "but I hope you have a plan if I miss!"
 msgstr "私を攻撃に使うのは危険です！ 私の遠隔攻撃で敵を遅くすることはできますが、はずしてしまった時のことも考えて下さい！"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1225
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1227
 msgid ""
 "You are close to killing their leader! Because he is second level, the unit "
 "who finishes him will gain 16 experience points. In a campaign, it’s "
@@ -1775,12 +1775,12 @@ msgstr ""
 "ポイントの経験値を獲得します。キャンペーンでは、レベルアップさせたいユニットを絞り、そのユニットになるべく多くの経験値を与えることが重要となります。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1229
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1231
 msgid "You have almost finished the tutorial"
 msgstr "チュートリアルのほとんどが完了しました"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1231
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1233
 msgid ""
 "In a campaign you may have ten or even twenty scenarios to build your army, "
 "but this tutorial will conclude after you defeat Thrag."
@@ -1789,48 +1789,48 @@ msgstr ""
 "を倒したら終了です。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1257
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1259
 msgid ""
 "We will miss $unit.name| because he had $unit.experience experience points. "
 "He would have advanced a level soon."
 msgstr "$unit.experience XPを持つ $unit.name| を失ってしまいました。もうすぐレベルアップもできたろうに..."
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1263
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1265
 msgid ""
 "We will miss $unit.name| because she had $unit.experience experience points."
 " She would have advanced a level soon."
 msgstr "$unit.experience XPを持つ $unit.name| を失ってしまいました。もうすぐレベルアップもできたろうに..."
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1292
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1294
 msgid ""
 "We will miss $unit.name|, but at least he was not one of our experienced "
 "troops!"
 msgstr "$unit.name| を失ってしまいました。しかし、経験を積んだ兵士では無かったのは不幸中の幸いでしょうか。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1298
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1300
 msgid ""
 "We will miss $unit.name|, but at least she was not one of our experienced "
 "troops!"
 msgstr "$unit.name| を失ってしまいました。しかし、経験を積んだ兵士では無かったのは不幸中の幸いでしょうか。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1315
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1317
 msgid ""
 "Higher level units are powerful, but not invulnerable. We’ll miss you, "
 "$unit.name|."
 msgstr "高レベルユニットは強力ですが、不死身ではありません。$unit.name| よ、安らかに。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1329
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1331
 msgid ""
 "Losing a healer hurts all the troops! Keep them out of the enemy’s reach!"
 msgstr "ヒーラーを失うことは部隊にとって大きな痛手です！敵の手が届かぬようにすべきでした！"
 
 #. [event]
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1343
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1345
 msgid ""
 "Beware of the orc leader: he can do 36 hitpoints of damage at night! Attack "
 "with many units at once during the day."
@@ -1838,7 +1838,7 @@ msgstr "オークのリーダーに注意してください。奴は夜間には
 
 #. [message]: speaker=unit
 #. The speaker is female
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1357
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1359
 msgid ""
 "Advancing a level has fully healed me! I am able to heal units 8 hitpoints "
 "per turn, instead of just 4, and may also cure them of poison if they cannot"
@@ -1850,7 +1850,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #. The speaker is female
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1371
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1373
 msgid ""
 "Advancing a level has fully healed me! I cannot heal adjacent units anymore,"
 " but to compensate, I have a new, powerful faerie fire attack that deals 7 "
@@ -1860,7 +1860,7 @@ msgstr ""
 "レベルアップで全回復したわ！回復能力は失ったけれど、7ー4ダメージの強力な妖精の炎が使えるの！これは<i>魔法</i>攻撃だから、70%の確率で攻撃を命中するわ。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1385
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1387
 msgid ""
 "Advancing a level has fully healed me! When attacking, I always have at "
 "least a 60% chance of hitting with my longbow thanks to my <i>Marksman</i> "
@@ -1871,7 +1871,7 @@ msgstr ""
 "の攻撃ができるんだ。回避率の高いユニットを倒す時には私を呼んでくれ。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1386
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1388
 msgid ""
 "female^Advancing a level has fully healed me! When attacking, I always have "
 "at least a 60% chance of hitting with my longbow thanks to my "
@@ -1882,7 +1882,7 @@ msgstr ""
 "の命中率で9ー4の攻撃ができるの。回避率の高いユニットを倒す時には私を呼んでね。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1399
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1401
 msgid ""
 "Advancing a level has fully healed me! I am good with both bow and sword, "
 "and I have a special ability: <i>Ambush</i>. I can hide in forests where "
@@ -1890,7 +1890,7 @@ msgid ""
 msgstr "レベルアップ時に全回復したぞ！剣と弓どちらでも上手く扱えるんだ。<i>伏兵</i>能力があるから、森の中にいれば敵に見つからないぞ。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1400
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1402
 msgid ""
 "female^Advancing a level has fully healed me! I am good with both bow and "
 "sword, and I have a special ability: <i>Ambush</i>. I can hide in forests "
@@ -1898,7 +1898,7 @@ msgid ""
 msgstr "レベルアップ時に全回復したわ！剣と弓どちらでも上手く扱えるの。<i>伏兵</i>能力があるから、森の中にいれば敵に見つからないよ。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1414
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1416
 msgid ""
 "Advancing a level has fully healed me! I am good with both bow and sword, "
 "and I have a special ability: <i>Leadership</i>. I do less damage myself "
@@ -1908,7 +1908,7 @@ msgstr ""
 "レベルアップで全回復したぞ！剣と弓のどちらでも扱えるし、<i>統率</i>能力を持っているんだ。エルフの英雄よりも攻撃力は低いが、統率によって味方を強くすることができる。私の隣にいるレベル1のユニットは与えるダメージが25%増加するから、上手く活用してくれよ！"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1427
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1429
 msgid ""
 "Advancing a level has fully healed me! I am particularly good with the "
 "sword, dealing 8 damage in 4 attacks. While I don’t have the Leadership "
@@ -1918,7 +1918,7 @@ msgstr ""
 "レベルアップで全回復したぞ！剣術を磨いたから、8ー4の攻撃ができるんだ。エルフの隊長のように統率能力は持たないが、卓越した戦闘技術で敵に多くのダメージを与えるぞ！"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1440
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1442
 msgid ""
 "Advancing a level has fully healed me! I have become better at using the "
 "sword, dealing 9 damage in 4 attacks. Although I do not have any special "
@@ -1928,7 +1928,7 @@ msgstr ""
 "レベルアップで全回復したぞ！剣術を磨いたから、9ー4の攻撃ができるんだ。特殊な能力は持っていないけど、この卓越した戦闘技術があればオークに多くのダメージを与えられる！"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1441
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1443
 msgid ""
 "female^Advancing a level has fully healed me! I have become better at using "
 "the sword, dealing 9 damage in 4 attacks. Although I do not have any special"
@@ -1938,39 +1938,39 @@ msgstr ""
 "レベルアップで全回復したわ！剣術に磨きをかけたから、9ー4の攻撃ができるようになったわ。特殊な能力は持っていないけど、この戦闘技術でオークにより多くのダメージが与えられる！"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1450
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1452
 msgid "You took too long! Now we’ll never be rid of these orcs!"
 msgstr "時間がかかり過ぎています！もはやオークを排除することはできないでしょう！"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1466
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1468
 msgid "That... was foolish. Next time I should be more careful."
 msgstr "なんと...愚かなことをしたのだろう。次はもっと上手くやらないと。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1467
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1469
 msgid "female^That... was foolish. Next time I should be more careful."
 msgstr "なんて...馬鹿だったのかしら。次はもっと上手くやらないと。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1485
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1487
 msgid "Agh! Who will guide you to victory now?"
 msgstr "うぐ！ あなたを勝利に導くはずだったのに。"
 
 #. [message]: speaker=Galdrad
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1504
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1506
 msgid "You have beaten the orcs! Well done."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1509
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1511
 msgid ""
 "You can also refer to the in-game help browser if you ever need to refresh "
 "your memory on gameplay mechanics."
 msgstr "ゲームの仕組みを忘れてしまったときは、ゲーム内ヘルプを開いて確認することもできます。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1519
+#: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1521
 msgid "Now, continue onwards to play “Heir to the Throne, Classic”..."
 msgstr ""
 

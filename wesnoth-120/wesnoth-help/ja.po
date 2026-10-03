@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-23 23:10 UTC\n"
+"POT-Creation-Date: 2026-08-03 03:45 UTC\n"
 "PO-Revision-Date: 2026-03-28 19:10+0000\n"
 "Last-Translator: RatArmy, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
-#: data/campaigns/Heir_To_The_Throne_Classic/utils/httt_utils.cfg:500
+#: data/campaigns/Heir_To_The_Throne_Classic/utils/httt_utils.cfg:499
 #: data/core/editor/time-of-day.cfg:41 data/core/macros/schedules.cfg:113
 msgid "Underground"
 msgstr "地下"
@@ -51,7 +51,7 @@ msgstr "勇敢"
 #. [plague]: id=plague, type=Walking Corpse
 #: data/campaigns/Secrets_of_the_Ancients/gui/zombie_recruit_dialog.cfg:244
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:6
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:48
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:47
 #: data/core/macros/weapon_specials.cfg:71
 msgid "plague"
 msgstr "疫病"
@@ -70,42 +70,42 @@ msgstr ""
 
 #. [trait]: id=loyal_dummy
 #. [trait]: id=loyal
-#: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:113
-#: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:748
-#: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:20
+#: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:188
+#: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:770
+#: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:23
 #: data/core/macros/traits.cfg:12
 msgid "loyal"
 msgstr "忠義"
 
 #. [trait]: id=loyal_dummy
-#: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:114
-#: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:749
-#: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:21
+#: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:189
+#: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:771
+#: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:24
 msgid "Zero upkeep."
 msgstr ""
 
 #. [trait]: id=intelligent_dummy
 #. [trait]: id=intelligent
-#: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:25
+#: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:28
 #: data/core/macros/traits.cfg:190
 msgid "intelligent"
 msgstr "知的"
 
 #. [trait]: id=intelligent_dummy
-#: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:26
+#: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:29
 msgid "Intelligent units require 20% less experience than usual to advance."
 msgstr "知的なユニットは通常よりもレベルアップに必要な経験が 20% 少なく済みます。"
 
 #. [resistance]: id=garak_steadfast
 #. [resistance]: id=steadfast
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:708
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:707
 #: data/core/macros/abilities.cfg:139
 msgid "steadfast"
 msgstr "装甲"
 
 #. [resistance]: id=garak_steadfast
 #. [resistance]: id=steadfast
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:709
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:708
 #: data/core/macros/abilities.cfg:140
 msgid "female^steadfast"
 msgstr "装甲"
@@ -248,7 +248,7 @@ msgstr "瞬間移動"
 #. [artifact]
 #. [regenerate]: id=regenerates
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:760
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:54
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:53
 #: data/core/macros/abilities.cfg:102
 msgid "regenerates"
 msgstr "再生"
@@ -282,91 +282,91 @@ msgid "leadership"
 msgstr "統率"
 
 #. [hides]: id=ambush
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:12
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:11
 #: data/core/macros/abilities.cfg:295
 msgid "ambush"
 msgstr "伏兵"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:15
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:14
 msgid "Castle"
 msgstr "城"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:18
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:17
 msgid "Cave"
 msgstr "洞窟"
 
 #. [hides]: id=concealment
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:21
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:20
 #: data/core/macros/abilities.cfg:358
 msgid "concealment"
 msgstr "潜伏"
 
 #. [drains]: id=drains
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:24
-#: data/core/macros/weapon_specials.cfg:183
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:23
+#: data/core/macros/weapon_specials.cfg:184
 msgid "drains"
 msgstr "生命吸収"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:27
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:26
 msgid "firststrike"
 msgstr "先制"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:30
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:29
 msgid "Forest"
 msgstr "森"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:33
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:32
 msgid "Frozen"
 msgstr "凍土"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:36
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:35
 msgid "Hills"
 msgstr "丘"
 
 #. [chance_to_hit]: id=marksman
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:39
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:38
 #: data/core/macros/weapon_specials.cfg:105
 msgid "marksman"
 msgstr "精密"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:42
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:41
 msgid "Mushroom Grove"
 msgstr "キノコの森"
 
 #. [hides]: id=nightstalk
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:45
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:44
 #: data/core/macros/abilities.cfg:338
 msgid "nightstalk"
 msgstr "隠密"
 
 #. [poison]: id=poison
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:51
-#: data/core/macros/weapon_specials.cfg:205
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:50
+#: data/core/macros/weapon_specials.cfg:206
 msgid "poison"
 msgstr "毒"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:57
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:56
 msgid "Sand"
 msgstr "砂地"
 
 #. [skirmisher]: id=skirmisher
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:60
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:59
 #: data/core/macros/abilities.cfg:229
 msgid "skirmisher"
 msgstr "散兵"
 
 #. [slow]: id=slow
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:63
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:62
 #: data/core/macros/weapon_specials.cfg:83
 msgid "slows"
 msgstr "遅化"
 
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:66
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:65
 msgid "Swamp"
 msgstr "沼地"
 
 #. [heals]: id=curing
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:69
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:68
 #: data/core/macros/abilities.cfg:66
 msgid "cures"
 msgstr "治療"
@@ -1135,12 +1135,12 @@ msgstr ""
 #. [section]: id=calendar
 #. [topic]: id=..calendar
 #: data/core/encyclopedia/calendar.cfg:5
-#: data/core/encyclopedia/calendar.cfg:13
+#: data/core/encyclopedia/calendar.cfg:12
 msgid "Calendar"
 msgstr "暦"
 
 #. [topic]: id=..calendar
-#: data/core/encyclopedia/calendar.cfg:14
+#: data/core/encyclopedia/calendar.cfg:13
 msgid ""
 "Each year in the Wesnothian calendar is composed of 12 months. These are, in order:\n"
 "\n"
@@ -1164,30 +1164,30 @@ msgstr ""
 
 #. [section]: id=geography
 #. [topic]: id=..geography
+#: data/core/encyclopedia/geography.cfg:5
 #: data/core/encyclopedia/geography.cfg:12
-#: data/core/encyclopedia/geography.cfg:19
 msgid "Geography"
 msgstr "地理"
 
 #. [topic]: id=arkan_thoria
-#: data/core/encyclopedia/geography.cfg:26
+#: data/core/encyclopedia/geography.cfg:19
 msgid "Arkan-thoria"
 msgstr "Arkan-thoria"
 
 #. [topic]: id=arkan_thoria
-#: data/core/encyclopedia/geography.cfg:27
+#: data/core/encyclopedia/geography.cfg:20
 msgid ""
 "A river rising in the <ref dst='heart_mountains'>Heart Mountains</ref> and "
 "running east to the Listra."
 msgstr ""
 
 #. [topic]: id=great_river
-#: data/core/encyclopedia/geography.cfg:32
+#: data/core/encyclopedia/geography.cfg:25
 msgid "Great River"
 msgstr "大いなる川"
 
 #. [topic]: id=great_river
-#: data/core/encyclopedia/geography.cfg:33
+#: data/core/encyclopedia/geography.cfg:26
 msgid ""
 "The Great River forms the boundary between the <ref "
 "dst='kingdom_wesnoth'>Kingdom of Wesnoth</ref> and the <ref "
@@ -1196,19 +1196,19 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=great_river
-#: data/core/encyclopedia/geography.cfg:35
+#: data/core/encyclopedia/geography.cfg:28
 msgid ""
 "The Ford of Abez is a crossing between Wesnoth and the Northlands, and is "
 "the westernmost point where the Great River can be crossed without ships."
 msgstr ""
 
 #. [topic]: id=great_ocean
-#: data/core/encyclopedia/geography.cfg:40
+#: data/core/encyclopedia/geography.cfg:33
 msgid "Great Ocean"
 msgstr "大洋（Great Ocean）"
 
 #. [topic]: id=great_ocean
-#: data/core/encyclopedia/geography.cfg:41
+#: data/core/encyclopedia/geography.cfg:34
 msgid ""
 "Lies to the west of the <ref dst='great_continent'>continent</ref> and all "
 "rivers eventually flow to it. Far to the west in the Great Ocean is a huge "
@@ -1217,7 +1217,7 @@ msgstr ""
 
 #. [topic]: id=great_ocean
 #. Great Ocean
-#: data/core/encyclopedia/geography.cfg:45
+#: data/core/encyclopedia/geography.cfg:38
 msgid ""
 "The Drakes once called this ocean the World Ocean. They believe it to extend"
 " in every direction from Morogor until eventually flowing into the abyss as "
@@ -1225,12 +1225,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=morogor
-#: data/core/encyclopedia/geography.cfg:50
+#: data/core/encyclopedia/geography.cfg:43
 msgid "Morogor"
 msgstr "Morogor"
 
 #. [topic]: id=morogor
-#: data/core/encyclopedia/geography.cfg:51
+#: data/core/encyclopedia/geography.cfg:44
 msgid ""
 "Archipelago, located somewhere in the <ref dst='great_ocean'>Great Ocean</ref> east of the <ref dst='green_isle'>Green Isle</ref> and west of the <ref dst='great_continent'>Great Continent</ref>.\n"
 "It is mostly inhabited by <ref dst='..race_drake'>drakes</ref>.\n"
@@ -1239,7 +1239,7 @@ msgstr ""
 
 #. [topic]: id=morogor
 #. Geography of Morogor
-#: data/core/encyclopedia/geography.cfg:57
+#: data/core/encyclopedia/geography.cfg:50
 msgid ""
 "<header>Notable land features:</header>\n"
 "    • Mount Morogor: The highest active volcanic mountain in the central island of Morogor.\n"
@@ -1248,12 +1248,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=green_isle
-#: data/core/encyclopedia/geography.cfg:65
+#: data/core/encyclopedia/geography.cfg:58
 msgid "Green Isle"
 msgstr "緑の島（Green Isle）"
 
 #. [topic]: id=green_isle
-#: data/core/encyclopedia/geography.cfg:66
+#: data/core/encyclopedia/geography.cfg:59
 msgid ""
 "A bigger island lying in the <ref dst='great_ocean'>Great Ocean</ref>, "
 "formerly home to the Islefolk and Wesfolk."
@@ -1261,7 +1261,7 @@ msgstr ""
 
 #. [topic]: id=green_isle
 #. Geography of the Green Isle
-#: data/core/encyclopedia/geography.cfg:70
+#: data/core/encyclopedia/geography.cfg:63
 msgid ""
 "<header>Notable cities:</header>\n"
 "    • Southbay: The capital of the largest Islefolk kingdom.\n"
@@ -1273,7 +1273,7 @@ msgstr ""
 
 #. [topic]: id=green_isle
 #. Geography of the Green Isle
-#: data/core/encyclopedia/geography.cfg:79
+#: data/core/encyclopedia/geography.cfg:72
 msgid ""
 "<header>Notable land features:</header>\n"
 "    • Broken Mountains: A mighty mountain range that cuts through the Green Isle.\n"
@@ -1283,12 +1283,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=old_continent
-#: data/core/encyclopedia/geography.cfg:88
+#: data/core/encyclopedia/geography.cfg:81
 msgid "Old Continent"
 msgstr "旧大陸（Old Continent）"
 
 #. [topic]: id=old_continent
-#: data/core/encyclopedia/geography.cfg:89
+#: data/core/encyclopedia/geography.cfg:82
 msgid ""
 "Lies to the west of <ref dst='morogor'>Morogor</ref> and the <ref "
 "dst='green_isle'>Green Isle</ref> across the <ref dst='great_ocean'>Great "
@@ -1296,12 +1296,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=great_continent
-#: data/core/encyclopedia/geography.cfg:94
+#: data/core/encyclopedia/geography.cfg:87
 msgid "Great Continent"
 msgstr "大陸（Great Continent）"
 
 #. [topic]: id=great_continent
-#: data/core/encyclopedia/geography.cfg:95
+#: data/core/encyclopedia/geography.cfg:88
 msgid ""
 "The continent on which the <ref dst='kingdom_wesnoth'>Kingdom of "
 "Wesnoth</ref> lies. Its west coast is surrounded by the <ref "
@@ -1309,12 +1309,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=irdya
-#: data/core/encyclopedia/geography.cfg:100
+#: data/core/encyclopedia/geography.cfg:93
 msgid "Irdya"
 msgstr "Irdya"
 
 #. [topic]: id=irdya
-#: data/core/encyclopedia/geography.cfg:101
+#: data/core/encyclopedia/geography.cfg:94
 msgid ""
 "The name of the world in which the kingdom of <ref "
 "dst='kingdom_wesnoth'>Wesnoth</ref> is situated is ‘Irdya’. This term is, "
@@ -1323,12 +1323,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=kingdom_wesnoth
-#: data/core/encyclopedia/geography.cfg:106
+#: data/core/encyclopedia/geography.cfg:99
 msgid "Kingdom of Wesnoth"
 msgstr "Wesnoth 王国（Kingdom of Wesnoth）"
 
 #. [topic]: id=kingdom_wesnoth
-#: data/core/encyclopedia/geography.cfg:107
+#: data/core/encyclopedia/geography.cfg:100
 msgid ""
 "The Kingdom of Wesnoth is located in the north-central portion of the <ref dst='great_continent'>Great Continent</ref>. Most of the mainline campaigns revolve around it. It is bounded on the map by the <ref dst='great_river'>Great River</ref> to the north, the shore of the <ref dst='great_ocean'>ocean</ref> to the west, the Aethenwood to the <ref dst='southwest_elven_lands'>southwest</ref>, and the Bitter Swamp to the southeast.\n"
 "\n"
@@ -1337,7 +1337,7 @@ msgstr ""
 
 #. [topic]: id=kingdom_wesnoth
 #. Geography of Wesnoth
-#: data/core/encyclopedia/geography.cfg:113
+#: data/core/encyclopedia/geography.cfg:106
 msgid ""
 "<header>Notable cities:</header>\n"
 "    • Weldyn: The capital of Wesnoth.\n"
@@ -1354,7 +1354,7 @@ msgstr ""
 
 #. [topic]: id=kingdom_wesnoth
 #. Geography of Wesnoth
-#: data/core/encyclopedia/geography.cfg:127
+#: data/core/encyclopedia/geography.cfg:120
 msgid ""
 "<header>Notable land features:</header>\n"
 "    • Gryphon Mountain: Home of the fabled Gryphons.\n"
@@ -1372,12 +1372,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=elensefar
-#: data/core/encyclopedia/geography.cfg:144
+#: data/core/encyclopedia/geography.cfg:137
 msgid "Elensefar"
 msgstr "Elensefar"
 
 #. [topic]: id=elensefar
-#: data/core/encyclopedia/geography.cfg:145
+#: data/core/encyclopedia/geography.cfg:138
 msgid ""
 "Elensefar is at times a province of <ref "
 "dst='kingdom_wesnoth'>Wesnoth</ref>, at times an independent country, and at"
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #. [topic]: id=elensefar
 #. Geography of Elensefar area
-#: data/core/encyclopedia/geography.cfg:149
+#: data/core/encyclopedia/geography.cfg:142
 msgid ""
 "<header>Notable cities:</header>\n"
 "    • Elensefar: The capital, located on an island in the Great River delta, though some peripheral farmland extends slightly on both sides of the Great River.\n"
@@ -1398,19 +1398,19 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=elensefar
-#: data/core/encyclopedia/geography.cfg:154
+#: data/core/encyclopedia/geography.cfg:147
 msgid ""
 "<header>Notable land features:</header>\n"
 "    • <ref dst='great_river'>Great River</ref>: It is very wide at this point, and only ships can cross it."
 msgstr ""
 
 #. [topic]: id=northlands
-#: data/core/encyclopedia/geography.cfg:160
+#: data/core/encyclopedia/geography.cfg:153
 msgid "Northlands"
 msgstr "北の大地（Northlands）"
 
 #. [topic]: id=northlands
-#: data/core/encyclopedia/geography.cfg:161
+#: data/core/encyclopedia/geography.cfg:154
 msgid ""
 "The Northlands are filled with unstable clans in endless conflict. It is an unlawful and perilous place plagued by its cold, icy terrain and constant war. Various groups of orcs, dwarves, humans, gryphons, ogres, and even elves fight over the region. The northern and eastern borders of the Northlands are not defined, the southern border is the <ref dst='great_river'>Great River</ref>, and the western border is the <ref dst='great_ocean'>ocean</ref>.\n"
 "\n"
@@ -1419,7 +1419,7 @@ msgstr ""
 
 #. [topic]: id=northlands
 #. Geography of the Northlands
-#: data/core/encyclopedia/geography.cfg:167
+#: data/core/encyclopedia/geography.cfg:160
 msgid ""
 "<header>Notable cities:</header>\n"
 "    • Glamdrol: An Orcish tribal capital.\n"
@@ -1431,7 +1431,7 @@ msgstr ""
 
 #. [topic]: id=northlands
 #. Geography of the Northlands
-#: data/core/encyclopedia/geography.cfg:176
+#: data/core/encyclopedia/geography.cfg:169
 msgid ""
 "<header>Notable land features:</header>\n"
 "    • <ref dst='heart_mountains'>Heart Mountains</ref>: A virtually impassable barrier between the river country and the Northern Plains.\n"
@@ -1445,12 +1445,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=southwest_elven_lands
-#: data/core/encyclopedia/geography.cfg:189
+#: data/core/encyclopedia/geography.cfg:182
 msgid "Southwest Elven Lands"
 msgstr "南西のエルフ王国（Southwest Elven Lands）"
 
 #. [topic]: id=southwest_elven_lands
-#: data/core/encyclopedia/geography.cfg:190
+#: data/core/encyclopedia/geography.cfg:183
 msgid ""
 "The Wood Elves are separate from those of the north, and have only "
 "intermittent relations with them and most other countries. Its borders are "
@@ -1461,7 +1461,7 @@ msgstr ""
 
 #. [topic]: id=southwest_elven_lands
 #. Geography of the Southwest
-#: data/core/encyclopedia/geography.cfg:194
+#: data/core/encyclopedia/geography.cfg:187
 msgid ""
 "<header>Notable land features:</header>\n"
 "    • Aethenwood: The largest southern forest, home to reclusive <ref dst='..race_elf'>elves</ref>.\n"
@@ -1471,7 +1471,7 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=heart_mountains
-#: data/core/encyclopedia/geography.cfg:203
+#: data/core/encyclopedia/geography.cfg:196
 msgid "Heart Mountains"
 msgstr "中心山脈（Heart Mountains）"
 
@@ -1479,7 +1479,7 @@ msgstr "中心山脈（Heart Mountains）"
 #. The Whitefang Clan’s primary description is in DiD
 #. Wesnoth 1.9.4 added Haggid-Dargor to the encyclopedia, but it has no other
 #. mention in mainline
-#: data/core/encyclopedia/geography.cfg:206
+#: data/core/encyclopedia/geography.cfg:199
 msgid ""
 "A virtually impassable barrier between the <ref "
 "dst='arkan_thoria'>river</ref> country and the <ref dst='far_north'>Northern"
@@ -1490,12 +1490,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=far_north
-#: data/core/encyclopedia/geography.cfg:211
+#: data/core/encyclopedia/geography.cfg:204
 msgid "Far North"
 msgstr "極北（Far North）"
 
 #. [topic]: id=far_north
-#: data/core/encyclopedia/geography.cfg:212
+#: data/core/encyclopedia/geography.cfg:205
 msgid ""
 "Cold, harsh, and inaccessible, the Far North is the ancestral home of the "
 "Orcish Clannate. It lies north of the <ref dst='heart_mountains'>Heart "
@@ -1509,7 +1509,7 @@ msgstr ""
 
 #. [topic]: id=far_north
 #. Geography of the Far North
-#: data/core/encyclopedia/geography.cfg:216
+#: data/core/encyclopedia/geography.cfg:209
 msgid ""
 "<header>Notable cities:</header>\n"
 "    • Barag Gor: A city home to the Orcish Council.\n"
@@ -1528,7 +1528,7 @@ msgstr ""
 
 #. [topic]: id=far_north
 #. Geography of the Far North
-#: data/core/encyclopedia/geography.cfg:232
+#: data/core/encyclopedia/geography.cfg:225
 msgid ""
 "<header>Notable land features:</header>\n"
 "    • Desert of Death: An unusually dry desert in the Far North filled with venomous Sand Scuttlers. It is extremely hot by day yet chilly by night.\n"
@@ -1546,12 +1546,12 @@ msgid ""
 msgstr ""
 
 #. [topic]: id=far_south
-#: data/core/encyclopedia/geography.cfg:249
+#: data/core/encyclopedia/geography.cfg:242
 msgid "Far South"
 msgstr ""
 
 #. [topic]: id=far_south
-#: data/core/encyclopedia/geography.cfg:250
+#: data/core/encyclopedia/geography.cfg:243
 msgid ""
 "A vast region south of Kerlath home to many mysterious races, including jinn"
 " and wyverns. Very little is known for certain about what lies here."
@@ -1559,7 +1559,7 @@ msgstr ""
 
 #. [topic]: id=far_south
 #. Geography of the Far South
-#: data/core/encyclopedia/geography.cfg:254
+#: data/core/encyclopedia/geography.cfg:247
 msgid ""
 "<header>Notable land features:</header>\n"
 "    • Mountains of Peril: A tall and deadly mountain range in the Far South inhabited by bands of vicious barbarians and monsters.\n"
@@ -4461,25 +4461,25 @@ msgid ""
 msgstr ""
 
 #. [drains]: id=drains
-#: data/core/macros/weapon_specials.cfg:184
+#: data/core/macros/weapon_specials.cfg:185
 msgid ""
 "This unit drains health from living units, healing itself for half the "
 "amount of damage it deals (rounded down)."
 msgstr "このユニットは生者から生命力を奪って、与えたダメージの半分（切り下げ）だけ自分の HP を回復させます。"
 
 #. [firststrike]: id=firststrike
-#: data/core/macros/weapon_specials.cfg:194
+#: data/core/macros/weapon_specials.cfg:195
 msgid "first strike"
 msgstr "先制"
 
 #. [firststrike]: id=firststrike
-#: data/core/macros/weapon_specials.cfg:195
+#: data/core/macros/weapon_specials.cfg:196
 msgid ""
 "This unit always strikes first with this attack, even if they are defending."
 msgstr "防御時であっても、先に攻撃を開始します。"
 
 #. [poison]: id=poison
-#: data/core/macros/weapon_specials.cfg:206
+#: data/core/macros/weapon_specials.cfg:207
 msgid ""
 "This attack poisons living targets. Poisoned units lose 8 HP every turn "
 "until they are cured or are reduced to 1 HP. Poison cannot, of itself, kill "
@@ -4488,37 +4488,37 @@ msgstr ""
 "毒攻撃は生物に有効です。毒を受けたユニットは毎ターン8HPを失い、解毒するかHPが1になるまで毒の効果は続きます。毒のみでユニットが死ぬことはありません。"
 
 #. [stun]: id=stun
-#: data/core/macros/weapon_specials.cfg:216
+#: data/core/macros/weapon_specials.cfg:217
 msgid "stun"
 msgstr "スタン"
 
 #. [stun]: id=stun
-#: data/core/macros/weapon_specials.cfg:217
+#: data/core/macros/weapon_specials.cfg:218
 msgid ""
 "This attack hits so hard that the opponent is dazed and can no longer "
 "enforce a zone of control. The effect wears off on the opponent’s next turn."
 msgstr "この攻撃はその強烈さによって敵をひるませ、支配領域（ZOC）が維持できなくなります。この効果は敵の次のターンには解除されます。"
 
 #. [stun]: id=stun
-#: data/core/macros/weapon_specials.cfg:218
+#: data/core/macros/weapon_specials.cfg:219
 msgid ""
 "This unit is able to stun its enemies, disrupting their zones of control."
 msgstr "このユニットは敵をスタンさせることができ、その支配領域（ZOC）を妨害します。"
 
 #. [damage_type]: id=arcane_damage
-#: data/core/macros/weapon_specials.cfg:227
+#: data/core/macros/weapon_specials.cfg:228
 msgid "arcane"
 msgstr "秘術"
 
 #. [damage_type]: id=arcane_damage
-#: data/core/macros/weapon_specials.cfg:228
+#: data/core/macros/weapon_specials.cfg:229
 msgid ""
 "This attack combines the arcane type with the type of weapon used so that "
 "resistance to the arcane type does not penalize the user."
 msgstr "この攻撃のダメージ型は秘術としても扱います。ただし、秘術への耐性によって悪影響を受けることはありません。"
 
 #. [damage_type]: id=arcane_damage
-#: data/core/macros/weapon_specials.cfg:229
+#: data/core/macros/weapon_specials.cfg:230
 msgid ""
 "This unit can use the arcane type when the opponent is particularly "
 "sensitive to it in relation to the weapon on which it is applied."
@@ -4591,22 +4591,22 @@ msgid ""
 msgstr ""
 
 #. [race]: id=drake
-#: data/core/units.cfg:61
+#: data/core/units.cfg:59
 msgid "race^Drake"
 msgstr "ドレーク"
 
 #. [race]: id=drake
-#: data/core/units.cfg:62
+#: data/core/units.cfg:60
 msgid "race+female^Drake"
 msgstr "ドレーク族"
 
 #. [race]: id=drake
-#: data/core/units.cfg:63
+#: data/core/units.cfg:61
 msgid "race^Drakes"
 msgstr "ドレーク"
 
 #. [race]: id=drake
-#: data/core/units.cfg:64
+#: data/core/units.cfg:62
 msgid ""
 "Drakes are large, winged and fire-breathing creatures, reminiscent of true dragons. On average, an adult drake stands around three meters tall and easily weighs more than a man and a horse combined. Their skin is made up of hard scales, resistant to most physical strikes except piercing and cold damage. Most drakes are capable of true flight and can travel long distances quickly. However, their sheer weight and bulk limits their flight ability somewhat, making them ungainly in the air. Where possible, they make use of terrain features such as hills, mountains and trees as launch points in order to gain greater height and speed. Fortunately for their enemies, their large size renders them easy targets for those who dare attack them.\n"
 "\n"
@@ -4637,22 +4637,22 @@ msgstr ""
 "ドレークは<ref>dst='great_ocean' text='大洋'</ref>にある<ref>dst='morogor' text='Morogor'</ref>と呼ばれる火山島群を起源としています。人口の増加と島々の沈下から、ドレークの集団は<ref>dst='great_continent' text='大陸'</ref>に向かって行きました。ドレークは火口の近くにある洞窟に住むことを好み、そこで卵や子供、鍛造品を守ります。ドレークは生まれつき温かい場所を好みますが、比較的寒冷な場所にも耐えることができ、極北の山々にも生息しています。"
 
 #. [race]: id=dwarf
-#: data/core/units.cfg:97
+#: data/core/units.cfg:82
 msgid "race^Dwarf"
 msgstr "ドワーフ"
 
 #. [race]: id=dwarf
-#: data/core/units.cfg:98
+#: data/core/units.cfg:83
 msgid "race+female^Dwarf"
 msgstr "ドワーフ"
 
 #. [race]: id=dwarf
-#: data/core/units.cfg:99
+#: data/core/units.cfg:84
 msgid "race^Dwarves"
 msgstr "ドワーフ"
 
 #. [race]: id=dwarf
-#: data/core/units.cfg:100
+#: data/core/units.cfg:85
 msgid ""
 "The dwarves are a race famed for their miners, blacksmiths, merchants and warriors. Considered as the third oldest race on the great continent after the elves and trolls, their early history is shrouded in mystery. Legends tell of a time long forgotten when their people began emerging from their underground world through caves. Nothing is known about their life prior to their arrival, or their reasons for entering the surface world, but they have been an integral part of the history of the continent since. Soon after their emergence from the underground, the dwarves entered into conflict with the original inhabitants of the land, the elves. The original reason for their dispute has been lost to history, but the two races have since fought three long wars, interrupted by a few decades of peace. During these wars the dwarves could not dislodge the elves from the deep forests in the south, but managed to consolidate their position in hills and the mountains in the north of the continent, known now as the Northlands. Since then they have constructed fantastic fortifications and settlements deep within the mountains and crags of their territory.\n"
 "\n"
@@ -4667,22 +4667,22 @@ msgstr ""
 "ドワーフ族は人間の基準からは小さい姿をしていますが、決して脆弱というわけではありません。ドワーフの戦士は丈夫さと力強さを兼ね備えており、戦いにおける勇気は大陸中で尊敬されています。更にドワーフ族は計算高さと華麗な職人芸で知られています。ドワーフの鍛冶屋はその危険な武器と重い防具で有名です。彼らの装備は品質で匹敵するものがなく、おそらく釣り合うのはドレークの武具師が作るものくらいでしょう。彼らの知性と詮索好きな性質により、大陸で最も技術的に進歩した種族となりました。彼らの最も有名であり、また恐れられている発見は、火や火花にさらした時に巨大な爆発を起こす不思議な粉末です。あるドワーフの戦士は小さな物体を恐ろしい速度で投げつけるのにこの粉末を使います。技術に傾倒しているため、多くのドワーフは魔法使いを疑いがちです。しかしながらルーンを刻みつけることで、ある種の魔術を使う者もいます。ルーン細工師と呼ばれる彼らは、物品に魔法をかけてその性質の一面を増大させるのに彫刻を使用します。"
 
 #. [race]: id=elf
-#: data/core/units.cfg:117
+#: data/core/units.cfg:98
 msgid "race^Elf"
 msgstr "エルフ"
 
 #. [race]: id=elf
-#: data/core/units.cfg:118
+#: data/core/units.cfg:99
 msgid "race+female^Elf"
 msgstr "エルフ"
 
 #. [race]: id=elf
-#: data/core/units.cfg:119
+#: data/core/units.cfg:100
 msgid "race^Elves"
 msgstr "エルフ"
 
 #. [race]: id=elf
-#: data/core/units.cfg:121
+#: data/core/units.cfg:101
 msgid ""
 "Compared to humans, elves are somewhat taller, more agile but less sturdy. They have slightly pointy ears, pale skin and usually blond hair. Few differences between humans and elves are more pronounced than the Elves’ unusually long life — most, unless claimed by illness, accident or war, live at least a full two centuries. While some elves possessing a high magical aptitude have been known to live longer, most elves begin to grow physically frail at some point between 250 and 300 years of age and pass away rapidly thereafter.\n"
 "\n"
@@ -4705,22 +4705,22 @@ msgid ""
 msgstr ""
 
 #. [race]: id=falcon
-#: data/core/units.cfg:147
+#: data/core/units.cfg:127
 msgid "race^Falcon"
 msgstr "隼"
 
 #. [race]: id=falcon
-#: data/core/units.cfg:148
+#: data/core/units.cfg:128
 msgid "race+female^Falcon"
 msgstr "隼"
 
 #. [race]: id=falcon
-#: data/core/units.cfg:149
+#: data/core/units.cfg:129
 msgid "race^Falcons"
 msgstr "隼"
 
 #. [race]: id=falcon
-#: data/core/units.cfg:150
+#: data/core/units.cfg:130
 msgid ""
 "Falcons are birds of prey, noted for their exceptional speed and agility. "
 "Lighter and with less powerful talons than other raptors, falcons instead "
@@ -4734,29 +4734,29 @@ msgstr ""
 "隼（Falcon）は猛禽類の一種であり、並外れた速度で知られています。他の猛禽類と比べると、体重が軽く爪もそれほど強力ではありませんが、そのかわり嘴を使って獲物を殺します。鋭い目と人に慣れやすい性質によって鷹は人間に良く知られており、貴族のスポーツや遊牧民の狩りに利用されます。また、戦場でも鷹は役割を持つことがあります。友軍と敵を区別するように訓練され、軍隊を支援します。"
 
 #. [race]: id=goblin
-#: data/core/units.cfg:158
+#: data/core/units.cfg:137
 msgid "race^Goblin"
 msgstr "ゴブリン"
 
 #. [race]: id=goblin
-#: data/core/units.cfg:159
+#: data/core/units.cfg:138
 msgid "race+female^Goblin"
 msgstr "ゴブリン"
 
 #. [race]: id=goblin
-#: data/core/units.cfg:160
+#: data/core/units.cfg:139
 msgid "race^Goblins"
 msgstr "ゴブリン"
 
 #. [race]: id=goblin
-#: data/core/units.cfg:163
+#: data/core/units.cfg:142
 msgid ""
 "Goblins are puny and quite frail, rarely growing past the size and stature "
 "of a human child."
 msgstr ""
 
 #. [race]: id=goblin
-#: data/core/units.cfg:165
+#: data/core/units.cfg:144
 msgid ""
 "Goblins are born into a lifetime of near-slavery to their larger kin, and "
 "used as sword-fodder in battle. They thrive in spite of their tragic fate; "
@@ -4768,22 +4768,22 @@ msgid ""
 msgstr ""
 
 #. [race]: id=gryphon
-#: data/core/units.cfg:178
+#: data/core/units.cfg:156
 msgid "race^Gryphon"
 msgstr "グリフォン"
 
 #. [race]: id=gryphon
-#: data/core/units.cfg:179
+#: data/core/units.cfg:157
 msgid "race+female^Gryphon"
 msgstr "グリフォン"
 
 #. [race]: id=gryphon
-#: data/core/units.cfg:180
+#: data/core/units.cfg:158
 msgid "race^Gryphons"
 msgstr "グリフォン"
 
 #. [race]: id=gryphon
-#: data/core/units.cfg:181
+#: data/core/units.cfg:159
 msgid ""
 "Gryphons are broad, powerful beasts with traits shared from both terrestrial predators and birds of prey. While occasionally tamed and ridden by the daring, gryphons are very territorial and aggressive, particularly regarding their nests.\n"
 "\n"
@@ -4794,22 +4794,22 @@ msgstr ""
 "グリフォンは非常に重いのにも関わらず、空を飛んでいます。このことは何世紀にも渡って議論されてきましたが、グリフォンの起源と共に謎のままです。"
 
 #. [race]: id=horse
-#: data/core/units.cfg:191
+#: data/core/units.cfg:169
 msgid "race^Horse"
 msgstr "馬"
 
 #. [race]: id=horse
-#: data/core/units.cfg:192
+#: data/core/units.cfg:170
 msgid "race+female^Horse"
 msgstr "雌馬"
 
 #. [race]: id=horse
-#: data/core/units.cfg:193
+#: data/core/units.cfg:171
 msgid "race^Horses"
 msgstr "馬"
 
 #. [race]: id=horse
-#: data/core/units.cfg:194
+#: data/core/units.cfg:172
 msgid ""
 "Domesticated horses come in many shapes and sizes, from mighty war chargers, to sturdy draught horses or agile stock horses. While they are more fragile than many beasts, their speed and cunning allow feral horses to thrive in the wild, alongside their wild brethren.\n"
 "\n"
@@ -4820,22 +4820,22 @@ msgstr ""
 "馬は多くの文明で重要な役割を担っており、馬に関する神秘や伝承が多数あるのは当然のことです。有翼馬、半人半馬、幽霊馬が文献には登場しますが、実在するかどうかは怪しいものです。"
 
 #. [race]: id=human
-#: data/core/units.cfg:211
+#: data/core/units.cfg:181
 msgid "race^Human"
 msgstr "人間"
 
 #. [race]: id=human
-#: data/core/units.cfg:212
+#: data/core/units.cfg:182
 msgid "race+female^Human"
 msgstr "人間"
 
 #. [race]: id=human
-#: data/core/units.cfg:213
+#: data/core/units.cfg:183
 msgid "race^Humans"
 msgstr "人間"
 
 #. [race]: id=human
-#: data/core/units.cfg:214
+#: data/core/units.cfg:184
 msgid ""
 "The race of men is an extremely diverse one. Although they originally came from the Old Continent, men have spread all over the world and split into many different cultures and races. Although they are not imbued with magic like other creatures, humans can learn to wield it and are able to learn more types than most others. They have no extra special abilities or aptitudes except their versatility and drive. While often at odds with other races, they can occasionally form alliances with the less aggressive races such as elves and dwarves. The less scrupulous among them do not shrink back from hiring orcish mercenaries, either. They have no natural enemies, although the majority of men, like most people of all races, have an instinctive dislike of the undead. Men are shorter than the elves, but taller still than dwarves. Their skin color can vary, from almost white to dark brown.\n"
 "\n"
@@ -4854,22 +4854,22 @@ msgstr ""
 "Wesnoth の東部の州は、クラン（氏族、一族）の祖国として知られており、西部のより文明化した州に比べ、その地形はより開けた平地となだらかに起伏した丘で構成されています。これらの州は騎乗のクランの本拠地であり、彼らは Wesnoth の王位と同盟しているものの、彼らは独立して活動しており、独自性を保っています。ある者はこれらの州を、防衛の代わりに食料や兵士を届ける属国の州と考えています。他の者は Wesnoth の西部の州と対等の立場だと考えています。ともかく、東部の州には西部 Wesnoth のような徴兵制はありません。戦いに備えて鍛えることは、クランにとっては生活の一部です。親たちは子供たちに幼少の頃から馬に乗り、戦い、弓を射ることを教えます。概して、クランの戦士たちは文明化した戦士たちよりも組織立っていません。これらのグループの長所と短所は互いに補完しあいます。"
 
 #. [race]: id=dunefolk
-#: data/core/units.cfg:229
+#: data/core/units.cfg:197
 msgid "race^Dunefolk Human"
 msgstr "デューンフォーク（人間）"
 
 #. [race]: id=dunefolk
-#: data/core/units.cfg:230
+#: data/core/units.cfg:198
 msgid "race+female^Dunefolk Human"
 msgstr "デューンフォーク（人間）"
 
 #. [race]: id=dunefolk
-#: data/core/units.cfg:231
+#: data/core/units.cfg:199
 msgid "race+plural^Dunefolk"
 msgstr "デューンフォーク"
 
 #. [race]: id=dunefolk
-#: data/core/units.cfg:233
+#: data/core/units.cfg:201
 msgid ""
 "An offshoot of a forgotten nomadic civilization, the Dunefolk lay claim to the river valleys and oases of the Sandy Wastes. How they came to inhabit this far corner of the Great Continent is unknown. Their legends tell of many long and perilous travels through far-flung lands, but the true origin of their people is a topic of endless and heated debate among even the most erudite of their scholars.\n"
 "\n"
@@ -4896,22 +4896,22 @@ msgstr ""
 "デューンフォークの好奇心旺盛で探索好きな性質は、軍の強さも支えています。デューンフォークの軍は俊敏な兵士や騎甲兵、重歩兵を備えているだけでなく、鋭敏な技術知識を持ちます。技術知識は敵に対する大きなアドバンテージとなるのです。しかし、デューンフォークと対峙する際にもっとも恐ろしいのは、彼らが操る奇妙かつ獰猛な獣たちです。威厳あるロック鳥や目を引くワイバーンなど、生物との共闘によって戦闘に大きな多様性が生まれています。生物を操る伝統の起源は、デューンフォークの祖先が Irdya の辺境に暮らしていたころの遺産なのかもしれません。"
 
 #. [race]: id=lizard
-#: data/core/units.cfg:254
+#: data/core/units.cfg:221
 msgid "race^Saurian"
 msgstr "トカゲ"
 
 #. [race]: id=lizard
-#: data/core/units.cfg:255
+#: data/core/units.cfg:222
 msgid "race+female^Saurian"
 msgstr "トカゲ"
 
 #. [race]: id=lizard
-#: data/core/units.cfg:256
+#: data/core/units.cfg:223
 msgid "race^Saurians"
 msgstr "トカゲ"
 
 #. [race]: id=lizard
-#: data/core/units.cfg:257
+#: data/core/units.cfg:224
 msgid ""
 "Saurians are lizard-like creatures. Smaller and more slender than humans, they rarely stand taller than a ten year old child, though from tip of snout to end of tail a Saurian can be as long as the average man is tall. Light and nimble, the warriors prefer to fight as they hunt — slipping through enemy lines to target the weak and the injured while evading their attackers.\n"
 "\n"
@@ -4934,17 +4934,17 @@ msgid ""
 msgstr ""
 
 #. [race]: id=mechanical
-#: data/core/units.cfg:283
+#: data/core/units.cfg:250
 msgid "race^Mechanical"
 msgstr "機械"
 
 #. [race]: id=mechanical
-#: data/core/units.cfg:284
+#: data/core/units.cfg:251
 msgid "race+plural^Mechanical"
 msgstr "機械"
 
 #. [race]: id=mechanical
-#: data/core/units.cfg:285
+#: data/core/units.cfg:252
 msgid ""
 "Animated neither by natural life nor by necromancy, the term "
 "<italic>text='mechanical'</italic> describes a created artifact of an "
@@ -4954,17 +4954,17 @@ msgstr ""
 "その起源には関係なく、「機械」という単語は知性ある存在によって作られた人工物を意味します。ほとんどの機械は自ら動くことも思考することもありませんが、ある物は魔法的な力によってそうします。"
 
 #. [race]: id=ship
-#: data/core/units.cfg:294
+#: data/core/units.cfg:261
 msgid "race^Ship"
 msgstr ""
 
 #. [race]: id=ship
-#: data/core/units.cfg:295
+#: data/core/units.cfg:262
 msgid "race+plural^Ships"
 msgstr ""
 
 #. [race]: id=ship
-#: data/core/units.cfg:296
+#: data/core/units.cfg:263
 msgid ""
 "Ships are not living beings, but they are crafted and (usually) controlled "
 "by living beings. Most ships neither move nor think on their own, but some "
@@ -4972,22 +4972,22 @@ msgid ""
 msgstr ""
 
 #. [race]: id=merman
-#: data/core/units.cfg:307
+#: data/core/units.cfg:273
 msgid "race^Merman"
 msgstr "マーフォーク"
 
 #. [race]: id=merman
-#: data/core/units.cfg:308
+#: data/core/units.cfg:274
 msgid "race^Mermaid"
 msgstr "マーフォーク"
 
 #. [race]: id=merman
-#: data/core/units.cfg:309
+#: data/core/units.cfg:275
 msgid "race^Merfolk"
 msgstr "マーフォーク"
 
 #. [race]: id=merman
-#: data/core/units.cfg:311
+#: data/core/units.cfg:276
 msgid ""
 "Something like a fusion between humans and fish, the merfolk are an "
 "enigmatic race with both piscine and humanoid attributes. They have strong "
@@ -5002,22 +5002,22 @@ msgstr ""
 "人間と魚を合体させたような存在であるマーフォークは両者の特徴を兼備する謎の種族です。彼らは強力な尾を持ち、すべての水中または水上で高速な移動が可能です。一方、器用な手と知性を持ち高度な道具作りの技能も持ちます。生まれつき水の環境によく適応しているので、マーフォークは水中でも空気中でも何の苦労もなく呼吸できます。よって陸地でも生存自体はできますが、やはり彼らは水域で非常に敏捷かつ機敏なので、水域から遠く離れた陸地ではめったに見られません。彼らは乾燥した土地では全体的に動きにくく不器用で、特に荒地や森を乗り越えるため非常に苦労するので、典型的には、彼らは乾燥した土地を嫌います。"
 
 #. [race]: id=monster
-#: data/core/units.cfg:319
+#: data/core/units.cfg:284
 msgid "race^Monster"
 msgstr "モンスター"
 
 #. [race]: id=monster
-#: data/core/units.cfg:320
+#: data/core/units.cfg:285
 msgid "race+female^Monster"
 msgstr "モンスター"
 
 #. [race]: id=monster
-#: data/core/units.cfg:321
+#: data/core/units.cfg:286
 msgid "race^Monsters"
 msgstr "モンスター"
 
 #. [race]: id=monster
-#: data/core/units.cfg:322
+#: data/core/units.cfg:287
 msgid ""
 "The term “monster” incorporates many hideous beasts that haunt the caves, "
 "wilderness, ocean depths, and other climes of the world. They figure largely"
@@ -5026,22 +5026,22 @@ msgstr ""
 "「モンスター」という単語は多くの恐るべき猛獣の総称です。それらは洞窟・荒野・海の深みそして世界の他気候の場所に出没します。また、それらは物語や悪夢的な言い伝えに出現していることも多いのです。"
 
 #. [race]: id=naga
-#: data/core/units.cfg:329
+#: data/core/units.cfg:293
 msgid "race^Naga"
 msgstr "ナーガ"
 
 #. [race]: id=naga
-#: data/core/units.cfg:330
+#: data/core/units.cfg:294
 msgid "race^Nagini"
 msgstr "ナーガ"
 
 #. [race]: id=naga
-#: data/core/units.cfg:331
+#: data/core/units.cfg:295
 msgid "race^Nagas"
 msgstr "ナーガ"
 
 #. [race]: id=naga
-#: data/core/units.cfg:332
+#: data/core/units.cfg:296
 msgid ""
 "The serpentine nagas are one of the least understood races of the Great "
 "Continent. Part of this is due to their xenophobic nature and part is due to"
@@ -5060,22 +5060,22 @@ msgstr ""
 "ナーガ族は大陸で最も遅く発見された種族の一つです。これには彼らのよそ者嫌いの性質と変った生態が影響しています。ナーガ族は水域でまともな機動力を発揮できる数少ない種族の一つです。これによって、彼らは陸の住人に邪魔されることなく、ほぼ世界全体への交通路を効果的に確保できますし、地上からの攻撃を避けることもできます。しかし、彼らは真の海洋生物ではなく水中で呼吸することができないので、深い水底に潜ることはできません。沿岸部に居住していることは、深海の住人から攻撃された際に陸地への逃げ道を彼らに与えていますし、足や翼や馬で移動する者から攻撃された場合には海に逃げ込むことができます。ナーガの体はいくぶん脆弱ですが、しばしば彼らは敵よりも高速で機敏です。彼らはマーフォークと生活圏が重なる部分があるので、ときどき争いますが、結局ナーガ族は開けた水面より沼や川を好みます。"
 
 #. [race]: id=ogre
-#: data/core/units.cfg:340
+#: data/core/units.cfg:304
 msgid "race^Ogre"
 msgstr "オーガ"
 
 #. [race]: id=ogre
-#: data/core/units.cfg:341
+#: data/core/units.cfg:305
 msgid "race+female^Ogre"
 msgstr "オーガ"
 
 #. [race]: id=ogre
-#: data/core/units.cfg:342
+#: data/core/units.cfg:306
 msgid "race^Ogres"
 msgstr "オーガ"
 
 #. [race]: id=ogre
-#: data/core/units.cfg:343
+#: data/core/units.cfg:307
 msgid ""
 "Ogres are a wild and uncivilized race who dwell mainly in the wilderness of "
 "the Great Continent. Physically, they resemble humans and orcs but are "
@@ -5095,22 +5095,22 @@ msgstr ""
 "オーガは野性的で文明を持たない種族であり、主に大陸の荒れ地に暮らしています。肉体的に、彼らは人間やオークに似ていますが、より大きく強い体をもちます。未成熟なものでさえ、人間の男性よりも大きいのです。オーガは人口の多い地域では信用が無く、通常それらを避けるか、彼らに力づくで追い払われます。その代わり、文明の外れにある山脈に潜んでおり、空腹の山賊オーガは旅人やキャラバンの脅威となっています。オーガは特に賢くも素早くもありませんが、彼らの頑強さと強さは他の種族の軍隊にとっては価値のあるものです。特に、オーガの凶暴性を気にしない冷酷な司令官には高く評価されます。彼らの生態や社会については詳しくは分かっていません。彼らがそのようなものを本当に持っているとしたらですが。しかし、彼らは狼や他の獣と共に攻撃をすることがあるようです。これが協力関係なのか、家畜化なのか、それとも単なる日和見主義なのかは分かっていません。"
 
 #. [race]: id=orc
-#: data/core/units.cfg:351
+#: data/core/units.cfg:314
 msgid "race^Orc"
 msgstr "オーク"
 
 #. [race]: id=orc
-#: data/core/units.cfg:352
+#: data/core/units.cfg:315
 msgid "race+female^Orc"
 msgstr "オーク"
 
 #. [race]: id=orc
-#: data/core/units.cfg:353
+#: data/core/units.cfg:316
 msgid "race^Orcs"
 msgstr "オーク"
 
 #. [race]: id=orc
-#: data/core/units.cfg:354
+#: data/core/units.cfg:317
 msgid ""
 "In appearance, orcs resemble humans but with some bestial features. They are"
 " taller, sturdier and stronger than humans. They are warlike, savage, and "
@@ -5121,12 +5121,12 @@ msgid ""
 msgstr ""
 
 #. [race]: id=orc
-#: data/core/units.cfg:356
+#: data/core/units.cfg:319
 msgid "Society"
 msgstr ""
 
 #. [race]: id=orc
-#: data/core/units.cfg:357
+#: data/core/units.cfg:320
 msgid ""
 "Almost every orc is a member of a tribe or a clan. Relations between "
 "neighboring tribes are usually violent, except in cases of a mutual enemy "
@@ -5140,7 +5140,7 @@ msgid ""
 msgstr ""
 
 #. [race]: id=orc
-#: data/core/units.cfg:359
+#: data/core/units.cfg:322
 msgid ""
 "Orc societies are based on little else but strength; might makes right, and "
 "a leader leads and survives only as long as no one manages to wrest the "
@@ -5154,7 +5154,7 @@ msgid ""
 msgstr ""
 
 #. [race]: id=orc
-#: data/core/units.cfg:361
+#: data/core/units.cfg:324
 msgid ""
 "Orcs mostly live in rural areas, often in foothills or mountainous regions, "
 "sometimes in caves. They grow no crops nor keep livestock, but are competent"
@@ -5169,7 +5169,7 @@ msgid ""
 msgstr ""
 
 #. [race]: id=orc
-#: data/core/units.cfg:363
+#: data/core/units.cfg:326
 msgid ""
 "The oldest known orcs have been around 50 to 60 years of age, but very few "
 "individuals ever live to see over two or three decades before meeting their "
@@ -5183,29 +5183,29 @@ msgid ""
 msgstr ""
 
 #. [race]: id=orc
-#: data/core/units.cfg:367
+#: data/core/units.cfg:330
 msgid ""
 "Orcs who were not the strongest of their litter tend to specialize in other "
 "skills, like archery or assassination."
 msgstr ""
 
 #. [race]: id=raven
-#: data/core/units.cfg:374
+#: data/core/units.cfg:337
 msgid "race^Raven"
 msgstr "カラス"
 
 #. [race]: id=raven
-#: data/core/units.cfg:375
+#: data/core/units.cfg:338
 msgid "race+female^Raven"
 msgstr "カラス"
 
 #. [race]: id=raven
-#: data/core/units.cfg:376
+#: data/core/units.cfg:339
 msgid "race^Ravens"
 msgstr "カラス"
 
 #. [race]: id=raven
-#: data/core/units.cfg:377
+#: data/core/units.cfg:340
 msgid ""
 "Ravens are general scavengers, often associating with hunters or predators in the hope of sharing in the kill. They do not have the powerful beak or claws of the gryphons or raptors, but can still be a threat because of their intelligence and ability to recognize any advantage.\n"
 "\n"
@@ -5220,22 +5220,22 @@ msgstr ""
 "知的な腐肉食動物であるため、カラスは戦場を生き延びる必要はありません。一部の農家は植えた作物からカラスを追い払おうと足掻いていますが、他のものたちは衛兵の周囲にいるカラスを見つけると喜びます。"
 
 #. [race]: id=troll
-#: data/core/units.cfg:388
+#: data/core/units.cfg:351
 msgid "race^Troll"
 msgstr "トロル"
 
 #. [race]: id=troll
-#: data/core/units.cfg:389
+#: data/core/units.cfg:352
 msgid "race+female^Troll"
 msgstr "トロル"
 
 #. [race]: id=troll
-#: data/core/units.cfg:390
+#: data/core/units.cfg:353
 msgid "race^Trolls"
 msgstr "トロル"
 
 #. [race]: id=troll
-#: data/core/units.cfg:391
+#: data/core/units.cfg:354
 msgid ""
 "Trolls are ancient creatures, one of the oldest known races known to inhabit the Great Continent. They are large, slow, simple, and live extremely long lives inside deep caves or atop high mountains. The most unique characteristic of trolls is an internal vitality that sustains and heals them from within. As a result they live very different lives from almost any known creature. Trolls have few real needs: they require little food or water, and thus they have little incentive to pursue much besides protection from those who are hostile towards them. This in turn means they rarely have to worry about anything and can spend much of their time sleeping or in contemplation. Trolls have a curious affinity with nature. They do not relate with living things like elves do, but instead with earth and stone. They are also somewhat curious of their surroundings and many younger whelps even enjoy traveling and seeing the world. As trolls grow older they tend to become increasingly passive, gradually losing interest in their environment and spending more of their time sleeping in a quiet, familiar corner of their home cave. This is until they finally pass away as their bodies themselves slowly turn into lifeless statues of stone.\n"
 "\n"
@@ -5252,22 +5252,22 @@ msgstr ""
 "トロル族はドワーフ族が移り住むよりも前から、大陸の山々に居住してきました。トロル族は Wesnoth の北と東の山脈に広く見られます。それにオークの大軍が通るところならどこでも。"
 
 #. [race]: id=undead
-#: data/core/units.cfg:411
+#: data/core/units.cfg:372
 msgid "race^Undead"
 msgstr "アンデッド"
 
 #. [race]: id=undead
-#: data/core/units.cfg:412
+#: data/core/units.cfg:373
 msgid "race+female^Undead"
 msgstr "アンデッド"
 
 #. [race]: id=undead
-#: data/core/units.cfg:413
+#: data/core/units.cfg:374
 msgid "race+plural^Undead"
 msgstr "アンデッド"
 
 #. [race]: id=undead
-#: data/core/units.cfg:414
+#: data/core/units.cfg:375
 msgid ""
 "Undead are not really a single race of creatures, although often treated as such. Most ordinary creatures can, by a sufficiently skilled necromancer, be reanimated into constructs of varying character — resurrection of the physical form often results in a minion that obeys its master without question, while manifestation of a soul usually produces a servant with at least a modicum of thought. A great mystery of necromancy is how these constructs are sustained and controlled without continuous effort from the necromancer. Most dark magi do not provide constant attention or maintenance to their creations, instead allowing them a small degree of independence to function autonomously in line with the provided commands. However, when left unchecked, some undead gain enough sovereignty to break free from and even turn on their masters. Accordingly, while even lesser undead require periodic maintenance, this is especially true for more powerful undead, particularly greater spirits or death knights, who possess a high degree of inherent will. In these cases, necromancy becomes a battle of resolve between mage and minion. The necromancer must maintain a delicate balance between control over their servants and allotting them free will — the source of their individual powers.\n"
 "\n"
@@ -5283,22 +5283,22 @@ msgstr ""
 "<header>text='地理'</header> 多くのアンデッドの支配者たちが大陸に到着したのは Haldric I 世の後であり、それ以前にはエルフ族もドワーフ族もアンデッドについてまったく聞いたことがありませんでした。"
 
 #. [race]: id=wolf
-#: data/core/units.cfg:427
+#: data/core/units.cfg:388
 msgid "race^Wolf"
 msgstr "狼"
 
 #. [race]: id=wolf
-#: data/core/units.cfg:428
+#: data/core/units.cfg:389
 msgid "race+female^Wolf"
 msgstr "狼"
 
 #. [race]: id=wolf
-#: data/core/units.cfg:429
+#: data/core/units.cfg:390
 msgid "race^Wolves"
 msgstr "狼"
 
 #. [race]: id=wolf
-#: data/core/units.cfg:430
+#: data/core/units.cfg:391
 msgid ""
 "Wolves are predatory canines encountered frequently in the wilderness. "
 "Quick, tough, and durable, a solitary wolf suffices to maim or kill "
@@ -5311,17 +5311,17 @@ msgstr ""
 "狼（Wolf）はイヌ科の肉食動物で、自然の中ではよく見かけられます。狼は素早くてタフな生き物であり、たとえ一匹でも市民や未熟な兵士を殺傷するには十分な能力を持っています。しかし、狼には群れをなして組織的に行動する習性があり、旅人にとっては非常に危険です。狼は文明から離れて暮らしていますが、ときおり家畜を狩るために近づいてくることもあります。"
 
 #. [race]: id=wose
-#: data/core/units.cfg:439
+#: data/core/units.cfg:399
 msgid "race^Wose"
 msgstr "ウーズ"
 
 #. [race]: id=wose
-#: data/core/units.cfg:440
+#: data/core/units.cfg:400
 msgid "race^Woses"
 msgstr "ウーズ"
 
 #. [race]: id=wose
-#: data/core/units.cfg:441
+#: data/core/units.cfg:401
 msgid ""
 "The mighty wose resides within the deepest forests of the known world. To the untrained eye, the wose appears to be nothing more than an oddly shaped, yet noble, tree. As guardians of the forest, the woses share a connection to the woodlands deeper than even the elves’. While the woses are a peaceful race, disturbance of the ancient forests, which they tend, will incite the wrath of nature itself. Woses are slow moving creatures that may spend centuries standing in one location undisturbed by the ebb and flow of time.\n"
 "\n"
@@ -5340,7 +5340,7 @@ msgstr ""
 "ウーズの生涯は良く分かっていませんが、この太古の種族は何百年と生きる間に大きく育ちます。ウーズは戦場で死なない限り、寿命が尽きることは無いのかもしれません。彼らは衛兵のように何世紀も立っているだけで満足し、文明世界に無関心です。住処である自然世界と森を守るためだけに奮起するのです。"
 
 #. [language]
-#: data/english.cfg:34
+#: data/english.cfg:39
 msgid ""
 "This unit’s arcane attack deals tremendous damage to magical creatures, and "
 "even some to mundane creatures."
