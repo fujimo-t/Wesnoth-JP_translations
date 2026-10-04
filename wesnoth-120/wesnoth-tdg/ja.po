@@ -483,7 +483,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:475
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1823
 msgid "Contingency"
-msgstr "不測の事態"
+msgstr "絶命回避"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:210
 msgid ""
@@ -3555,8 +3555,8 @@ msgid ""
 " the orcish host at the Ford of Abez is alerted before we can get through to"
 " the swamp, we’ll be slaughtered!"
 msgstr ""
-"霧の中でも、これほど大きな狼煙火なら何マイル先からでも見えてしまう。我々が沼地に辿り着く前に Abezの浅瀬 "
-"にいるオークの大軍に感づかれたら、全滅は必至だ！"
+"霧の中ではあるが、あれほど大きな狼煙台を使われたら、相当遠くからでも見えてしまうだろう。我々が沼地に辿り着く前に "
+"Abezの浅瀬にいるオークの大軍に感づかれでもしたら、全滅は必至だ！"
 
 #. [message]: speaker=Ritharran
 #. Ritharran is a rogue mage; a half-mage, half-bandit. "Hey genius, you
@@ -3588,7 +3588,7 @@ msgstr "敵のターン中にゴブリンやトカゲ族に見つからない"
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:438
 msgid "Then, defeat all enemies"
-msgstr ""
+msgstr "その後、すべての敵を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:442
@@ -3940,28 +3940,28 @@ msgstr ""
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:134
 msgid "(bows)"
-msgstr ""
+msgstr "（黙礼）"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:138
 msgid "No offense, boy."
-msgstr ""
+msgstr "む、悪気はないのだ、息子よ。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:142
 msgid "(scowls)"
-msgstr ""
+msgstr "（フンッ）"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:146
 msgid ""
 "Still, these rumors cannot be taken lightly. Something must be done...."
-msgstr ""
+msgstr "とは言え、たかが噂とて捨て置くわけにもいかぬ。何か手を打たねばな・・・"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:42
 msgid "Ruins of Saurgrath"
-msgstr ""
+msgstr "Saurgrath の遺跡"
 
 #. [trait]: id=aged2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:89
@@ -3983,49 +3983,49 @@ msgstr ""
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:108
 msgid "Fliiss"
-msgstr ""
+msgstr "Fliiss"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:109
 msgid "Messata"
-msgstr ""
+msgstr "Messata"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:110
 msgid "Anazz"
-msgstr ""
+msgstr "Anazz"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:111
 msgid "Zilnaza"
-msgstr ""
+msgstr "Zilnaza"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:112
 msgid "Ka'Kzaesz"
-msgstr ""
+msgstr "Ka'Kzaesz"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:113
 msgid "Fritrais"
-msgstr ""
+msgstr "Fritrais"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:114
 msgid "Artrax"
-msgstr ""
+msgstr "Artrax"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:119
 msgid "Saurian Juveniles"
-msgstr ""
+msgstr "トカゲの幼体"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:356
 msgid ""
 "The seven saurian matriarchs lie somewhere in this swamp. With most of their"
 " warriors away at war, they will be vulnerable."
-msgstr ""
+msgstr "トカゲの七族長がこの沼地のいずこかに潜んでいるという。戦士の多くが戦場に出払っておる今、守りが手薄になっているであろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:360
@@ -4034,6 +4034,8 @@ msgid ""
 "saurians — they’re not usually invaders. I need to figure out what’s going "
 "on with this alliance and put an end to it."
 msgstr ""
+"Blackcrest "
+"のオークには戦う理由があるが、それはトカゲには関わりがないはずなのだ——奴らは本来、侵略を好む種族ではない。何故にかような同盟が組まれたのかを突き止め、その意図を挫かねばならん。"
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is female (probably "Lynyan")
@@ -4044,6 +4046,8 @@ msgid ""
 "scour it all. This is where you said your guides would meet us, "
 "$companion_name?"
 msgstr ""
+"それも、奴らの棲み処を見つけられればの話だがな。この廃墟はかつてトカゲ族の大都市だった——残されたわずかな跡地ですら、我々だけで探し尽くすには広すぎる。ここがお前の言っていた案内人と落ち合う場所だな、$companion_name"
+" ？"
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is male
@@ -4053,49 +4057,51 @@ msgid ""
 " of their kind — even what little remains is too vast for us to scour it "
 "all. This is where you said your guides would meet us, $companion_name?"
 msgstr ""
+"それも、奴らの棲み処を見つけられればの話だがな。この廃墟はかつてトカゲ族の大都市だった——残されたわずかな跡地ですら、我々だけで探し尽くすには広すぎる。ここがお前の言っていた案内人と落ち合う場所だな、$companion_name"
+" ？"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:377
 msgid "You’re almost there! Jus’ a lil bit further... almost..."
-msgstr ""
+msgstr "もう少しだ！ ほんとにもう少し・・・ほら、あれが・・・"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:391
 msgid "Rendezvous with your companion’s guides"
-msgstr ""
+msgstr "案内人と合流する"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:395
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:605
 msgid "Then, defeat three of the seven saurian leaders"
-msgstr ""
+msgstr "その後、トカゲの七族長のうちの３匹を倒す"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:445
 msgid "Hey, what—"
-msgstr ""
+msgstr "おい、何事だ——"
 
 #. [event]: id=activate_poachers
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:449
 msgid "Gonnin"
-msgstr ""
+msgstr "Gonnin"
 
 #. [event]: id=activate_poachers
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:454
 msgid "Milyn"
-msgstr ""
+msgstr "Milyn"
 
 #. [event]: id=activate_poachers
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:459
 msgid "Barin"
-msgstr ""
+msgstr "Barin"
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:465
 msgid ""
 "Well well, look what the cat dragged in. You’re a little far from home, "
 "scholar!"
-msgstr ""
+msgstr "おやおや、どこの野良猫が迷い込んできたかと思えば。ちいとばかり遠出しすぎたなぁ、学者先生よぉ！"
 
 #. [message]: speaker=Barin
 #. "protection" is a reference to a "protection racket", where organized crime
@@ -4110,17 +4116,18 @@ msgid ""
 "There’s lizards out here... and robbers too. T’would be a shame if something"
 " happened to you. Maybe you oughta have our protection — for a price."
 msgstr ""
+"この辺りにはトカゲがいるぜ・・・それに強盗団もな。あんたらの身に何か起きたら、そりゃあ悲惨なことになるだろうなぁ。だが、俺らが守ってやらんこともないぜ——それなりの金を払えばな。"
 
 #. [option]
 #. $fee is very likely between 24 and 100
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:486
 msgid "Pay $fee gold (learn to recruit Poachers)"
-msgstr ""
+msgstr "$fee ゴールドを払う（密猟者の雇用が可能になる）"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:492
 msgid "Attack"
-msgstr ""
+msgstr "攻撃する"
 
 #. [message]: speaker=Barin
 #. in this string, $companion_name is female (probably "Lynyan")
@@ -4130,6 +4137,8 @@ msgid ""
 " swamp and make sure nothin’ happens to you or the rest of your coin! "
 "$companion_name said yer looking for them lizards, yeah?"
 msgstr ""
+"よし！俺らを雇ったからには、安心していいぜ。ちゃんと沼地を案内してやるし、残りの銭も盗られねぇように守ってやる。$companion_name "
+"から話は聞いてるぜ、トカゲどもを探してるんだろ？"
 
 #. [message]: speaker=Barin
 #. in this string, $companion_name is male
@@ -4139,6 +4148,8 @@ msgid ""
 "and make sure nothin’ happens to you or the rest of your coin! "
 "$companion_name said yer looking for them lizards, yeah?"
 msgstr ""
+"よし！俺らを雇ったからには、安心していいぜ。ちゃんと沼地を案内してやるし、残りの銭も盗られねぇように守ってやる。$companion_name "
+"から話は聞いてるぜ、トカゲどもを探してるんだろ？"
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:540
@@ -4146,108 +4157,110 @@ msgid ""
 "...what, you didn’t think we was trying to rob something, did ye? Naw, I’m "
 "your guide. I’d never hurt a friend of $companion_name’s."
 msgstr ""
+"・・・なんだよ、俺らが何か盗むとでも思ってやがったのか？んなわけねぇよ、俺はあんたの案内人だ。$companion_name "
+"のツレに手を出したりはしねぇよ。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:547
 msgid ""
 "Poachers are general-purpose nighttime archers, with numerous-but-weak "
 "ranged strikes and unusually good defense in swamps."
-msgstr ""
+msgstr "密猟者は、夜間の戦闘を得意とする汎用の弓兵です。低威力ながらも攻撃回数の多い遠隔攻撃を行い、沼地においては際立って高い回避率を誇ります。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:572
 msgid "Insolent fools, I am no sickly scribe, easy pickings for the robber!"
-msgstr ""
+msgstr "無礼な愚か者め！野盗どもに易々と襲われるような、ひ弱な学徒ではないわ！"
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:576
 msgid "Whoah, hey uh, what’s going on?"
-msgstr ""
+msgstr "んあ、おい、ちょっと、どうなってんだ？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:580
 msgid ""
 "You bandits trifle with an archmage of Wesnoth, famed and powerful. Step "
 "forth and meet your doom!"
-msgstr ""
+msgstr "貴様ら野盗どもは、この名実ともに偉大なる Wesnoth の大魔道士を愚弄したのだ。前に進み出て、破滅を迎えるがよい！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:601
 msgid "Defeat the bandits"
-msgstr ""
+msgstr "ならず者を倒す"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:626
 msgid "Ughhh..."
-msgstr ""
+msgstr "うぐっ・・・"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:634
 msgid "I’m gettin’ out o’ here!"
-msgstr ""
+msgstr "ずらかるぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:643
 msgid ""
 "Serves them right, preying on innocent travelers... Now, where’s these "
 "guides of yours we’re going to meet?"
-msgstr ""
+msgstr "無辜の旅人を食い物にするような連中には当然の報いだ・・・ところで、お前の知己という案内人とやらはどこにおるのだ？"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:647
 msgid ""
 "Umm... you know what, I’m thinkin’ we’re better off hunting them saurians "
 "all on our lonesomes instead. I’m still gettin’ paid after all this, right?"
-msgstr ""
+msgstr "あー・・・なんというか、やっぱ自分たちでトカゲを狩るほうが良さそうな気がしてきた。そうなっても、報酬はもらえるよな？"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:661
 msgid "Defeat three of the seven saurian leaders"
-msgstr ""
+msgstr "トカゲの七族長のうちの３匹を倒す"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:678
 msgid "(3 remaining)"
-msgstr ""
+msgstr "（残り 3 匹）"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:680
 msgid ""
 "Surprise attack: The saurians will not spot you until you approach within 4 "
 "hexes of a matriarch."
-msgstr ""
+msgstr "奇襲：族長の周囲４ヘックス以内に入るまで、トカゲ族に発見されません。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:701
 msgid ""
 "That saurian has different markings than the others I’ve seen, and is "
 "somewhat smaller. A juvenile or invalid, perhaps?"
-msgstr ""
+msgstr "あのトカゲの模様はこれまで見たのとは違うな。体格もやや小振りに見える。幼体か、あるいは手負いか？"
 
 #. [message]: speaker=second_unit
 #. delfador has just attacked an unarmed saurian
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:709
 msgid "The monssstersss hunt usss for sssport! Flee, flee!"
-msgstr ""
+msgstr "モン<small>スス</small>スターどもの弱いもの狩りだ！逃げろ、逃げろ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:713
 msgid ""
 "They really are unarmed juveniles! Hang on a minute, they’re not dangerous, "
 "maybe we should just let them be."
-msgstr ""
+msgstr "本当に丸腰の幼体だったのか！ちょっと待て、害がないのなら、放っておいてよいぞ。"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:736
 msgid "We’re under assssault! Sssound the alarm and rally our warriorsss!"
-msgstr ""
+msgstr "敵<small>シシ</small>襲だ！警報を鳴らせ<small>セセ</small>！戦士<small>シシ</small>を集めろ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:740
 msgid ""
 "They’ve spotted us! The time for stealth is past; now come the fire and the "
 "flame!"
-msgstr ""
+msgstr "見つかったぞ！隠密行動はこれまでにして、次は火炎の出番だ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:763
@@ -4301,7 +4314,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:817
 msgid "(2 remaining)"
-msgstr ""
+msgstr "（残り 2 匹）"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:834
@@ -4330,7 +4343,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1396
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1884
 msgid "fireball"
-msgstr ""
+msgstr "ファイアボール"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:886
@@ -4368,7 +4381,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:918
 msgid "(1 remaining)"
-msgstr ""
+msgstr "（残り 1 匹）"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:941

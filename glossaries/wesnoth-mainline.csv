@@ -1187,7 +1187,7 @@ runemaster,noun,,false,ルーンマスター,
 runesmith,noun,,false,ルーンスミス,より説明的に訳す場合は「ルーンの鍛冶職人」。
 runner,noun,,false,「二本脚」,"二足歩行の動物を指すのにドレークが用いる最も簡便な用語。""Wings of Victory（勝利の翼）"" の冒頭の時点では、ドレークが知る ""runner"" は人間族のみ。
 取りあえず「二本脚」と訳すが、「二足歩行」も検討に値する。"
-saurians,noun,,false,トカゲ,トカゲ、トカゲ族
+saurians,noun,,false,トカゲ||トカゲ族,トカゲ、トカゲ族
 save,noun,,false,保存,セーブデータを指していることもある。
 save,verb,,false,保存,
 save file,noun,,false,セーブデータ,
@@ -1439,3 +1439,5 @@ Unit Type Description,noun,,true,ユニット解説,
 Elende,noun,"エルフ族のシルフ。""The Deceiver’s Gambit"" に登場。",true,Elende,
 Sylph,noun,"エルフの予言者。""The Deceiver’s Gambit"" に登場。""Elvish Sylph"" であれば、「エルフのシルフ」というユニット名。",true,シルフ,
 Arand,noun,,false,Garard II の弟。,
+Blackcrest||Blackcrests,noun,,false,Blackcrest||Blackcrest 氏族,
+Rogue Mage||Rogue Mages,noun,,false,はぐれ魔術師,アカデミーからドロップ・アウトした魔術師。「はぐれ魔術師」としているが「浮浪魔術師」なども候補。

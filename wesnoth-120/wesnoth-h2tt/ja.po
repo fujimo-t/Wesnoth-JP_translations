@@ -555,6 +555,8 @@ msgid ""
 "combat, so explore at your leisure. To leave the overworld and preview or "
 "play a battle scenario, move Konrad to one of the marked hexes."
 msgstr ""
+"<b>これは大陸マップです。</b>ここでは移動コストも戦闘もありませんので、ゆっくり見て回ってください。大陸マップから戦闘シナリオに移るには "
+"Konrad をマークのあるヘクスに移動させてください。戦闘シナリオの事前情報を確認の上、戦闘シナリオに移行できます。"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:335
@@ -564,6 +566,7 @@ msgid ""
 "more snow and ice, while summer battles are the opposite. It’s currently "
 "autumn."
 msgstr ""
+"シナリオを完了すると、季節が進みます。冬の戦闘は夜が長く、昼が短くなり、雪や氷の地形が増えます。夏の戦闘の場合は冬の逆になります。今の季節は秋です。"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:335
@@ -571,6 +574,7 @@ msgid ""
 "overworld_help^Each scenario provides unique rewards, as shown in its "
 "preview, and most will open new areas of the map to explore."
 msgstr ""
+"各シナリオにはそれぞれ独自の報酬が用意されています。報酬内容は事前情報で確認できます。加えて、大抵の場合はシナリオクリア後に大陸マップで探索可能な領域が広がります。"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:354
@@ -579,6 +583,8 @@ msgid ""
 "before the finale. And Delfador and his elementals will only be around to "
 "help during your first battle, so choose wisely!"
 msgstr ""
+"最終決戦までに Konrad が介入できる戦闘シナリオ数には限りがあります。そして、Delfador "
+"と彼の扱う精霊はあなたの最初の戦闘時のみ助けてくれるでしょう。良く考えて選びましょう！"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #. [lua]: wesnoth.wml_actions.display_lisar_tutorial
@@ -5349,7 +5355,7 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere."
 msgstr ""
-"Maddock 候は確実に信頼できる味方とは言えないが、公とその資金は、西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar"
+"Maddock 候は確実に信頼できる味方とは言えないが、候とその資金は、西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar"
 " が落ちれば、Asheviere に立ち向かう上で重要な味方を失うことになる。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
@@ -5396,7 +5402,7 @@ msgid ""
 "Very well. You will have to do without my elementals, but I can at least "
 "leave with you my familiar — the venerable Blackwing. Care for him well."
 msgstr ""
-"立派な考えだ。精霊は私がおらねば扱うことはできないが、せめてこの齢を重ねた使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
+"立派な考えだ。精霊は私がおらねば扱うことはできないが、せめてこの長年の友である使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:818
@@ -5443,7 +5449,7 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere. I must depart at once to aid in the defense!"
 msgstr ""
-"Maddock 候は確実に信頼できる味方とは言えないが、公とその資金は西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar "
+"Maddock 候は確実に信頼できる味方とは言えないが、候とその資金は西部地域の相対的な自由を維持する上で重要な役割を果たしてきた。Elensefar "
 "が落ちれば Asheviere との戦争で重要な味方を失うことになる。私は今すぐここを離れて防衛に協力しなければ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
@@ -5505,7 +5511,7 @@ msgstr ""
 msgid ""
 "You will have to do without my elementals, but I can at least leave with you"
 " my familiar — the venerable Blackwing. Care for him well."
-msgstr "精霊は私がおらねば扱うことはできないが、せめてこの齢を重ねた使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
+msgstr "精霊は私がおらねば扱うことはできないが、せめてこの長年の友である使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:951
@@ -5535,7 +5541,8 @@ msgid ""
 "least leave with you my familiar — the venerable Blackwing. Care for him "
 "well."
 msgstr ""
-"残念ながら、そうなる。精霊は私がおらねば扱うことはできないが、せめてこの齢を重ねた使い魔を残していこう ── ブラックウィングだ。良くしてやってくれ。"
+"残念ながら、そうなる。精霊は私がおらねば扱うことはできないが、せめてこの長年の友である使い魔を残していこう ── "
+"ブラックウィングだ。良くしてやってくれ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:992
@@ -5586,7 +5593,7 @@ msgstr "Delfador"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1042
 msgid "It’s up to me then. I won’t let Wesnoth down."
-msgstr "後は私次第か。Wesnoth をこのままにはしておけない。"
+msgstr "後は私次第か。Wesnoth を見殺しにするわけにはいかない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1085
@@ -5659,8 +5666,7 @@ msgid ""
 "Thank you for offering us asylum — even the elves of the Aethenwood "
 "recognize your authority. It’s a high honor to finally meet you in person."
 msgstr ""
-"私達の亡命を助けていただき感謝しております ── Aethen "
-"の森のエルフ達でさえ、あなたの判断を認めておりました。こうして直接お会いできて大変光栄です。"
+"私達の亡命を助けていただき感謝しております ── Aethen の森のエルフもあなたのご判断を認めておられました。こうして直接お会いできて大変光栄です。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1186
@@ -5728,7 +5734,7 @@ msgstr ""
 msgid ""
 "Friend, Konrad. I am Kalenz, eldest in the Lintanir and High Lord of all "
 "elves. Greetings."
-msgstr "味方だ、Konrad。私は Kalenz、Lintanir の長老で、全エルフの上に立つ者だ。こんにちは。"
+msgstr "味方だ、Konrad。私は Kalenz、Lintanir の長老で、全エルフの上に立つ者だ。よろしく頼む。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1253
@@ -5738,7 +5744,7 @@ msgid ""
 "honor to finally meet you in person."
 msgstr ""
 "私達の亡命を助けていただき感謝しております ── Aethen "
-"の森のエルフ達でさえ、あなたの判断を認めておりました。彼らに多大な犠牲をもたらしてしまい申し訳ありません。しかし、こうして直接お会いできて大変光栄です。"
+"の森のエルフ達でさえ、あなたのご判断を認めておりました。そして、彼らに多大な犠牲をもたらしてしまい申し訳ありませんでした。しかし、こうして直接お会いできて大変光栄です。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1257
@@ -5831,7 +5837,7 @@ msgstr "Delfador からのメッセージだ。Delfador が炎の笏を見つけ
 msgid ""
 "We must go at once! Once we hold the sceptre of my fathers; the symbol of "
 "the kings of Wesnoth, surely Asheviere can no longer hope to oppose us."
-msgstr "すぐに行かねば！父祖の笏を手にできれば、Asheviere も我々に立ち向かうことはできない。笏は Wesnoth の王の証なのだから。"
+msgstr "すぐに行かねば！私が父祖の笏を手にすれば、Asheviere も我々に手出しはできないはずだ。笏は Wesnoth の王の証なのだから。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1353
@@ -5864,7 +5870,7 @@ msgstr "Delfador からの伝言だ！師匠は炎の笏を見つけたんだ！
 msgid ""
 "We must go at once! Once we hold the sceptre of my fathers; the symbol of "
 "the king of Wesnoth, surely Asheviere can no longer hope to oppose us."
-msgstr "すぐに行かないと！父祖の笏を手にできれば、Asheviere も我々に立ち向かうことはできない。笏は Wesnoth の王の証なのだから。"
+msgstr "すぐに行かないと！私が父祖の笏を手にすれば、Asheviere も我々に手出しはできないはずだ。笏は Wesnoth の王の証なのだから。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1382
@@ -5916,7 +5922,7 @@ msgstr ""
 msgid ""
 "Crossin’ through Stoneskin ford? Dat’ll be $ford_cost gold for passage, "
 "whelp."
-msgstr "石皮の浅瀬を渡るか？なら通行料 $ford_cost_gold ゴールド払え、若造。"
+msgstr "石皮浅瀬渡るか？なら通行料 $ford_cost_gold ゴールド払え、若造。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1500
@@ -5929,12 +5935,12 @@ msgstr "石皮氏族は王家の仲間だ。通せ、さもなくば覚悟しろ
 msgid ""
 "Das right, miss princess. An bein’ our allies, I’m sure you wooden mind "
 "donatin’ dem $ford_cost gold pieces."
-msgstr "そうだ仲間だ、姫。仲間だから $ford_cost ゴールドくらい払え。"
+msgstr "そうだ仲間、姫。仲間 $ford_cost ゴールド払え。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1537
 msgid "Good news or bad news, Mirya. Are we too late?"
-msgstr "Mirya、良い知らせか、悪い知らせか。もう手遅れか？"
+msgstr "Mirya、良い知らせか？それとも悪い知らせか？もう手遅れか？"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1541
@@ -5943,7 +5949,7 @@ msgid ""
 "Highness. But your “cousin” has only just arrived. They can’t yet have "
 "reached it."
 msgstr ""
-"彼らは笏の確実な手がかりを得た模様 ── 間違いありません、殿下。しかし、あなたの「いいとこ」はまだ到着したばかり。まだ見つけてはいないはず。"
+"彼らは笏の確実な手がかりを得た模様 ── 間違いありません、殿下。しかし、あなたの「いとこ」はまだ到着したばかり。まだ見つけてはいないはず。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1545
@@ -6034,7 +6040,7 @@ msgstr "呼び出し人"
 msgid ""
 "Hear ye, hear ye! I bring tidings to the Lord Konrad from Her Majesty the "
 "Queen!"
-msgstr "心して聞け！女王陛下より Konrad 卿への知らせであるぞ！"
+msgstr "心して聞け！女王陛下より Konrad 公への知らせであるぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1627
@@ -6091,7 +6097,7 @@ msgid ""
 "righteous execution of the following condemned criminals and rebel "
 "sympathizers:"
 msgstr ""
-"聞くのだ！Konrad 卿とその支持者に周知する！今より３週間後、Weldyn "
+"聞くのだ！Konrad 公とその支持者に周知する！今より３週間後、Weldyn "
 "で公正かつ正当な裁きにより死刑判決を受けた犯罪者と反乱の支持者に対する処刑を執り行う！処刑する者達の名は、"
 
 #. [message]: speaker=crier
@@ -6112,7 +6118,7 @@ msgid ""
 "righteous execution of one thousand twenty-eight condemned partisans and "
 "rebel sympathizers from the western and northern reaches."
 msgstr ""
-"聞くのだ！Konrad 卿とその支持者に周知する！今より３週間後、Weldyn で公正かつ正当な裁きにより死刑判決を受けた西部および北部地域の反逆者 "
+"聞くのだ！Konrad 公とその支持者に周知する！今より３週間後、Weldyn で公正かつ正当な裁きにより死刑判決を受けた西部および北部地域の反逆者 "
 "1,028 名の処刑を執り行う！"
 
 #. [message]: speaker=crier
@@ -6129,8 +6135,8 @@ msgid ""
 "The Lord Konrad is warned to discontinue his campaign of terror and keep "
 "well away from Weldyn, lest the same tragic fate befall him as well."
 msgstr ""
-"Konrad 卿は王国に恐怖を振りまくのを止め、Weldyn "
-"に絶対に近づかないよう警告いたします！さもなくば、卿も悲劇的な結末を迎えることとなりましょう！"
+"Konrad 公は王国に恐怖を振りまくのを止め、Weldyn "
+"に絶対に近づかないよう警告いたします！さもなくば、公も悲劇的な結末を迎えることとなりましょう！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1689
@@ -6174,7 +6180,7 @@ msgid ""
 "oppose the dark queen. Even ignoring our morals, what message would such an "
 "act send? Who would still support us after such a display?"
 msgstr ""
-"宣告を受けたのは私の友人と仲間たちです。すべてを投げ打ち闇の女王に逆らった勇者達。私達の気持ちを無視したとしても、彼らを見捨ててしまったら人々はどう思うでしょう？それを見てもまだ我々を支援してくれるでしょうか？"
+"宣告を受けたのは私の友人と仲間たちです。すべてを投げ打ち闇の女王に逆らった勇者達。私達の感情を無視したとしても、彼らを見捨ててしまったら人々はどう思うでしょう？それでもまだ我々を支援してくれるでしょうか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1713
@@ -6226,7 +6232,7 @@ msgstr ""
 msgid ""
 "In the twenty-eighth year of the reign of Garard II, King of Wesnoth, the "
 "kingdom made bitter war against the Orcs of the North."
-msgstr "Wesnoth の王である Garard II 世の治世の 28 年目、王国は北部オークとの激しい戦争に突入しました。"
+msgstr "Wesnoth の王である Garard II 世の治世の 28 年目、王国は北部オークに激しい戦争を仕掛けました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:47
@@ -6236,7 +6242,7 @@ msgid ""
 "ruin, but at long last victory was won through the actions of Garard’s arch-"
 "mage, Delfador."
 msgstr ""
-"北部の軍勢は Abezの浅瀬近くの Galcadar に陣取り、王は軍を率いてそれを迎え撃ちました。数年に渡る戦争で Wesnoth "
+"Abez の浅瀬近くの Galcadar に陣取る北部の軍勢に対して、王は自ら軍を率いて相対しました。数年に渡る戦争で Wesnoth "
 "は滅亡の瀬戸際まで追い詰められましたが、Garard 配下の大魔術師 Delfador の活躍により最終的に勝利を手にしました。"
 
 #. [part]
@@ -6268,9 +6274,8 @@ msgid ""
 "her son’s treachery. The rule of Eldred would surely satisfy her lust for "
 "power far better than her husband’s had."
 msgstr ""
-"Eldred の裏切りのほとんどを計画したのは、Garard "
-"の王妃、Asheviere。彼女はその様子を嬉しそうに見守っていました。彼女の権力への渇望をより大きく満たしてくれるのは、夫の統治よりも Eldred "
-"の統治なのですから。"
+"Eldred の裏切りのほとんどを計画したのは Garard の王妃、Asheviere。彼女はその様子を嬉しそうに見守っていました。夫よりも "
+"Eldred の統治下の方が彼女の権力への渇望をより強く満たしてくれるのですから。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:63
@@ -6339,7 +6344,7 @@ msgid ""
 "Delfador raised the child Konrad under the protection of the elves, watching"
 " sadly as Asheviere’s reign of terror over the land began..."
 msgstr ""
-"Delfador はWesnoth の南の国境を越えて Aethen の森へと逃れ、そこでエルフの庇護の元で Konrad "
+"Delfador は Wesnoth の南の国境を越えて Aethen の森へと逃れ、そこでエルフの庇護の元で Konrad "
 "を育てました。Asheviere がもたらす恐怖が広がり続ける様子を悲しそうに見つめながら…"
 
 #. [event]
@@ -6351,7 +6356,7 @@ msgstr "10 ゴールド"
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:151
 msgid ""
 "A little gold for use in magical experiments. I’m sure it won’t be missed."
-msgstr "魔法の実験に使うための、ほんの少しのゴールドです。きっと誰にも気づかれないでしょう。"
+msgstr "魔法の実験に使うための、ほんの少しのゴールドです。きっと誰も気に留めないでしょう。"
 
 #. [message]: speaker=narrator
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from
@@ -6393,7 +6398,7 @@ msgid ""
 "I’m up, I’m up. What’s the “attack” today, Delfador? Orcs in the walls? Magi"
 " under my bedsheets?"
 msgstr ""
-"起きた、起きた、それで Delfador 今日の襲撃は何だい？オークが防壁の中に入り込んだ？それとも私のベッドのシーツの下に魔術師でも潜んでいる？"
+"起きた、起きた、それで Delfador 今日の「襲撃」は何だい？オークが防壁の中に入り込んだ？それとも私のベッドのシーツの下に魔術師でも潜んでいる？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:253
@@ -6612,7 +6617,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1187
 msgid ""
 "Galdrad is right. Do not throw your life away so easily, Your Highness."
-msgstr "Galdrad が正しい。殿下、安易に命を捨ててはならん。"
+msgstr "Galdrad が正しい。王子たるもの、安易に命を捨ててはならん。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1191
@@ -6645,7 +6650,7 @@ msgid ""
 "I know, Delfador, and I’m sorry. This is horrible! How did the fires get so "
 "close without me noticing!?"
 msgstr ""
-"Delfador、わかっています。それに申し訳ありませんでした。それにしてもひどい！どうして、気づかないうちに火がここまで迫ってしまったのだ！？"
+"Delfador、わかっています。それに申し訳ありませんでした。それにしてもひどい！どうして、気づかないうちに火がここまで迫ってしまったのでしょう！？"
 
 #. [message]: speaker=Konrad
 #. Asheviere and her army are burning the Aethenwood and killing Konrad's
@@ -6699,14 +6704,14 @@ msgstr "悪党め、私の家から出て行け！"
 msgid ""
 "You’re just an imposter! Everyone knows the real Prince Konrad died long "
 "ago."
-msgstr "黙れ偽者め！本物の Konrad 王子はずっと前に死んでいる！"
+msgstr "黙れ偽者め！本物の Konrad 王子はずっと前に死んだ！みんな知っている！"
 
 #. [message]: speaker=second_unit
 #. said when Delfador attacks. The unit flees off the map before Delfador can
 #. deal damage
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1336
 msgid "Oh no, it’s HIM, it’s Delfador THE GREAT! Get me out of here!"
-msgstr "そんな。これは、こいつは Delfador！<b>偉大なる Delfador</b>だ！嫌だ、死にたくない！"
+msgstr "そんな、これは… こいつは<b>偉大なる Delfador</b> だ！嫌だ、死にたくない！"
 
 #. [message]: speaker=Delfador
 #. an enemy has just fled, even before Delfador got a chance to attack
@@ -6803,7 +6808,7 @@ msgstr "Tanyth"
 msgid ""
 "Master Konrad, I am pleased to see that you have escaped! And even more "
 "pleased to see that you have returned."
-msgstr "Konrad 坊ちゃん、うまく逃げ出せたのか！それはよかった。それに、こうして戻ってきてくれて、本当に嬉しい。"
+msgstr "Konrad、うまく逃げ出せたのか！それはよかった。それに、こうして戻ってきてくれて、本当に嬉しい。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:259
@@ -6842,7 +6847,7 @@ msgstr "人間が Aethen の森に押し寄せ、我らの戦線は崩壊した�
 #. [message]: speaker=leader5
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:275
 msgid "Don’t let them get away! The queen demands a total victory!"
-msgstr "奴らを逃がすな！女王陛下は完全な勝利をお望みだ！"
+msgstr "奴らを逃がすな！女王陛下は完全なる勝利をお望みだ！"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:279
@@ -6857,7 +6862,7 @@ msgid ""
 "My riders and I are the first to break free of our encirclement! We are "
 "swift enough to escape the spears, but our slower brethren may be caught as "
 "they retreat."
-msgstr "私と騎兵達は真っ先に包囲を突破した！素早い我々であれば敵の槍をかいくぐることもできるが、他の仲間たちはそう容易く撤退できない。"
+msgstr "私と騎兵達は真っ先に包囲を突破できた！素早い我々であれば敵の槍をかいくぐることもできるが、他の仲間たちはそう容易く撤退できない。"
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:289
@@ -7009,19 +7014,19 @@ msgstr ""
 msgid ""
 "Keep pushing forward — don’t let any more of them escape. Twenty gold pieces"
 " for whoever takes the head of their leader!"
-msgstr "前へ進み続けるのよ ── これ以上は逃すな！奴らの指揮官を倒した者には 20 ゴールドを出すわよ！"
+msgstr "前へ進み続けよ ── これ以上は逃すな！奴らの指揮官を倒した者には 20 ゴールドを出すぞ！"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:584
 msgid ""
 "... is that Konrad? The pretender prince!? He’s returned! We have an "
 "opportunity to make up for our previous failure — men, seize him at once!"
-msgstr "…あれは Konrad？偽者の王子！？戻ってきたのね！兵よ、奴を捕らえろ ── これは失敗を挽回する絶好の機会よ！"
+msgstr "…あれは Konrad？偽者の王子！？戻ってきたのか！兵よ、奴を捕らえろ ── これは失敗を挽回する絶好の機会だぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:651
 msgid "You should never have attacked my home, you villain!"
-msgstr "私の家を襲ったことを後悔するがいい、この悪党め！"
+msgstr "よくも私の家を襲ってくれたな、この悪党め！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:659
@@ -7037,7 +7042,7 @@ msgstr ""
 msgid ""
 "Scatter to the south; scatter to the west! Spread ourselves in hiding across"
 " the entire wood, and they shall never be able to root us out."
-msgstr "南へ散れ、西へ散れ！森の隅々に散らばって身を隠せば、奴らに我々は見つけられない。"
+msgstr "南へ散れ、西へ散れ！森の隅々に散らばって身を隠せば奴らに我々は見つけられない。"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:713
@@ -7075,7 +7080,7 @@ msgstr "Konrad は「エルフの射手」と「エルフの斥候」を雇用�
 msgid ""
 "Though many of our number have fallen, at least some have escaped. Our "
 "archers stand ready to join you on your journey."
-msgstr "多くの者が倒れたが、何人かは避難することができた。そこで、射手達をお前の旅に同行させたいと思う。"
+msgstr "多くの者が倒れたが、ある程度は避難することができた。そこで、射手達をお前の旅に同行させたいと思う。"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:741
@@ -20593,7 +20598,7 @@ msgstr "連鎖"
 msgid ""
 "This attack can be used multiple times on offense, but consecutive uses "
 "strike one fewer time."
-msgstr ""
+msgstr "攻撃時、この攻撃は複数回行うことができます。ただし、連続して使う場合は、攻撃回数が１回減ります。"
 
 #. [unit_type]: id=Injured Lieutenant
 #: data/campaigns/Heir_To_The_Throne/units/Human_Injured_Lieutenant.cfg:7
