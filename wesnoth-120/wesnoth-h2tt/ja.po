@@ -7221,7 +7221,7 @@ msgstr "全ての敵リーダーを倒す"
 #. you gain an early finish bonus and a loyal unit.
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:363
 msgid "(very hard: early finish bonus &#38; loyal companion)"
-msgstr "（極めて困難：早期終了ボーナス &#38; 忠実な同行者）"
+msgstr "（極めて困難：早期終了ボーナス &#38; 忠実な仲間）"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:383
@@ -7634,7 +7634,7 @@ msgstr "Tini"
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:489
 msgid "Are all the fishmen in cages yet?"
-msgstr "魚はもう全部檻に入れたか？"
+msgstr "魚共はもう全部檻に入れたか？"
 
 #. [message]: speaker=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:493
@@ -7646,7 +7646,7 @@ msgstr "ほとんどは。"
 msgid ""
 "UP, SEA LICE! Drag your slimy hides from the deep! Drop the pearls, then "
 "scuttle back to your cages!"
-msgstr "上がれ、フナムシども！そのヌメった体を海から出すんだ！真珠を落としたらさっさと檻へ戻れ！"
+msgstr "上がれ、フナムシども！そのヌメった体を陸に上げろ！真珠を落としたらさっさと檻へ戻れ！"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:515
@@ -7843,7 +7843,7 @@ msgstr "Gwaba の仇！"
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:805
 msgid "Who was that fool?"
-msgstr "あの馬鹿は一体何だったんだ？"
+msgstr "あのバカは一体何だったんだ？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:822
@@ -7902,7 +7902,7 @@ msgid ""
 "Your Royal Highness, Prince Konrad, protector of the oppressed! Thank you "
 "for saving us from our enemies and helping us to reclaim our sacred Trident!"
 msgstr ""
-"王子 Konrad 殿下は虐げられた人々の守護者だ！我々をオークから救っていただき、そして神聖なトライデントを取り戻していただき、心より感謝しています！"
+"Konrad 王子は虐げられた人々の守護者だ！我々をオークから救っていただき、そして神聖なトライデントを取り戻していただき、心より感謝しています！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:982
@@ -7913,7 +7913,7 @@ msgstr "これからは、この真珠はあなただけのものです。"
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:984
 msgid ""
 "Konrad can now recruit Merman Fighters, Hunters, Brawlers, and Initiates!"
-msgstr "Konrad は「マーマンの戦士」、「マーマンの漁師」、「マーマンの喧嘩屋」、「マーメイドの下級術師」が雇用可能になりました！"
+msgstr "Konrad は「マーマンの戦士」、「マーマンの漁師」、「マーマンの喧嘩屋」、「マーメイドの下級術師」を雇用可能になりました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:987
@@ -8038,7 +8038,7 @@ msgid ""
 "expelled and imprisoned."
 msgstr ""
 "Konrad、こいつの言うことは聞かないでください。私達の友人が Wesnoth "
-"の兵士に捕まってしまったのです。彼らを大胆にも王権を批判したのですが、それにより退学処分を受けた上、さらに収監されてしまったのです。"
+"の兵士に捕まってしまったのです。彼らは大胆にも王権を批判したのですが、それにより退学処分を受けた上、さらに収監されてしまったのです。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:270
@@ -8065,7 +8065,7 @@ msgstr "もちろん手を貸そう。さあ戦いだ！"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:287
 msgid "Reach the prisoner mages, then move one near Konrad’s keep."
-msgstr "捕らわれた魔術師のところまで行き、その内一人を Konrad の主塔まで移動させる"
+msgstr "捕らわれた魔術師のところまで行き、その内一人を Konrad の主塔付近まで移動させる"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:296
@@ -8087,7 +8087,7 @@ msgstr "捕らわれた魔術師が全員死ぬ"
 msgid ""
 "Seimus! My old colleague, what has come over you? There are soldiers "
 "occupying the Isle and you do nothing?"
-msgstr "Seimus！かつての同僚よ、お主に何があった？島が兵士に占領されているというのに、それを黙って見過ごすのか？"
+msgstr "Seimus！かつての同僚よ、君に何があった？島が兵士に占領されているというのに、それを黙って見過ごすのか？"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:345
@@ -8114,12 +8114,12 @@ msgstr ""
 msgid ""
 "You’ll recall that I was a troublemaker once. How many atrocities will "
 "happen because good men like you stay silent?"
-msgstr "私がかつて厄介者だったことは覚えているだろう？それに、お主のような善良なる者が何もしなければ、この先どれほどの悲劇が起きるだろうか？"
+msgstr "私がかつて厄介者だったことは覚えているだろう？それに、君のような善良なる者が何もしなければ、この先どれほどの悲劇が起きるだろうか？"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:357
 msgid "Ignore him, Seimus. Attack, or I will have you charged with treason!"
-msgstr "Seimus、話す必要は無い！さっさと攻撃しろ！さもなくば反逆罪で告発するぞ！"
+msgstr "Seimus、無視しろ！さっさと攻撃するんだ！さもなくば反逆罪で告発するぞ！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:361
@@ -8171,7 +8171,7 @@ msgstr "Seimus、何を呆けている。島に反乱軍がいるぞ！これま
 msgid ""
 "Rebels? Well... I mean... the worst of the trouble is more or less "
 "apprentices, isn’t it? You can hardly expect faculty to fight students!"
-msgstr "反乱軍？ええと… つまり… 一番厄介なのは見習い達だったのでは？教師を生徒と戦わせるなんてありえない！"
+msgstr "反乱軍？ああ… ええと… 一番厄介なのは見習い達だったのでは？教師を生徒と戦わせるなんてありえない！"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:413
@@ -8222,7 +8222,7 @@ msgstr "誰だ！何が起きている？"
 msgid ""
 "I’m a friend. We have to go — there’s no time to cut loose your shackles. "
 "Are you willing to help us fight Asheviere?"
-msgstr "仲間だ。ここから出なければ… しかし、その手枷を緩めている時間はなさそうだ。Asheviere との戦争に参加するつもりはあるか？"
+msgstr "仲間だ。ここから出なければ… しかし、その手枷を外している時間はなさそうだ。Asheviere との戦争に参加するつもりはあるか？"
 
 #. [message]: type=Shackled Mage
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:489
@@ -8235,7 +8235,7 @@ msgstr "ここで腐っているよりはマシでしょう。みんな、行こ
 msgid ""
 "I’m a friend. Come — let us cut loose your shackles. Are you willing to help"
 " us fight Asheviere?"
-msgstr "仲間だ。さあ、手枷を緩めてあげよう。それで、Asheviere との戦争に参加するつもりはあるか？"
+msgstr "仲間だ。さあ、手枷を外してあげよう。それで、Asheviere との戦争に参加するつもりはあるか？"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:541
@@ -8313,14 +8313,14 @@ msgstr ""
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:679
 msgid "We’ve saved everyone we could! Now it’s time for us to save ourselves."
-msgstr "全員を救うことができた！さて、我々自身もそろそろ救い出すとしようか。"
+msgstr "できるだけ多くの者を救うことができた！さて、我々自身もそろそろ救い出すとしようか。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:686
 msgid ""
 "Live not in fear, Alduin! Once I’m king I will return here to set things "
 "right."
-msgstr "Alduin よ、恐怖に負けるな！私はいずれ王となってここに戻り、物事を正しましょう。"
+msgstr "Alduin よ、恐怖に負けるな！私はいずれ王となってここに戻り、物事を正します！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:692
@@ -8328,7 +8328,7 @@ msgid ""
 "Live not in fear, Alduin, for today proves that Asheviere can be beaten! "
 "Once I’m king I will return here to set things right."
 msgstr ""
-"Alduin よ、恐怖に負けるな！今日、Asheviere を倒すことはできると証明された！私はいずれ王となってここに戻り、物事を正してみせます。"
+"Alduin よ、恐怖に負けるな！今日、Asheviere を倒すことはできると証明された！私はいずれ王となってここに戻り、物事を正してみせます！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:713
@@ -8423,7 +8423,7 @@ msgstr ""
 msgid ""
 "20 against 1 is pretty long odds, Konrad. If we’re goin’ to help that "
 "warrior before he’s overwhelmed, we’d better hurry things up."
-msgstr "20 対 1 はかなり厳しいぞ、Konrad。もしあの戦士が押し潰される前に助けたいのであれば、急ぐ必要があるな。"
+msgstr "20 対 1 はかなり厳しいぞ、Konrad。あの戦士が押し潰される前に助けたいなら、急がないと。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:267
@@ -8450,7 +8450,7 @@ msgid ""
 " Tha’ long-staff sixpenny sorcerer’ll be having a change o’ heart — "
 "literally! — once we’re through with ’im!"
 msgstr ""
-"20倍の数の敵が相手とあらば、あやつがドワーフであっても厳しいぞ！あの長杖を持った貧弱な魔術師の心を改めさせるぞ、物理的に！フハハハ、奴を片付けるぞ！"
+"20倍の数の敵が相手とあらば、あやつがドワーフであっても厳しいぞ！フハハハ、あの長杖を持った貧弱な魔術師をさっさと片付けてしまってはどうだ！？心を改めてもらおう、物理的に！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:271
@@ -8458,14 +8458,14 @@ msgid ""
 "Oh, oh my. That magical warrior looks rather, err, powerful, doesn’t he? But"
 " that’s also a lot, really quite many undead surrounding him. We’d better "
 "hurry if we want to save him."
-msgstr "あらあら。あの魔法戦士は中々できますね。でも、まわりにいるアンデッドも大変な数ですよ。急がないとあの方を助けられませんね。"
+msgstr "あらあら。あの魔法戦士さんは中々できますね。でも、まわりにいるアンデッドも大変な数ですよ。急がないとあの方を助けられませんね。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:272
 msgid ""
 "Dat holy man be lookin’ mighty strong, but Dosh is thinking there’s too many"
 " o’ dem undead e’en for him. We’d better be helpin’ him out, Konrad."
-msgstr "あの神聖男強そう。でも Dosh アンデッド多すぎと思う。Konrad、俺たちあいつ助けた方良い。"
+msgstr "あの神聖男強そう。でも Dosh アンデッド多すぎ思う。Konrad、俺たちあいつ助けるべき。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:273
@@ -8549,7 +8549,7 @@ msgid ""
 "purpose, to keep all us rebels busy while she be livin’ luxury up in Weldyn."
 " If’n not for Baldras and Relana, one o’ these dead folk could’ve been me..."
 msgstr ""
-"女王とは厄介な奴だな。賭けてもいいが、これは故意だとアタシは思う。自分が Weldyn "
+"女王とは厄介な奴だな。賭けてもいいけど、これは故意だとアタシは思う。自分が Weldyn "
 "でぜいたく三昧の間、アタシら反逆者を引っ張り回すつもりだろう。Baldras と Relana がいなかったら、アタシもあの死体みたいになってたのかも…"
 
 #. [companion_message]
@@ -8580,15 +8580,14 @@ msgid ""
 " the strands of fate have brought us here together, that we may unite in "
 "arms towards the vanquishing of evil!"
 msgstr ""
-"修道士 "
-"Moremirmu、放浪中の戦士だ。お役に立ちましょう。なんという僥倖か！運命の糸が我らをこの場所に導いたのだ！今こそ力を合わせ、共に悪を打ち倒さん！"
+"修道士の Moremirmu、放浪中の戦士だ。しかし、なんという僥倖か！運命の糸が我らをこの場所に導いたのだ！今こそ力を合わせ、共に悪を打ち倒さん！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:357
 msgid ""
 "Aid me in my quest against this foul necromancer, and I shall ever-more be "
 "your loyal companion in the eternal war against the darkness!"
-msgstr "まずは、邪悪な降霊術師の討伐に力を貸してもらえるか。さすれば、これから続く闇との戦いに於いて一層忠実に働いてみせましょうぞ！"
+msgstr "まずは、邪悪な降霊術師の討伐に力を貸してもらえるか。さすれば、これから続く闇との戦いにおいても一層忠実に働いてみせるぞ！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:373
@@ -8788,7 +8787,7 @@ msgstr "この地下墓所は浅くて、乾燥している。そして中に 20
 msgid ""
 "This crypt is deep, and a foul stench wafts up from below. There’s something"
 " near the entrance."
-msgstr "この地下墓所は深くて、下の方から悪臭が漂ってくる。何かが入り口にいる。"
+msgstr "この地下墓所は深くて、下の方から悪臭が漂ってくる。そして何かが入り口にいる。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:372
@@ -8949,14 +8948,14 @@ msgid ""
 " residence?"
 msgstr ""
 "うーん、そうですね〜 この様式は… "
-"とても古いですね。マーフォーク？エルフ、かしら？でも、洞窟自体は自然のものですね。誰かがこれを見つけて、うーん、住処にしたのかしら？"
+"とても古いですね。マーフォーク？いや、エルフ、かしら？でも、洞窟自体は自然のものですね。誰かがこれを見つけて、うーん、住処にしたのかしら？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:323
 msgid ""
 "Dis not a troll hole, Konrad. But not a dwarf hole neither. An’ Dosh dunno "
 "who else be livin’ in caves."
-msgstr "これトロルの穴違う。ドワーフも違う。Dosh 誰ここ住んでるわからない。"
+msgstr "これトロル穴違う。ドワーフ違う。Dosh 誰ここ住んでるわからない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:343
@@ -8982,7 +8981,7 @@ msgid ""
 "could not have cast the spells needed to raise his fellows. There must be a "
 "necromancer or lich somewhere else within these caverns."
 msgstr ""
-"レブナント！優れた戦士だが、知恵や心があるわけではないから、呪文を唱えて仲間を増やすようなことはできないだろう。この洞窟のどこかに降霊術師やリッチか何かがいるはずだ。"
+"レブナント！優れた戦士だが、知恵や心があるわけではないから、呪文を唱えて仲間を増やすようなことはできないだろう。この洞窟のどこかに降霊術師かリッチがいるはずだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:378
@@ -9078,7 +9077,7 @@ msgid ""
 "Lilanas; my spirit is the isle’s wind, my bones its earth, my blood its "
 "beasts!"
 msgstr ""
-"愚か者め！貴様等セミ共に私は殺せぬ！私は Lilanas でもっとも優れたドルイド！我が魂は島の風、我が骨は島の大地、私の血は島の獣なのだ！"
+"愚か者め！貴様等セミ共に私は殺せぬ！私は Lilanas でもっとも優れたドルイド！我が魂は島の風、我が骨は島の大地、我が血は島の獣なのだ！"
 
 #. [message]: speaker=Vampire
 #. it's been a little over 500 years since Haldric arrived, fought, and killed
@@ -9127,7 +9126,7 @@ msgstr "呪われた存在に呪われてしまったな、Konrad！死んでも
 msgid ""
 "C’mon, let’s be gettin’ back to the village. And on the way, you boys better"
 " be tellin’ me just who exactly you all are."
-msgstr "さあ、アタシらの村に戻るよ。戻る間にあんたらが誰なのか詳しく教えてくれ。"
+msgstr "さあ、アタシらの村に戻るよ。戻る間にアンタらが誰なのか詳しく教えてくれよ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:536
@@ -9229,7 +9228,7 @@ msgstr "今度もまた大変そうだね、Maddock？今回は呪われた兵�
 msgid ""
 "Ah’m not afraid! Jus’ give the word an’ I’ll see them chicken-hearted pox "
 "wrinklers clear back to Weldyn!"
-msgstr "ワシは何者も恐れぬ！さあ、「行け」と言え！惰弱で臆病な軟弱者共を Weldyn に追い返してやろうぞ！"
+msgstr "俺は何者も恐れぬ！ただ「行け」とだけ言えばいい！惰弱で臆病な軟弱者共を Weldyn に追い返してやろうぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:598
@@ -9299,7 +9298,7 @@ msgstr "お主も元気いっぱいだな。しかし、おしゃべりしてい
 msgid ""
 "Tried t’ tell you this would happen, Maddock. You shoulda fought with us "
 "back when the going was better."
-msgstr "こうなるって言っただろ、Moddock。まだマシだったあの時、アタシ達と一緒に戦っとくべきだったな。"
+msgstr "こうなるって言っただろ、Maddock。まだマシだったあの時、アタシ達と一緒に戦っとくべきだったな。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:683
@@ -9348,14 +9347,14 @@ msgid ""
 "Elensefar Isle. Good work everyone — they weren’t ready for us to press the "
 "Carcyn fishers into service. But our fight’s not done yet."
 msgstr ""
-"Elensefar 島。よくやったぞ、皆 ── 敵は我々が Carcyn の漁師を動員することを想定できていなかった。しかし、私たちの戦いはこれからよ。"
+"Elensefar 島。よくやったぞ、皆 ── 敵は我々が Carcyn の漁師を動員することを想定できていなかった。さあ、私たちの戦いはこれからだ。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:810
 msgid ""
 "Secure a beachhead and prepare to receive the rest of the boats. We must act"
 " swiftly, before they can pivot their defenses."
-msgstr "上陸地点を確保し、残りのボートを迎え入れるのよ。急ぎなさい！敵の守備が整う前にやるしかないのだから！"
+msgstr "上陸地点を確保し、残りのボートを迎え入れるのだ。急ぎなさい！敵の守備が整う前にやるしかないのだから！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:820
@@ -9440,14 +9439,14 @@ msgstr "今日のところはお前の勝ちだ、Konrad。船がこれ以上の
 msgid ""
 "My last landed boat is badly damaged! I hate to retreat, but I can’t risk "
 "being trapped here and captured."
-msgstr "最後に岸につけたボートがひどいダメージを受けている！ここで退きたくはないが、ここ留まって虜囚となるリスクは避けねばならない。"
+msgstr "最後に岸につけたボートがひどいダメージを受けている！ここで退きたくはないが、ここに留まって虜囚となるリスクは避けねばならない。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:977
 msgid ""
 "You prove your skills once again, cousin. A worthy foe indeed... Elensefar "
 "survives another day."
-msgstr "我が従兄弟よ、ここでもその力を示したな。手強い相手だ… 今日のところは Elensefar に勝ちを譲ろう。"
+msgstr "我が従弟よ、ここでもその力を示したな。手強い相手だ… 今日のところは Elensefar に勝ちを譲ろう。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:982
@@ -9456,7 +9455,7 @@ msgid ""
 " and a pretty face. I may be forced to flee the field today, but this isn’t "
 "over."
 msgstr ""
-"お前を見くびっていたようだ、我が「従兄弟」よ ── 顔と演技力だけの男ではないということか。今日のところはここで退くが、これで終わりではないぞ。"
+"お前を見くびっていたようだ、我が「従弟」よ ── 顔と演技力だけの男ではないということか。今日のところはここで退くが、これで終わりではないぞ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1018
@@ -9509,7 +9508,7 @@ msgid ""
 "taking the city. We already pushed dangerously hard just to get this far — I"
 " can’t risk things any further."
 msgstr ""
-"退きたくはないが、北岸が解放されてしまった今、街を抑えられる可能性はほとんどない。それに、ここまでやるのにだいぶ無理をさせてしまっている ── "
+"退きたくはないが、北岸が解放されてしまった今、街を押さえられる可能性はほとんどない。それに、ここまでやるのにだいぶ無理をさせてしまっている ── "
 "これ以上リスクは取れないか。"
 
 #. [message]: speaker=Konrad
@@ -9554,7 +9553,7 @@ msgstr "Konrad は「剣士」、「熟練槍兵」、「盗賊」が雇用で�
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1119
 msgid "May they serve you well. Keep up the good fight, my lord."
-msgstr "彼らが君の役に立てることを願っている。今後の活躍にも期待している、未来の王よ。"
+msgstr "彼らが君の役に立てることを願っている。そして今後の活躍にも期待しているぞ、未来の王よ。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1141
@@ -9684,7 +9683,7 @@ msgstr "あれを見よ、小僧！街の臆病者だ。我らの元に秘密裏
 msgid ""
 "Look, Konrad! Someone’s fording the river, sneakin’ out to see us. How is he"
 " movin’ across the deep water?!"
-msgstr "Konrad、あれを見ろ！誰かが川を渡ってアタシらのとこにこっそり近づいているよ。あいつ、どうやって深水領域を移動したんだ？"
+msgstr "Konrad、あれを見ろ！誰かが川を渡ってアタシらのとこにこっそり近づいているよ。あいつ、どうやって水が深いところを移動したんだ？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:374
@@ -9697,14 +9696,14 @@ msgstr "Konrad、聞け！街の者が一人、秘密裏に渡河して抜けだ
 msgid ""
 "Oh, hello? Err... I think I see — yes, Konrad, someone’s sneaking across the"
 " river towards us."
-msgstr "あら、もしもし？えーっと… そうですねぇ… ああやっぱり。Konrad、誰かが川を渡って私たちのところにやってきたようですよ。"
+msgstr "あら、あらあら？えーっと… そうですねぇ… ああやっぱり。Konrad、誰かが川を渡って私たちのところにやってきたようですよ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:376
 msgid ""
 "Look there, Konrad. Dosh is seein’ a softskin sneakin’ across dis river "
 "towards us."
-msgstr "あれ見ろ、Konrad。柔皮が一人、秘密に川を渡って Dosh 達のところに来るぞ。"
+msgstr "あれ見ろ、Konrad。柔皮が一人、秘密に川渡って Dosh 達ところ来る。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:377
@@ -9753,7 +9752,7 @@ msgid ""
 "Aye, sure ye do. An’ as soon as our backs are turned we’ll find yer fingers "
 "down our purses an’ yer knives stickin’ out o’ our spleens! What sort o’ "
 "chucklehead do ye take me for?"
-msgstr "おお、そうか。それで、ワシらが背を向けるとその手が財布に伸びて、そのナイフがワシらの背中に刺さるのだな！ワシらをマヌケだと思っているのか？"
+msgstr "おお、そうか。それで、俺達が背を向けるとその手が財布に伸びて、そのナイフが俺達の背中に刺さるのだな！俺達をマヌケだと思っているのか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:401
@@ -9784,7 +9783,7 @@ msgstr "Dosh 盗賊信用しない。Dosh 盗賊やることわかる。嘘、�
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:405
 msgid "Thieves, hmmm? Who says we can trust such as you?"
-msgstr "盗賊、むむ？そのような者が信用されるわけがないだろう？"
+msgstr "盗賊だって？うむむ、そのような者が信用されるわけがないだろう？"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:409
@@ -9804,7 +9803,7 @@ msgid ""
 "well, and if you can liberate Elensefar we shall do the same for you."
 msgstr ""
 "俺たちのような薄汚れた盗賊にも名誉はある。そのことをきっと理解できるだろう。今まで俺たちは Maddock のために良く働いていた。Elensefar "
-"を解放してくれれば、あんたたちのためうに働こう。"
+"を解放してくれれば、あんたたちのために働こう。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:417
@@ -9855,7 +9854,7 @@ msgstr "承知した。しかし、もし夜だった場合、我らの旗を確
 msgid ""
 "Yes, we will see it. In fact, we prefer to fight at night. I pray you do not"
 " lead us into slaughter."
-msgstr "問題無い。そもそも、俺たちは夜の方が戦いやすい。俺たちが皆殺しにならないようにしてくれると期待する。"
+msgstr "問題無い。そもそも、俺たちは夜の方が戦いやすい。あとは、俺たちが全滅しないようにしてもらえると助かる。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:446
@@ -9929,7 +9928,7 @@ msgstr "なんだと？！どうやって水の中を歩いている？"
 msgid ""
 "That’s their banner! Let’s expel these invaders. Today, the city is ours "
 "again!"
-msgstr "旗が上がった！侵略者を排除するぞ。都市を取り戻すぞ！"
+msgstr "旗が上がった！侵略者を排除する。都市を取り戻すぞ！"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:614
@@ -9938,7 +9937,7 @@ msgid ""
 "Halstead fell, back when his son helped us fight."
 msgstr ""
 "こういうことになると Maddock には言ったのにな。あいつの息子の支援もあって、Halstead "
-"が陥落した後、アタシ達には本当にチャンスがあったんだけどな。"
+"が陥落した後、アタシ達には本当にチャンスがあったのに。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:618
@@ -9988,7 +9987,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:680
 msgid "I’m not dying! Orcs never die! I just... need a moment..."
-msgstr "俺はまだやれる！オークは死なない！ちょっとだけ… 休ませてくれ……"
+msgstr "俺はまだやれる！オークは死なない！だが、ちょっとだけ… 休ませてくれ……"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:688
@@ -10109,7 +10108,7 @@ msgid ""
 "I know enough: I’ve trained in archery my entire life and never seen a bow "
 "to rival this one. Fighting with it is my best chance at beating you!"
 msgstr ""
-"そうでもないぞ。これでも、この人生をこれまで弓術に捧げてきたのだから。だからわかる、これほどの弓はこれまで一度も見たことがない。だから貴様等に勝つためにはこの弓を使うのが最善なのだ！"
+"そうでもないぞ。これでも、この人生をこれまで弓術に捧げてきた。だからわかる、これほどの弓はこれまで一度も見たことがない。貴様等に勝つためにはこの弓を使うのが最善なのだ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:274
@@ -10194,7 +10193,7 @@ msgstr "貴様等残り物共もさっさと去ね！膝頭を頭蓋骨の中で
 msgid ""
 "Da rest of you better be leavin’ now too. Konrad good troll-friend. You don’"
 " wanna see what troll do to you if you keep fightin’ Konrad."
-msgstr "残った奴等さっさと消えろ。Konrad トロルのトモダチ。Konrad に逆らうやつトロル許さない。"
+msgstr "残った奴等すぐ消えろ。Konrad トロルトモダチ。Konrad 逆らうやつトロル許さない。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:359
@@ -10214,7 +10213,7 @@ msgid ""
 "tarnish."
 msgstr ""
 "これで Tahn 砦は我らのものだ。Aethen "
-"の森の資金と月の弓も取り戻した！弓がもう少しうまく使えるようになったら、私がこの弓を使おう。そしていつの日か、この弓を手に闇の女王に戦いを挑むのだ。この銀が曇ることがありませんように。"
+"の森の資金と月の弓も取り戻した！弓をもう少しうまく使えるようになったら、私がこの弓を使おう。そしていつの日か、この弓を手に闇の女王に戦いを挑むのだ。この銀が曇ることがありませんように。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:376
@@ -10667,7 +10666,7 @@ msgid ""
 "sister senior sent us to cut through these restless dead and find aid for "
 "our home! But who are you to ask, stranger of the south?"
 msgstr ""
-"逆だ。あのアンデッドをどうにかするために我々がここに来たの！封印が綻びつつある。そこで、死者達を切り抜け、助けを求めるように先達のシスターから仰せつかったのだ！"
+"逆だ。あのアンデッドをどうにかするために我々がここに来たのだ！封印が綻びつつある。そこで、死者達を切り抜け、助けを求めるように先達のシスターから仰せつかったのだ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:289
@@ -10732,7 +10731,7 @@ msgid ""
 "Men and women of our order, servants of the light, have made it our mission "
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
-msgstr "修道会の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としている。そこに修道院を建てて闇が決して逃げないようにしたのだ。"
+msgstr "修道会の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としている。そこで修道院を建てて闇が決して逃げないようにしたのだ。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:365
@@ -11104,7 +11103,7 @@ msgid ""
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
 msgstr ""
-"修道会の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としています。ここに修道院を建てて、闇が決して逃げださないようにしていたのです。"
+"修道会の者は男女問わず光に仕える者で、この汚れた地を浄化することを使命としています。それで、ここに修道院を建てて、闇が決して逃げださないようにしていたのです。"
 
 #. [message]: speaker=Vinrar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:455
@@ -11233,9 +11232,11 @@ msgid ""
 "Smite: each time Moremirmu strikes a finishing blow, he will deal\n"
 "30 arcane damage to all adjacent enemies."
 msgstr ""
-"Moremirmu が戻りました！ダメージが +2、HP が +20 され、強力な「神罰」能力を獲得しました！\n"
+"Moremirmu が戻りました！ダメージが +2、HP が +20 され、\n"
+"強力な「神罰」能力を獲得しました！\n"
 "\n"
-"神罰：Moremirmu が敵に止めを刺した時、Moremirmu に隣接する敵ユニットは 30 の秘術ダメージを受けます。"
+"神罰：Moremirmu が敵に止めを刺した時、Moremirmu に隣接\n"
+"する敵ユニットは 30 の秘術ダメージを受けます。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:651

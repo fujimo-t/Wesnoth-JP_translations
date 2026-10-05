@@ -174,7 +174,7 @@ msgstr "ウーズを殺すことなく『駐在官』をクリアする。"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
 msgid "Scenario 3: Mellon"
-msgstr "森の友人"
+msgstr "シナリオ 3：森の友人"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
@@ -209,23 +209,23 @@ msgstr "シナリオ 6：王の特権"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:28
 msgid "Complete <i>The Great River</i> in 20 turns or less."
-msgstr ""
+msgstr "『大いなる川』を 20 ターン以内にクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:28
 msgid "Scenario 7: On the Clock"
-msgstr ""
+msgstr "シナリオ 7：時間厳守"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:29
 msgid ""
 "Complete <i>Ruins of Saurgrath</i> on the same turn you’re first spotted."
-msgstr ""
+msgstr "『Saurgrath の遺跡』を、最初に発見されたターン内でクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:29
 msgid "Scenario 8: Monster in the Mist"
-msgstr ""
+msgstr "シナリオ 8：霧中の怪物"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
@@ -529,12 +529,12 @@ msgstr ""
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:49
 msgid "Cast Delfador’s Spells"
-msgstr ""
+msgstr "Delfador の呪文詠唱"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:49
 msgid "Select Delfador’s Spells"
-msgstr ""
+msgstr "Delfador の呪文選択"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:50
@@ -4269,11 +4269,14 @@ msgid ""
 "\n"
 "Like villages, an oasis will heal anyone standing on it. Unlike villages, an oasis provides neither income nor protection."
 msgstr ""
+"この辺りには村がほとんど見当たらぬが、見よ！オアシスがあるではないか。\n"
+"\n"
+"村と同様に、オアシスでは誰もが回復できる。収入と防御の恩恵は得られないがな。"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:793
 msgid "Who are you! Why bring death into my homesss..."
-msgstr ""
+msgstr "なんだお前らは！なんで我らの<small>スス</small>すみかに死<small>シシ</small>を持ってくるのか・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:797
@@ -4282,34 +4285,36 @@ msgid ""
 "Wesnoth’s spears, or I will visit upon you the same destruction your allies "
 "would bring to us!"
 msgstr ""
+"我は Delfador 、Wesnoth の戦闘魔術師である！Blackcrest のオークなどには見切りをつけ、Wesnoth "
+"の槍に生贄として捧げよ！さもなくば、オークどもが我らにもたらさんとする惨禍を、そのままお前たちに見舞ってやろう！"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:801
 msgid ""
 "But tribe Earth-Becomes-Clay mussst fight Wesssnoth! The Great One has "
 "commanded us!"
-msgstr ""
+msgstr "だが、我ら「土から生まれて泥になる」部族は、Wesssnoth と戦うのだ！偉大なるお方の命令なのだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:805
 msgid ""
 "The “Great One”? I had thought you matriarchs led your tribe. Tell me, "
 "elder, who is this of which you speak?"
-msgstr ""
+msgstr "「偉大なるお方」だと？部族を率いるのは、お前たち族長なのだと思っておったが。長老よ、お前が語るその者とはいったい何者だ？"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:809
 msgid ""
 "We sssauriansss are finally united... the Great One makesss usss... "
 "ssstrong..."
-msgstr ""
+msgstr "我らトカゲはついにひとつになった・・・「偉大なるお方」が我らを強く・・・<small>スス</small>する・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:815
 msgid ""
 "Alas, she has expired. Her wounds were too great. But we have learned much —"
 " we must capture another matriarch to find out who this ’great one’ is."
-msgstr ""
+msgstr "いかん、絶命したか。傷が深すぎたようだ。だが、収穫もあった——他の族長を捕らえて、「偉大なるもの」が何者なのかを聞き出すのだ。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:817
@@ -4322,6 +4327,7 @@ msgid ""
 "You are beaten, lizard! Your ’great one’ commands you to kill my people; "
 "tell me who or what the ’great one’ is, and your life shall be spared."
 msgstr ""
+"お前の負けだ、トカゲ！お前たちのいう「偉大なるもの」とやらが、我が民を殺せと命じておるようだが、そは誰か、あるいは何なのかを吐け！さすれば命ばかりは助けてやろう！"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:838
@@ -4329,13 +4335,14 @@ msgid ""
 "Curssse you! We are all nothing but wormsss before her... she will dessstroy"
 " you in an inferno of flamesss!"
 msgstr ""
+"呪われろ！あのお方の前では、我らはみな虫<small>シシ</small>けらと同じだ・・・お前たちなど業火で焼き尽く<small>ササ</small>される！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:856
 msgid ""
 "And I shall destroy YOU in an inferno of flames if you don’t tell me what I "
 "want to know!"
-msgstr ""
+msgstr "我が問いに答える気がないのなら、お前をこそ業火で焼いてやる！"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:868
@@ -4350,7 +4357,7 @@ msgstr "ファイアボール"
 msgid ""
 "Wait, what! I wasn’t actually going to— that wasn’t supposed to happen! "
 "Where did that fireball come from!"
-msgstr ""
+msgstr "いや、待った！そんなつもりでは——こんなはずじゃなかったのに！なんであんな強いファイアボールが出ちまったんだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:890
@@ -4359,6 +4366,8 @@ msgid ""
 "finer arts of control. Methor would be ashamed... I must redouble my "
 "efforts."
 msgstr ""
+"・・・力を高めることに邁進しすぎて、繊細な制御の技術を軽視してしまっていたみたいだ。これでは、Methor "
+"に顔向けできない・・・一層の鍛錬を積まねばならんな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:911
@@ -4368,6 +4377,7 @@ msgid ""
 "possess, but the gleaming light of truth instead.”</i> Surely this was not "
 "the event that she referred to?"
 msgstr ""
+"・・・数十年ほど前、エルフの予言者が「仄暗き沼地」のことと、「火の力を、破滅をもたらす炎にせんとすることなく、さやけき誠の光を灯さんがために用うよう努めよ」と語っていたな。まさか、このことを言っていた訳ではあるまいな？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:915
@@ -4377,6 +4387,8 @@ msgid ""
 " was trying to say. Why must seers always speak in riddles? It is hard to "
 "think clearly, especially in times of crisis..."
 msgstr ""
+"Garard "
+"王は迷信扱いしてまともに取り合ってくれぬが、私はあの謎めいた助言に従うように努めてきた。まあ、正直に言えば、彼女の言わんとしていたことが何か、ほとんど理解できてはおらぬが。何故に予言者というものは、決まって謎掛けで語るのだ？殊にかような非常時には、冷静に考えを巡らすのが難しいというのに・・・"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:918
@@ -4388,13 +4400,13 @@ msgstr "（残り 1 匹）"
 msgid ""
 "Cease your fighting, matriarch, for you have been bested! Heed this warning:"
 " answer my questions or be burned to ashes!"
-msgstr ""
+msgstr "手向かいは辞めよ、族長！お前は負けたのだ！しかとこの警告を聞くがよい。我が問いに答えるか、さもなくば、焼かれて灰になるかだ！"
 
 #. [message]: speaker=Delfador
 #. Delfador was worried he would accidentally shoot a fireball, but he didn't
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:961
 msgid "(There we go. Both power and control.)"
-msgstr ""
+msgstr "（これで良い。力と制御の両立だ。）"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:965
@@ -4402,6 +4414,7 @@ msgid ""
 "Mothersss protect me, can it be? Are you a sssecond great dragon of fire!? I"
 " am blessssed to sssee sssuch thingsss in my time..."
 msgstr ""
+"母たちのご加護を・・・ま<small>ササ</small>さか、<small>ソソ</small>そんなことが？あなたも偉大なる炎のドラゴンなのか！？生きているうちに、これほどのものに二度も出会えるとは、何という幸運・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:969
@@ -4409,13 +4422,14 @@ msgid ""
 "A drago— your great one is a dragon!? ...yes, I am a great dragon as well. "
 "Do you not see my fire? Do you not see my flight?"
 msgstr ""
+"ドラゴ——偉大なるものとはドラゴンなのか！？・・・いかにも、我もまた偉大なるドラゴンである。我の炎が見えぬのか？飛翔する我の姿が見えぬのか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:979
 msgid ""
 "Now you shall tell me where I may find the dragon —the other dragon. The two"
 " of us have much business together."
-msgstr ""
+msgstr "さあ、どこへ行けばそのドラゴ——もう一方のドラゴンに会えるのか答えよ。我らドラゴンは共に成さねばならぬことがあるのだ。"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:983
@@ -4423,54 +4437,55 @@ msgid ""
 "Oh, Great One, I hear you and obey! Follow me, and I will guide you to your "
 "sister."
 msgstr ""
+"ああ、偉大なるお方、あなた<small>ササ</small>様に<small>シシ</small>従います！私<small>シシ</small>について来てくだ<small>ササ</small>さい、ご同胞の元へ案内<small>シシ</small>します<small>スス</small>。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:1010
 msgid "Everyone, keep moving! We’re running out of time."
-msgstr ""
+msgstr "皆の者、足を止めるな！ もう時間がないぞ！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:1058
 msgid ""
 "What’s this? Filthy humans grubbing around in our swamp? These lizards are "
 "Blackcrest property!"
-msgstr ""
+msgstr "何だこれは？意地汚い人間どもが俺たちの沼地をあさり回ってるのか！？このトカゲどもは、我ら Blackcrest のもんだぞ！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:1062
 msgid "They ssstrike at the matriarchsss! We ssshall ssslay them all!"
-msgstr ""
+msgstr "奴らは族長たちを狙っている！皆殺し<small>シシ</small>に<small>シシ</small>してやる！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:1066
 msgid ""
 "The main orcish army has caught up to us! Even if we defeat this vanguard "
 "and flee onwards, we’ve missed our chance to break the saurian alliance..."
-msgstr ""
+msgstr "オークの本隊が現れたか！たとえこの前衛を撃破して切り抜けたとしても、トカゲとの同盟を断つ見込みは潰えたということか・・・"
 
 #. [scenario]: id=08x_Field_Hospital
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:6
 msgid "Field Hospital"
-msgstr ""
+msgstr "野戦病院"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:112
 msgid ""
 "Ah, much better. Thanks again for the healing, old man, but I’m afraid this "
 "is the last we’ll be seeing of each other for some time."
-msgstr ""
+msgstr "ああ、随分楽になった。重ねて礼を申す、御老体。だが、残念ながら、当分は互いに顔を合わせることができなくなりそうだ。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:116
 msgid "Oh? You’ve been pulled back from the front?"
-msgstr ""
+msgstr "おや？前線から呼び戻されたのかね？"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:120
 msgid ""
 "Not quite. Remember Delfador’s prophecy? “Line of Kings”? “Sceptre of the "
 "Wesfolk”?"
-msgstr ""
+msgstr "いや、違うのだ。Delfador の予言を覚えておいでか？「王の血脈」だの「Wesfolk の笏」だのというやつだ。"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:124
@@ -4480,6 +4495,9 @@ msgid ""
 " that the king should hold the Sceptre. If a noble did get their hands on it"
 " they’d have a pretty strong claim to Garard’s throne."
 msgstr ""
+"実は、Garard "
+"王が気にされておってな。王妃殿下が聞いたという風聞によれば、長らく行方知れずだった「炎の笏」の在り処を、ある貴族が知っているというのだ。真偽のほどは分からぬが、「笏」は王が持つべきだということは誰もが知っている。万一貴族の手に渡れば、Garard"
+" 王の玉座を揺るがす強力な大義を与えてしまうことになるからな。"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:128
@@ -4488,13 +4506,15 @@ msgid ""
 "’grand journey’ into the wildlands to find the Sceptre first, and ensure he "
 "stays firmly in power."
 msgstr ""
+"そこで陛下は、私と Weldyn "
+"が誇る最高の精鋭で百人隊を編成し、荒野への「大遠征」に丸ごと派遣することにされたのだ。誰よりも先に「笏」を見つけ出し、自らの王権を盤石にするためにな。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:132
 msgid ""
 "Good gods, why now? Wesnoth is in enough trouble as it is, without worrying "
 "about lost artifacts and suicide missions."
-msgstr ""
+msgstr "おお神よ、何故、今なのか？失われた遺物だの、無謀な遠征だのに気を揉むまでもなく、Wesnoth はただでさえ窮地のただ中にいるというのに。"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:136
@@ -4503,6 +4523,7 @@ msgid ""
 "someone really is trying to usurp the throne... Well, I only hope I can find"
 " the Sceptre quickly, and resume my place at the king’s side."
 msgstr ""
+"陛下が一度思いを定められたらどうなるか、よくご存知であろう。それに、万一誠に玉座を狙う者がいるとすれば・・・私にできることは、一刻も早く「笏」を見つけ出し、陛下の傍らへの帰参を願うことだけだ。"
 
 #. [message]: speaker=Methor
 #. this mirrors Deoran's request to Delfador in S10x
@@ -4511,6 +4532,8 @@ msgid ""
 "Lionel! You don’t... <b><i>have</i></b> to go, you know. You’re Garard’s top"
 " general — if you refuse, I’m not sure there’s much he could do about it."
 msgstr ""
+"Lionel 殿！さようなことは・・・出征する必要などはありませぬ。貴殿は Garard "
+"王直属の最高司令官ですぞ——もしも拒んだとて、陛下と言えども、おいそれと無体なことはできぬでしょう。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:151
@@ -4518,6 +4541,8 @@ msgid ""
 "And it would be for the king’s own good! Garard needs you "
 "<b><i>here</i></b>, Lionel! Wesnoth needs you here."
 msgstr ""
+"それに、その方が他ならぬ陛下のためにもなりましょう！貴殿がこの地に留まることこそ、陛下には必要なはず。Lionel 殿！Wesnoth "
+"があなたを必要としておるのです！"
 
 #. [message]: speaker=Lionel
 #. [message]: speaker=Omaranth
@@ -4540,12 +4565,12 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1471
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:198
 msgid "..."
-msgstr ""
+msgstr "・・・"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:159
 msgid "I’m loyal, Methor. Always have been, always will be."
-msgstr ""
+msgstr "私は陛下の忠臣なのです、Methor 殿。これまでも、そして、これからも。"
 
 #. [scenario]: id=09_Omaranth
 #. [unit]: id=Omaranth
@@ -4556,19 +4581,19 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:419
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:197
 msgid "Omaranth"
-msgstr ""
+msgstr "Omaranth"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:45
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:36
 msgid "Omaranth’s Flight"
-msgstr ""
+msgstr "Omaranth の飛族"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:63
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:60
 msgid "Fauna"
-msgstr ""
+msgstr "Fauna"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:94
@@ -8063,17 +8088,17 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:45
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:33
 msgid "lance"
-msgstr ""
+msgstr "ランス"
 
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:57
 msgid "trample"
-msgstr ""
+msgstr "踏みつけ"
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:65
 msgid "crossbow"
-msgstr ""
+msgstr "クロスボウ"
 
 #. [unit_type]: id=Hunker Eldred, race=human, gender=male
 #. [unit_type]: id=King Eldred, race=human, gender=male
@@ -8105,22 +8130,22 @@ msgstr ""
 #. summons
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Magic.cfg:44
 msgid "shadow wave"
-msgstr ""
+msgstr "影の波動"
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Prince.cfg:28
 msgid "sword"
-msgstr ""
+msgstr "剣"
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Prince.cfg:34
 msgid "javelin"
-msgstr ""
+msgstr "投槍"
 
 #. [unit_type]: id=King of Wesnoth, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:4
 msgid "King of Wesnoth"
-msgstr ""
+msgstr "Wesnoth の王"
 
 #. [unit_type]: id=King of Wesnoth, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:6
@@ -8136,7 +8161,7 @@ msgstr ""
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:26
 msgid "longsword"
-msgstr ""
+msgstr "長剣"
 
 #. [dummy]: id=consume
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Cave_Bear.cfg:11
@@ -8209,7 +8234,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:31
 msgid "fist"
-msgstr ""
+msgstr "拳"
 
 #. [unit_type]: id=Orcish Adept, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Adept.cfg:5
@@ -8231,7 +8256,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:52
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:828
 msgid "siphon"
-msgstr ""
+msgstr "吸収"
 
 #. [unit_type]: id=Orcish Shaman, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Shaman.cfg:5
@@ -8285,12 +8310,12 @@ msgstr ""
 #. [attack]: type=cold
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:54
 msgid "curse"
-msgstr ""
+msgstr "呪い"
 
 #. [unit_type]: id=Saurian Juvenile, race=lizard
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Juvenile.cfg:5
 msgid "Saurian Juvenile"
-msgstr ""
+msgstr "トカゲの幼体"
 
 #. [unit_type]: id=Saurian Juvenile, race=lizard
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Juvenile.cfg:15
@@ -8319,7 +8344,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:45
 msgid "spear"
-msgstr ""
+msgstr "槍"
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:54
@@ -8359,7 +8384,7 @@ msgstr "劇薬"
 #. [dummy]: id=panacea
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:287
 msgid "Next turn, this unit dies."
-msgstr ""
+msgstr "次のターンでこのユニットは死にます。"
 
 #. [leadership]: id=summoner
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:366
@@ -8379,7 +8404,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:457
 msgid "chill touch"
-msgstr ""
+msgstr "冷却"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:526
@@ -8403,7 +8428,7 @@ msgstr "使い魔を従えるようになったのか、見習いよ？よくや
 #. [dummy]: id=mnemonic
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:665
 msgid "mnemonic"
-msgstr ""
+msgstr "記憶術"
 
 #. [dummy]: id=mnemonic
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:666
@@ -8442,7 +8467,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1418
 msgid "dancing daggers"
-msgstr ""
+msgstr "剣の舞"
 
 #. [chance_to_hit]: id=skill_illusion
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1488
@@ -8471,7 +8496,7 @@ msgstr ""
 #. [object]: type=fire
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1906
 msgid "lightning"
-msgstr ""
+msgstr "稲妻"
 
 #. [dummy]: id=chain
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1916
@@ -8495,7 +8520,7 @@ msgstr ""
 #. [set_menu_item]: id=TDG_spellcasting
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2522
 msgid "Cast Spells"
-msgstr ""
+msgstr "呪文詠唱"
 
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2560
@@ -8568,11 +8593,11 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:186
 msgid "Kestrel"
-msgstr ""
+msgstr "Kestrel"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:222
 msgid "Iliah-Malal"
-msgstr ""
+msgstr "Iliah-Malal"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:261
 msgid "Garard II"
