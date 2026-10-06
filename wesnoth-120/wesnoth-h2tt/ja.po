@@ -11298,7 +11298,7 @@ msgstr "Raery"
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:206
 msgid ""
 "He’s taken the bait. Quick, get down into the mines and alert the others."
-msgstr "罠にかかった。急いで、鉱山に入って他の者たちに知らせるのよ。"
+msgstr "餌に食いついた。急げ、鉱山に入って他の者たちに知らせるのだ。"
 
 #. [message]: speaker=knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:215
@@ -11325,13 +11325,13 @@ msgid ""
 "own safety and to keep them out of the rebels’ hands."
 msgstr ""
 "Raery、そうしたい気持ちは理解するが、罪の無い者を無慈悲に殺すわけにはいかない。ドワーフ達はここから連れ出す── "
-"彼ら自身の安全のためでもあるし、反乱軍に彼らを渡すわけにいかないのだから。"
+"彼ら自身の安全のためでもあるし、反乱軍に彼らを渡すわけにもいかないのだから。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:234
 msgid ""
 "Too late, Konrad has come! Forget the prisoners and prepare for battle."
-msgstr "もう手遅れだ！Konrad が来た！囚人のことは一旦忘れて戦闘に備えろ。"
+msgstr "もう手遅れだ！Konrad が来たぞ！囚人のことは一旦忘れて戦闘に備えなければ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:260
@@ -11533,7 +11533,7 @@ msgid ""
 "yer human queen, lemme tell you. “Clean up the old crossroads mines”, she "
 "says. “The princess needs ’em for somethin’!”"
 msgstr ""
-"ふう、助かったぜ！金輪際ニンゲンの女王なんぞのために山は掘らんぞ。チクショウが。そうだな、「古い十字路の鉱山を片付けろ」って女王に言われたな。「王女がとある目的それを使うのだ！」とか言ってたな。"
+"ふう、助かったぜ！金輪際ニンゲンの女王なんぞのために山は掘らんぞ。チクショウが。そうだな、「古い三叉路の鉱山を片付けろ」って女王に言われたな。「王女がとある目的それを使うのだ！」とか言ってたな。"
 
 #. [message]: speaker=Ulfdain
 #. All we do is insult the queen a few times, in a friendly manner, and she
@@ -11544,7 +11544,7 @@ msgid ""
 "it was straight to the gibbet! You beanpoles jus’ dinnae appreciate a good "
 "insult!"
 msgstr ""
-"それで親しみを込めた女王の悪口を何度か言っていたら、俺たちは絞首台にかけられそうになったのだ！貴様等間抜けなのっぽの石頭には「良い罵倒」というものがわからんのか！"
+"それで親しみを込めた女王の悪口を何度か言っていたら、俺たちは絞首台にかけられそうになったのだ！貴様等間抜けなのっぽ共の石頭では「良い罵倒」というものがわからんのか！"
 
 #. [message]: speaker=Ulfdain
 #. And now my job is gone; guess I have nothing left for me now but revenge.
@@ -11591,7 +11591,7 @@ msgstr "かかってこい、間抜け面のトンチキ野郎！ドワーフの
 msgid ""
 "Oy princess! Ah got an axe right ’ere with yer name on it! By Thursagan’s "
 "beard, ah’ll teach you and yer men to lock me up!"
-msgstr "よう王女！この斧もお前に会いたがっていたぜ！よくも閉じ込めてくれたなクソ共が、Thursagan の髭にかけて思い知らせてやろう！"
+msgstr "よう王女！この斧もお前に会いたがっていたぜ！よくも閉じ込めてくれたなクソ共！Thursagan の髭にかけて思い知らせてやろう！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:669
@@ -11650,7 +11650,7 @@ msgid ""
 "forced to flee the field today, “cousin”, but I will not rest until you face"
 " justice for all the chaos you have caused."
 msgstr ""
-"近づくな！私はこんなところで終われない。今日のところはこれで退かせてもらおう、「いとこ」よ。しかし、あなたがこの国に混乱をもたらしたことを許すつもりはないわ。いつか正義の裁きを受けさせてやる。"
+"近づくな！私はこんなところで終われない。今日のところはこれで退かせてもらおう、「従弟」よ。しかし、お前がこの国に混乱をもたらしたことを許すつもりはない。いつか正義の裁きを受けさせてやる。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:783
@@ -11661,7 +11661,7 @@ msgid ""
 "all the chaos you have caused."
 msgstr ""
 "そう、偉大なる Delfador がまた青き血を流させた。我が従弟と老人よ、次はこうはいかない── "
-"今日のところは退かせてもらう。しかし、あなたたちがこの国に混乱をもたらしたことを許すつもりはないわ。いつか正義の裁きを受けさせてやる。"
+"今日のところは退かせてもらう。しかし、お前たちがこの国に混乱をもたらしたことを許すつもりはない。いつか正義の裁きを受けさせてやる。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:790
@@ -11671,8 +11671,8 @@ msgid ""
 "until you and your puppetmaster face justice for all the chaos you have "
 "caused."
 msgstr ""
-"そう、あなたは綺麗な顔をした、ただの役者ではなかったのね、「従弟」よ。まあいいわ ── "
-"今日のところは退きましょう。しかし、あなたと黒幕がこの国に混乱をもたらしたことを許すつもりはないわ。いつか必ず正義の裁きを受けさせてやる。"
+"そう、あなたは綺麗な顔をした、ただの役者ではなかったのだな、「従弟」よ。まあいい ── "
+"今日のところは退こう。しかしお前と黒幕がこの国に混乱をもたらしたことを許すつもりはない。いつか必ず正義の裁きを受けさせてやる。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:807
@@ -11712,7 +11712,7 @@ msgid ""
 "Aye, an’ good fer us that rain an’ fog ’ave come in. Those mole-eyed "
 "chicken-city buffoons will have no idea we’re here, as long as we keep our "
 "distance from th’ walls."
-msgstr "雨に霧まで来るとは好都合だな。城壁に近づかなければ、引きこもった腰抜けモグラには我らの位置を掴めまい。"
+msgstr "雨に霧まで来るとは好都合だな。城壁に近づかなければ、引きこもった腰抜けモグラには俺達の位置は掴めまい。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:211
@@ -11751,7 +11751,7 @@ msgid ""
 "It is lucky for us that this rain has come with a thick fog. As long as we "
 "keep our distance from the city proper, it may be some time before the "
 "garrison is alerted to our presence."
-msgstr "濃い霧を伴って雨が来たことは我々にとって幸運だ。都市から距離をとってさえいれば、守備隊に我々の存在はそう簡単には気づかれないはずだ。"
+msgstr "濃い霧を伴って雨が来たことは我々にとって幸運。都市から距離をとってさえいれば、守備隊に我々の存在はそう簡単には気づかれないはず。"
 
 #. [objective]: condition=win
 #. $dead_wagons is a number; probably between 0 and 15
@@ -11810,7 +11810,8 @@ msgid ""
 "Even if some bandits were to foolishly come this near to Dan’Tonk, what does"
 " the lieutenant expect me to do? It’s not as if I have any way to warn the "
 "city..."
-msgstr "万一山賊が愚かにも Dan’Tonk に近づいてきたとして、お偉いさんは俺にどうしろってんだ？ここから街に警告を出す手段なんかないんだぞ…"
+msgstr ""
+"万一山賊が愚かにも Dan’Tonk に近づいてきたとして、お偉いさんは俺にどうしろってんだ？ここから街に警告を上げる手段なんかないんだぞ…"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:345
@@ -11844,14 +11845,14 @@ msgstr "奇襲だ！Maddock の傭兵がこんな内陸までどうやって来�
 msgid ""
 "That’s the first caravan destroyed! Well done, everyone — now we must stop "
 "the second, too!"
-msgstr "荷馬車をまずは一台確保したぞ！みんな、良くやってくれた ── 次も頼むぞ！"
+msgstr "最初の輸送隊を片付けたぞ！みんな、良くやってくれた ── 次も頼むぞ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:469
 msgid ""
 "That’s the first caravan destroyed! Well done, everyone. We should continue "
 "expanding our control over this area — there will be more caravans soon."
-msgstr "荷馬車をまずは一台確保したぞ！みんな、良くやってくれた。さて、今の内に我々の領域を広げておこう ── 次の荷馬車もすぐ来るはずだ。"
+msgstr "最初の輸送隊を片付けたぞ！みんな、良くやってくれた。さて、今の内に我々の領域を広げておこう ── 次の荷馬車もすぐ来るはずだ。"
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:482
@@ -11899,7 +11900,7 @@ msgstr "Aethen の森の復讐を！我が家を焼くために街を離れる�
 msgid ""
 "Still no word from the wagon trains? Something’s wrong. Lieutenant, dispatch"
 " a squad to patrol the area — we may be dealing with roadside bandits."
-msgstr "輸送隊からまだ何の連絡もない？何かがおかしい。副官、分隊をパトロールに出してくれる？街道に盗賊が出ている可能性があるわ。"
+msgstr "輸送隊からまだ何の連絡もない？何かがおかしい。副官、分隊をパトロールに出してくれるか？街道に盗賊が出ている可能性がある。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:556
@@ -11957,7 +11958,7 @@ msgid ""
 "strength, and our armies far outnumber any petty bandits or rebels. "
 "Whatever’s going on out there, it ends now."
 msgstr ""
-"もういい！詳細はわからないが、霧の中で手強い敵が暗躍していることは確実だ。兵士達よ、武器を取れ！この都市は我らの力の根源、山賊や反乱軍など押しつぶせるだけの数が我らの軍勢にはあるのよ！何が起こっていようが、ここまでだ。"
+"もういい！詳細はわからないが、霧の中で手強い敵が暗躍していることは確実だ。兵士達よ、武器を取れ！この都市は我らの力の根源、山賊や反乱軍など押しつぶせるだけの数が我らの軍勢にはあるのだ！何が起こっていようが、ここまでだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:735
@@ -11967,7 +11968,7 @@ msgid ""
 "everyone, let us make our escape and tally our plunder!"
 msgstr ""
 "いずれこうなることはわかっていた。Dan’Tonk "
-"は私達の存在に気づいた。おそらく我々を包囲するつもりだろう。皆、急げ。さっさと逃げ出して戦利品を確認するとしよう！"
+"は私達の存在に気づいた。おそらく我々を包囲するつもりだろう。皆、急げ！さっさと逃げ出して戦利品を確認するとしよう！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:758
@@ -11988,7 +11989,7 @@ msgid ""
 "Quick, everyone, let us make our escape and tally our plunder!"
 msgstr ""
 "噂をすれば何とやら… まあ、こうなることはわかっていた。Dan’Tonk "
-"は私達の存在に気づいた。おそらく我々を包囲するつもりだろう。皆、急げ。さっさと逃げ出して戦利品を確認するとしよう！"
+"は私達の存在に気づいた。おそらく我々を包囲するつもりだろう。皆、急げ！さっさと逃げ出して戦利品を確認するとしよう！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:786
@@ -12003,7 +12004,7 @@ msgid ""
 "The rebel army, here?! Those fools! To arms, soldiers! This city is our "
 "place of strength, and I know us to far outnumber Konrad’s forces. We must "
 "bring the false prince to justice!"
-msgstr "反乱軍ですって？！なんてこと！戦闘準備！この都市は我らの力の根源、Konrad の反乱軍などものの数ではない。偽者王子に裁きを！"
+msgstr "反乱軍だと？！なんてことだ！戦闘準備！この都市は我らの力の根源、Konrad の反乱軍などものの数ではない。偽者王子に裁きを！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:795
@@ -12011,7 +12012,7 @@ msgid ""
 "A caravan has reached Dan’Tonk, and Wesnoth’s armies are mobilizing to "
 "surround us! Quick, everyone, let us make our escape and tally our plunder!"
 msgstr ""
-"荷馬車が Dan’Tonk に着いてしまった。Wesnoth 軍は我らを包囲するつもりだ！皆、急げ。さっさと逃げ出して戦利品を確認するとしよう！"
+"荷馬車が Dan’Tonk に着いてしまった。Wesnoth 軍は我らを包囲するつもりだ！皆、急げ！さっさと逃げ出して戦利品を確認するとしよう！"
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:813
@@ -12033,7 +12034,7 @@ msgstr "戦闘準備！この都市は我らの力の根源、Konrad の反乱�
 msgid ""
 "We’ve come too close to the city walls, and have been spotted! Quick, "
 "everyone, let us make our escape and tally our plunder!"
-msgstr "城壁に近づきすぎて見つかってしまったか！皆、急げ。さっさと逃げ出して戦利品を確認するとしよう！"
+msgstr "城壁に近づきすぎて見つかってしまったか！皆、急げ！さっさと逃げ出して戦利品を確認するとしよう！"
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:839
@@ -12045,7 +12046,7 @@ msgstr "どういうこと？！城壁に近づくことなく私にどうやっ
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:846
 msgid "Quick, everyone, let us make our escape and tally our plunder!"
-msgstr "皆、急げ。さっさと逃げ出して戦利品を確認するとしよう！"
+msgstr "皆、急げ！さっさと逃げ出して戦利品を確認するとしよう！"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:12
@@ -12070,7 +12071,7 @@ msgid ""
 "cross. Stoneskins fight hard to own ford, kill lotsa other trolls ’n orcs. "
 "Dosh kill you too, no big whoop."
 msgstr ""
-"残念だ。Dosh 言った、柔皮。渡りたければ払え。石皮がんばって戦って浅瀬取った。よそのオークトロルたくさん殺した。Dosh お前も殺す。他の奴同じ。"
+"残念。Dosh 言った、柔皮。渡りたければ払え。石皮がんばって戦って浅瀬取った。よそオークトロルたくさん殺した。Dosh お前も殺す。他の奴同じ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:149
@@ -12222,7 +12223,7 @@ msgstr "Khazg 信者のイボイノシシ共めが！商談に来たのに随分
 msgid ""
 "Trade? You came here to sneak inside and slaughter us all in our sleep! I’m "
 "not having it. Get lost!"
-msgstr "商談？本当は俺たちの寝首を掻きに奇譚んだろう！そんな手に乗るか。さっさと失せろ！"
+msgstr "商談？本当は俺たちの寝首を掻きに来たんだろう！そんな手に乗るか。さっさと失せろ！"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:246
@@ -12317,7 +12318,7 @@ msgstr "あいつら悪くない。俺たち戦う理由ない。Dosh 説得す�
 msgid ""
 "Hey, you! I recognize you; you’re the ford troll. What’re you doing working "
 "for some lousy human?"
-msgstr "おい、おぬし！お前はアレじゃろ、浅瀬にいたやつじゃろ。矮小な人間と何をしている？"
+msgstr "おい、そこの！お主はアレじゃろ、浅瀬にいたやつじゃろ。矮小な人間と何をしている？"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:457
@@ -12326,8 +12327,7 @@ msgid ""
 "Konrad paid Dosh much money, and now Dosh helps Konrad. You should help "
 "Konrad too."
 msgstr ""
-"Konrad 小物違う。大物王子、トロルのいい友達！Konrad お金たくさん Dosh 払った。だから Dosh 助ける。お前も Konrad "
-"助けろ。"
+"Konrad 小物違う。大物王子、トロル良い友達！Konrad お金たくさん Dosh 払った。だから Dosh 助ける。お前も Konrad 助けろ。"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:461
@@ -12350,7 +12350,7 @@ msgid ""
 "Want more fighters like that one, do you? Sure, 400 gold is worth at least a"
 " few whelps. But I’m only offering because Dosh says you’re all right."
 msgstr ""
-"こいつのような戦士がもっと欲しいのじゃろう？よかろう、400 ゴールドあれば子供をいくるか出しても良いぞ。Dosh "
+"こいつのような戦士がもっと欲しいのじゃろう？よかろう、400 ゴールドあれば子供をいくらか出しても良いぞ。Dosh "
 "がお前は大丈夫だと言っているから、特別にこのような提案をしているのじゃぞ。"
 
 #. [message]: speaker=leader4
@@ -12399,7 +12399,7 @@ msgstr "ほう！これがお前のお友達か、Dosh よ。まあ。心配す�
 msgid ""
 "I knew it! Filthy human-lover! You want to ruin us so you can take over "
 "Glamdrol!"
-msgstr "やはりか！薄汚い人間の仲間め！俺たちから Glamdrol を奪うつもりだな！"
+msgstr "やはりか！薄汚い人間好きの変態共め！俺たちから Glamdrol を奪うつもりだな！"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:534
@@ -12593,7 +12593,7 @@ msgstr "うげっ… 頭が猛烈に痛い。Konrad、アタシはこれまで�
 msgid ""
 "The air rings with power and might! Hark! I recognize orcish magic when I "
 "hear it, Konrad."
-msgstr "強大な力で空気が震えている！良く聞け！音に何か魔法が乗っているようだぞ、Konrad。"
+msgstr "強大な力で空気が震えている！Konrad、良く聞け！音に何か魔法が乗っているようだぞ。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:701
@@ -12622,7 +12622,7 @@ msgstr "この音気分悪い。Dosh この角笛前聞いた ── これ普�
 msgid ""
 "From the fortress rings a piercing sound of sacrifice, death, and rebirth! "
 "There is orcish magic at work here, Konrad."
-msgstr "要塞から犠牲、死、そして再生を告げる鋭い音が響いている！何らかのオークの魔術が働いているようだぞ、Konrad。"
+msgstr "要塞から犠牲、死、そして再生を告げる鋭い音が響いている！何らかのオークの魔術が働いているのか。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:706
@@ -12704,7 +12704,7 @@ msgstr "もういい！貴様等ニンゲンはなんでこんなに厄介なん
 msgid ""
 "That sounds like our cue to leave. We can’t risk being pinned down and "
 "eradicated. Quick, everyone, let us make our escape and tally our plunder!"
-msgstr "撤退の頃合いか。ここで足止めされて全滅するわけにはいかない。皆、急げ。さっさと逃げ出して戦利品を確認するとしよう！"
+msgstr "撤退の頃合いか。ここで足止めされて全滅するわけにはいかない。皆、急げ！さっさと逃げ出して戦利品を確認するとしよう！"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:862

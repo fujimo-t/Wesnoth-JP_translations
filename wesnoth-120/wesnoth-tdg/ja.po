@@ -1362,7 +1362,8 @@ msgid ""
 "Methor, command the camp in my absence — those goblin raiders are still "
 "being a nuisance."
 msgstr ""
-"決戦の時は来たれり！作戦は覚えておろうな。Lionel将軍は、我が騎兵隊が隙を伺う間、オークの戦士どもの切り崩しを図れ。Methor、私の不在時はそなたが陣営を指揮するのだ――あの鬱陶しいゴブリンの遊撃隊に対処せよ。"
+"決戦の時は来たれり！作戦は覚えておろうな。Lionel "
+"将軍は、我が騎兵隊が隙を伺う間、オークの戦士どもの切り崩しを図れ。Methor、私の不在時はそなたが陣営を指揮するのだ――あの鬱陶しいゴブリンの遊撃隊に対処せよ。"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:274
@@ -1808,7 +1809,8 @@ msgid ""
 "burning down half the forest would hardly be the good first impression King "
 "Garard tasked me with making."
 msgstr ""
-"攻撃体制を取っているのか！歩く柳の２本や３本など怖くはないけど、もしも森の半分を焼き払うことになったら、Garard王に課された「好印象を与える」という御下命とは正反対の行動になっちまうな。"
+"攻撃体制を取っているのか！歩く柳の２本や３本など怖くはないけど、もしも森の半分を焼き払うことになったら、Garard "
+"王に課された「好印象を与える」という御下命とは正反対の行動になっちまうな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:218
@@ -1877,7 +1879,7 @@ msgstr ""
 msgid ""
 "Peace! Peace! You must be the man King Garard sent me to meet: Ambassador "
 "Deoran."
-msgstr "待った！落ち着いてくれ！あんた、Garard王が私に合流を命じた駐在官の Deoran だろう。"
+msgstr "待った！落ち着いてくれ！あんた、Garard 王が私に合流を命じた駐在官の Deoran だろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:371
@@ -1953,7 +1955,7 @@ msgstr ""
 msgid ""
 "At last, relations mended, the two of them set out to deliver King Garard’s "
 "message to the elves..."
-msgstr "やがて両者の関係が修復され、二人は Garard王の親書を届けるために出発したのだった・・・"
+msgstr "やがて両者の関係が修復され、二人は Garard 王の親書を届けるために出発したのだった・・・"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:54
@@ -2000,8 +2002,8 @@ msgid ""
 "our rangers have neither the training nor the elfpower to fight an offensive"
 " war on open ground! What your king asks of us is impossible."
 msgstr ""
-"Weldyn "
-"のオークに対する姿勢は理解するが、Garard王とて事実を変えることは出来ぬ。エルフのレンジャーは野戦の戦闘訓練が乏しく、そもそも人員が足りていないのだ！汝等の王が我等に求めていることは不可能だ。"
+"Weldyn のオークに対する姿勢は理解するが、Garard "
+"王とて事実を変えることは出来ぬ。エルフのレンジャーは野戦の戦闘訓練が乏しく、そもそも人員が足りていないのだ！汝等の王が我等に求めていることは不可能だ。"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:198
@@ -2024,8 +2026,8 @@ msgid ""
 "wage this war?"
 msgstr ""
 "誇り高きエルフの貴族と貴婦人よ、自らの領域と民を護るという貴公らの責務は理解しております。ですが、それこそが、いままさに Weldyn "
-"がなそうとしていることではありませぬか？オークが Wesnoth "
-"のあらゆる民を脅かしているという兆候を察すればこそ、Garard王はこの戦いを遂行しているはず。でなくては、何故に王がかような戦を起こしましょうや？"
+"がなそうとしていることではありませぬか？オークが Wesnoth のあらゆる民を脅かしているという兆候を察すればこそ、Garard "
+"王はこの戦いを遂行しているはず。でなくては、何故に王がかような戦を起こしましょうや？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:207
@@ -2050,7 +2052,7 @@ msgid ""
 "long-before seen the horrors of a war between elves and orcs, and have no "
 "desire to plunge my people back into such a nightmare."
 msgstr ""
-"Deoran 、すまぬが、Eloreis "
+"Deoran、すまぬが、Eloreis "
 "の申す通りだ。これは我等の戦いではない。遠い昔のことではあるが、私はエルフとオークの凄惨な戦いを目の当たりにしており、我が民を左様な悪夢へと突き落とすわけにはいかぬのだ。"
 
 #. [message]: speaker=Kalenz
@@ -2094,7 +2096,7 @@ msgid ""
 "Deoran, Delfador, what I now speak to you concerns one of our great secrets;"
 " you are not to speak of this to anyone, even to your king."
 msgstr ""
-"Deoran 、そして Delfador "
+"Deoran、そして Delfador "
 "よ、今から貴殿らに話すことは、我等の大いなる秘密に関わることだ。誰にも、貴殿らの王に対してさえも、他言無用に願いたい。"
 
 #. [message]: speaker=Kalenz
@@ -2114,7 +2116,7 @@ msgid ""
 "Kalenz, are you sure this is wise? Seers are known to be... esoteric... and "
 "Elende has been particularly cloistered these last few decades."
 msgstr ""
-"Kalenz 、あなたはそれが賢明な考えだと確信を持って言えますか？予言者とは・・・容易には理解の及ばぬもの・・・しかも Elende "
+"Kalenz、あなたはそれが賢明な考えだと確信を持って言えますか？予言者とは・・・容易には理解の及ばぬもの・・・しかも Elende "
 "は、数十年ほど前から隠遁を続けているのですよ。"
 
 #. [message]: speaker=Chantal
@@ -2162,7 +2164,7 @@ msgid ""
 "\n"
 "In many places there is no path at all, and Delfador senses they are guided more by the elves’ connection to the faerie than by conventional pathfinding."
 msgstr ""
-"Kalenz に導かれた Delfador 、Deoran 、Chantal は、深い森の迷宮に足を踏み入れ、複雑に曲がりくねった小径を進んだ。\n"
+"Kalenz に導かれた Delfador、Deoran、Chantal は、深い森の迷宮に足を踏み入れ、複雑に曲がりくねった小径を進んだ。\n"
 "\n"
 "道なき道を歩みながら、Delfador はこの道行きが通常の探索とは異なり、エルフたちが妖精の声に耳を傾けて進路を定めていることを感じていた。"
 
@@ -2193,14 +2195,14 @@ msgstr "シルフを見つける"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:439
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:475
 msgid "Death of Delfador, Deoran, Chantal, or Kalenz"
-msgstr "Delfador 、Deoran 、Chantal 、Kalenz いずれかの死"
+msgstr "Delfador、Deoran、Chantal、Kalenz いずれかの死"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:447
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:483
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1415
 msgid "Kalenz and Chantal will not follow you to the next scenario."
-msgstr "Kalenz と Chantal は次のシナリオには同行しません"
+msgstr "Kalenz と Chantal は次のシナリオには同行しません。"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:450
@@ -2263,7 +2265,7 @@ msgid ""
 "you single-handedly beat down a horde of black-magic bandits and saved the "
 "south from destruction? You’re practically a folk hero!"
 msgstr ""
-"Deoran 、俺はあなたに関する試験を Alduin "
+"Deoran、俺はあなたに関する試験を Alduin "
 "での２年目に受けたことがあるんだ。黒魔術を使う山賊の大軍団を援軍もなしに撃退して、南部を滅亡から救ったっていうのは本当なのかい？まさに民衆の英雄だな！"
 
 #. [message]: speaker=Deoran
@@ -2275,7 +2277,7 @@ msgid ""
 "advancement within Wesnoth after so much blood spilled in Westin."
 msgstr ""
 "そう考える人もいるかもしれんな。だが、陛下はあまりお気に召さなかったようだ—— Garard "
-"というお方は寵臣には寛大だが、失敗に対しては全くと言っていいほど容赦がない。Westin で多量の血を流したとあっては、Wesnoth "
+"王というお方は寵臣には寛大だが、失敗に対しては全くと言っていいほど容赦がない。Westin で多量の血を流したとあっては、Wesnoth "
 "の中央に私が要職を得る余地は残されていないであろうな。"
 
 #. [message]: speaker=Deoran
@@ -2304,7 +2306,7 @@ msgid ""
 "ambassador. Deoran is no fool; if he does not already know, he certainly "
 "suspects."
 msgstr ""
-"Chantal 、どうしても話しておかなければならないことがある。お前が駐在官に対して特別な感情を抱いているのは私の目には明らかだ。Deoran "
+"Chantal、どうしても話しておかなければならないことがある。お前が駐在官に対して特別な感情を抱いているのは私の目には明らかだ。Deoran "
 "とて愚者ではない。確信はないとしても、何か察するところはあるやも知れぬ。"
 
 #. [message]: speaker=Chantal
@@ -2416,7 +2418,7 @@ msgstr "Elende！"
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1308
 msgid "Elende, I come with friends, seeking foresight! Deoran and Del—"
-msgstr "Elende 、我、朋友を伴いて、啓示を賜るために推参せり！この者らは Deoran 、そして Del ——"
+msgstr "Elende、我、朋友を伴いて、啓示を賜るために推参せり！この者らは Deoran、そして Del ——"
 
 #. [message]
 #. immediately after this, magically created "mirror image" units of
@@ -2436,12 +2438,12 @@ msgstr "Deoran"
 #. referencing the mirror image of Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1371
 msgid "Deoran, is that... you? You look so much younger."
-msgstr "Deoran 、あれは・・・あなたの姿ですか？とても若く見えますが。"
+msgstr "Deoran、あれは・・・あなたの姿ですか？とても若く見えますが。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1375
 msgid "What’s going on?! Kalenz, is this normal?"
-msgstr "何が起きている！？ Kalenz 、ここではこれが普通なのか？"
+msgstr "何が起きている！？ Kalenz、ここではこれが普通なのか？"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1401
@@ -2471,13 +2473,13 @@ msgstr "現し世が私を呼んでいるようだ。予言の続きは再会し
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1445
 msgid "Elende, I hope you know what you’re doing. Good luck, the rest of you!"
-msgstr "Elende 、貴女が何を成さんとしているのか、その自覚があらんことを。皆の無事を祈る！"
+msgstr "Elende、貴女が何を成さんとしているのか、その自覚があらんことを。皆の無事を祈る！"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1446
 msgid ""
 "Owww! Elende, it’s very rude to banish someone without their permission!"
-msgstr "うぅぅぅ！Elende 、いきなり追い払うなんて、あんまりではございませんか！"
+msgstr "うぅぅぅ！Elende、いきなり追い払うなんて、あんまりではございませんか！"
 
 #. [message]: speaker=Delfador
 #. Delfador has just been reduced to 0hp, and been "kicked out" of Elenede's
@@ -2546,7 +2548,7 @@ msgstr "Chantal ——"
 msgid ""
 "I already know what you’re going to say Elende! Don’t you dare; I will when "
 "I’m ready."
-msgstr "仰っしゃりたいことは心得ております、Elende ！その必要はございません。その時が来れば、言われずともそういたしますわ。"
+msgstr "仰っしゃりたいことは心得ております、Elende！その必要はございません。その時が来れば、言われずともそういたしますわ。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1595
@@ -2735,13 +2737,13 @@ msgstr "Kestrel 親衛隊長"
 msgid ""
 "Deoran, are you sure you won’t reconsider staying in the Lintanir? What "
 "Elende said..."
-msgstr "Deoran 、どうしても Lintanir に残る気はないのですか？Elende が語ったことは・・・"
+msgstr "Deoran、どうしても Lintanir に残る気はないのですか？Elende が語ったことは・・・"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:369
 msgid ""
 "My duty comes first, always. Would you truly want me any other way, Chantal?"
-msgstr "私は己が責務を果たすことを常に第一としています。貴女は私がそれを放り出すような人間になって欲しいと、本当に望むのですか、Chantal ？"
+msgstr "私は己が責務を果たすことを常に第一としています。貴女は私がそれを放り出すような人間になって欲しいと、本当に望むのですか、Chantal？"
 
 #. [message]: speaker=Kalenz
 #. referencing the beginning of HttT, where Delfador and Konrad are staying
@@ -2752,7 +2754,7 @@ msgid ""
 "\n"
 "Should either of you ever find yourselves searching for a home away from Wesnoth, you will always be welcome with us."
 msgstr ""
-"Deoran 、この数年間、貴公を我等の元に迎えられたのは、この上のない喜びであった。そして、Delfador "
+"Deoran、この数年間、貴公を我等の元に迎えられたのは、この上のない喜びであった。そして、Delfador "
 "よ、そなたにも同様のことをいつの日か言えるよう願っている。Elende "
 "がそなたを認めた——そのことは私にとっても我が民にとっても重大な意味を持つ。そなたらのどちらかが、Wesnoth "
 "を離れてその身を寄せる拠り所を探すようなことがあれば、我等はいついかなる時でも歓迎しよう。"
@@ -2819,7 +2821,7 @@ msgstr "Delfador または Deoran の死"
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:428
 msgid "Death of Garard, Arand, Lionel, or Methor"
-msgstr "Garard 、Arand 、Lionel 、Methor いずれかの死"
+msgstr "Garard、Arand、Lionel、Methor いずれかの死"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:448
@@ -2828,7 +2830,7 @@ msgid ""
 "to stage our forces outside their walls, then attack just before the second "
 "dawn."
 msgstr ""
-"慌てて突撃をするでないぞ、Lionel ！——貴重な兵を浪費する必要はない。城壁の周囲に我らが布陣するのを待ち、２度めの夜明け前に攻撃を仕掛けるのだ。"
+"慌てて突撃をするでないぞ、Lionel！——貴重な兵を浪費する必要はない。城壁の周囲に我らが布陣するのを待ち、２度めの夜明け前に攻撃を仕掛けるのだ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:452
@@ -2961,14 +2963,14 @@ msgid ""
 "Hah! I think “Garard’s Wold” will make a good name for the new province... "
 "or perhaps “Garard’s Triumph”? What do you think, Lionel?"
 msgstr ""
-"ハハッ！「Garard 高原」がこの新たな州の名に相応しいと思うが・・・あるいは「Garard の勝利」も良いか？お前はどう思う、Lionel ？"
+"ハハッ！「Garard 高原」がこの新たな州の名に相応しいと思うが・・・あるいは「Garard の勝利」も良いか？お前はどう思う、Lionel？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:705
 msgid ""
 "Delfador, something’s wrong. The orc leader we killed... isn’t the Whitefang"
 " chief."
-msgstr "Delfador 、何かがおかしい。我らが討ち取ったオークの頭目は・・・Whitefang の首領ではない。"
+msgstr "Delfador、何かがおかしい。我らが討ち取ったオークの頭目は・・・Whitefang の首領ではない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:709
@@ -2983,7 +2985,7 @@ msgid ""
 " have the right war-paint. Delfador, I think we’ve been tricked!"
 msgstr ""
 "１年ほど前、Lintanir が条約交渉をしていた時に、Whitefang "
-"の首領たちを目にしたことがある。このオークは私の記憶よりも顔が細く、兜にも正式な戦模様が施されていない。Delfador 、我らは嵌められたのだ！"
+"の首領たちを目にしたことがある。このオークは私の記憶よりも顔が細く、兜にも正式な戦模様が施されていない。Delfador、我らは嵌められたのだ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:760
@@ -2991,7 +2993,7 @@ msgid ""
 "Are you even trying to fight, Delfador!? I should have known a mage would "
 "never have the stomach for true battle; get back to Alduin where you belong!"
 msgstr ""
-"本気で戦う気があるのか、Delfador ！？魔術師などに真の戦いに耐え得る胆力などあろうはずもないと知っておくべきだったわ。お前にお似合いの "
+"本気で戦う気があるのか、Delfador！？魔術師などに真の戦いに耐え得る胆力などあろうはずもないと知っておくべきだったわ。お前にお似合いの "
 "Alduin へ引き下がるがよい！"
 
 #. [scenario]: id=06_Ring_of_Swords
@@ -3177,7 +3179,7 @@ msgstr "規定のターンが終了するまで生き残る"
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:587
 msgid "Death of Garard, Asheviere, or Methor"
-msgstr "Garard 、Asheviere 、Methor いずれかの死"
+msgstr "Garard、Asheviere、Methor いずれかの死"
 
 #. [message]: speaker=Ssisaix
 #. the player (and Garard) is still alive. The orcs and saurians expected them
@@ -3379,7 +3381,7 @@ msgstr ""
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:985
 msgid "Lionel! I’d almost feared this was the end."
-msgstr "Lionel ！最早これまでかと覚悟しておったぞ。"
+msgstr "Lionel！最早これまでかと覚悟しておったぞ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:998
@@ -3925,7 +3927,7 @@ msgid ""
 "Intrigue and influence, politics and loyalty. I’m lucky to have you, Arand. "
 "This isn’t my strength."
 msgstr ""
-"陰謀だの権力争いだの、政治だの忠誠だの・・・。そなたがいてくれて良かったぞ、Arand 。かような駆け引きはわしの得意とするところではないのでな。"
+"陰謀だの権力争いだの、政治だの忠誠だの・・・。そなたがいてくれて良かったぞ、Arand。かような駆け引きはわしの得意とするところではないのでな。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:130
@@ -4046,8 +4048,7 @@ msgid ""
 "scour it all. This is where you said your guides would meet us, "
 "$companion_name?"
 msgstr ""
-"それも、奴らの棲み処を見つけられればの話だがな。この廃墟はかつてトカゲ族の大都市だった——残されたわずかな跡地ですら、我々だけで探し尽くすには広すぎる。ここがお前の言っていた案内人と落ち合う場所だな、$companion_name"
-" ？"
+"それも、奴らの棲み処を見つけられればの話だがな。この廃墟はかつてトカゲ族の大都市だった——残されたわずかな跡地ですら、我々だけで探し尽くすには広すぎる。ここがお前の言っていた案内人と落ち合う場所だな、$companion_name？"
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is male
@@ -4057,8 +4058,7 @@ msgid ""
 " of their kind — even what little remains is too vast for us to scour it "
 "all. This is where you said your guides would meet us, $companion_name?"
 msgstr ""
-"それも、奴らの棲み処を見つけられればの話だがな。この廃墟はかつてトカゲ族の大都市だった——残されたわずかな跡地ですら、我々だけで探し尽くすには広すぎる。ここがお前の言っていた案内人と落ち合う場所だな、$companion_name"
-" ？"
+"それも、奴らの棲み処を見つけられればの話だがな。この廃墟はかつてトカゲ族の大都市だった——残されたわずかな跡地ですら、我々だけで探し尽くすには広すぎる。ここがお前の言っていた案内人と落ち合う場所だな、$companion_name？"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:377
@@ -4228,7 +4228,7 @@ msgstr "（残り 3 匹）"
 msgid ""
 "Surprise attack: The saurians will not spot you until you approach within 4 "
 "hexes of a matriarch."
-msgstr "奇襲：族長の周囲４ヘックス以内に入るまで、トカゲ族に発見されません。"
+msgstr "奇襲：族長の周囲 4 ヘックス以内に入るまで、トカゲ族に発見されません。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:701
@@ -4285,7 +4285,7 @@ msgid ""
 "Wesnoth’s spears, or I will visit upon you the same destruction your allies "
 "would bring to us!"
 msgstr ""
-"我は Delfador 、Wesnoth の戦闘魔術師である！Blackcrest のオークなどには見切りをつけ、Wesnoth "
+"我は Delfador、Wesnoth の戦闘魔術師である！Blackcrest のオークなどには見切りをつけ、Wesnoth "
 "の槍に生贄として捧げよ！さもなくば、オークどもが我らにもたらさんとする惨禍を、そのままお前たちに見舞ってやろう！"
 
 #. [message]: speaker=$unit.id
@@ -4605,7 +4605,7 @@ msgstr "30 ゴールド"
 msgid ""
 "Whoever destroyed this place did not care to loot it. We’ve gained 30 more "
 "gold for our treasury."
-msgstr ""
+msgstr "この場所を荒らした者は、金目のものに興味がなかったようだ。我が軍の資金として、30 ゴールドを手に入れたぞ。"
 
 #. [message]: speaker=Delfador
 #. $saurian_guide_name is a female saurian name generated with the default
@@ -4615,6 +4615,7 @@ msgid ""
 "What ails you, $saurian_guide_name? I have trusted you thus far as a sign of"
 " good faith — please don’t make me regret that decision."
 msgstr ""
+"どうかしたのか、$saurian_guide_name？お前に対する信頼の証として、ここまでやって来たのだ——その選択を後悔させるような真似はしないでくれよ。"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:159
@@ -4624,6 +4625,7 @@ msgid ""
 "sssixteen years of age. Age hasss made me weak; too weak to travel thessse "
 "landsss without help."
 msgstr ""
+"おお、偉大なるお方よ。もうおひと方は、この冷たい雪山におられます<small>スス</small>。<small>シシ</small>しかし<small>シシ</small>、ここは危険です<small>スス</small>。私<small>シシ</small>は部族の最長老・・・もう１６歳になります<small>スス</small>。老いて弱くなり、こういう所を歩くには、たす<small>スス</small>けが要ります<small>スス</small>。"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:163
@@ -4632,27 +4634,28 @@ msgid ""
 "and protect usss from the dangersss! Together, yesss, together we ssshall "
 "reach the valley!"
 msgstr ""
+"です<small>スス</small>が、あなた<small>ササ</small>様は若い！強い！あなた<small>ササ</small>様の炎が、この冷たい中で我らを温め、危険から我らを守る！ともに、<small>ソソ</small>そうです、ともに行けば、あの谷へたどり着けます<small>スス</small>！"
 
 #. [objective]: condition=win
 #. $saurian_guide_name will be a female saurian name generated with the
 #. default Wesnoth name generator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:179
 msgid "Move $saurian_guide_name to the marked hex"
-msgstr ""
+msgstr "$saurian_guide_name を指定されたヘクスに移動させる"
 
 #. [objective]: condition=lose
 #. $saurian_guide_name will be a female saurian name generated with the
 #. default Wesnoth name generator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:188
 msgid "Death of $saurian_guide_name"
-msgstr ""
+msgstr "$saurian_guide_name の死"
 
 #. [note]
 #. $saurian_guide_name will be a female saurian name generated with the
 #. default Wesnoth name generator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:197
 msgid "$saurian_guide_name will not follow you to the next scenario."
-msgstr ""
+msgstr "$saurian_guide_name は次のシナリオには同行しません。"
 
 #. [message]: speaker=Delfador
 #. $saurian_guide_name will be a female saurian name generated with the
