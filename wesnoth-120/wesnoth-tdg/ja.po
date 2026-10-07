@@ -3327,12 +3327,12 @@ msgstr "嫌だぁぁぁ！助けてくれぇぇぇ・・・"
 #. [message]: speaker=Xairr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:848
 msgid "Ssssuch ssssskill!"
-msgstr "<small>スス</small>すげぇ殺<small>シシ</small>し方だ！"
+msgstr "<small>スス</small>すげぇ殺し<small>シシ</small>方だ！"
 
 #. [message]: speaker=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:855
 msgid "Cursessss, I am sssslain!"
-msgstr "く<small>ソソ</small>そっ、殺<small>ササ</small>される！"
+msgstr "く<small>ソソ</small>そっ、殺さ<small>ササ</small>れる！"
 
 #. [message]: speaker=Lionel
 #. Lionel appears with reinforcments to help Garard
@@ -3754,7 +3754,7 @@ msgid ""
 "Cursssesss, the mountain guards are ssslain, and the beacon cannot be "
 "reached!"
 msgstr ""
-"くそ<small>ソソ</small>！山の見張りが殺<small>ササ</small>された！狼煙<small>シシ</small>台まで行けない！"
+"くそ<small>ソソ</small>！山の見張りが殺さ<small>ササ</small>れた！狼煙<small>シシ</small>台まで行けない！"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:940
@@ -3824,7 +3824,7 @@ msgstr "走<small>シシ</small>り抜けたぞ！"
 #. [message]: speaker=$unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1084
 msgid "female^I have essscaped!"
-msgstr "走1シシ1り抜けたぞ！"
+msgstr "走<small>シシ</small>り抜けたぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1088
@@ -4253,7 +4253,8 @@ msgstr "本当に丸腰の幼体だったのか！ちょっと待て、害がな
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:736
 msgid "We’re under assssault! Sssound the alarm and rally our warriorsss!"
-msgstr "敵<small>シシ</small>襲だ！警報を鳴らせ<small>セセ</small>！戦士<small>シシ</small>を集めろ！"
+msgstr ""
+"敵<small>シシ</small>襲だ！警報を鳴らせ<small>セセ</small>！<small>セセ</small>戦士<small>シシ</small>を集めろ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:740
@@ -4335,7 +4336,7 @@ msgid ""
 "Curssse you! We are all nothing but wormsss before her... she will dessstroy"
 " you in an inferno of flamesss!"
 msgstr ""
-"呪われろ！あのお方の前では、我らはみな虫<small>シシ</small>けらと同じだ・・・お前たちなど業火で焼き尽く<small>ササ</small>される！"
+"呪われろ！あのお方の前では、我らはみな虫<small>シシ</small>けらと同じだ・・・お前たちなど業火で焼き尽くさ<small>ササ</small>れる！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:856
@@ -4414,7 +4415,7 @@ msgid ""
 "Mothersss protect me, can it be? Are you a sssecond great dragon of fire!? I"
 " am blessssed to sssee sssuch thingsss in my time..."
 msgstr ""
-"母たちのご加護を・・・ま<small>ササ</small>さか、<small>ソソ</small>そんなことが？あなたも偉大なる炎のドラゴンなのか！？生きているうちに、これほどのものに二度も出会えるとは、何という幸運・・・"
+"母たちのご加護を・・・ま<small>ササ</small>さか、<small>ソソ</small>そんなことが？あなたも偉大なる炎のドラゴンなのか！？生きているうちに、これほどのことに二度も出会えるとは、何という幸運・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:969
@@ -4625,7 +4626,7 @@ msgid ""
 "sssixteen years of age. Age hasss made me weak; too weak to travel thessse "
 "landsss without help."
 msgstr ""
-"おお、偉大なるお方よ。もうおひと方は、この冷たい雪山におられます<small>スス</small>。<small>シシ</small>しかし<small>シシ</small>、ここは危険です<small>スス</small>。私<small>シシ</small>は部族の最長老・・・もう１６歳になります<small>スス</small>。老いて弱くなり、こういう所を歩くには、たす<small>スス</small>けが要ります<small>スス</small>。"
+"おお、偉大なるお方よ。もうおひと方は、この冷たい雪山におられます<small>スス</small>。<small>シシ</small>しかし<small>シシ</small>、ここは危険です<small>スス</small>。私<small>シシ</small>は部族の<small>ササ</small>最長老・・・もう１６歳になります<small>スス</small>。老いて弱くなり、こういう所を歩くには、たす<small>スス</small>けが要ります<small>スス</small>。"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:163
@@ -4666,6 +4667,8 @@ msgid ""
 " I’ve mastered many forms of magic, but the light of a healer is beyond my "
 "reach."
 msgstr ""
+"$saurian_guide_name "
+"よ、この旅に占い師たちを同行させることはできなかったのか？我は多様な魔法を修めてきたが、治癒の光だけは手が届いておらぬのだ。"
 
 #. [message]: speaker=$saurian_guide_id
 #. the matriarch assumes both Delfador and the drake are female
@@ -4675,18 +4678,19 @@ msgid ""
 "Only you and I; usss femalesss may look upon the other Great One; your "
 "sssister, our massster, our god!"
 msgstr ""
+"おお、偉大なるお方よ、<small>ソソ</small>それが禁じられていることはご存じのはず！男はダメです<small>スス</small>！あなた<small>ササ</small>様と私<small>シシ</small>、我ら女だけが、もうひとりの「偉大なるお方」に、あなた<small>ササ</small>様の姉君、我らの主、我らの神に会えるのです！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:225
 msgid "Us females? Err, yes, that’s right."
-msgstr ""
+msgstr "我ら女たち？ああ、うむ、そうであるな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:244
 msgid ""
 "So many bones! And they don’t look human... Is such death all work of your "
 "great dragon?"
-msgstr ""
+msgstr "夥しい量の骨だな！見ると、人間のものではなさそうだ・・・これほどの死は、お前の言う偉大なるドラゴンによってもたらされたのか？"
 
 #. [message]: speaker=$saurian_guide_id
 #. there were living drakes here only 20-30 years ago, but saurians have a
@@ -4697,6 +4701,7 @@ msgid ""
 "once many powerful creaturesss in thisss place, but they were ssslain long "
 "before I wasss hatched. Now only our Great One remainsss."
 msgstr ""
+"いいえ、この谷は呪われています<small>スス</small>・・・おばば<small>ササ</small>様は、ここに強い生き物がいっぱいいたと言っていまし<small>シシ</small>た。です<small>スス</small>が、私<small>シシ</small>の孵化のもっと前に、みんな殺さ<small>ササ</small>れまし<small>シシ</small>た。今は我が「偉大なるお方」だけが残っています<small>スス</small>。"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:253

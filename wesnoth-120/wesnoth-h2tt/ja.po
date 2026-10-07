@@ -12754,7 +12754,7 @@ msgstr "あー、もしもし？<b>こ ん に ち は！</b>"
 msgid ""
 "Aaah! Don’t sneak up on a woman like that; the jump you gave me nearly "
 "ruined three days’ work!"
-msgstr "キャー！そんな風に女性にこっそり近づいてはいけません。驚かされたせいで３日分の仕事が台無しになるところでしたよ！"
+msgstr "キャァァァー！そんな風に女性にこっそり近づいてはいけません。驚かされたせいで３日分の仕事が台無しになるところでしたよ！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:188
@@ -12823,7 +12823,7 @@ msgid ""
 "you collect ingredients."
 msgstr ""
 "私は Konrad、Wesnoth の王位継承者で、闇の女王 Asheviere "
-"を追い出すために旅をしています。困っているのであれば、喜んでお金と食料をお渡ししましょう。しかし、あなたの求める素材を集めるために私と軍をここに留まらせるのは難しいでしょうか。"
+"を追い落とすために旅をしています。困っているのであれば、喜んでお金と食料をお渡ししましょう。しかし、あなたの求める素材を集めるために私と軍をここに留まらせるのは難しいでしょうか。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:222
@@ -12983,8 +12983,8 @@ msgid ""
 "of Jeniver’s ingredients before we run out of time and the cold drives us "
 "away. The northeastern mountains look especially hard to reach."
 msgstr ""
-"Konrad、吹雪の中で長く戦うことはできません。時間の余裕とこの寒さを考えると、Jeniver "
-"の求める素材を全部集めたいのであれば軍を分割するべきでしょう。もっとも、身軽な兵士がたくさんいるのであればその限りではありませんが。北東の山地まで行くのが特に大変そうです。"
+"Konrad、吹雪の中で長く戦うことは難しい。時間の余裕とこの寒さを考えると、Jeniver "
+"の求める素材を全部集めたいのであれば軍を分割するべきか。もっとも、身軽な兵士がたくさんいるのであればその限りではないかもしれないが。北東の山地まで行くのが特に大変そうだな。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:371
@@ -13045,7 +13045,7 @@ msgid ""
 "True, true, but, well, you know, I suppose there’d really be no harm in "
 "coming with you even if you don’t get them all— yes, I think I’ll join you "
 "no matter what. You seem the nice sort, very chivalrous and all that."
-msgstr "そうそう！そうだけど、全部集められなくても私はついていくからね── ええ、問題ないわ。あなたは良い人そうだし、紳士的だし、まあ色々とね。"
+msgstr "そうそう！えーっと、全部集められなくても私はついていくからね── ええ、問題ないわ。あなたは良い人そうだし、紳士的だし、まあ色々とね。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:383
@@ -13321,7 +13321,8 @@ msgid ""
 "after Eldred so cruelly struck him down. He remembers nothing but echoes. It"
 " is terrible, Kalenz!"
 msgstr ""
-"ただのアンデッドじゃないわ。あの闇の騎士は Deoran、残酷にも Eldred に打ち倒された後、亡霊騎士として起き上がったの。Deoran "
+"ただのアンデッドじゃないわ。あの闇の騎士は私たちの友人の Deoran、残酷にも Eldred "
+"に打ち倒された後、亡霊騎士として起き上がったの。Deoran "
 "はもう何も覚えていないわ。ただ残響だけが残っているの。Kalenz、どうしてこんなひどいことに！"
 
 #. [message]: speaker=Deoran
@@ -13415,7 +13416,7 @@ msgstr "Deoran は Chantal を優先的に狙います。"
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:211
 msgid "Blackcrests... more, to the north... Rally! Form ranks..."
-msgstr "黒い紋… さらに… 北に向かって… 集結せよ！ 戦列を……"
+msgstr "黒い紋章… さらに… 北に向かって… 集結せよ！ 戦列を……"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:224
@@ -13442,7 +13443,7 @@ msgstr "Mebrin… 目… リッチの…… ついにこの時が… かつて�
 #. have inflicted on me..."
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:247
 msgid "You cursed me... you cursed me... to know the same pain..."
-msgstr "私を呪うのか… 私を呪うのか… 同じ苦しみを味わわせるため……"
+msgstr "お前は私を呪った… お前は私を呪った… 同じ苦しみを味わわせるため……"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:259
@@ -13513,7 +13514,7 @@ msgstr "Mebrin… お前に…私は捕まえられない…… ここから逃�
 msgid ""
 "Deoran has gone! We’ve taken too long to seal him away, and now we may never"
 " find him again..."
-msgstr "Deoran が消えてしまった！封印に時間がかかりすぎたのだわ。彼はもう二度と見つけられないかも……"
+msgstr "Deoran が行ってしまった！封印に時間がかかりすぎたのだわ。もう二度と彼を見つけられないかも……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:17
@@ -13563,7 +13564,7 @@ msgid ""
 "purify! Our crossing will be difficult, yet cross we must, if the dwarven "
 "caverns we wish to enter."
 msgstr ""
-"なんということだ！闇で、オークで谷があふれている。私の光をもってしても浄化を難しい！単に通り抜けることすら難しいであろう。されど、ドワーフの洞窟に入るためにはやるしかない。"
+"なんということだ！闇で、オークで谷があふれている。私の光をもってしても浄化は難しい！単に通り抜けることすら難しいであろう。されど、ドワーフの洞窟に入るためにはやるしかない。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:243
@@ -13709,8 +13710,8 @@ msgid ""
 "dwarves and claim Knalga’s treasure for themselves. That’s the only way "
 "underground now."
 msgstr ""
-"東の縦穴も壊そうとしたらしいが、そっちの障害物はもう排除されている。多くのオークとトロルが、ドワーフを完全に駆逐し、Kanlga "
-"のお宝を手に入れるために中に入って入った。今ある地下への入り口はあそこだけだ。"
+"東の縦穴も壊そうとしたらしいが、そっちの障害物はもう排除されている。ドワーフを完全に駆逐し、Kanlga "
+"のお宝を手に入れるために多くのオークとトロルが中に入って入った。今ある地下への入り口はあそこだけだ。"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:405
@@ -13778,7 +13779,7 @@ msgstr ""
 msgid ""
 "I was so sure he’d be okay... but I suppose it woulda been too good to be "
 "true. At least you’ve survived, Somf."
-msgstr "おじさんは元気にしていると思ったけど… やっぱり、都合良く考えすぎていたのだろうね。それでも、Somf おじさんが無事でよかった。"
+msgstr "叔父さんは元気にしていると思ったけど… やっぱり、都合良く考えすぎていたのだろうね。それでも、Somf おじさんが無事でよかった。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:449
@@ -13812,7 +13813,7 @@ msgid ""
 "That man looked like he could’ve made a capable warrior! I am sorry to see "
 "him go — but least we have given him the freedom to choose his own path."
 msgstr ""
-"あの男は有能な戦士だったよに見えた！彼に力を貸してもらえなかったのは残念だ ── それでも、彼が自由になり、生き方を自分で選べるようになってよかった。"
+"あの男は有能な戦士だったように見えた！彼に力を貸してもらえなかったのは残念だ ── それでも、彼が自由になり、生き方を自分で選べるようになってよかった。"
 
 #. [message]: type=Cuttle Fish,Kraken
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:488
@@ -13841,7 +13842,7 @@ msgstr "Thursagan のヒゲにかけて！巨大で醜悪な化け物が湖に�
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:496
 msgid "By the Light! A monster most foul lurks within the waters!"
-msgstr "光にかけて！水の中に極めて忌まわしい怪物がいるぞ！"
+msgstr "光の神よ！水の中に極めて忌まわしい怪物がいるぞ！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:497
@@ -13865,7 +13866,7 @@ msgstr "伝説は本当だった！ドワーフの坑道の近くにある湖に
 msgid ""
 "Here stand the pillars of Thunedain. He were a great lord o’ my kind; the "
 "last o’ the heroes o’ the Doors. Here did he stand, an’ here did he fall."
-msgstr "これは Thunedain の列柱だ。ドワーフの偉大な人物で、戸口の最後の英雄だ。彼はここに立ち、そしてここに倒れた。"
+msgstr "これは Thunedain の列柱だ。偉大なドワーフで、戸口の最後の英雄でもある。彼はここに立ち、そしてここに倒れた。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:515
@@ -13874,7 +13875,7 @@ msgid ""
 "dwarvish lord who made his last stand here. May we triumph where he fell."
 msgstr ""
 "Konrad、これが Thunedain の列柱だろう。Thunedain は伝説的なドワーフで、ここで最期の抵抗を繰り広げた。Thunedain "
-"はここで倒れたが、我らはここで勝利を収められるように願う。"
+"はここで倒れたが、我らはここで勝利を収められるよう願う。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:516
@@ -13938,7 +13939,7 @@ msgstr ""
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:608
 msgid "Death to slavers!"
-msgstr "奴隷主には死を！"
+msgstr "奴隷の主には死を！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:620
@@ -13981,7 +13982,7 @@ msgstr "Konrad、俺たちの逃亡を助けてくれてありがとう！解放
 msgid ""
 "You have rescued $freed_slaves.length slaves, and will have $carryover extra"
 " gold in the next scenario!"
-msgstr "あなたは $freed_slaves.length 人の奴隷を救出し、次のシナリオで $carryover の追加資金がえられます！"
+msgstr "あなたは $freed_slaves.length 人の奴隷を救出したので、次のシナリオで $carryover の追加資金が得られます！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:718
@@ -13989,7 +13990,7 @@ msgid ""
 "... not a single slave has escaped along with us. I had hoped that our good "
 "deed here would help us gain new allies, but it seems my hopes were in vain."
 " We must press onwards alone."
-msgstr "……奴隷を一人も連れ出すことができなかった。ここでの行いで新たな味方が得られると思ったが、うまくいかなかった。…それでも前に進まなければ。"
+msgstr "……奴隷を一人も連れ出すことができなかった。ここでの行いで新たな味方が得られると思ったが、うまくいかなかった… それでも前に進まなければ。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:732
@@ -14024,7 +14025,7 @@ msgstr "トロル"
 msgid ""
 "From what Delfador has taught me, I recognize us to be in the ruins of the "
 "great western hall of Knalga."
-msgstr "Delfador から教わったことから考えて、ここは Knalga の西大広間の廃墟なのだと思う。"
+msgstr "Delfador から教わったことから考えると、ここは Knalga の西大広間の廃墟なのだと思う。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:225
@@ -14100,7 +14101,7 @@ msgid ""
 "knows all the trolls on da continent. An’ don’t get Dosh mixed up with one "
 "o’ dem other trolls while we’re fighting, okay?"
 msgstr ""
-"Konrad、Dosh 見るな。Dosh トロル、でも Dosh 大陸トロル全部知ってるない。それと大事事、戦闘時 Dosh "
+"Konrad、Dosh 見るな。Dosh トロル、でも Dosh 大陸トロル全部知ってるない。それより大事、戦闘時 Dosh "
 "他トロル間違えるな、いいな？"
 
 #. [message]: race=dwarf,gryphon {NOT id=Ulfdain}
@@ -14157,7 +14158,7 @@ msgstr "<b>あれは父の斧だぞ！</b>"
 msgid ""
 "Give it back, ye beastly bag o’ bones! I’ll rip out yer ribs and stuff ’em "
 "down yer eye sockets!"
-msgstr "薄汚れた骨、それを返せ！貴様の肋骨を引きちぎってその眼窩に突き刺すぞ！"
+msgstr "薄汚れた骨、それを返せ！さっさと返せ！貴様の肋骨を引きちぎってその眼窩に突き刺すぞ！"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:429
@@ -14275,7 +14276,7 @@ msgstr "ドワーフの血斧"
 msgid ""
 "This runic axe increases Konrad’s melee damage by 3, and grants him the "
 "<i>drains</i> special on his melee attacks."
-msgstr "このルーンの斧は Konrad の近接攻撃ダメージを 3 増加し、「生命吸収」の特殊効果を近接攻撃に追加します。"
+msgstr "このルーンの斧は Konrad の近接攻撃ダメージを 3 増加させ、「生命吸収」の特殊効果を近接攻撃に追加します。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:594
@@ -14327,7 +14328,7 @@ msgid ""
 "from the still-seeing dwarves of Konrad’s own party. And at long last, "
 "silence."
 msgstr ""
-"古びた洞窟の空気に、ハンマーやツルハシの音、ドワーフの低く静かなささやき声が反響しています。目隠しを免除された Konrad "
+"淀んだ洞窟の空気に、ハンマーやツルハシの音、ドワーフの低く静かなささやき声が反響しています。目隠しを免除された Konrad "
 "一行のドワーフ達からの大きな掛け声が時折かけられています。そしてついに静寂が訪れました。"
 
 #. [message]
@@ -14416,7 +14417,7 @@ msgstr "ゴホッ、ゴホッ、誰かいるのか？"
 msgid ""
 "I am Prince Konrad of Wesnoth, and a friend of Knalga. I’ve come to rescue "
 "you!"
-msgstr "私は Wesnoth の王子、Konrad。Knalga の友で。助けにきました！"
+msgstr "私は Wesnoth の王子、Konrad。Knalga の友です。助けに来ました！"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:456
@@ -14549,7 +14550,7 @@ msgid ""
 "Aye, an’ I thought I’d live out a peaceful life in th’ west halls, but here "
 "we both are. We can’t spare any more, Konrad, not even for a prince."
 msgstr ""
-"俺は西の館で平和な生活ができると思っていたのに、どういうわけか今お前とこうしてここにいる。これ以上は出せない。Konrad、お前が王子であってもだ。"
+"俺は西の広間で平和な生活ができると思っていたのに、どういうわけか今お前とこうしてここにいる。これ以上は出せない。Konrad、お前が王子であってもだ。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:562
@@ -14583,7 +14584,7 @@ msgid ""
 "in the Doors we’re just spread too thin. Mebbe if those were gone..."
 msgstr ""
 "王位を取り戻すことができてもできなくても、Knalga は── 少なくとも Knalga "
-"の生き残りはいつでもお前を歓迎する。西のトロルと戸口のオークのおかげで俺たちは手一杯だ。あいつらがいなくなれば……"
+"の生き残りはいつでもお前を歓迎する。西のトロルと戸口のオークのおかげでどうしても俺たちは手一杯だ。あいつらさえいなくなれば……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:603
@@ -14625,7 +14626,7 @@ msgid ""
 "produce enough light to see by."
 msgstr ""
 "天井の低い通路を通り、迷路のような地下墓地を抜けた Konrad と Delfador "
-"を待っていたのは氷のように冷たい暗闇でした。暗闇には全てを塗りつぶしてしまうような圧迫感がありました。光は徐々に衰え、ついには消えてしまいました。熟練の魔術師の杖をもってしても、周囲を照らす光を生み出すのに苦労するほどでした。"
+"を待っていたのは氷のように冷たい暗闇でした。暗闇には全てを塗りつぶしてしまうような圧迫感がありました。明かりは徐々に勢いを失い、ついには消えてしまいました。熟練の魔術師の杖をもってしても、周囲を照らす光を生み出すのに苦労するほどでした。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:271
@@ -14682,7 +14683,7 @@ msgid ""
 "’twere my people who made it fer ye humans, and ’twere my people who lost "
 "it, long ago. Now ’tis only right that I help ye get it back. Where be the "
 "Sceptre, scholar?"
-msgstr "遠い昔、人間のために我らが同胞が創り、彼らが失くした物だ。ここは俺が働くのが道理というものだろう。学者先生よ、笏はどこにある？"
+msgstr "遠い昔、人間のために我らが同胞が創り、彼らが失くした物だ。ここは俺が働くのが道理というものだろう。先生よ、笏はどこにある？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:307
@@ -14827,7 +14828,7 @@ msgstr "よし、やったぞ！お邪魔虫がいなくなれば、詳細な調
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:458
 msgid ""
 "I sense great power emanating from the chasm nearby. Everyone, gather round."
-msgstr "近くの裂け目から巨大な力は放出されているのを感じる。皆、こちらに集まってくれ。"
+msgstr "近くの裂け目から巨大な力が放出されているのを感じる。皆、こちらに集まってくれ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:560
@@ -14865,7 +14866,7 @@ msgstr ""
 msgid ""
 "We are here. The Sceptre... the earth... the fire... the air around us... "
 "everything! It calls out to be freed — I can barely hold it back in my mind."
-msgstr "ここだ。笏… 大地… 炎… 周囲の空気… 全てだ！解放しろと叫んでいる── 心の中で抑えきれないほどに。"
+msgstr "ここだ。笏… 大地… 炎… 周囲の空気… 全てがだ！解放しろと叫んでいる── 抑えきれないほどに強く。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:619
@@ -14917,7 +14918,7 @@ msgstr "あら… あらあら？何もありませんね… ああ！これは�
 msgid ""
 "Dey say trolls are slow, but even Dosh can see dere’s nothing here. Flat and"
 " empty. Nothing for us to take, is dere?"
-msgstr "トロル機敏違う。でもDosh何もないわかる。平ら、空。何もない。違うか？"
+msgstr "トロル機敏違う。でも Dosh 何もないわかる。平ら、空。何もない。違うか？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:629
@@ -15040,7 +15041,7 @@ msgstr "、$lisar_speech|た"
 msgid ""
 ". You have heard the lies he tells, misleading those who would otherwise "
 "oppose him"
-msgstr "。あの偽者が語る嘘を聞いたことがあるでしょう。その嘘が本来なら彼の味方でない人々を惑わせている"
+msgstr "。あの偽者が語る嘘を聞いたことがあるだろう。その嘘が本来なら彼の味方でない人々を惑わせている"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #. several of the strings above are joined to create $lisar_speech.
@@ -15055,7 +15056,7 @@ msgid ""
 "You know the blood and chaos that follow in his wake$lisar_speech|... Today,"
 " we put a stop to it. Is everyone in position?"
 msgstr ""
-"あの偽者が行く先々で流血と混沌をもたらしていることは知っているでしょう$lisar_speech|…… 今日、私たちがそれを止めるのよ。準備は良い？"
+"あの偽者が行く先々で流血と混沌をもたらしていることは知っているだろう$lisar_speech|…… 今日、私たちがそれを止める。準備は良いか？"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:784
@@ -15175,7 +15176,8 @@ msgstr ""
 msgid ""
 "I <i>am</i> trying to save it — from you. Do you have any idea how much "
 "chaos you and your little gang of ruffians have caused?"
-msgstr "私は救おうとしている── あなたから。あなたとお仲間の悪党共のおかげでどれほどの混沌がもたらされたのか認識できているの？"
+msgstr ""
+"私は Wesnoth を救おうとしている── あなたから。あなたとお仲間の悪党共のおかげでどれほどの混沌がもたらされたのか認識できているのか？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:922
@@ -15195,8 +15197,8 @@ msgid ""
 "sometimes that means unsavory decisions, like the kind the queen has to make"
 " every day."
 msgstr ""
-"あなたはただのお子様に過ぎないのよ。Aethen "
-"の森では親愛と花束だけで回っていたのかもしれないけど、実際の世界では人々が傷つかねばならないこともあるの。ええ、そう。時には気が進まない決断をせざるを得ないこともあるわ。女王ともなれば、毎日のようにそのようなことがあるでしょうね。"
+"あなたはただのお子様に過ぎないの。Aethen "
+"の森では親愛と花束だけで回っていたのかもしれないけど、実際の世界では人々が傷つかねばならないこともある。ええ、そう。時には気が進まない決断をせざるを得ないこともある。女王ともなれば、毎日のようにそのようなことがあるでしょうね。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:930
@@ -15243,12 +15245,12 @@ msgstr "うぐっ！敵は思ったよりもずっと手強い。ここは退く
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:989
 msgid "Decades of study and practice, only to die in a cave..."
-msgstr "長年研鑽を積み重ねたのは、こんな洞窟で死ぬためだったのか…"
+msgstr "長年研鑽を積み重ねた挙句、こんな洞窟で死ぬのか……"
 
 #. [message]: speaker=leader7b
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1005
 msgid "Ack! I’m sorry, Your Highness, I couldn’t stop them..."
-msgstr "うわっ！申し訳ありません、殿下。私には止められませんでした…"
+msgstr "うわっ！殿下、申し訳ありません。私には止められませんでした…"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1024
@@ -15550,7 +15552,7 @@ msgid ""
 "The sounds of rupturing earth behind rose to a crescendo, then faded into "
 "the distance, as meanwhile an uncomfortable heat pressed close at their "
 "backs."
-msgstr "背後では大地が避ける音が最高潮まで高まり、やがて徐々に遠ざかっていきました。一方で、不快な熱気が背後から迫ってきました。"
+msgstr "背後では大地が裂ける音が最高潮まで高まり、やがて徐々に遠ざかっていきました。一方で、不快な熱気が背後から迫ってきました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:337
@@ -15579,7 +15581,7 @@ msgstr ""
 msgid ""
 "The sounds of rupturing earth rose to a crescendo, then faded into the "
 "distance, as meanwhile an uncomfortable heat pressed close at their backs."
-msgstr "大地が避ける音は最高潮まで高まり、やがて徐々に遠ざかっていきました。一方で、不快な熱気が背後から迫ってきました。"
+msgstr "大地が裂ける音は最高潮まで高まり、やがて徐々に遠ざかっていきました。一方で、不快な熱気が背後から迫ってきました。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:357
@@ -15929,7 +15931,7 @@ msgstr "まずはこのアンデッドをどうにかできなければ、他に
 msgid ""
 "I shouldn’t be surprised that some part of your army has survived, princess;"
 " you surely trained them well."
-msgstr "あれだけの数生き残っていることは当然なのかもしれないな、王女。彼らは本当に良く鍛え抜かれている。"
+msgstr "あれだけの数生き残っていることは当然なのかもしれないな、王女よ。彼らは本当に良く鍛え抜かれている。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:505
@@ -15962,7 +15964,7 @@ msgid ""
 "thought to our escape."
 msgstr ""
 "Konrad、私は Asheviere "
-"の一味の危険さをこの目で見てきた。そして、連中の嘘に耳をかすことがどれほどの害を及ぼすのかを身をもって経験してきた。あの兵士達を見殺しにし、捕虜を確保しておくのが最善の選択だ！まずは彼らの全滅を確認し、我々はその後に脱出を考えるべきだ。"
+"の一味の危険さをこの目で見てきた。そして、連中の嘘に耳を貸すことがどれほどの害を及ぼすのかを身をもって経験してきた。あの兵士達を見殺しにし、捕虜を確保しておくのが最善の選択だ！まずは彼らの全滅を確認し、我々はその後に脱出を考えるべきだ。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:521
@@ -16296,7 +16298,7 @@ msgstr ""
 msgid ""
 "Do you agree to my proposal, Your Highness? Or are we to fight and bleed and"
 " die until our bodies both are buried under crimson snow?"
-msgstr "王女殿下、協力いただけないか？それとも、ここで戦って、雪を紅く染め、骸を晒す方がいいか？"
+msgstr "王女殿下、協力いただけないか？それとも、ここで戦って、雪を紅く染め、仲良く骸を晒す方がいいか？"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:885
@@ -16351,7 +16353,7 @@ msgstr ""
 msgid ""
 "It’s not “unfortunate” — your mother was more than willing to see you "
 "killed."
-msgstr "それはたしかに残念だな── 君の母は君を殺すことをなんとも思っていないんだから。"
+msgstr "それは残念なんて言葉では片付けられないな── 君の母は君を殺すことをなんとも思っていないのだから。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:942
@@ -16362,7 +16364,7 @@ msgid ""
 "that."
 msgstr ""
 "Asheviere はあなたを逃がさないよう Mirya "
-"命令すれば十分だと思ったのね。その命令が賢明なものであったかどうかは大した問題じゃない。私が死んでも Wesnoth "
+"に命令すれば十分だと思ったのね。その命令が賢明なものであったかどうかは大した問題じゃない。私が死んでも Wesnoth "
 "が生きられるように行動したのでしょう。そのことを責めるつもりはないわ。"
 
 #. [message]: speaker=Konrad
