@@ -1441,4 +1441,4 @@ Sylph,noun,"エルフの予言者。""The Deceiver’s Gambit"" に登場。""El
 Arand,noun,,false,Garard II の弟。,
 Blackcrest||Blackcrests,noun,,false,Blackcrest||Blackcrest 氏族,
 Rogue Mage||Rogue Mages,noun,,false,はぐれ魔術師,アカデミーからドロップ・アウトした魔術師。「はぐれ魔術師」としているが「浮浪魔術師」なども候補。
-sss,,,false,<small>ササ</small>||<small>シシ</small>||<small>スス</small>||<small>セセ</small>||<small>ソソ</small>,トカゲ特有の吃音。訳文の中では、サ行の直前か直後に<small></small>タグを付けたサ行のカタカナ２文字を付加する。対象となる音節の母音に合わせて選択。語頭なら直前に、語尾・活用のまとまり・助動詞の場合は直後に配置。※原文の語尾にしか自動検出が機能しないので注意。
+sss,,,false,<small>ササ</small>||<small>シシ</small>||<small>スス</small>||<small>セセ</small>||<small>ソソ</small>,トカゲ特有の吃音。訳文の中では、サ行の直前か直後に<small></small>タグを付けたサ行のカタカナ２文字を付加する。対象となる音節の母音に合わせて選択。語頭なら直前に、語尾・活用のまとまり・助動詞の場合は直後に配置。※原文の語尾にしか下線が引かれないので注意。

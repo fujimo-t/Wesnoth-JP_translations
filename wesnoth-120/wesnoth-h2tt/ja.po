@@ -17036,8 +17036,8 @@ msgid ""
 "reliable courier. You’ve seen every major event in the kingdom firsthand; "
 "people and battles I’ve only read about in sanitized reports."
 msgstr ""
-"ここ 10 "
-"年以上、あなたは母に使える中で最も素早い斥候であり、最も信頼された連絡係でもあった。あなたは国のあらゆる重要な出来事をその目で見たはずだ。人々や戦闘について私が目にしたものは、検閲され、消毒された報告でしかなかった。"
+"10 "
+"年以上の間、あなたは母に仕える中で最も素早い斥候役であり、最も信頼された連絡員でもあった。あなたは国のあらゆる重要な出来事をその目で見たはずだ。人々や戦闘について私が目にしたものは、検閲され、消毒された報告でしかなかった。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:228
@@ -17242,7 +17242,7 @@ msgstr "俺たちの野営地がどうなっているのかは知らないだろ
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:344
 msgid "Recruit three units to help Konrad infiltrate the orcish camp"
-msgstr "Konrad のオークの野営地へ潜入を助ける３体のユニットを雇用する"
+msgstr "Konrad のオークの野営地への潜入を助ける３体のユニットを雇用する"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:351
@@ -17495,7 +17495,7 @@ msgid ""
 "But he’s been acting suspiciously lately, and now I can’t find him at all."
 msgstr ""
 "役立たずの Fagh-Mol "
-"の野郎はどこだ？あいつは俺の命令を待っているはずじゃなかったか！あいつは最近は怪しい動きをしている。その上、今はどこにも姿が見えない。"
+"の野郎はどこだ？あいつは俺の命令を伝達する係じゃなかったか！あいつは最近は怪しい動きをしている。その上、今はどこにも姿が見えない。"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:893
@@ -17707,7 +17707,7 @@ msgstr ""
 msgid ""
 "No, I should be chief! My warriors are the bravest, and I am the strongest "
 "warrior of all!"
-msgstr "いいや、俺こそが族長だ！俺の部下達が最も勇敢で、最も強いんだからな！"
+msgstr "いいや、俺こそが族長だ！俺は最も勇敢な部下達を抱えている上、俺が最強の戦士なんだからな！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1184
@@ -17719,7 +17719,7 @@ msgstr "Bovrir"
 msgid ""
 "Strongest?! I could kill both you AND that ingrate Fagh-Mok, with one hand "
 "tied behind my back!"
-msgstr "最も強いだと？俺ならお前も恩知らずの Fagh-Mok もまとめて殺せる！なんなら、片手を背中に縛られても余裕だ！"
+msgstr "最強だと？俺ならお前も恩知らずの Fagh-Mok もまとめて殺せる！なんなら、片手を背中に縛られても余裕だ！"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1196
@@ -17920,7 +17920,7 @@ msgstr "そうか。挑戦者よ、かかってこい。"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:322
 msgid "Find the survivor near the southeast corner of the map."
-msgstr "マップ南東あたりにいる生存者を見つける"
+msgstr "マップ南東の角あたりにいる生存者を見つける"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:329
@@ -17991,7 +17991,7 @@ msgstr ""
 msgid ""
 "We’ve slain one of the drakes! Their biology is... wow, incredibly strange —"
 " yes, I think there must be some magic in them."
-msgstr "ドレークを一人殺しましたね！彼らの生態は… あら、こんなに変わっているんですね── ええ、やはり何らかの魔力が内在しているようですね。"
+msgstr "ドレークを一体殺しましたね！彼らの生態は… あら、こんなに変わっているんですね── ええ、やはり何らかの魔力が内在しているようですね。"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:455
@@ -18077,7 +18077,7 @@ msgid ""
 "betray us to Asheviere?"
 msgstr ""
 "地下で戦った者達と同様に、彼もあの時全力でもって我らを殺そうとしていたのだろう？彼はおとなしくお前の下につくのか？我々を裏切って Asheviere "
-"の下に向かったりはしないのか？この点は指摘しておかねばならない。"
+"の下に向かったりはしないのか？この点は指摘しておかねば。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:651
@@ -18106,7 +18106,7 @@ msgid ""
 "betrays us to the queen?"
 msgstr ""
 "そいつはちょっと前に地下で Konrad "
-"を殺そうとしていたんだろう？手抜きなんか考えもせずに全力で。そんな奴がおとなしくこの同盟に参加するのか？裏切って女王のところへ行ったらどうする？"
+"を殺そうとしていたんだろ？手抜きなんか考えもせずに全力で。そんな奴がおとなしくこの同盟に参加するのかね？裏切って女王のところへ行ったらどうする？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:654
@@ -18170,15 +18170,15 @@ msgid ""
 "orders. I don’t question you people who Konrad chooses to put his trust in —"
 " please don’t question mine."
 msgstr ""
-"おそらくあなた達を殺そうと思っていただろうけど、彼は私に忠実で、私の命令だけを聞く。Konrad が誰を信用しようと私はそれを否定したりはしない── "
-"だから私の方も同じようにさせて欲しい。"
+"あの時はおそらくあなた達を殺そうと思っていただろう。しかし、彼は私に忠実で、私の命令だけを聞く。Konrad "
+"が誰を信用しようと私はそれを否定したりはしない── だから私の方も同じようにさせて欲しい。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:673
 msgid ""
 "Perhaps he did come to kill you, but he’s loyal to me and did so only at my "
 "orders. You can trust him."
-msgstr "おそらくあなた達を殺そうと思っていただろうけど、彼は私に忠実で、私の命令だけを聞く。だから信用できる。"
+msgstr "あの時はおそらくあなた達を殺そうと思っていただろう。しかし、彼は私に忠実で、私の命令だけを聞く。だから信用できる。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:694
@@ -18303,7 +18303,7 @@ msgstr "さあここだ！この洞窟にどんな邪悪が潜んでいようと
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:253
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:254
 msgid "Konrad, do you hear that sound? Look to the north. I wonder if—"
-msgstr "Konrad、今の音を聞いたか？北の方を見ろ。もしかして──"
+msgstr "Konrad、今の音は？北の方？もしかして──"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:255
@@ -18350,7 +18350,7 @@ msgstr "Delfador、聞こえましたか？北側を見てください、ウー�
 #. Well, I say. Is that young Master Delfador?
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:274
 msgid "Well, I say ... hmm dum har ... young Master Delfador?"
-msgstr "おお、そうだな… ムムム…… 若き魔術師 Delfador か？"
+msgstr "おや、これは… ムムム…… 若き魔術師 Delfador か？"
 
 #. [message]: speaker=Haralamdum
 #. So it is! How is the ambassador? He was here just the other day.
@@ -18421,7 +18421,7 @@ msgid ""
 "specimen, them being our allies and all. But, ah, we are on a battlefield. "
 "<b><i>We</i></b> don’t have to be the ones doing the cutting."
 msgstr ""
-"あら、ええと、そうですね、生体から樹液を抽出するのは問題がありそうです。彼ら仲間みたいですから。でも、えーと、ここは戦場ですよね。伐るのは<b>私達に限る必要はない</b>…"
+"あら、ええと、そうですね、生体から樹液を抽出するのは問題がありそうです。彼らは仲間みたいですから。でも、えーと、ここは戦場ですよね。伐るのは<b>私達に限る必要はない</b>…"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:349
@@ -18502,7 +18502,7 @@ msgstr "攻撃的なトカゲを倒した。しかしまだ巨悪たるアンデ
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:489
 msgid "Master. Is away. I guard. I will fight. Until Iliah. Malal returns."
-msgstr "マスター。不在。守る。Iliah 戻るまで。Malal。"
+msgstr "マスター。不在。守る。戻るまで Iliah。Malal。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:493
@@ -18659,7 +18659,7 @@ msgstr "クランの試練"
 #. [side]: type=Grand Knight, id={ID}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:41
 msgid "Plainsmen"
-msgstr "平原の住民"
+msgstr "平原の民"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:203
@@ -18689,8 +18689,8 @@ msgid ""
 "service. What prestige do you plainsmen hold under Asheviere, queen of the "
 "cities and employer of orcs?"
 msgstr ""
-"クランの友であった亡くなった叔父、Garard "
-"II世のことは知っているだろう。あなたがた騎士達は王の軍勢の中核を成し、その働きにより敬意を払われていた。都市の女王であり、オークの雇用主である "
+"クランの友であった亡くなった叔父、Garard II "
+"世のことは知っているだろう。あなたがた騎士達は王の軍勢の中核を成し、その働きにより敬意を払われていた。都市の女王であり、オークの雇用主である "
 "Asheviere の下であなたがたはどんな名声を得たのだ？"
 
 #. [message]: speaker=Konrad
@@ -18813,7 +18813,7 @@ msgstr "女王との戦いに向けて行軍中、騎兵クランと戦争？そ
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:412
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2102
 msgid "Lord Bayar, halt this folly! I challenge you to a personal combat."
-msgstr "Bayar 卿、馬鹿な真似はやめろ！私はあなたに１対１の決闘を申し込む。"
+msgstr "Bayar 候、馬鹿な真似はやめろ！私はあなたに１対１の決闘を申し込む。"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:416
@@ -18940,7 +18940,7 @@ msgstr "まさに語り継がれるべき戦いだった！しかも私が敗れ
 msgid ""
 "Bah, a humiliating defeat! But a defeat nonetheless. Let it not be said that"
 " Sir Rugan is without honor — as agreed, I will join your army."
-msgstr "フン、屈辱的な敗北だ！しかし敗北は敗北だ。Rugan は恥知らずと言われるわけにはいかん── 約束通り、私も戦列に加わろう。"
+msgstr "フン、屈辱的な敗北だ！しかし敗北は敗北だ。Ruga は恥知らずと言われるわけにはいかん── 約束通り、私も戦列に加わろう。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:648
@@ -19022,7 +19022,7 @@ msgstr ""
 msgid ""
 "Hello, Li’sar. I’m sorry too. I never saw you as one to turn against your "
 "sovereign; your own kin. ...I suppose it runs in the family."
-msgstr "こんにちは、Li’sar。私も残念だわ。あなたが女王に、自身の母に敵対するなんて思っていなかったから。……これは血筋のせいかしらね。"
+msgstr "こんにちは、Li’sar。私も残念だわ。あなたが女王に、自身の母に敵対するなんて思っていなかったから…… これは血筋のせいかしらね。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:297
@@ -20109,7 +20109,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2474
 msgid "But such was the cost of victory, wasn’t it?"
-msgstr "しかし、これも勝利のためには必要な代償、そうなのですよね？"
+msgstr "しかし、これも勝利のためには必要な代償。そうですよね？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2482

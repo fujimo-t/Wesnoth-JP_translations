@@ -4709,11 +4709,12 @@ msgid ""
 "But once you find her, then there ssshall be two! Together the Great Onesss "
 "will be unssstoppable!"
 msgstr ""
+"です<small>スス</small>が、あのお方を見つけ出せ<small>セセ</small>ば、ふたりになります<small>スス</small>！「偉大なるふたり」は誰にも止められない！"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:265
 msgid "Oh Great One! Sssave me!"
-msgstr ""
+msgstr "ああ、偉大なるお方！お<small>スス</small>救いくださ<small>ササ</small>い！"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:281
@@ -4721,26 +4722,27 @@ msgid ""
 "The sssnow, the windsss, it chillsss usss... Oh Great One, even with your "
 "warmth, we cannot ssstay here long!"
 msgstr ""
+"この雪、この風、私<small>シシ</small>たちを冷たく<small>シシ</small>します・・・ああ、偉大なるお方、あなた<small>ササ</small>様の温もりがあっても、ここには長くいられませ<small>セセ</small>ん！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:285
 msgid "We must keep moving."
-msgstr ""
+msgstr "それでも進まねばならぬのだ。"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:293
 msgid "The cold chillsss me ssso! I cannot sssurvive much longer!"
-msgstr ""
+msgstr "冷気が私<small>シシ</small>を冷たく<small>スス</small>する！もう長くは生きられない！"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:301
 msgid "Ssso... cccold... Oh Great One, I have failed you..."
-msgstr ""
+msgstr "つ・・・冷た<small>スス</small>すぎる・・・ああ、偉大なるお方、お役に立てず・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:348
 msgid "Well?"
-msgstr ""
+msgstr "どうなのだ？"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:352
@@ -4748,6 +4750,7 @@ msgid ""
 "Yesss, oh Great One, thisss is the place! Thisss is the lair of the other "
 "Great One, your sssister, our massster, our god!"
 msgstr ""
+"<small>ソソ</small>そうです、偉大なるお方、ここが<small>ソソ</small>その場所です<small>スス</small>！ここがもうひとりのお方、あなた<small>ササ</small>様の姉君、我らの主、我らの神の<small>スス</small>すみかです。"
 
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:360
@@ -4755,39 +4758,40 @@ msgid ""
 "Sssimply continue down the valley, and you ssshall meet your sssissster! I "
 "dare go no further. Oh massstersss, please forgive usss..."
 msgstr ""
+"このまま谷を<small>スス</small>進めば、姉君に会えます<small>スス</small>！私<small>シシ</small>はこれ以上は<small>スス</small>進めません。ああ、我が主よ、どうかお許し<small>シシ</small>を・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:479
 msgid ""
 "Hmph. What’s she so afraid of. Dragons are powerful, but hardly "
 "invulnerable."
-msgstr ""
+msgstr "ふんっ、何をそれほど怖れているのだ。ドラゴンがいかに強大だとて、無敵というわけでもなかろうに。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:485
 msgid ""
 "The poets will sing my praises through the streets of Weldyn! After all, the"
 " heroes of old used to slay dragons all the time."
-msgstr ""
+msgstr "詩人たちが Weldyn の街中で私を称えて詠うことになろうぞ！古の英雄というものは、ドラゴンを討伐するのが常であったからな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:491
 msgid ""
 "Well, now that I think of it, I only remember reading about one single slain"
 " dragon, many years ago."
-msgstr ""
+msgstr "いや、待てよ、考えてみると、ドラゴン退治の記録って、随分前に読んだ大昔の一件しか思い出せないな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:497
 msgid ""
 "And Prince Haldric did have a whole company of the Green Isle’s best knights"
 " to help..."
-msgstr ""
+msgstr "しかも、Haldric 王子には、緑の島で最高の精鋭騎士団が丸ごと付いていたのだった・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:503
 msgid "Ah."
-msgstr ""
+msgstr "あっ・・・"
 
 #. [message]: speaker=Omaranth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:521
@@ -4795,6 +4799,8 @@ msgid ""
 "SOMETHING STIRS.\n"
 "A HUMAN COMES."
 msgstr ""
+"<b>風が乱れた。\n"
+"人間が来る。</b>"
 
 #. [message]: speaker=Omaranth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:528
@@ -4803,13 +4809,16 @@ msgid ""
 "IT IS WEAK.\n"
 "IT WILL DIE."
 msgstr ""
+"<b>取るに足らぬ。\n"
+"弱きもの。\n"
+"死ぬべし。</b>"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:535
 msgid ""
 "...wait a minute, that’s not a dragon, it’s merely a drake! The saurians "
 "must have mistaken it for a true dragon on account of its fire breath."
-msgstr ""
+msgstr "・・・ちょっと待て、ドラゴンではなく、ただのドレークではないか！トカゲどもは、火を吐くというだけで本物のドラゴンと思い込んでいただけか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:539
