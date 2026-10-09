@@ -4825,12 +4825,12 @@ msgstr "・・・ちょっと待て、ドラゴンではなく、ただのドレ
 msgid ""
 "So you are the villain behind all of this. You threaten my home and you "
 "threaten my king — my friend."
-msgstr ""
+msgstr "すべての元凶はお前だったのだな。我が故郷のみならず、王までも——我が友をも脅かすとは！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:550
 msgid "Hey, get back here!"
-msgstr ""
+msgstr "待て！逃げるな！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:557
@@ -4840,25 +4840,27 @@ msgid ""
 "it and the saurians that worship it are warring against Wesnoth, but I do "
 "know they must be stopped."
 msgstr ""
+"あのドレークは捨て置くわけにはいかぬ——絶対に逃さんぞ。仲間たちよ、私が洞窟内であのドレークを追う間、この入口を守ってくれ。奴が自らを崇めるトカゲどもを率いて"
+" Wesnoth に仇なすのはなぜか、その由は分からぬが、奴らを止めねばならぬことだけは確かだ。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:588
 msgid ""
 "You got it, boss. We’ll watch the cave entrance, and make sure you don’t get"
 " trapped inside."
-msgstr ""
+msgstr "任しときな、ボス。この洞窟の入口はちゃんと見張っておくよ、あんたが閉じ込められたりしないようにな。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:599
 msgid ""
 "Sounds like a pretty easy job. All we gots to do is wait ’round here for the"
 " boss to come back out."
-msgstr ""
+msgstr "楽勝だな。ボスが戻るまで、この辺で待ってりゃいいんだろ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:607
 msgid "Relax. What could go wrong?"
-msgstr ""
+msgstr "気楽にいこう。何かマズいことでもあるか？"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:614
@@ -4866,7 +4868,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1122
 msgid ""
 "In this scenario $companion_name is your leader, and can recruit / recall."
-msgstr ""
+msgstr "このシナリオでは $companion_name がリーダーとなり、雇用と召還を行うことができます。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:746
@@ -4884,12 +4886,12 @@ msgstr ""
 #. [message]: role=escort1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:934
 msgid "Brrr... It’s suddenly so c-c-cold..."
-msgstr ""
+msgstr "ブルル・・・きゅ、急に冷え込んできたな・・・"
 
 #. [message]: id=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:966
 msgid "Uhh, hello? Who’s there? Boss, is that you?"
-msgstr ""
+msgstr "ん？おい、誰かいるのか？ボス、あんたなのか？"
 
 #. [message]: role=escort1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1020

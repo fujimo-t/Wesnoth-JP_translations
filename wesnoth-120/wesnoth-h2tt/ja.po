@@ -5377,7 +5377,7 @@ msgstr ""
 #. Konrad has something to day, and Delfador is promting him.
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:773
 msgid "What is it, Konrad?"
-msgstr "それは何だ、Konrad？"
+msgstr "どうした、Konrad？"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:786
@@ -6356,7 +6356,7 @@ msgstr "10 ゴールド"
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:151
 msgid ""
 "A little gold for use in magical experiments. I’m sure it won’t be missed."
-msgstr "魔法の実験に使うための、ほんの少しのゴールドです。きっと誰も気に留めないでしょう。"
+msgstr "魔法の実験に使うための、ほんの少しだけのゴールドだ。きっと誰も気に留めないだろう。"
 
 #. [message]: speaker=narrator
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from
@@ -6695,7 +6695,7 @@ msgstr "私は Galdrad。先に進みたいのなら私を倒してからにし�
 #. said when Konrad attacks / is attacked
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1318
 msgid "Leave my home alone, you villain!"
-msgstr "悪党め、私の家から出て行け！"
+msgstr "悪党め、私の家に手を出すな！"
 
 #. [message]
 #. Asheviere's official stance is that Konrad is a fraud. At this point, the
@@ -20313,7 +20313,7 @@ msgid ""
 "human child. She knew not where he had come from, only that the orcs would "
 "have eaten him if it weren’t for her intervention."
 msgstr ""
-"奇妙で不可解な巡り合わせがあったのか、エルフの淑女 Parandra は偶然人間の子供を見つけた。その子がどこから来たのか Parandra "
+"奇妙で不可解な巡り合わせがあったのか、エルフの貴婦人 Parandra は偶然人間の子供を見つけた。その子がどこから来たのか Parandra "
 "は知らなかった。ただ、彼女が介入しなかったら、その子はオークに喰われていただろう。"
 
 #. [message]: speaker=Delfador
@@ -20351,7 +20351,7 @@ msgid ""
 "that fate has made a different choice. That despite all of Asheviere’s evil,"
 " this Li’sar is fit for the throne."
 msgstr ""
-"Konrad、いつか我々はお主を王にできると考えていた。しかし今、運命は違う道を選んだのだと気がついた。Asheviere "
+"Konrad、いつか我々はお主を王にできると考えていた。しかし今、運命は違う道を選んだのだと分かった。Asheviere "
 "があれほど邪悪であるにも関わらず、Li’sar こそが王位に相応しいのだろう。"
 
 #. [message]: speaker=Delfador
@@ -20692,7 +20692,7 @@ msgid ""
 "seasoned enemies. At this early age, their greatest value is their "
 "potential."
 msgstr ""
-"若く向こう見ずな戦士は剣で戦います。より経験を積んだ敵からの攻撃にはかないません。このような若い段階では、その潜在力にこそ最も価値があります。"
+"若く向こう見ずな戦士は剣で戦います。より経験を積んだ敵からの攻撃にはかないません。このように若い段階では、その潜在力にこそ最も価値があります。"
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:87
@@ -20745,7 +20745,7 @@ msgid ""
 "body alike, the most capable of these elf-trained leaders complement their "
 "improved swordsmanship with an uncanny accuracy at archery."
 msgstr ""
-"エルフの考え方では、隊長は大規模戦闘よりも小規模戦闘での指揮を学ぶべきとされています。そして、通常は一方的に命令するというよりも、仲間と互いに協調するような形で隊を導きます。彼らのような指揮官は、通常は小規模な部隊を長期間に渡って指揮します。そうすることで部隊の面々を直接指導し、良い関係を構築するのです。最も有能なエルフの指揮官達は、心身を研ぎ澄ませ、優れた剣術と正確な射術を両立しています。"
+"エルフの考え方では、隊長は大規模戦闘よりも小規模戦闘での指揮を学ぶべきとされています。そして、通常は一方的に命令するというよりも、仲間と互いに協調するような形で隊を導きます。彼らのような指揮官は、通常は小規模な部隊を長期間に渡って指揮します。そうすることで部隊の面々を直接指導し、良い関係を構築するのです。最も有能なエルフの指揮官達は、心身を研ぎ澄ませ、優れた剣術と正確な弓術を両立しています。"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:4
 msgid "Prince"
@@ -20989,7 +20989,7 @@ msgid ""
 "fly, most have already grown larger than a wolf, and are more than capable "
 "of defending their nests from intruders."
 msgstr ""
-"未熟なグリフォンは白と灰色の羽毛をまとっています。この羽毛は成熟した個体のものより柔らかく、肌触りも良いことで知られています。大抵の場合、飛べるようになる前に既に狼よりも大きなっており、侵入者から巣を守る能力も充分にあります。"
+"未熟なグリフォンは白と灰色の羽毛をまとっています。この羽毛は成熟した個体のものより柔らかく、肌触りも良いことで知られています。大抵の場合、飛べるようになる前に既に狼よりも大きくなっており、侵入者から巣を守る能力も充分にあります。"
 
 #. [unit_type]: id=Sleeping Gryphon, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:4
@@ -21154,7 +21154,7 @@ msgid ""
 "know you’re a powerful lord and greatly loved by your people."
 msgstr ""
 "Kalenz "
-"候、あなたの助力に感謝します。しかし、私のところに来る際にエルフの軍勢を連れてくることはできなかったのですか？あなたは大きな力を持つ有力者で、人々からも大いに敬愛されている方です。"
+"公、あなたの助力に感謝します。しかし、私のところに来る際にエルフの軍勢を連れてくることはできなかったのですか？あなたは大きな力を持つ有力者で、人々からも大いに敬愛されている方です。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:166
@@ -21338,7 +21338,8 @@ msgid ""
 "What of justice for Garard? What of our honor? Once, the Clans stood for "
 "those ideals. How far you have fallen."
 msgstr ""
-"Garard のための正義、我々の名誉、これらはどうしたのですか？かつてクランはこの理念のもとに立っていた。あなた方はどこまで落ちぶれてしまったのだ！"
+"Garard "
+"陛下のための正義、我々の名誉、これらはどうしたのですか？かつてクランはこの理念のもとに立っていた。あなた方はどこまで落ちぶれてしまったのだ！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:329
@@ -21383,7 +21384,7 @@ msgid ""
 "suppose that hasn’t really worked out, seeing as I’m now a rebel and all."
 msgstr ""
 "彼らは最年長の孫── 私を Alduin に送り、Wesnoth "
-"の老舗のエリート層に食い込むため、つながりを作ろうと考えたのです。まあ、どうやらその目論見はうまくいかなかったようですが。なにせ、今や私は反逆者なのですから。"
+"の老舗のエリート層に食い込むためのつながりを作ろうと考えたのです。まあ、どうやらその目論見はうまくいかなかったようですが。なにせ、今や私は反逆者なのですから。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:386
@@ -21456,7 +21457,7 @@ msgstr ""
 msgid ""
 "What strange magic you wield, Kalenz. It is light, yet it is not of the "
 "Light! What manner of unhallowed spells do you weave?"
-msgstr "Kalenz、お主の扱う魔術は変わっているな。それは光だが、我が神のものではない！どうやってその清浄でない呪文を紡いでいるのだ？"
+msgstr "Kalenz、お主の扱う魔術は変わっているな。それは光だが、我が神のものではない！どうやってその清浄とは言えない呪文を紡いでいるのだ？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:463
@@ -21535,7 +21536,7 @@ msgid ""
 "fightin’ Asheviere too! I’ve been excited to tell you!"
 msgstr ""
 "Konrad、アタシ達がどうやって三姉妹の島に来たのかを聞かないのはどうしてだ？ビックリするような話だし、Asheviere "
-"と戦う時にも参考になるかもしれないぞ！お前に話したくてずっとウズウズしてるんだ！"
+"と戦う時にも参考になるかもしれないぞ！アンタに話したくてずっとウズウズしてるんだ！"
 
 #. [message]: speaker=Konrad
 #. Harper and Konrad discuss the events of Liberty
@@ -21618,7 +21619,7 @@ msgid ""
 "the truth, there ain’t much hope left in Knalga, least not that I’ve heard "
 "about."
 msgstr ""
-"ああ、そのとおりだ。俺たちドワーフは社交的じゃないからな。一部はトロル並に頭が固い上、さらに頑固だ！しかし正直に言えば、Knalga "
+"ああ、そのとおりだ。俺たちドワーフは社交的じゃないからな。一部はトロル並に頭が固い上、頑固でもある！しかし正直に言えば、Knalga "
 "にはあまり希望が残っていないのだ。少なくとも俺の知る限りでは。"
 
 #. [message]: speaker=Ulfdain
