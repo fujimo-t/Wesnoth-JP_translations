@@ -5558,7 +5558,7 @@ msgid ""
 "utmost to prepare you for the difficult quest that lies ahead. You have "
 "trusted me, and for that I am grateful."
 msgstr ""
-"そして、私が助言するとしたら、そうだな…… "
+"そして、私の案内についてだが、そうだな…… "
 "私はできる限りの力を尽くしてお主を育てた。待ち受ける困難な旅路に負けぬように。お主はそんな私を信頼してくれた。私はそのことを心から嬉しいと思う。"
 
 #. [message]: speaker=Delfador
@@ -7246,7 +7246,7 @@ msgstr ""
 msgid ""
 "I don’t mind though. I like elves, and we still got to come visit you "
 "sometimes."
-msgstr "何、構わない。エルフのことも気に入っているし、たまには会いにいっていたしな。"
+msgstr "だからこれでよかったのかもしれません。エルフのことは好きですし、あなたのところも時々は訪問できていましたから。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:395
