@@ -4873,7 +4873,7 @@ msgstr "このシナリオでは $companion_name がリーダーとなり、雇�
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:746
 msgid "Look out! One of them was lurking just inside the cave entrance!"
-msgstr ""
+msgstr "気をつけろ！中に１匹潜んでいたぞ！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:757
@@ -4882,11 +4882,13 @@ msgid ""
 " more! Nothing left to do but wait for Delfador to come back out, and "
 "relax... for real this time. Great work everybody."
 msgstr ""
+"こいつで最後だ！洞窟も全部ぶっ壊したから、もう出てこねぇだろう。あとは Delfador "
+"が戻るのを待つだけだから、楽勝だな・・・今度こそ、マジで。良くやったぞ、お前ら！"
 
 #. [message]: role=escort1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:934
 msgid "Brrr... It’s suddenly so c-c-cold..."
-msgstr "ブルル・・・きゅ、急に冷え込んできたな・・・"
+msgstr "ブルルッ・・・きゅ、急に冷え込んできたな・・・"
 
 #. [message]: id=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:966
@@ -4896,31 +4898,31 @@ msgstr "ん？おい、誰かいるのか？ボス、あんたなのか？"
 #. [message]: role=escort1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1020
 msgid "Aaaah!"
-msgstr ""
+msgstr "うわあぁぁっ！"
 
 #. [message]: role=escort1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1033
 msgid "Hell no! Curse it all, I didn’t sign up for fighting zombies!"
-msgstr ""
+msgstr "クソ！ふざけんな！ゾンビと戦うなんて聞いてねぇぞ！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1037
 msgid ""
 "C’mon everyone, grab your weapons and get ready. I’ve a feeling we’re about "
 "to have the fight of our lives!"
-msgstr ""
+msgstr "いいから、武器を持って準備しろ！生き残るには、とにかく戦うしかねぇだろ！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1076
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1108
 msgid "Protect Delfador’s cave entrance until turns run out"
-msgstr ""
+msgstr "規定のターンが終了するまで、Delfador が入った洞窟の入口を守る"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1080
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1112
 msgid "Delfador’s cave entrance is destroyed"
-msgstr ""
+msgstr "Delfador が入った洞窟の入口が破壊される"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1103
@@ -4929,64 +4931,66 @@ msgid ""
 " where all the undead are climbing out of. Quick now, if we knock down the "
 "entrance we can trap the zombies inside!"
 msgstr ""
+"見ろよ、凍りついた洞窟があるぞ！Delfador "
+"が下りてった洞窟とそっくりだ。アンデッドどもはみんなこういうとこから這い上がって来てるに違いねぇ。急いで入口をぶっ壊して、ゾンビどもを閉じ込めろ！"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1119
 msgid "Destroy hostile cave entrances to prevent enemies from emerging."
-msgstr ""
+msgstr "敵陣営の洞窟の入口を破壊し、新たな敵の出現を防ぎましょう。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1142
 msgid "RraaaAAARRRGGG!"
-msgstr ""
+msgstr "ングァァァーッ！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1170
 msgid ""
 "Ghost!! How’re we supposed to fight something our weapons can barely touch!?"
-msgstr ""
+msgstr "ゴーストだ！武器が効かねぇ奴らと、どうやって戦えばいいんだよ！？"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1204
 msgid "Wha— what’s happening!?"
-msgstr ""
+msgstr "なっ——何が起きてんだ？"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1221
 msgid "The undead have gone! Thank the gods! It’s finally over."
-msgstr ""
+msgstr "アンデッドどもが消えたぞ！奇跡だ！なんとか生き延びたな。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1225
 msgid "I’m alive... I can’t believe it..."
-msgstr ""
+msgstr "あぁ、まだ生きてる・・・信じられねぇ・・・"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1226
 msgid "female^I’m alive... I can’t believe it..."
-msgstr ""
+msgstr "あぁ、まだ生きてる・・・信じられねぇ・・・"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1230
 msgid "I think we won! ...but how?"
-msgstr ""
+msgstr "勝ったぞ！・・・けど、どうやって？"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1231
 msgid "female^I think we won! ...but how?"
-msgstr ""
+msgstr "勝ったぞ！・・・けど、どうやって？"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1261
 msgid "The center crypt’s collapsing! We’ve failed!"
-msgstr ""
+msgstr "真ん中の洞窟が崩れる！しくじったな！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1265
 msgid ""
 "We did our best, but the boss ain’t comin’ back out anytime soon. We’d "
 "better scram back down south before the same happens to us."
-msgstr ""
+msgstr "やれるだけのことはやったが、ボスは当分戻って来ねぇだろうな。同じ目にあう前に南へ逃げるぞ。"
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:6

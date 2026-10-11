@@ -2133,7 +2133,7 @@ msgid ""
 "Hello, “cousin” — if you really are Konrad and not an imposter. I am Li’sar,"
 " princess of Wesnoth and my mother’s most able commander."
 msgstr ""
-"こんにちは、我が「いとこ」 ── もっとも、あなたが偽者ではなくて、本物の Konrad ならば、だけれど。私は Li’sar、Wesnoth "
+"こんにちは、我が「従弟」 ── もっとも、あなたが偽者ではなくて、本物の Konrad ならば、だけれど。私は Li’sar、Wesnoth "
 "の王女で、母にとって最も信頼できる指揮官でもある。"
 
 #. [message]: speaker=Lisar
@@ -4879,7 +4879,7 @@ msgstr ""
 msgid ""
 "Leave my cousin out of this. You know who I am. And now you see I hold the "
 "Sceptre."
-msgstr "私のいとこを巻き込まないでもらえるか。私が何者であるのかは知っているだろう。そして見よ、私の手にあるこの笏を。"
+msgstr "私の従姉を巻き込まないでもらえるか。私が何者であるのかは知っているだろう。そして見よ、私の手にあるこの笏を。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1016
@@ -5948,8 +5948,7 @@ msgid ""
 "They definitely have a lead on the Sceptre — of that I’m certain, Your "
 "Highness. But your “cousin” has only just arrived. They can’t yet have "
 "reached it."
-msgstr ""
-"彼らは笏の確実な手がかりを得た模様 ── 間違いありません、殿下。しかし、あなたの「いとこ」はまだ到着したばかり。まだ見つけてはいないはず。"
+msgstr "彼らは笏の確実な手がかりを得た模様 ── 間違いありません、殿下。しかし、あなたの「従弟」はまだ到着したばかり。まだ見つけてはいないはず。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1545
@@ -11689,7 +11688,7 @@ msgstr "強盗団"
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:181
 msgid "En garde!"
-msgstr "構えろ！"
+msgstr "覚悟しろ！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:202
@@ -14615,7 +14614,7 @@ msgid ""
 " parts of the hewn caverns. Except for disturbances caused by the occasional"
 " rodent, the air in the lower passages was still and tomblike."
 msgstr ""
-"最後にドワーフの廃墟を通過してから随分経ちましたが、一行はなおもデコボコした洞窟の最奥へと降っていきました。時折ネズミに驚かされることを除けば、狭い通路の空気はとても静かで、まるで墓場のようでした。"
+"最後にドワーフの廃墟を通過してから随分経ちましたが、一行はなおもデコボコした洞窟の最奥へと降り続けていました。時折ネズミに驚かされることを除けば、狭い通路の空気はとても静かで、まるで墓場のようでした。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:265
@@ -14749,7 +14748,7 @@ msgstr "そして、笏を勝ち取る"
 msgid ""
 "The longer you take to defeat the enemy leader, the more time your other "
 "enemies will have to accrue gold."
-msgstr "敵リーダーを倒すのに時間がかかると、他の敵がゴールドを貯める時間が長くなってしまいます。"
+msgstr "敵リーダーを倒すのに時間がかかると、次の敵がゴールドを貯める時間が長くなってしまいます。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:351
@@ -14850,7 +14849,7 @@ msgid ""
 " provided a small reprieve from the thick blackness. Volcanic fumes drifted "
 "up from cracks in the floor."
 msgstr ""
-"裂け目の近くでは、魔法の力で空気がパチパチ音を立てているかのようでした。また、あたりは着実に暖かくなっていました。床はなめらかで、ガラスのようになっているところもありました。そして、深い暗闇にはかすかな輝きが差し込んでいました。火山ガスがヒビの入った床から立ち上っていたのです。"
+"裂け目の近くでは、魔法の力で空気がパチパチ音を立てているかのようです。また、周囲は確実に暖かくなっていました。床はなめらかで、ガラスのようになっている箇所もあります。そして、ヒビの入った床から火山ガスが立ち昇り、深い暗闇にはかすかな輝きが差し込んでいました。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:603
@@ -22354,7 +22353,7 @@ msgstr "Harper"
 #. [unit]: id=Somf, type=Bandit
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:715
 msgid "Uncle Somf"
-msgstr "Somf おじさん"
+msgstr "Somf"
 
 #. [unit]: id=Moremirmu, type=White Warrior
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:725
