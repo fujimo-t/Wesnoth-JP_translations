@@ -15515,7 +15515,7 @@ msgid ""
 "Sorry, Li’sar, queen’s orders. You had your chance and you failed. Now it’s "
 "time for the backup plan."
 msgstr ""
-"Li’sar、ごめんなさい。女王陛下のご命令なの。せっかくのチャンスをあなたがフイにしてしまったから。というわけで代替案を実行させてもらうわね。"
+"Li’sar、ごめんなさい。女王陛下のご命令なの。せっかくのチャンスをあなたがフイにしてしまったから。というわけで代替策を実行させてもらうわね。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1360
@@ -16425,7 +16425,7 @@ msgstr "エルフの瞳と獣の骨…"
 msgid ""
 "A lich! So here is the source of the undead. Something about this magic "
 "feels familiar... very familiar..."
-msgstr "リッチか！ではこれがアンデッドの発生原因か。しかしどこかで覚えのある… 良く知っている魔術のような……"
+msgstr "リッチか！ではこれがアンデッドの発生原因か。しかしどこかで覚えのある… 良く知っている魔力のような……"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1064
@@ -16475,7 +16475,7 @@ msgid ""
 "smallfolk in Delwyn an’ Dallben jus’ because we refused to swear fealty. An’"
 " she would’ve succeeded too, if we hadn’t fought back an’ fled an’ hid!"
 msgstr ""
-"Li’sar、あんたはそれは否定できない。女王は忠誠を拒んだだけで Delwyn と Dallben "
+"Li’sar、アンタはそれは否定できない。女王は忠誠を拒んだだけで Delwyn と Dallben "
 "って小さな村の住民を皆殺しにしようとした。アタシらが必死になって戦ったり、尻尾巻いて逃げ出さなければ、実際にやっただろうね！"
 
 #. [event]: SPEAKER=Harper, SPEAKER=Ulfdain, SPEAKER=Kalenz,
@@ -16923,7 +16923,7 @@ msgid ""
 "spent my entire childhood listening to my mother give orders and commanding "
 "armies around. I’d always given her the benefit of the doubt."
 msgstr ""
-"母にも欠点はあるけれど、そんな犯罪に手を染めたりはしていない… "
+"母にも欠点はあるけれど、そんな犯罪には… "
 "子供の頃、ずっと母が命令を出したり、軍隊に指示したりするのを聞いていた。私はいつも、母の言葉を良い方に解釈していた。"
 
 #. [message]: speaker=Lisar
@@ -18235,7 +18235,7 @@ msgid ""
 "be elated to see that you’ve survived."
 msgstr ""
 "ええ、殿下！我々はただの先遣隊です── "
-"故郷へ帰る道を探していました。ここを生き延びれれば、上流にある野営地までご案内します。あなたが生きていたと知れば、皆も元気が出るでしょう。"
+"故郷へ帰る道を探していました。ここを生き延びられたら、上流にある野営地までご案内します。あなたが生きていたと知れば、皆も元気が出るでしょう。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:770
@@ -18753,25 +18753,25 @@ msgstr "もはや退路はないぞ。お前らごときに俺たちは負けん
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:348
 msgid ""
 "Defeat 30 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
-msgstr "敵を 30 体倒して騎兵クランを屈服させる（残り $clansmen_remaining remaining|）"
+msgstr "敵を 30 人倒して騎兵クランを屈服させる（残り $clansmen_remaining 人）"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:349
 msgid ""
 "Defeat 40 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
-msgstr "敵を 40 体倒して騎兵クランを屈服させる（残り $clansmen_remaining remaining|）"
+msgstr "敵を 40 人倒して騎兵クランを屈服させる（残り $clansmen_remaining 人）"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:350
 msgid ""
 "Defeat 50 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
-msgstr "敵を 50 体倒して騎兵クランを屈服させる（残り $clansmen_remaining remaining|）"
+msgstr "敵を 50 人倒して騎兵クランを屈服させる（残り $clansmen_remaining 人）"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:351
 msgid ""
 "Defeat 60 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
-msgstr "敵を 60 体倒して騎兵クランを屈服させる（残り $clansmen_remaining remaining|）"
+msgstr "敵を 60 人倒して騎兵クランを屈服させる（残り $clansmen_remaining 人）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:357
@@ -19330,7 +19330,7 @@ msgid ""
 "The walls of Weldyn are strong. And her allies are many. They will arrive in"
 " days — and then you will die."
 msgstr ""
-"Weldy の城壁は難攻不落。さらに味方も多くいる！彼らは数日の内にここへ駆けつけるだろう── そして、お前たちは惨めに骸を晒すことになるのだ。"
+"Weldyn の城壁は難攻不落。さらに味方も多くいる！彼らは数日の内にここへ駆けつけるだろう── そして、お前たちは惨めに骸を晒すことになるのだ。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1526
@@ -19989,7 +19989,7 @@ msgid ""
 msgstr ""
 "Seimus は Alduin "
 "へ戻り、多くの人々から英雄として称えられました（そして一部の人達からは罵倒されました）。彼はそれから長年に渡ってアカデミーの長を勤めました。友人である "
-"Delfador は良く Seimus のところを訪れていたようです。"
+"Delfador はよく Seimus のところを訪れていたようです。"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2428
@@ -20036,8 +20036,8 @@ msgid ""
 " prosperous settlement; a rare jewel of civilization in the northern "
 "wildlands."
 msgstr ""
-"Jotha はついに北にある故郷へと戻りました。他の多くのマーフォークも彼と行動を共にしました。Jotha "
-"の入り江と呼ばれるようになったその場所は、北方の荒野では宝石のように希少な文明の地で、豊かな集落へと成長していくことでしょう。"
+"Jotha は北にある故郷へと戻りました。他の多くのマーフォークも彼と行動を共にしました。Jotha "
+"の入り江と呼ばれるようになったその場所は、北方の荒野では宝石のように希少な文明の地となり、豊かな集落へと成長していくことでしょう。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2437
@@ -20350,7 +20350,7 @@ msgid ""
 "that fate has made a different choice. That despite all of Asheviere’s evil,"
 " this Li’sar is fit for the throne."
 msgstr ""
-"Konrad、いつか我々はお主を王にできると考えていた。しかし今、運命は違う道を選んだのだと分かった。Asheviere "
+"Konrad、我々はお主をいつか王にできると考えていた。しかし今、運命は違う道を選んだのだと分かった。Asheviere "
 "があれほど邪悪であるにも関わらず、Li’sar こそが王位に相応しいのだろう。"
 
 #. [message]: speaker=Delfador

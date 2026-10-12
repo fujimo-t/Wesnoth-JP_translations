@@ -4995,14 +4995,14 @@ msgstr "やれるだけのことはやったが、ボスは当分戻って来ね
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:6
 msgid "Houses of the Dead"
-msgstr ""
+msgstr "死者の館"
 
 #. [message]
 #. notice that appears at the beginning of the scenario if you select Brutal
 #. difficulty
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:104
 msgid "Meanwhile..."
-msgstr ""
+msgstr "一方、その頃・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:132
@@ -5010,22 +5010,23 @@ msgid ""
 "Stand and fight me, drake! You and your saurians have caused Wesnoth enough "
 "harm. In the name of King Garard, your villainy ends here."
 msgstr ""
+"逃げずに勝負しろ、ドレーク！お前とトカゲどもが Wesnoth に与えた損害は看過できぬ。Garard 王の名において、その蛮行をここで断つ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:143
 msgid "...I suppose we’ll have to do this the hard way."
-msgstr ""
+msgstr "・・・すんなりとはいかぬようだな。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:151
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:346
 msgid "Find Omaranth"
-msgstr ""
+msgstr "Omaranth を発見する"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:213
 msgid "A drakish tomb? This looks ominous..."
-msgstr ""
+msgstr "ドレークの墳墓か？不吉だな・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:257
@@ -5034,46 +5035,47 @@ msgid ""
 "fouler still. Damned vessels, conscious but enslaved... yet where there are "
 "enchantments, there are opportunities."
 msgstr ""
+"ゴーストか！歩く死体も忌まわしいが、死者の魂を支配するなど、これ以上の冒涜はない。呪われし器、意識を残して隷属させられておるのなら・・・その呪縛を解くことが可能かもしれん。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:267
 msgid ""
 "I must concentrate. The slightest mistake in the casting of this spell could"
 " be fatal."
-msgstr ""
+msgstr "心してかからねば。この呪文を詠唱している間は、ほんの僅かな気の緩みさえも命取りになりかねん。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:283
 msgid ""
 "I call upon the name of An-Usrukhar the Great. I invoke the Mirror of "
 "Evanescent Time!"
-msgstr ""
+msgstr "偉大なる An-Usrukhar の御名によりて、無常なる時の鏡をここに呼び醒ますべし！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:290
 msgid ""
 "I challenge life against death! I invoke freedom against order! I wield "
 "light against darkness!"
-msgstr ""
+msgstr "死に抗しては生を！呪縛を解くは自由の喚起なり！闇を払う光を振るわん！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:297
 msgid ""
 "May the coils of servitude be broken! Spirit of the damned, be freed from "
 "your master."
-msgstr ""
+msgstr "隷属の鎖、断ち切られるべし！呪われし魂よ、その主より解き放たれよ！"
 
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:315
 msgid "My mind... is my own..."
-msgstr ""
+msgstr "我が心は・・・我のもの・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:319
 msgid ""
 "Speak, spectre! Tell me of this place. Where is the drake they call the "
 "“Great One”?"
-msgstr ""
+msgstr "語れ、亡霊よ！この地について話すのだ。「大いなる者」と呼ばれるドレークはどこにおる？"
 
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:323
@@ -5081,18 +5083,20 @@ msgid ""
 "I do not know. I know nothing of drakes. I am a man. My name is Aethyr... I "
 "had almost forgotten. I died long ago, in a great battle..."
 msgstr ""
+"知らぬ。ドレークのことなど何も知らぬ。我は人間だ。我が名は Aethyr "
+"・・・もはやそれさえも忘れかけていた。我に死が訪れたのは、遥か昔、大きな戦でのことだ・・・"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:325
 msgid "Aethyr"
-msgstr ""
+msgstr "Aethyr"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:328
 msgid ""
 "You’re the spirit of a human? How did you come to roam these drakish halls, "
 "so far from the lands of men?"
-msgstr ""
+msgstr "元は人間だったのか？如何なる故にて、かようなドレークの館を彷徨いおるのだ？人の領域からかくも遠きこの地を。"
 
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:332
@@ -5100,18 +5104,20 @@ msgid ""
 "Iliah-Malal brought me here. He made me promises of life renewed, but "
 "instead bound me to his will. Perhaps Iliah-Malal will know of your drake."
 msgstr ""
+"Iliah-Malal に囚われたのだ。奴は新たな生を約束しながら、その実、我を縛り付けて己が意思に従わせた。あるいは、Iliah-Malal "
+"ならば、お前の求めるドレークを知っておるやもしれぬ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:336
 msgid ""
 "A necromancer? Troubling. Yes, I should very much like to meet this Iliah-"
 "Malal."
-msgstr ""
+msgstr "ネクロマンサーか？厄介だな。ふむ、その Iliah-Malal とやらには、何としても会わねばならんな。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:350
 msgid "Find Iliah-Malal"
-msgstr ""
+msgstr "Iliah-Malal を見つける"
 
 #. [note]
 #. [message]: speaker=narrator
@@ -5120,41 +5126,41 @@ msgstr ""
 msgid ""
 "Delfador can capture hostile ghosts by moving adjacent to them, unless he is"
 " polymorphed."
-msgstr ""
+msgstr "Delfador は、変身中を除き、敵ゴーストに隣接することで捕縛することが可能です。"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:360
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:799
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1143
 msgid "Allied ghosts will not follow you to the next scenario."
-msgstr ""
+msgstr "味方にしたゴーストは、次のシナリオへ引き継がれません。"
 
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:413
 msgid "Ghost Captured"
-msgstr ""
+msgstr "ゴースト捕縛"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:433
 msgid "Sythan"
-msgstr ""
+msgstr "Sythan"
 
 #. [message]: speaker=Sythan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:448
 msgid ""
 "I was once a great lord... I commanded armies! Iliah-Malal promised I would "
 "lead again."
-msgstr ""
+msgstr "我はかつて大国の領主であった・・・大軍を率いていたのだ！Iliah-Malal は、我が再び軍を統率できると約束したのだ。"
 
 #. [message]: speaker=Sythan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:452
 msgid "It was all a lie. I became only his slave."
-msgstr ""
+msgstr "だが、それは全て偽り。我は奴の奴隷に成り下がったのだ。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:461
 msgid "Vellin Ka"
-msgstr ""
+msgstr "Vellin Ka"
 
 #. [message]: speaker=VellinKa
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:479
@@ -5163,6 +5169,9 @@ msgid ""
 "Your spears were sharp.\n"
 "Your hearts were cold."
 msgstr ""
+"お前たちの旗は赤かった。\n"
+"お前たちの槍は鋭かった。 \n"
+"お前たちの心は冷たかった。"
 
 #. [message]: speaker=VellinKa
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:485
@@ -5171,6 +5180,9 @@ msgid ""
 "Iliah-Malal burned our Eyrie.\n"
 "Iliah-Malal will die."
 msgstr ""
+"Iliah-Malal がお前たちの軍を率いた。\n"
+" Iliah-Malal が我らの巣を焼いた。\n"
+"Iliah-Malal は死ぬのだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:491
@@ -5179,6 +5191,8 @@ msgid ""
 "living men? And what of the drake called Omaranth; how did he survive if the"
 " rest of you did not?"
 msgstr ""
+"お前はドレークだったのか。Iliah-Malal がお前達の棲み処を・・・生身の人間の軍勢を率いて滅ぼしたのだな？ならば、Omaranth "
+"と呼ばれるドレークはどうしたのだ？他の者が皆命を落とした中で、如何にして奴だけが生き延びたのだ？"
 
 #. [message]: speaker=VellinKa
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:495
@@ -5187,13 +5201,16 @@ msgid ""
 "Omaranth was strongest in our Eyrie.\n"
 "Omaranth’s fate was not seen by I."
 msgstr ""
+"Omaranth は我らが飛族の長であった。\n"
+"Omaranth は我らの巣で最強であった。\n"
+"Omaranth の末路を我は見ておらぬ。"
 
 #. [message]: id=$sun_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:528
 msgid ""
 "A passage to the world above! Oh, how I long to go through and see the sun "
 "again..."
-msgstr ""
+msgstr "地上へと続く道か！ああ、ここを抜け出し、再び陽を仰ぐことをどれほど待ちわびたことか・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:532
