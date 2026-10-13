@@ -5150,7 +5150,7 @@ msgstr "Sythan"
 msgid ""
 "I was once a great lord... I commanded armies! Iliah-Malal promised I would "
 "lead again."
-msgstr "我はかつて大国の領主であった・・・大軍を率いていたのだ！Iliah-Malal は、我が再び軍を統率できると約束したのだ。"
+msgstr "我はかつて、ひとかどの領主であった・・・大軍を率いていたのだ！そして、Iliah-Malal は約束した、我が再び大軍を統率できると。"
 
 #. [message]: speaker=Sythan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:452
@@ -5219,18 +5219,20 @@ msgid ""
 "and now sends them against my allies on the surface. We must not abandon our"
 " task here."
 msgstr ""
+"気を逸らすな。ネクロマンサーの Iliah-Malal "
+"は、ここなる屍を蘇らせ、地表の我が陣営に差し向けているはず。我らがここで果たすべき務めを投げ出すわけにはゆかぬのだ。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:545
 msgid "Hagha-Tan"
-msgstr ""
+msgstr "Hagha-Tan"
 
 #. [message]: speaker=HaghaTan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:560
 msgid ""
 "The chief called me to war... I knew the attack was risky, but I was "
 "willing..."
-msgstr ""
+msgstr "俺は族長から戦に召集された・・・勝ち目の薄い攻撃だと知っていたが、俺は従った・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:564
@@ -5239,30 +5241,31 @@ msgid ""
 "Wesnoth? What can you tell me about your allies’ battle plans? Troop "
 "movements?"
 msgstr ""
+"命を落としてから日が浅いのであれば、お前は Wesnoth との戦で倒れたオークということだな？お前達の作戦計画はどうなっている？部隊の動きは？"
 
 #. [message]: speaker=HaghaTan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:569
 msgid "You are no lord of mine, man of Wesnoth. I serve only my clan."
-msgstr ""
+msgstr "お前など俺の主ではない、Wesnoth の人間め。俺が従うのは自分の氏族だけだ。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:579
 msgid "Melinna"
-msgstr ""
+msgstr "Melinna"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:593
 msgid ""
 "Are you a drake? Do you know anything about Omaranth, or this necromancer "
 "Iliah-Malal?"
-msgstr ""
+msgstr "お前はドレイクなのか？Omaranth や、Iliah-Malal なるネクロマンサーについて知りおることはあるか？"
 
 #. [message]: speaker=Melinna
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:597
 msgid ""
 "I know only what I knew in life, Delfador. Yes, I recognize you... Garard’s "
 "attack dog..."
-msgstr ""
+msgstr "私が語れるのは、生前に知り得たことだけ。そう、覚えているわ・・・Delfador・・・Garard の忠実な猟犬・・・"
 
 #. [message]: speaker=Melinna
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:601
@@ -5271,37 +5274,39 @@ msgid ""
 "find myself here, in a form reflecting my fate. Who helped undead sneak into"
 " Wesnoth? Why didn’t you keep us all safe..."
 msgstr ""
+"かつて私は宮廷の侍女でした。ですが、あの夜、死者が私を見出したのです。いまや私はここにおり、己が運命を映し出すのみ。誰が Wesnoth "
+"に死者が忍び込むのを許したのか？なぜ、あなたは我らを守ってくれなかったのか・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:635
 msgid ""
 "There is a gate here, sealed by runic energy. My magic should be able to "
 "open it, but we must be prepared for whatever lies beyond."
-msgstr ""
+msgstr "ここに門があるな。ルーンの魔力によって封じられておる。私の魔術であれば開けられようが、その向こうに何があろうと油断は禁物だ。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:649
 msgid ""
 "Only Delfador has the power to open these gates... whatever lies beyond will"
 " be most dangerous..."
-msgstr ""
+msgstr "この門を開けられるのは Delfador だけだ・・・その向こうには、何であれかなりの危険が待ち受けているだろう・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:669
 msgid ""
 "Whatever lurks behind this gate, it will be dangerous. I should make sure I "
 "am prepared before I proceed."
-msgstr ""
+msgstr "この門の先に何が潜んでいようと、危険が伴うことは間違いない。先へ進む前に、万全の備えをしておかねばならぬ。"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:671
 msgid "Open the gate"
-msgstr ""
+msgstr "門を開く"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:676
 msgid "Wait"
-msgstr ""
+msgstr "開かない"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:766
@@ -5310,6 +5315,8 @@ msgid ""
 "don’t entirely understand what’s going on here, but I do know that you’re an"
 " enemy of Wesnoth, and that’s good enough for me."
 msgstr ""
+"貴様か！あれほどの死者がうろついていたゆえ、ネクロマンサーと対峙することになろうと思ってはおったが・・・ここで起きていることの全貌は分からんが、お前が "
+"Wesnoth に仇なす敵であることは分かる。私にはそれで十分だ。"
 
 #. [message]: speaker=Omaranth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:770
@@ -5318,21 +5325,24 @@ msgid ""
 "YOU SLAY MY SERVANTS.\n"
 "YOU UNDERSTAND NOTHING."
 msgstr ""
+"<b>お前こそが侵入者だ。\n"
+"お前は我が下僕を屠った。\n"
+"お前は何も知らぬ。</b>"
 
 #. [message]: speaker=Omaranth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:776
 msgid "NOW, YOU DIE."
-msgstr ""
+msgstr "<b>お前はここで死ぬのだ。</b>"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:792
 msgid "Defeat Omaranth"
-msgstr ""
+msgstr "Omaranth を倒す"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:862
 msgid "Ah ha, ha ha ha..."
-msgstr ""
+msgstr "ハァーハッハッハッ・・・"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:867
@@ -5341,6 +5351,7 @@ msgid ""
 "me amidst all the vastness of the north — you have truly exceeded all "
 "expectations!"
 msgstr ""
+"なかなかの戦い振りだな、Delfador よ！お前が厄介な存在だとは聞いておったが、この北の大地に潜む私を捜し当てるとはな——まさに期待以上の働きだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:871
@@ -5348,6 +5359,7 @@ msgid ""
 "Now the story begins to make sense. The Omaranth I saw was never more than "
 "an illusion. You are Iliah-Malal."
 msgstr ""
+"これでようやく筋が通った。私が見た Omaranth とやらは、ただの幻影に過ぎなかったというわけか。お前が Iliah-Malal だな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:875
@@ -5356,6 +5368,8 @@ msgid ""
 "You led the saurians to join Clan Blackcrest, and you sent them to war "
 "against Wesnoth. But why? How does all this fighting benefit a mage?"
 msgstr ""
+"お前はこのドレークの飛族を全滅させ、その首領に化けておったのだな。トカゲ族を従えて Blackcrest と同盟を結ばせ、Wesnoth "
+"との戦争へと駆り立てた。だが、なぜだ？かように戦火を広げたとて、魔道士のお前に何の利があるというのだ？"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:879
@@ -5365,6 +5379,8 @@ msgid ""
 "an aging king, your whole life is passing you by. You’re on the wrong side "
 "of history, Delfador war-mage."
 msgstr ""
+"ならば問うが、<b>お前こそ</b>、どれほどの戦いを重ねようと、<b>お前自身に</b>何の利があるというのだ？数十年に及ぶ戦乱でお前は何を得た？傾きかけた国と年経る王のために血を流し、お前の人生は無為に過ぎ往くだけだ。お前が立っているのは歴史の誤った側なのだ、戦闘魔術師"
+" Delfador よ。"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:884
@@ -5373,6 +5389,8 @@ msgid ""
 " old man, and finally act for yourself! Delfador, I have allies under whose "
 "patronage you could live like a king, if you would only accept them!"
 msgstr ""
+"だが、そちらに立ち続ける必要はない。手を引くのだ！年老いた王のために人生を費やすのをやめ、自らのために行動するがいい！Delfador "
+"よ、私には後ろ盾があるのだ。お前がそれを受け入れさえすれば、王の如き暮らしさえも与えてやろう！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:888
@@ -5381,43 +5399,45 @@ msgid ""
 "Protecting Wesnoth is my <b><i>duty</i></b>. King Garard is my "
 "<b><i>friend</i></b>. I hope you did not think to break me down so easily."
 msgstr ""
+"「王の如き」だと？私は既に王に仕え、厚き信頼さえも得ているのだ、Iliah-Malal よ。Wesnoth "
+"を護るのが私の<b>責務</b>であり、Garard 王は我が<b>盟友</b>でもある。そう易々と私の意志を挫くことはできぬ。"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:892
 msgid ""
 "Bah, remain a fool, then. You will not find me so easily broken either."
-msgstr ""
+msgstr "ふん、ならば愚か者のままでいるがいい。お前こそ、私がそう易々と挫ける相手ではないと思い知れ。"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:933
 msgid "Powers of darkness, confound my foes!"
-msgstr ""
+msgstr "闇の力よ、我が敵を打ちのめせ！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1136
 msgid "Find and defeat Iliah-Malal, before his undead overwhelm you."
-msgstr ""
+msgstr "アンデッドの軍勢に飲み込まれる前に、Iliah-Malal を発見して倒す"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1159
 msgid "Nice try, Delfador! You’ve only destroyed another illusion."
-msgstr ""
+msgstr "惜しかったな、Delfador！だが、お前が倒したのは我が幻影のひとつに過ぎん。"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1181
 msgid ""
 "So you have found the real me. No matter. I shall have you yet, Delfador!"
-msgstr ""
+msgstr "ほう、本物の私を見つけ出したか。だが構わん。私がお前を倒すことには変わりないのだ、Delfador よ！"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1196
 msgid "Shadows consume you!"
-msgstr ""
+msgstr "影に呑まれよ！"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1209
 msgid "I should... have kept... my potion..."
-msgstr ""
+msgstr "秘薬を・・・残しておくべき・・・だったな・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1232
@@ -5426,6 +5446,7 @@ msgid ""
 "the spirits of the dead”</i>... Good riddance. His meddling in life and "
 "death has been the cause of great evil."
 msgstr ""
+"エレンデの予言が、またしても真実となったか。「死者の魂を纏いし影の姿」・・・ようやく討ち払うことができた。生と死を弄ぶ奴の所業こそが、大いなる災の元凶だったのだ。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1249
@@ -5435,47 +5456,49 @@ msgid ""
 "into your service, Delfador; lead us to your foes! Lead us against the "
 "living!"
 msgstr ""
+"自由だ・・・自由になったのだ！お前は我らに新たな生への渇望を吹き込んだ。淡き陽の下を闊歩する者どもから生を吸い尽くすという欲求を。我らを従えるがよい、Delfador"
+" よ。お前の敵の元へ導け！生者どもの前へ我らを導くのだ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1253
 msgid ""
 "No, no! Do not tempt me, I beg you, for that way madness lies... should I "
 "ever start down that dark path I would never become free of it."
-msgstr ""
+msgstr "いや、だめだ！私を惑わさないでくれ。その先に待つのは狂気だ・・・その暗黒の道へ一歩でも踏み出せば、二度とそこから逃れられなくなる。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1257
 msgid ""
 "No. But you have been of great service today, and for that you shall be "
 "rewarded with peace."
-msgstr ""
+msgstr "そなたらの申し出には応じられぬが、此度の多大なる貢献への報いとして、永遠の安息を授けよう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1271
 msgid ""
 "Return to your land of calm and quiet, and trouble the living no longer. I "
 "shall save my country without your help."
-msgstr ""
+msgstr "静寂と安らぎの国へと帰るがよい。二度と生者の世界を煩わすな。お前たちの助けに頼らずとも、私はこの国を救ってみせよう。"
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1296
 msgid "From the dead I came, and to the dead I return..."
-msgstr ""
+msgstr "死者より出でて、死者へと還る・・・"
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1297
 msgid "Rock and dust, bone and stone..."
-msgstr ""
+msgstr "岩と塵、骨と石・・・"
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1298
 msgid "Avenge my flight..."
-msgstr ""
+msgstr "我が飛族の無念を晴らしてくれ・・・"
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1299
 msgid "Good luck, Delfador... Don’t trust anyone..."
-msgstr ""
+msgstr "気をつけて、Delfador ・・・誰も信じないで・・・"
 
 #. [message]: speaker=Delfador
 #. Delfador has just killed an enemy ghost. That's not a good thing - if he
@@ -5485,12 +5508,12 @@ msgstr ""
 msgid ""
 "That one has returned to the land of the dead. Maybe I could have captured "
 "it, if only I’d had a chance to try."
-msgstr ""
+msgstr "死者の国へと還ったか。直に話す機会があらば、捕縛できたやも知れぬのだが。"
 
 #. [scenario]: id=10x_Elensefar_Outskirts
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:6
 msgid "Elensefar Outskirts"
-msgstr ""
+msgstr "Elensefar 近郊"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:99
