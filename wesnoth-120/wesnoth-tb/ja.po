@@ -163,7 +163,7 @@ msgid ""
 "them not. Even merchants were rarely seen, although caravans between Aldril "
 "and Dan’Tonk might send a wagon when called by the beacon tower."
 msgstr ""
-"Wesnoth の西方に位置する自由領 Maghre "
+"Wesnoth の西方の果てに位置する自由領 Maghre "
 "は、かつてはのどかな場所であった。住民達は広い世界の出来事には無頓着で、戦争などはその噂さえも届かなかった。Aldril と Dan'Tonk "
 "を結ぶ隊商が狼煙の合図に応じて荷馬車を差し向けることがあるくらいで、商人でさえ村を訪れることは滅多になかった。"
 

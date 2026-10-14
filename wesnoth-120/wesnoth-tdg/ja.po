@@ -5522,6 +5522,8 @@ msgid ""
 "war-clique. You’ve already stirred up enough trouble; trade up the river is "
 "failing, and goblins are once again raiding my northern border."
 msgstr ""
+"それには応じかねる、Garard 殿。Elensefar "
+"は貴国が勝手に始めた戦いに与する気は毛頭ない。戦による混乱は既に我が方にも及び、水運は途絶え、ゴブリンどもが北方の境界を荒らしている。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:103
@@ -5530,6 +5532,7 @@ msgid ""
 "territory we could command if the Northlands were fully open to human "
 "settlement."
 msgstr ""
+"ならば、なおのこと、手を携えてオークどもを一掃すべきではないか！考えてもみよ、我ら人間による北方の地への入植の道が開かれれば、どれほど広大な領土を支配下に置くことができるか。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:107
@@ -5537,16 +5540,17 @@ msgid ""
 "If you were <i>winning</i>, certainly, but then we wouldn’t be speaking "
 "together here, would we? You’ve never been one for sharing the spoils."
 msgstr ""
+"仮に貴国が優勢であるならば、ここでこうして議論しているはずなどないのではないかね？貴殿が他人と戦利品を分かち合うことなど、これまでございましたかな。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:111
 msgid "Now if you’ll excuse me, warmonger, I have a city to govern."
-msgstr ""
+msgstr "では、これで失敬させていただこう、戦争狂殿。私には治めるべき都市がございますゆえ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:124
 msgid "Damn his cowardice! Still no word from Lionel?"
-msgstr ""
+msgstr "忌々しい臆病者め！Lionel からの報せはまだなのか？"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:128
