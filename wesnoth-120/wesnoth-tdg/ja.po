@@ -5540,7 +5540,7 @@ msgid ""
 "If you were <i>winning</i>, certainly, but then we wouldn’t be speaking "
 "together here, would we? You’ve never been one for sharing the spoils."
 msgstr ""
-"仮に貴国が優勢であるならば、ここでこうして議論しているはずなどないのではないかね？貴殿が他人と戦利品を分かち合うことなど、これまでございましたかな。"
+"仮に貴国が真に優勢であるならば、ここでこうして議論しているはずなどないのではないかね？貴殿が他人と戦利品を分かち合うことなど、これまでございましたかな。"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:111
@@ -5555,17 +5555,17 @@ msgstr "忌々しい臆病者め！Lionel からの報せはまだなのか？"
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:128
 msgid "(stares)"
-msgstr ""
+msgstr "（・・・）"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:132
 msgid "Speak UP, boy! I raised you to be a killer, not a coward!"
-msgstr ""
+msgstr "なんとか言わんか！わしはお前を武人として育ててやったはずだ！臆病者なんぞに育てた覚えはない！"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:136
 msgid "You hardly raised me at all..."
-msgstr ""
+msgstr "育てていただいた覚えなどございませんよ・・・"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:140
@@ -5574,6 +5574,9 @@ msgid ""
 "\n"
 "Lionel is missing in action, Arand becomes more paranoid by the day, and you still speak softer than a mouse. This is war — Wesnoth needs a warrior prince."
 msgstr ""
+"ああ、忌々しい！なぜあのような不確かな流言なんぞに惑わされて、最高の将軍と忠義者たちを遠征に出してしまったか！\n"
+"\n"
+"Lionel は消息不明だし、Arand は日ごとに猜疑心を強めておる。そして、お前は相も変わらずネズミよりもか細い声で呟くばかり。いいか、これは戦争なのだ—— Wesnoth に必要なのは、戦士たる王子ぞ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:146
@@ -5582,13 +5585,15 @@ msgid ""
 "Northlands. Some days it feels like the whole world is moving against me... "
 "perhaps it is an omen of things to come."
 msgstr ""
+"頼みの Delfador "
+"も、数ヶ月前に不毛な北方の地へ向かったきりで、なんの成果ももたらさぬ。この頃は、世界中がわしに敵対しているかのように思える日さえある・・・不吉な予兆でなければよいが。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:153
 msgid ""
 "The coward’s option once more rears its ugly head. Negotiate, capitulate; "
 "yield the border to the butchers. Give unto the orcs their pound of flesh."
-msgstr ""
+msgstr "くそっ、またしても弱気な考えが醜い顔を出しおったわ。オークどもと交渉し、譲歩し、国境を後退させる。自らの血肉を肉屋に差し出すというわけだ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:157
@@ -5597,6 +5602,7 @@ msgid ""
 "making? I can already feel the kings of old judging me in my failure, my "
 "squandering of everything they fought so hard to build..."
 msgstr ""
+"この先、どれほど死者が増えるか。自らの行為が招いた厄災により、如何ほどの命が失われたか。歴代の王がわしの失策を糾弾するのが目に見えるかのようだ。彼らが苦闘の末に築き上げた遺産を、わしが無為に浪費していると・・・"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:162
@@ -5605,6 +5611,7 @@ msgid ""
 "powerless to protect his people against the savages beyond. I have chosen "
 "the path of war, and I will see it through to its bloody end."
 msgstr ""
+"否！無能な王として歴史に名を刻むわけにはゆかぬ。異境の蛮族から民を護ることもできぬ柔弱な王、左様な汚名など断じて許さぬ。わしが選んだのは戦の道だ。たとえ血塗られた結末に至ろうとも、最後まで突き進むのみだ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:167
