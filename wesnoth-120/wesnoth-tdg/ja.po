@@ -5593,7 +5593,7 @@ msgstr ""
 msgid ""
 "The coward’s option once more rears its ugly head. Negotiate, capitulate; "
 "yield the border to the butchers. Give unto the orcs their pound of flesh."
-msgstr "くそっ、またしても弱気な考えが醜い顔を出しおったわ。オークどもと交渉し、譲歩し、国境を後退させる。自らの血肉を肉屋に差し出すというわけだ。"
+msgstr "ああ、弱気な考えがまたぞろ醜い顔を覗かせておる。オークどもと交渉し、譲歩し、国境を後退させる・・・自らの血肉を肉屋に差し出すしかないのか。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:157
@@ -5602,7 +5602,7 @@ msgid ""
 "making? I can already feel the kings of old judging me in my failure, my "
 "squandering of everything they fought so hard to build..."
 msgstr ""
-"この先、どれほど死者が増えるか。自らの行為が招いた厄災により、如何ほどの命が失われたか。歴代の王がわしの失策を糾弾するのが目に見えるかのようだ。彼らが苦闘の末に築き上げた遺産を、わしが無為に浪費していると・・・"
+"この先、どれほどの死を重ねるのか・・・これまで、如何ほどの命が、わしの行為が招いた厄災によって失われたか・・・。歴代の王がわしを叱責する様子が目に浮かぶようだ。我が父祖が苦闘の末に築き上げた遺産が、わし一人に喰い潰されていると・・・"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:162
@@ -5620,11 +5620,14 @@ msgid ""
 "\n"
 "In two weeks time we march across the ford and assault the Blackcrest war-camp. Come hell or high water, we will yet have our victory."
 msgstr ""
+"伝令を出して予備兵を招集しろ。Halstead にも Weldyn にも一人も残すな！子供でも歩けるようになっていれば十分だ。立てるなら年寄りでも構わん。残らず召し出させろ！\n"
+"\n"
+"二週間以内に、浅瀬を越えて Blackcrest の本陣を急襲する。たとえ地獄が待っていようと、我らは必ずや勝利を掴むのだ。"
 
 #. [scenario]: id=11_Clan_Blackcrest
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:13
 msgid "Galcadar"
-msgstr ""
+msgstr "Galcadar"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:51
