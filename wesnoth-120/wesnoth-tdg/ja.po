@@ -5075,7 +5075,7 @@ msgstr "我が心は・・・我のもの・・・"
 msgid ""
 "Speak, spectre! Tell me of this place. Where is the drake they call the "
 "“Great One”?"
-msgstr "語れ、亡霊よ！この地について話すのだ。「大いなる者」と呼ばれるドレークはどこにおる？"
+msgstr "語れ、亡霊よ！この地について話すのだ。「偉大なるお方」と呼ばれるドレークはどこにおる？"
 
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:323
@@ -5632,28 +5632,28 @@ msgstr "Galcadar"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:51
 msgid "Saurian Defectors"
-msgstr ""
+msgstr "トカゲの離反者"
 
 #. [side]: type=Orcish Sovereign, id=Ghuvog
 #. [unit]: type=Orcish Sovereign, id=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:171
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1129
 msgid "Chief Ghuvog"
-msgstr ""
+msgstr "頭目 Ghuvog"
 
 #. [message]: speaker=Drakefador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:338
 msgid ""
 "Saurians of Saurgrath! It is I, your Great One, bringing an even greater "
 "warning!"
-msgstr ""
+msgstr "Saurgrath のトカゲたちよ！我こそは「偉大なるお方」である！先に汝等に伝えし啓示よりも、遥かに重大なる警告を授けに参った！"
 
 #. [message]: speaker=Drakefador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:342
 msgid ""
 "These orcs have, umm, conspired to betray you! You must strike first and "
 "kill them all — now hear me and obey!"
-msgstr ""
+msgstr "そこなるオークどもは、あー、汝等を陥れようと企んでおる！先手を取り、裏切り者を皆殺しにせよ！今こそ我が言を聴き、その命に従うのだ！"
 
 #. [message]: speaker=defector4
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:347
@@ -5661,6 +5661,7 @@ msgid ""
 "Can it be? The Great One ssspeaksss to usss! I am not worthy! I am blessed "
 "to hear your great voice, unusssual though it may be!"
 msgstr ""
+"なんと！「偉大なるお方」が我らに語っている！恐<small>ソソ</small>れ多いことだ！偉大なるお言葉をまた聴けるとは、なんという光栄！前と<small>スス</small>少し<small>シシ</small>声が違うみたいだが。"
 
 #. [message]: speaker=defector3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:355
@@ -5668,20 +5669,21 @@ msgid ""
 "Yesss, the great fiery one has sssaved usss! If the orcsss will betray us, "
 "then we mussst ssstrike firssst!"
 msgstr ""
+"<small>ソソ</small>そうだ！偉大なる炎が我らを<small>スス</small>救った！オークどもが裏切る気なら、<small>ササ</small>先に殺す<small>スス</small>！"
 
 #. [message]: speaker=defector2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:359
 msgid ""
 "...caution, caution, ssomething isss not right! Where are the ssseven "
 "matriarchsss? Why does the Great One ssspeak ssso nasssally?"
-msgstr ""
+msgstr "・・・待て、待て、何か変だ！七族長はどこだ？なぜ「偉大なるお方」は鼻声で話す<small>スス</small>？"
 
 #. [message]: speaker=defector3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:364
 msgid ""
 "Do you not sssee her majesssty? It isss not our place to quessstion the "
 "great fiery one!"
-msgstr ""
+msgstr "あのお方が見えないのか？偉大なる炎を疑うなど、恐<small>ソソ</small>れ多い！"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:368
@@ -5690,6 +5692,9 @@ msgid ""
 "\n"
 "Now form up and get in line, before I have to beat some discipline into you!"
 msgstr ""
+"てめぇらみんな黙りやがれ！インチキ・ドラゴンの言うことなんかを真に受けやがって！Wesnoth と戦うってぇ取り引きをしたのを忘れるんじゃねぇよ！そのために金まで持ってきたくせによぉ、この虫けらどもが！\n"
+"\n"
+"今すぐ並んで隊列に戻れ！俺様にぶっ叩かれてしつけ直される前になぁ！"
 
 #. [message]: speaker=defector1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:378
@@ -5697,11 +5702,12 @@ msgid ""
 "You insssult usss! Worssse, you dare insssult the Great One! Curssses upon "
 "you, cursses upon you! We ssshall fight you, we mussst fight you!"
 msgstr ""
+"我らを侮辱<small>スス</small>するか！<small>ササ</small>さらに「偉大なるお方」まで！お前に呪いを！お前に呪いを！お前らと戦うぞ！戦わねばならない！"
 
 #. [message]: speaker=defector3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:386
 msgid "Yesss, we mussst fight! Fight the orcsss!"
-msgstr ""
+msgstr "<small>ソソ</small>そうだ！戦わねばならない！オークどもと戦うのだ！"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:390
@@ -5709,6 +5715,7 @@ msgid ""
 "Oh yeah? Try me, you filthy sacks of lizard slime; I’ll teach youse your "
 "proper place! To arms, Blackcrests!!"
 msgstr ""
+"ああん？やってみよろ、薄汚ねぇトカゲのヌルヌル野郎どもが！てめぇらの立場ってものを分からせてやる！武器を取れ！本物の Blackcrest として！！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:462
@@ -5716,6 +5723,7 @@ msgid ""
 "Wesnoth’s foes are thrown into chaos! Iliah-Malal’s illusion magic has done "
 "much harm. In my hands, perhaps it can do some good."
 msgstr ""
+"Wesnoth の仇敵が混乱しておるぞ！Iliah-Malal の幻影術に苦しめられてきたが、我が掌中にあらば、幾ばくかの役には立ちそうだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:466
@@ -5724,6 +5732,7 @@ msgid ""
 " every Blackcrest attack on Wesnoth since they first entered the war, so "
 "many years ago."
 msgstr ""
+"これが音に聞く西の大軍勢——その昔、Blackcrest が参戦して以来、 Wesnoth へのあらゆる攻撃の出撃拠点となってきた天幕群か。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:470
@@ -5731,14 +5740,14 @@ msgid ""
 "Every time I tried to lead soldiers across the river, it was these "
 "fortifications that pushed me back. ’tis a funny feeling to finally see them"
 " from the north side."
-msgstr ""
+msgstr "兵を率いて渡河を試みる度に我らを押し戻してきたのが、まさにこの陣地であった。おかしなものだな、それを北から見下ろすことになろうとは。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:474
 msgid ""
 "But more importantly, this is where the Blackcrest war-chief commands his "
 "clan."
-msgstr ""
+msgstr "だが、それにも増して重要なのは、Blackcrest の頭目が、この地から氏族を統率しているということだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:480
@@ -5747,17 +5756,19 @@ msgid ""
 "Blackcrest chief and break their grip on the Abez once and for all. It’s all"
 " led up to this! We can end things here and now!"
 msgstr ""
+"トカゲ族に大量の離反者が出た今こそ、Blackcrest の頭目を討ち取り、Abez "
+"に対する奴らの支配を断ち切る絶好機だ。全てはこの時に繋がっていたのだ！いま、ここで、決着を付けようぞ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:484
 msgid ""
 "For the sake of all Wesnoth, for the sake of King Garard, we cannot fail."
-msgstr ""
+msgstr "全 Wesnoth のため、Garard 王のため、我らに敗北は許されぬ。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:493
 msgid "Defeat Ghuvog, the Blackcrest war-chief"
-msgstr ""
+msgstr "Blackcrest の頭目 Ghuvog を倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:511
@@ -5773,6 +5784,7 @@ msgid ""
 " paid you for. I shan’t lie and say your help is unneeded, but neither "
 "should I take it for granted."
 msgstr ""
+"この戦いに臨む覚悟が本当にあるのだな、$companion_name？お前は主君を持つ正規兵ではないし、仲間たちが既に報酬以上の血を流してくれた。お前たちの助けなど不要だと言えば嘘になるが、その献身を当然のことと受け取るつもりはない。"
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is male
@@ -5783,6 +5795,7 @@ msgid ""
 "for. I shan’t lie and say your help is unneeded, but neither should I take "
 "it for granted."
 msgstr ""
+"この戦いに臨む覚悟が本当にあるのだな、$companion_name？お前は主君を持つ正規兵ではないし、仲間たちが既に報酬以上の血を流してくれた。お前たちの助けなど不要だと言えば嘘になるが、その献身を当然のことと受け取るつもりはない。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:549
@@ -5790,6 +5803,7 @@ msgid ""
 "...fighting a whole orcish army is a bit more than I signed on for, but you "
 "say this is important and I trust you. I’m ready for this if you are."
 msgstr ""
+"・・・オークの大軍を相手にするなんてのは、契約をちぃとばかり越えちゃあいるが、これが大事な戦いだってんなら、信じてやるよ。あんたがやるってんなら、俺もやってやるさ。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:550
@@ -5798,62 +5812,63 @@ msgid ""
 "but you say this is important and I trust you. I’m ready for this if you "
 "are."
 msgstr ""
+"・・・オークの大軍を相手にするなんてのは、契約をちょいとばかり越えてるわね。けど、これが大事な戦いだってんなら、信じてやるよ。あんたがやるってんなら、アタシもやってやるさ。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:556
 msgid ""
 "And hey, if nothing else, at least I’ve got to admit that adventuring with "
 "you pays a lot better than skulkin’ around picking pockets."
-msgstr ""
+msgstr "それにまあ、少なくとも、あんたに付き合って暴れてるほうが、チンケなコソ泥よりは稼ぎがいいってのは確かだからな。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:557
 msgid ""
 "female^And hey, if nothing else, at least I’ve got to admit that adventuring"
 " with you pays a lot better than skulkin’ around picking pockets."
-msgstr ""
+msgstr "それにまあ、少なくとも、あんたに付き合って暴れてるほうが、チンケなコソ泥よりは稼ぎがいいってのは確かだからね。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:563
 msgid ""
 "And hey, if nothing else, at least I’ve got to admit that adventuring with "
 "you pays a lot better than runnin’ errands for some thug."
-msgstr ""
+msgstr "それにまあ、少なくとも、あんたに付き合って暴れてるほうが、チンピラのパシリよりは稼ぎがいいってのは確かだからな。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:564
 msgid ""
 "female^And hey, if nothing else, at least I’ve got to admit that adventuring"
 " with you pays a lot better than runnin’ errands for some thug."
-msgstr ""
+msgstr "それにまあ、少なくとも、あんたに付き合って暴れてるほうが、チンピラのパシリよりは稼ぎがいいってのは確かだからね。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:570
 msgid ""
 "And hey, if nothing else, at least I’ve got to admit that adventuring with "
 "you pays a lot better than castin’ cantrips for some thug."
-msgstr ""
+msgstr "それにまあ、少なくとも、あんたに付き合って暴れてるほうが、チンピラ相手の占い師よりは稼ぎがいいってのは確かだからな。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:571
 msgid ""
 "female^And hey, if nothing else, at least I’ve got to admit that adventuring"
 " with you pays a lot better than castin’ cantrips for some thug."
-msgstr ""
+msgstr "それにまあ、少なくとも、あんたに付き合って暴れてるほうが、チンピラ相手の占い師よりは稼ぎがいいってのは確かだからね。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:577
 msgid ""
 "And hey, if nothing else, at least I’ve got to admit that adventuring with "
 "you pays a lot better than muckin’ around in swamps all night."
-msgstr ""
+msgstr "それにまあ、少なくとも、あんたに付き合って暴れてるほうが、沼地で夜通し這い回るよりは稼ぎがいいってのは確かだからな。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:578
 msgid ""
 "female^And hey, if nothing else, at least I’ve got to admit that adventuring"
 " with you pays a lot better than muckin’ around in swamps all night."
-msgstr ""
+msgstr "それにまあ、少なくとも、あんたに付き合って暴れてるほうが、沼地で夜通し這い回るよりは稼ぎがいいってのは確かだからね。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:591
@@ -5884,7 +5899,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:646
 msgid ""
 "Graahh!! Get out of here, you stinking pink-skins! Now is not a good time!"
-msgstr ""
+msgstr "んがああッ！しゃしゃり出て来んじゃねぇよ、汚ねぇ薄皮野郎ども！こっちはそれどころじゃねぇんだ！"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:659
@@ -5895,7 +5910,7 @@ msgstr ""
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:671
 msgid "Out of my face, worms!"
-msgstr ""
+msgstr "失せろ、クソ虫どもが！"
 
 #. [message]: speaker=Garard
 #. yes yes, Delfador probably hasn't attacked any orcs by now (and he might
@@ -5904,7 +5919,7 @@ msgstr ""
 msgid ""
 "Ah-ha! I’d recognize that smell of burning orc-flesh anywhere – Delfador has"
 " returned!"
-msgstr ""
+msgstr "ハハッ！オークの肉が焼ける匂いが漂ってくるようだ—— Delfador が戻ったな！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:745
@@ -5913,24 +5928,25 @@ msgid ""
 "to crush the orcs now and forever! Once more unto the breach – captain, "
 "break me an opening through the enemy lines!"
 msgstr ""
+"これぞわしが待ち望んでいた勝機！オークどもを完膚無きまでに叩きのめす、またとない絶好機ぞ！今ぞ決戦の時なり——近衛隊長、敵陣を突破し、我が道を切り拓いて見せよ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:819
 msgid "You heard the king; form up, and prepare to storm the front!"
-msgstr ""
+msgstr "皆、しかと聞いたであろう！隊列を組み、前線を一気に突破するぞ！"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:914
 msgid ""
 "Deoran has rejoined Delfador’s party, and you have gained 100 extra gold!"
-msgstr ""
+msgstr "Deoran が Delfador の陣営に復帰し、100 ゴールドの追加資金を獲得しました！"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:916
 msgid ""
 "For the remainder of this campaign, Deoran is a leader — he can recruit "
 "fresh royal soldiers (Spearmen, Bowmen, etc.) while standing on his keep."
-msgstr ""
+msgstr "このキャンペーンの残り期間、Deoran はリーダーとなり、主塔にいる間、槍兵や弓兵などの王国軍の兵士を雇用できます。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:945

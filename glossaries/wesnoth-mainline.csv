@@ -1442,3 +1442,6 @@ Arand,noun,,false,Arand,
 Blackcrest||Blackcrests,noun,,false,Blackcrest||Blackcrest 氏族,
 Rogue Mage||Rogue Mages,noun,,false,はぐれ魔術師,アカデミーからドロップ・アウトした魔術師。「はぐれ魔術師」としているが「浮浪魔術師」なども候補。
 sss,,,false,<small>ササ</small>||<small>シシ</small>||<small>スス</small>||<small>セセ</small>||<small>ソソ</small>,トカゲ特有の吃音。訳文の中では、サ行の直前か直後に<small></small>タグを付けたサ行のカタカナ２文字を付加する。対象となる音節の母音に合わせて選択。語頭なら直前に、語尾・活用のまとまり・助動詞の場合は直後に配置。※原文の語尾にしか下線が引かれないので注意。
+Great One,noun,,true,偉大なるお方,"""The Deceiver's Gambit"" でトカゲが用いるドラゴンの呼称。実際はドレークだったり、ドレークに化けた魔術師だったりする。"
+Saurgrath,noun,,false,Saurgrath,"""The Deceiver's Gambit"" に登場する地名。トカゲの本拠地。とりあえずそのまま使う。"
+matriarch||matriarchsss,noun,,false,族長,"トカゲの族長。女性形だが、女族長とすると冗長なので「族長」とした。""ssseven matiriarchsss"" は「七族長」。"
