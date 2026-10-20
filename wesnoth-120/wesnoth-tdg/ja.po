@@ -5884,16 +5884,18 @@ msgid ""
 "I sssurrender, I sssurrender! Chief Ghuvog is the true Great One; my "
 "allegiance isss only to you, great chief! Pleassse, ssspare me and my kin!"
 msgstr ""
+"降<small>ササ</small>参、降<small>ササ</small>参！Ghuvog "
+"族長こそ<small>ソソ</small>本物の「偉大なるお方」！あなただけに忠<small>セセ</small>誠を誓う！偉大なる族長よ、どうか我らを殺さ<small>ササ</small>ないで！"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:619
 msgid "Now that’s more like it! Fall into line and get ready to fight."
-msgstr ""
+msgstr "最初からそうしとけってんだ！大人しく服従して、戦う準備をしろ。"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:633
 msgid "You betray the Great One... the stars shall bring your doom..."
-msgstr ""
+msgstr "お前は「偉大なるお方」を裏切った・・・星<small>シシ</small>が破滅をもたらす<small>スス</small>だろう・・・"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:646
@@ -5905,7 +5907,7 @@ msgstr "んがああッ！しゃしゃり出て来んじゃねぇよ、汚ねぇ
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:659
 msgid ""
 "Hey, lay off my Shamans! Do you have any idea how hard it is to find those!?"
-msgstr ""
+msgstr "おい、俺のシャーマンに手を出すんじゃねぇよ！そいつらを連れてくるのにどんだけ手間がかかるか分かってんのか！？"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:671
@@ -5953,7 +5955,7 @@ msgstr "このキャンペーンの残り期間、Deoran はリーダーとな�
 msgid ""
 "For Wesnoth! For victory! By battle and blood, for fury and flame, and the "
 "triumph of my people!"
-msgstr ""
+msgstr "Wesnoth のために！勝利のために！戦いと血で贖い、怒りと炎を滾らせ、我が民に栄光を！"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:963
