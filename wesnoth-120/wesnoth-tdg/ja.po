@@ -5964,6 +5964,8 @@ msgid ""
 "need for more death and violence. <span size='x-small'>Against me, anyhow. "
 "Nasty pink-skin whelps.</span>"
 msgstr ""
+"わかった、わかった、俺の負けだよ！そう焦るなって。これ以上は殺さなくてもいいだろうよ。<span "
+"size='x-small'>少なくとも俺はな。薄皮のクソガキどもめ。</span>"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:974
