@@ -5974,6 +5974,9 @@ msgid ""
 "\n"
 "And in that name, for the Kingdom of Wesnoth, I hereby annex these lands from the Great River in the south to the foothills of the Heart Mountains in the north! You orcs shall fall beneath our swords as wheat before the scythe!"
 msgstr ""
+"口を慎め、害虫め！「クソガキ」などとほざきおって！我は Wesnoth王 Garard ２世である！\n"
+"\n"
+"そして、その名において、Wesnoth王国への新たな領土の併合をここに宣言する。南は「大いなる川」から、北は「中心山脈」の麓に至るまで、この大地はこれより我が王国の領土となる！貴様らオークどもは、大鎌で刈り取られる小麦の如く、我が剣の下に倒れ伏すのだ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:980
@@ -5982,6 +5985,9 @@ msgid ""
 "\n"
 "You must hereby swear an oath to gather both your clan from here, and Clan Whitefang from the hills around Fort Garard. You shall leave these lands and never return so long as I draw breath, on pain of death!"
 msgstr ""
+"・・・とは言え、余とて愚者ではない。Wesnoth は戦に飽いておるし、そなたらの新たな主君たる Garard は慈悲深いのだ。そなたと配下の戦士たちの命を安堵してやらんこともない。ただし、ひとつ条件がある。\n"
+"\n"
+"ここに誓言せよ。自らの氏族と、Garard 砦周辺の丘陵に巣食う Whitefang 氏族の双方を取りまとめ、この地から立ち去るべし。そして、余の命ある限り、二度とこの地へ戻らぬこと。破れば死をもって償うことになろうぞ！"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:986
@@ -5989,13 +5995,15 @@ msgid ""
 "Yeah yeah yeah, whatever you say. We was just leaving; isn’t that right, "
 "boys? <span size='x-small'>Nasty filthy pink-skins.</span>"
 msgstr ""
+"はいはい、わかりましたよ。言われなくても、ちょうど出ていこうとしてたところだったんだよ。なあ、野郎ども？<span "
+"size='x-small'>いけ好かねぇ薄皮野郎どもめ。</span>"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1003
 msgid ""
 "After all this time... Wesnoth is finally at peace. It is as if a veil of "
 "shadows has been lifted from upon my eyes!"
-msgstr ""
+msgstr "長き時を経て・・・Wesnoth にようやく平和が訪れたか。目の前を覆っていた闇の幕が上がったかのようだ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1007
@@ -6004,13 +6012,15 @@ msgid ""
 "how you turned the saurians against the orcs, sowed chaos from behind; truly"
 " incredible!"
 msgstr ""
+"Delfador "
+"、この食わせ者め、此度はいつにも増して冴えていたようだな。そなたの働きぶりは余の耳にも入っておるぞ。トカゲを寝返らせてオークにぶつけ、背後を撹乱したというではないか。実に見事なり！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1011
 msgid ""
 "Delfador the “Great One”, hah! Now that’s the stuff legends are made of. So "
 "legendary, in fact..."
-msgstr ""
+msgstr "「偉大なる者」Delfador か！ハハッ！後の世に語り継がれる英雄譚となろうぞ。誠に伝説的であったゆえにな・・・"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1021
@@ -6019,6 +6029,8 @@ msgid ""
 "called until the end of your days. Kneel, Delfador, war-mage of Wesnoth. And"
 " rise, “Delfador the Great”, High Advisor to the Crown!"
 msgstr ""
+"「偉大なる者」と敵に渾名されし者ならば、その命果てるまでその名を称えられるべし。跪くが良い、Delfador 、Wesnoth "
+"の戦闘魔術師よ。そして立つのだ、「偉大なる Delfador」として、我が王室の最高顧問として！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1039
