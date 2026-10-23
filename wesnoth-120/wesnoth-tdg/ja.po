@@ -6038,40 +6038,41 @@ msgid ""
 "Now come, let us celebrate my— our— ...all right, <i><b>your</b></i> "
 "success! Victory! Victory! Victory by the name of Delfador!!"
 msgstr ""
+"さあ来い、祝おうぞ！余の——もとい、我らの——・・・いや、違うな、<b>そなたの</b>偉業をな！讃えよ、勝利を！Delfador の名とともに！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1066
 msgid "Huh."
-msgstr ""
+msgstr "はぁ。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1071
 msgid "Whaddid you say, boss?"
-msgstr ""
+msgstr "何だって、ボス？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1075
 msgid ""
 "Oh, nothing. I feel like something bad normally happens if we take this long"
 " to finish a battle, but right now everything seems fine."
-msgstr ""
+msgstr "いや、何でもない。戦闘に時間をかけ過ぎると、ろくなことがないものなのだが、今のところは大丈夫そうだな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1079
 msgid ""
 "We’re <i>definitely not</i> missing out on significant events happening "
 "elsewhere... events that we really should have been present for..."
-msgstr ""
+msgstr "まさか、いずこかで重大事が起きているなどということはなかろうな・・・我らがそこに居合わせるべきだったというような・・・"
 
 #. [scenario]: id=11x_Revelry
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:6
 msgid "Revelry"
-msgstr ""
+msgstr "祝宴"
 
 #. [side]: type=Lieutenant, id=Moreth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:26
 msgid "Moreth"
-msgstr ""
+msgstr "Moreth"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:124
