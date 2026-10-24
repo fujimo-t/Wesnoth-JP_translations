@@ -6038,7 +6038,7 @@ msgid ""
 "Now come, let us celebrate my— our— ...all right, <i><b>your</b></i> "
 "success! Victory! Victory! Victory by the name of Delfador!!"
 msgstr ""
-"さあ来い、祝おうぞ！余の——もとい、我らの——・・・いや、違うな、<b>そなたの</b>偉業をな！讃えよ、勝利を！Delfador の名とともに！"
+"さあ来い、祝おうぞ！余の——もとい、我らの——・・・いや、違うな、<b>そなたの</b>偉業をな！讃えよ、勝利を！Delfador の名とともに！！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1066
@@ -6077,34 +6077,34 @@ msgstr "Moreth"
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:124
 msgid "Three cheers for Delfador, hero of the Abez!"
-msgstr ""
+msgstr "Abez の英雄、Delfador に栄光あれ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:128
 msgid "Three cheers— three cheers for Delfador the Great! Hurrah!"
-msgstr ""
+msgstr "余にも言わせろ——偉大なる Delfador に栄光あれ！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:134
 msgid "Hurrah for Delfador!"
-msgstr ""
+msgstr "Delfador の旦那に乾杯！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:141
 msgid "Hooray for Delfador!"
-msgstr ""
+msgstr "Delfador 殿に乾杯！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:148
 msgid "Hurrah for Del— *hic* Delfador!"
-msgstr ""
+msgstr "Del ——ヒック—— fador に乾杯！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:157
 msgid ""
 "Oh ho, someone fetch me more wine! The night’s still young; I’m ready for a "
 "proper CELEBRATION!!"
-msgstr ""
+msgstr "ワーハッハッ、誰ぞ余にワインをもっと持って参れ！夜はまだ浅い、本当の祝宴はこれからだ！！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:161
