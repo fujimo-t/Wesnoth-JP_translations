@@ -6113,11 +6113,13 @@ msgid ""
 "And now I have saved Wesnoth from war, and in the process become the king’s "
 "most trusted advisor! Truly, this is more than I could have ever hoped for."
 msgstr ""
+"始まりは、己の名すら持たぬパッとしない見習いに過ぎなかった。それが今や Wesnoth "
+"を戦争から救い、王から最も信頼される側近にまでなったのだ！まさに、望み得る以上の幸運だな。 "
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:165
 msgid "I’m giddy with joy... or perhaps ’tis also the wine, heh."
-msgstr ""
+msgstr "歓喜で目が眩むようだ・・・いや、ワインのせいもあるか、フフッ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:169
@@ -6125,6 +6127,7 @@ msgid ""
 "My friend, you deserve it. Without their saurian allies Clan Blackcrest is "
 "on the run, and Clan Whitefang is falling back out of the eastern hills."
 msgstr ""
+"友よ、当然の栄誉だ。トカゲとの同盟に亀裂が入った Blackcrest 氏族は潰走し、Whitefang 氏族も東の丘陵から撤退しつつある。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:173
@@ -6132,17 +6135,17 @@ msgid ""
 "At long last lift the shadows of war; the realm is finally at peace. "
 "Perchance the coming days will bring laughter to the streets of Weldyn once "
 "again."
-msgstr ""
+msgstr "ついに暗き戦の影が上がり、王国に平和が訪れたのだ。これよりは、Weldyn の街に再び民衆の笑い声が響くことだろう。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:177
 msgid "For the first time in a long time, all is finally well with the world."
-msgstr ""
+msgstr "長き年月を経て、ついに世界が安らぎを取り戻したのだな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:223
 msgid "(<i>Yawn</i>)"
-msgstr ""
+msgstr "（ふぁ〜あ）"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:227
