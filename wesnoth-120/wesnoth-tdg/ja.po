@@ -6151,7 +6151,7 @@ msgstr "（ふぁ〜あ）"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:227
 msgid ""
 "Ugh, what a headache. I shouldn’t have drunk so much... now nature calls."
-msgstr ""
+msgstr "うぅ、ひどい頭痛だ。あんなに飲むべきではなかったな・・・さて、用を足しておくか。"
 
 #. [message]: speaker=Delfador
 #. Delfador's woken up in the middle of the night to go use the latrines
@@ -6161,11 +6161,14 @@ msgid ""
 "\n"
 "Mayhaps as High Advisor I can finally get someone to research that... (<i>yawn</i>)"
 msgstr ""
+"しかし、ひどい有様だな。Alduin は便所掃除の呪文の創出に、そろそろ本腰を入れて取り組むべきだ。\n"
+"\n"
+"事によると、最高顧問となった今なら、その研究を誰かに命じることができるやもしれんが・・・（ふぁ〜）"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:265
 msgid "Oh!"
-msgstr ""
+msgstr "おっと！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:269
@@ -6174,11 +6177,13 @@ msgid ""
 "queenly time to be about — should you not be asleep with Garard? ’tis not "
 "every day that Wesnoth wins a war."
 msgstr ""
+"驚かさないでくだされ、妃殿下。かような夜更けは、王妃には似つかわしくございませぬ—— Garard 陛下のお側でお休みになられた方がよろしいのでは？ "
+"Wesnoth が戦に勝利するなど、さすがに毎日あることではございませぬゆえ。"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:274
 msgid "Hello Delfador — or should I say, “Delfador the Great.”"
-msgstr ""
+msgstr "ご機嫌よう、Delfador ——それとも、こう呼ぶべきかしら？『偉大なる Delfador』"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:278
