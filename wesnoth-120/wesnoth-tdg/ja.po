@@ -6192,6 +6192,7 @@ msgid ""
 "never did properly thank you for returning me back to him, all those years "
 "ago."
 msgstr ""
+"我が夫の右腕として名高きそなたと、こうして再び言葉を交わせるとは、実に喜ばしきこと。この身を夫の元へ連れ戻してくれたことに満足な礼を申さぬまま、幾年も経てしまいましたわね。"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:286
@@ -6200,30 +6201,31 @@ msgid ""
 " finds themselves on the wrong end of your staff... yet I oft pity even more"
 " so the fool who rules behind it, so consumed by the minutiae of war."
 msgstr ""
+"比類無き力を持つ、危険な男、Delfador。そなたが杖を向ける先に立つ愚か者は憐れなれど・・・その杖の後ろで権勢を振るい、戦の些事に心を奪われているような愚か者には、それ以上の憐れみの情を抱かずにはおれぬ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:291
 msgid "Err... I’m not sure I follow, Your Highness—"
-msgstr ""
+msgstr "ああ・・・私には仰る意味が分かりかねます。王妃殿下——"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:304
 msgid ""
 "What’s going on here? Careful, Delfador — don’t believe a word she says."
-msgstr ""
+msgstr "ここで何をしておるのだ？よいか、Delfador・・・その女の言うことなど、一言たりとも信じてはならぬ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:308
 msgid ""
 "Woman, are you not satisfied with my son; you must have my wizard too!? Away"
 " with you, wench, and save your lacquered tongue for another day!"
-msgstr ""
+msgstr "息子だけでは飽き足らず、我が魔術師までも手駒にするつもりか！？ 去れ、この毒婦め。嘘を塗りたくるための舌は、別の機会にとっておくがよい！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:312
 msgid ""
 "Peace, peace! Wesnoth stands triumphant; there’s no need for quarreling!"
-msgstr ""
+msgstr "まあまあ、どうか穏やかに！Wesnoth が大勝利を収めた夜に、諍いなど無用でございましょう！"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:316
@@ -6232,6 +6234,7 @@ msgid ""
 "words. Far be it from me to interfere in military matters — the king and his"
 " new advisor have doubtless much to speak on. I graciously take my leave."
 msgstr ""
+"心配は無用です、Delfador。我が夫の心無い言葉など、いつものことです。女の私が戦のことに口を差し挟む余地など、あろうはずもございませぬが——王と新たな助言者には、話すべきことがいくらでもございましょう。私はこれで失礼いたしますわ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:329
