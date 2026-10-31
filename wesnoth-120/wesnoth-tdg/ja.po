@@ -6243,13 +6243,14 @@ msgid ""
 "go amiss, especially with regards to your own blood! I’ve heard nothing but "
 "praise for the queen from most of the court."
 msgstr ""
+"陛下、些かお言葉が過ぎるのではございませんか！殊にお身内に対してであれば、いま少し穏当なお言葉でもよろしいはずです！宮廷に仕える者たちからは、王妃殿下を称える声しか聞いたことがございませぬ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:333
 msgid ""
 "They don’t know her. You don’t know her. All is not well with my family, "
 "Delfador."
-msgstr ""
+msgstr "あの者たちはあの女を知らぬ。そなたもな。我が血族は万事が順調というわけではないのだ、Delfador よ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:342
@@ -6259,6 +6260,8 @@ msgid ""
 " saved us all from the terrors of the west. They raised a strong prince, a "
 "good son."
 msgstr ""
+"我が父祖——初代の王と妃は——人間族すべてを率いて海を渡り、Wesnoth "
+"を建国した。互いを理解し合う二人が、西方の恐怖から人類を救い出し、強き王子、良き息子を育て上げたのだ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:346
@@ -6267,6 +6270,7 @@ msgid ""
 "nearly lost. Without your magic, all might have been. I’ve made so many "
 "mistakes, my friend."
 msgstr ""
+"翻って、我が身はどうか？この破滅的な戦は、ただ自らの野望を満たすためだったというのか？全てが失われる寸前であった。そなたの魔法なしには、現実にそうなっていたやも知れぬ。わしはあまりにも多くの過ちを犯してきたのだな、我が友よ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:354
@@ -6275,12 +6279,13 @@ msgid ""
 "followed you through thick and thin, and together we have always emerged "
 "triumphant."
 msgstr ""
+"過ちを犯さぬ人間などおりませぬ。陛下と言えども、そしてこの私も。ですが私は、いかなる苦難の時も陛下にお仕えして参りました。そして、その度に、共に勝利を手にしてきたではありませぬか。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:383
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:336
 msgid "Father."
-msgstr ""
+msgstr "父上。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:388
@@ -6289,23 +6294,24 @@ msgid ""
 "guarding Fort Garard. Come to celebrate the war’s end with us, did you? It "
 "is good to see you again."
 msgstr ""
+"倅か？これは思いがけぬ驚喜。そなたは叔父と共に Garard 砦を守っておると思っておったが。共に戦勝を祝おうと参じたのか？再会を嬉しく思うぞ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:394
 msgid ""
 "Hold on, what’s the matter with— you’re <b><i>injured</i></b>!? What "
 "happened! Where’s that useless Methor when you need him?!"
-msgstr ""
+msgstr "待て、そなたいったい——<b>怪我を負っているのか</b>！？ 何があった！Methor はどこだ！？この肝心な時に！"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:402
 msgid "It’s about your—"
-msgstr ""
+msgstr "父上の——"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:410
 msgid "...Father, it’s Uncle. Prince Arand."
-msgstr ""
+msgstr "弟君のことです、父上。Arand 王子が・・・"
 
 #. [message]: speaker=Eldred
 #. Eldred doesn’t show a lot of emotion here. He's lying, and not very good at
@@ -6316,27 +6322,29 @@ msgid ""
 "seized control of Fort Garard. My bodyguards and I tried to stop him, but we"
 " didn’t even get close. I barely made it out alive."
 msgstr ""
+"「炎の笏」を見つけ出したのです。そして、王位継承権を主張し、Garard "
+"砦を掌握しました。護衛と共に阻止しようと試みましたが、近づくことすらできず、命からがら落ち延びるだけで精一杯でした。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:420
 msgid "Arand tried to kill me, Father. He’s coming for you next."
-msgstr ""
+msgstr "Arand は私を殺そうとしたのです、父上。そして、次は父上を殺めようと、こちらへ向かっているのです。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:426
 msgid "Garard—?"
-msgstr ""
+msgstr "Garard ——？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:430
 msgid "WHAT!?"
-msgstr ""
+msgstr "何だと！？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:440
 msgid ""
 "That TREASONOUS son-of-a, son-of— I knew something felt suspicious lately."
-msgstr ""
+msgstr "あの反逆者のクソ——いや、最近の奴の動きは疑わしいとは思っていたのだ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:444
@@ -6345,13 +6353,15 @@ msgid ""
 "nothing. And Arand warned me that others were searching for the Sceptre... "
 "to trick me into sending away Lionel, my most loyal general!"
 msgstr ""
+"これで全てが繋がった。Arand は諜報の責任者——密偵からの報告がないのも当然だ。そして、何者かが笏を探していると警告してきたのも・・・Lionel "
+"を、最も忠実な将軍をわしから遠ざけるためであったのだ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:449
 msgid ""
 "How DARE he threaten me? How dare he lay a FINGER on my son? I’ll see him "
 "hang for this."
-msgstr ""
+msgstr "よくもこのわしを脅かし、我が息子に手を出してくれたものだ！絞首刑にせずにはおかぬぞ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:453
@@ -6359,25 +6369,26 @@ msgid ""
 "Delfador, take command of the cavalry; my personal royal cavalry — they’re "
 "the only ones I still trust. Ride to Fort Garard and burn it to the ground!"
 msgstr ""
+"Delfador、騎兵隊の指揮を執れ！わしの近衛騎兵隊だ——今や信頼を置けるのは奴らしかおらぬ。Garard 砦へ乗り込み、跡形もなく焼き尽くせ！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:457
 msgid ""
 "I want every one of those traitors dead! Return with Arand’s head— his HEAD!"
 " Or don’t return at all. Do you understand!?"
-msgstr ""
+msgstr "裏切り者には須らく死を！Arand の首を持ち帰るのだ——あ奴の首をな！さもなくば帰還すること能わず。分かったか！？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:461
 msgid "Yes, Your Majesty!"
-msgstr ""
+msgstr "御意のままに、陛下！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:477
 msgid ""
 "Delfador, I couldn’t help but overhear. Prince Arand, the king’s brother?? "
 "That can’t be."
-msgstr ""
+msgstr "Delfador、盗み聞きするつもりはなかったのだが、誠なのか？Arand 王子が？陛下の弟君だぞ？左様なことは考えられぬ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:481
@@ -6386,6 +6397,8 @@ msgid ""
 "with us? Every moment we delay is another chance for Arand to rally more "
 "rebels to his cause."
 msgstr ""
+"Eldred 王子が負傷していたのがその証だ、Deoran。共に馬を駆ってくれるか？一刻の躊躇が、反乱軍を呼集する猶予を Arand "
+"に与えてしまうことになるのだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:485
