@@ -3526,7 +3526,7 @@ msgid ""
 " give me any of my veterans.</span>"
 msgstr ""
 "——そして女たちよ。お前たちを選んだのは、足が速く、隠密行動に長けていて、そして何より安く使えるからだ。<span "
-"size='x-small'>あのいまいましい Eldred の奴が、ベテラン兵を一人も貸してくれないからな。</span>"
+"size='x-small'>あのいまいましい Eldred の奴が、熟練兵を一人も貸してくれないからな。</span>"
 
 #. [message]: speaker=Delfador
 #. cross the Great River. Not at the Ford of Abez, but near.
@@ -6405,7 +6405,7 @@ msgstr ""
 msgid ""
 "But a sentence of death, without even trial? Arand is thoughtful and quiet, "
 "and not known to be ambitious."
-msgstr ""
+msgstr "しかし、いきなり死罪としてよいものか？裁判も経ずに？Arand 殿下は思慮深く温厚なお方だ。野心家だという話など聞いたことがない。"
 
 #. [message]: speaker=Deoran
 #. this mirrors Methor's request to Lionel in S10x
@@ -6415,6 +6415,7 @@ msgid ""
 "out. You don’t... <b><i>have</i></b> to go, you know. At least not so "
 "hastily."
 msgstr ""
+"たしかに陛下は死罪を命じられた。だが、そのために遣わされるのは、他ならぬ君だ。なにも君自身が・・・出陣する必要はあるまい。少なくとも、そう急ぐことはないのではないか。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:494
@@ -6423,18 +6424,20 @@ msgid ""
 "information before committing so much of the army to this attack. Wesnoth "
 "can scant afford a civil war, and certainly not so soon after the orcs!"
 msgstr ""
+"陛下の命には従うな。慎重に、密偵を放ち、もっと情報を集めろ。大軍を投じるのは、それからでも遅くはない。今の Wesnoth "
+"には内乱に耐える余裕など残っておらぬ。オークとの戦が終結したばかりではないか！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:498
 msgid ""
 "Are you mad?! It’s neither your place nor mine to second-guess His Majesty. "
 "Especially not now, when he needs loyalty more than ever."
-msgstr ""
+msgstr "本気で言っているのか！？貴殿も私も、陛下の御意を疑う立場にはない。殊に今、この時は。かつてない程に、陛下は忠誠を求めておられるのだ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:502
 msgid "Delfador, I really worry—"
-msgstr ""
+msgstr "Delfador、私は本当に——"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:506
@@ -6443,44 +6446,45 @@ msgid ""
 "fighting to gain his favor. Today I’m “The Great”, but I didn’t even have a "
 "name before I first began to battle."
 msgstr ""
+"それに・・・私は人生の半分を捧げて王の傍らに仕え、その寵愛を得るために戦ってきたのだ。今でこそ「偉大なる」と冠されているが、初陣を迎える前は、名前さえ無かったのだぞ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:510
 msgid ""
 "Without that, who am I? I don’t want to end up exiled, like you were..."
-msgstr ""
+msgstr "それが無くば、私に何が残るというのだ？私は放逐されて終わりとうはない、貴殿のようには・・・"
 
 #. [unit]: type=Knight, id=Kaylan
 #. [event]: id=Kaylan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:523
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:408
 msgid "Sir Kaylan"
-msgstr ""
+msgstr "Kaylan 卿"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:542
 msgid "Royal cavalry, form up on me! We go at once!"
-msgstr ""
+msgstr "近衛騎兵隊、我が元に参集せよ！直ちに出陣するぞ！"
 
 #. [scenario]: id=12_The_Traitor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:13
 msgid "The Traitor"
-msgstr ""
+msgstr "逆賊"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:32
 msgid "Royal Cavalry"
-msgstr ""
+msgstr "近衛騎兵隊"
 
 #. [side]: type=Halberdier, id=Luraery
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:61
 msgid "Luraery"
-msgstr ""
+msgstr "Luraery"
 
 #. [side]: type=Lieutenant, id=Aelyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:80
 msgid "Aelyn"
-msgstr ""
+msgstr "Aelyn"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:284
@@ -6494,13 +6498,14 @@ msgid ""
 "dreaded this moment. Rally together, fight as one, and we will assuredly "
 "triumph in the coming civil war!"
 msgstr ""
+"斥候から悪い報せが入った——かなりの大軍が我が方へ進軍しているとのことだ！怖れていたことがついに訪れてしまった。陣形を整え、皆の心をひとつにして戦うのだ。さすれば、来たる内戦において、我らが勝利することは間違いない！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:390
 msgid ""
 "Curses, we have already been spotted. Time is of the essence; we must strike"
 " before Arand can turn more Wesnothians to his cause!"
-msgstr ""
+msgstr "クソッ、勘付かれていたか。時は一刻を争うぞ。Arand がこれ以上、Wesnoth 人を煽動する前に、速やかに討伐せねばならん！"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:426
@@ -6508,11 +6513,13 @@ msgid ""
 "The king’s personal cavalry stands at your command, great Delfador! Direct "
 "us as you will, and the traitor prince shall fall beneath our hooves!"
 msgstr ""
+"偉大なる Delfador "
+"様、近衛騎兵隊は貴方の指揮に従います！御意のままにご命令くだされば、逆賊の王子など、我らが馬の蹄で捻り潰してご覧に入れましょう！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:434
 msgid "Defeat Prince Arand"
-msgstr ""
+msgstr "Arand 王子を倒す"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:456
@@ -6521,6 +6528,9 @@ msgid ""
 "\n"
 "Cavalrymen are general-purpose mounted infantry, with moderate damage for a moderate price. Horsemen are more expensive, but their risky charge attack deals heavy damage."
 msgstr ""
+"これまで育てた歴戦の兵士は Deoran のもとに残してきており、次のシナリオまで合流しませんが、代わりに「竜騎兵」と「騎兵」を雇用できます！\n"
+"\n"
+"「竜騎兵」は汎用性の高い騎馬ユニットで、手頃な費用とそれに見合った攻撃力を有します。「騎兵」はそれよりも高価ですが、リスクを伴う「突撃」は、相手に重大なダメージを与えます。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:462

@@ -693,7 +693,7 @@ Shinsplitters,noun,,false,脚折隊,
 Siddry,noun,,false,Siddry,「死の海」
 Silent Forest,noun,,false,静寂の森,極北にある森。
 Sir Gerrick,noun,,false,Gerrick 卿,「南部防衛隊」
-Sir Kaylan,noun,,false,Kaylan卿,"騎士
+Sir Kaylan,noun,,false,Kaylan 卿,"騎士
 「王位継承者」"
 Sir Ladoc,noun,,false,Ladoc 卿,「Wesnothの起源」
 Sir Ruddry,noun,,false,Ruddry 卿,「Wesnothの起源」
@@ -1033,7 +1033,7 @@ heals,noun,,false,回復,ユニットの持つ能力の一つ。
 healthy,noun,,false,壮健,ユニットの特性の一つ。移動中でも休息の効果を受けられる。
 hero,noun,,false,ヒーロー,勝利条件の説明や「マニュアル」「ヘルプ」等、シナリオの途中で死亡してはならないユニットなどを表すときは「ヒーロー」と訳す。特性などの場合は「英雄」。
 hitpoint,noun,,false,HP,ヒットポイント表記の所も多いけどできればHPにしておく。
-horseman,noun,,false,騎兵,
+Horseman||Horsemen,noun,,false,騎兵,昇格先は「騎士」か「ランス騎兵」
 hotkey,noun,,false,ホットキー,ショートカットキーやキーボードショートカットと同じ意味。
 hotkeys,noun,,false,ホットキー,
 hotseat,noun,,false,ホットシート,"1台のコンピューター上で相手と交代で操作しながら行うゲーム。
@@ -1445,3 +1445,4 @@ sss,,,false,<small>ササ</small>||<small>シシ</small>||<small>スス</small>|
 Great One,noun,,true,偉大なるお方,"""The Deceiver's Gambit"" でトカゲが用いるドラゴンの呼称。実際はドレークだったり、ドレークに化けた魔術師だったりする。"
 Saurgrath,noun,,false,Saurgrath,"""The Deceiver's Gambit"" に登場する地名。トカゲの本拠地。とりあえずそのまま使う。"
 matriarch||matriarchsss,noun,,false,族長,"トカゲの族長。女性形だが、女族長とすると冗長なので「族長」とした。""ssseven matiriarchsss"" は「七族長」。"
+Cavalryman||Cavalrymen,noun,,false,竜騎兵,昇格先は「熟練竜騎士」
