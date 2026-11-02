@@ -371,7 +371,8 @@ Horse Plains,noun,,false,馬平原,土地名。優秀な馬の産地。クラン
 Howgarth III,noun,,false,Howgarth III世,北部同盟の護民長。「黒眼の子‎」
 Huraldur,noun,,false,Huraldur,「Wesmere の伝説」
 Ignored List,noun,,false,無視リスト,
-Iliah-Malal,noun,,false,Iliah-Malal,「Delfadorの回顧録」
+Iliah-Malal||Malal,noun,,false,Iliah-Malal,"「Delfadorの回顧録」
+「The Deceiver’s Gambit」では「Malal」と略されることも。"
 Illuminates,noun,,false,照明,ユニットが持つ能力の一つ。
 Impact,noun,,false,打撃,ダメージ型の一つ。
 Impassable,noun,,false,通行不能,地形の一つ。通行できない。
@@ -604,7 +605,7 @@ Pelias,noun,,false,Pelias,"人間の騎士。
 「Thursaganの槌」"
 Petrify,noun,,false,石化,特殊武器の一つ。
 Piercing,noun,,false,刺突,ダメージ型の一つ。
-Pikeman,noun,,false,熟練槍兵,
+Pikeman||Pikemen,noun,,false,熟練槍兵,
 Pirk,noun,,false,Pirk,"オークのシャーマン。
 「黒眼の子‎」"
 Plague,noun,,false,疫病,特殊武器の一つ。
@@ -1446,3 +1447,4 @@ Great One,noun,,true,偉大なるお方,"""The Deceiver's Gambit"" でトカゲ�
 Saurgrath,noun,,false,Saurgrath,"""The Deceiver's Gambit"" に登場する地名。トカゲの本拠地。とりあえずそのまま使う。"
 matriarch||matriarchsss,noun,,false,族長,"トカゲの族長。女性形だが、女族長とすると冗長なので「族長」とした。""ssseven matiriarchsss"" は「七族長」。"
 Cavalryman||Cavalrymen,noun,,false,竜騎兵,昇格先は「熟練竜騎士」
+Spearman||Spearmen,noun,,false,槍兵,

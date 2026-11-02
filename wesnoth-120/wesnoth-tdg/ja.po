@@ -6539,6 +6539,8 @@ msgid ""
 "Cavalrymen are well-suited for fighting Arand’s army of Spearmen and "
 "Pikemen. My magic shall have to make up the difference."
 msgstr ""
+"Garard 様の近衛騎兵隊は忠義に厚い猛者たちだが、騎兵も竜騎兵も、Arand "
+"陣営の槍兵や熟練槍兵に対しては相性が悪い。私の魔法でその分を埋めるしかないな。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:466
@@ -6546,46 +6548,48 @@ msgid ""
 "If only my outlaws and veterans could have marched fast enough to keep up. "
 "If the king’s own brother is a usurper, who in Wesnoth can I really trust?"
 msgstr ""
+"無法者や古参兵たちが、我らと共に進軍できる足を持っていれば良かったのだが。王の実弟さえも簒奪を企てると言うなら、この Wesnoth "
+"で一体誰を信頼できるというのだ？"
 
 #. [message]: speaker=unit
 #. said by a male cavalryman or horseman
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:480
 msgid "Fight on without me, friends! Fight for our king!"
-msgstr ""
+msgstr "俺に構わず、進撃してくれ！我らが王のために！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:492
 msgid ""
 "There’s right where I’d stood, back when I fought my first real battle. How "
 "simple everything seemed back then..."
-msgstr ""
+msgstr "初めて実戦に臨んだ折りに立っていたのは、あの辺りだったな。今にして思えば、万事がなんと単純に見えていたことか・・・"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:504
 msgid ""
 "Welcome to Garard’s Wold, last civilized town north of the Great River."
-msgstr ""
+msgstr "「Garard 高原」へようこそ。「大いなる川」以北で最果ての街。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:526
 msgid ""
 "Such devastation. Garard ordered us to “burn it to the ground”, and we "
 "did..."
-msgstr ""
+msgstr "なんという惨状だ。Garard 様が「跡形もなく焼き尽くせ」と命じられ、我らはそれを実行した・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:560
 msgid ""
 "The rebellion is broken! In the name of King Garard and the royal scepter, I"
 " strike you down!"
-msgstr ""
+msgstr "反乱は潰えた！Garard 王と王家の笏の名の下に、貴様に裁きを下す！"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:565
 msgid ""
 "King Garard?! My brother sent you? But I thought—? Wait, stop, please, I "
 "don’t understand!"
-msgstr ""
+msgstr "Garard 王！？では、兄上がそなたを？だが、私は——？待て、待ってくれ、これは一体どういうことだ！？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:578
@@ -6594,6 +6598,9 @@ msgid ""
 "yourself, Arand. You are mortally wounded — confess now, and King Garard may"
 " forgive you in death."
 msgstr ""
+"年若い Eldred "
+"王子から聞いておるぞ。貴様が王位簒奪を目論んでいるとな、Arand。その傷ではもはや助からぬ——今すぐ罪を白状せよ。さすれば、Garard "
+"王も死をもってその罪を赦免するやも知れぬぞ。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:582
@@ -6601,6 +6608,8 @@ msgid ""
 "By the Sceptre, I swear I have never conspired against my brother Garard. "
 "Eldred is the traitor! Eldred and Asheviere are the traitors, not me!"
 msgstr ""
+"王家の笏にかけて誓う、この私が我が兄 Garard への謀反など企てるものか！裏切り者は Eldred だ！Eldred と Asheviere "
+"こそが逆賊なのだ！断じて私ではない！"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:591
@@ -6609,6 +6618,9 @@ msgid ""
 "\n"
 "’Twas not a fortnight hence that my suspicions were confirmed — I gained incontrovertible evidence proving the chief conspirators to be none other than the queen and the prince, two of my brother’s closest companions!"
 msgstr ""
+"我が命運ももはやこれまで。最期の言葉をどうか信じてくれ。かねてより我が密偵たちが恐るべき陰謀の噂を掴んでいた。王その人を亡き者にしようとする計画を。\n"
+"\n"
+"その疑念が確信に変わったのは、半月ほど前のこと——首謀者があの二人であるという確たる証拠を掴んだのだ。兄上に最も近い肉親である、王妃と王子に他ならぬという証拠を。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:597
@@ -6617,12 +6629,15 @@ msgid ""
 "\n"
 "I slew several of his fighters and grievously wounded the young prince, yet barely escaped to Fort Garard before my guards were overwhelmed."
 msgstr ""
+"だが、その報せが届くやいなや、我らは Eldred 自らの手による襲撃を受けたのだ。白昼堂々斬り掛かってくるとは、何と不遜なことか！\n"
+"\n"
+"私は手勢を数名討ち取り、若き王子にも深手を負わせたが、護衛が制圧される前に Garard 砦へ逃げ延びるのが精一杯であった。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:603
 msgid ""
 "And now it seems that Eldred has found a way to finish me off after all..."
-msgstr ""
+msgstr "そして結局のところ、Eldred は私を始末する手立てをまんまと見つけ出したというわけか・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:608
@@ -6631,6 +6646,7 @@ msgid ""
 "fight when we approached instead of surrender? To my eyes, your resistance "
 "only sealed your guilt."
 msgstr ""
+"その言葉が真実であるようにも思えるが・・・だが、もしも貴様の言う通りであるなら、何故に降伏ではなく抗戦を選んだのだ？我が目には、貴様らが抵抗したことこそが罪の証であるとしか映らなんだぞ。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:613
@@ -6640,6 +6656,8 @@ msgid ""
 "failed to do! For many months now have I suspected the influence of a "
 "necromancer most powerful..."
 msgstr ""
+"私を責められるのか？押し寄せる泥の波が我が砦を木っ端微塵に打ち砕く——Eldred "
+"の不始末に片を付けるために王妃が用いた、卑劣な魔術であると思ったのだ！この数ヶ月というもの、強大な力を持ったネクロマンサーの影を疑っておったからな・・・"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:620
@@ -6649,6 +6667,8 @@ msgid ""
 "failed to do! For many months now have I suspected the influence of a "
 "necromancer most powerful..."
 msgstr ""
+"私を責められるのか？押し寄せる炎の波が、我が砦を灰になるまで焼き尽くす——Eldred "
+"の不始末に片を付けるために王妃が用いた、卑劣な魔術であると思ったのだ！この数ヶ月というもの、強大な力を持ったネクロマンサーの影を疑っておったからな・・・"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:627
@@ -6657,43 +6677,45 @@ msgid ""
 "servants of the queen, here to finish what Eldred failed to do! For many "
 "months now have I suspected the influence of a necromancer most powerful..."
 msgstr ""
+"私を責められるのか？そなたらの騎兵や魔術が、私の目には同様に映ったのだ——Eldred "
+"の不始末に片を付けるために王妃が遣わした手先であるとな！この数ヶ月というもの、強大な力を持ったネクロマンサーの影を疑っておったからな・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:633
 msgid "Malal. He is dead now."
-msgstr ""
+msgstr "Malal のことか。奴は既に死んでいる。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:637
 msgid "But if you are here with me, then Eldred is alone with the king?"
-msgstr ""
+msgstr "だが、そなたがここにおるということは、Eldred は王と二人きりになっているのではないか？"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:652
 msgid ""
 "So much blood... please, you must believe me! Save my brother... save "
 "Wesnoth..."
-msgstr ""
+msgstr "血が・・・流れすぎた・・・頼む、信じてくれ！兄上を・・・Wesnoth を救ってくれ・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:695
 msgid "Prince Eldred? What are you doing here?"
-msgstr ""
+msgstr "Eldred 殿下？何故ここに？"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:705
 msgid "There he is! Get him!"
-msgstr ""
+msgstr "いたぞ！奴を討ち取れ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:713
 msgid "Huh? Wha—"
-msgstr ""
+msgstr "ハッ？何を——"
 
 #. [scenario]: id=13_Revelry_Revisited
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:26
 msgid "Revelry, Revisited"
-msgstr ""
+msgstr "宴の後"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:45
@@ -6725,31 +6747,31 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:279
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:283
 msgid "So."
-msgstr ""
+msgstr "それで・・・"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:291
 msgid "Guess you’re the boss now."
-msgstr ""
+msgstr "あんたが、今の仕切り役ってことかな。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:295
 msgid "It would seem as such. Would that Delfador had stayed."
-msgstr ""
+msgstr "そのようだな。Delfador が留まってくれればよかったのだが。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:301
 msgid ""
 "...hey, is it true that you’ve lived with elves? I hear they’re the greatest"
 " bestest most beautifulest creatures there are!"
-msgstr ""
+msgstr "・・・なあ、あんた、エルフと暮らしてたってのは本当かい？エルフってのは、一番最高で、一番美しい生き物だって聞いたことあるけど！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:302
 msgid ""
 "female^...hey, is it true that you’ve lived with elves? I hear they’re the "
 "greatest bestest most beautifulest creatures there are!"
-msgstr ""
+msgstr "・・・なあ、あんた、エルフと暮らしてたってのは本当なのかい？エルフって、一番すごくて、最高に美しい生き物だって聞いたことあるけど！"
 
 #. [message]: speaker=Deoran
 #. referencing the events of TSG
@@ -6758,6 +6780,7 @@ msgid ""
 "Elves? No. Be not fooled by a pretty face — I have seen even the noblest "
 "elven sage corrupted to such darkness as to rival the foulest human or orc."
 msgstr ""
+"エルフがか？いや、外見の美しさに惑わされてはならぬ——どれほど高潔なエルフの賢者であっても、最も邪悪な人間やオークに匹敵するほどの深き闇に囚われる姿を、私はこの目で見てきた。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:311
@@ -6766,18 +6789,19 @@ msgid ""
 "whom I might ascribe such virtues. My thoughts find her often, in these dark"
 " times."
 msgstr ""
+"もっとも、知己の若いエルフの中にも、まさにそうした美徳を備えた者が一人だけいたがね。この暗き日々の中では、彼女をしばしば思い起こしてしまう。"
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:330
 msgid "Sir, Delfador and the Royal Cavalry are out of sight."
-msgstr ""
+msgstr "殿下、Delfador と近衛騎兵隊の姿が完全に見えなくなりました。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:340
 msgid ""
 "All healed up? Excellent. Come out of the rain and join me in my tent. We’ll"
 " soon put this rebellion to rest."
-msgstr ""
+msgstr "傷は癒えたのか？それは何よりだ。わしの天幕で雨を凌ぐがよい。この反乱もじきに鎮圧されるであろう。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:346
@@ -6786,6 +6810,7 @@ msgid ""
 " fall, could you truly lead our people to victory? I wanted to toughen you "
 "up."
 msgstr ""
+"正直なところ、わしはそなたが心配であったのだ。「軟弱」であるとな——わしに万一のことがあった時、我が臣民に勝利をもたらすことができるのかと。故にそなたを鍛え直したかったのだよ。"
 
 #. [message]: speaker=Garard
 #. I think this is the only time Garard actually calls Eldred by his name. Not
@@ -6796,45 +6821,47 @@ msgid ""
 "to bring Arand to justice! You may have failed to defeat him, but failure "
 "does not diminish the trying. You did well today, Eldred."
 msgstr ""
+"だが、今はどうだ？身内の裏切りを自ら見抜き、自らの手で Arand "
+"を討ち果たそうとしたではないか！奴を仕損じはしたが、その試みが無価値になるわけではない。今日の働きは見事であったぞ、Eldred よ。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:377
 msgid "(shocked) You—"
-msgstr ""
+msgstr "お、お前——"
 
 #. [message]: speaker=Eldred
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:397
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:816
 msgid "Finally."
-msgstr ""
+msgstr "ついに・・・"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:407
 msgid "Wake! Alarm—"
-msgstr ""
+msgstr "起きろ！非常事態だ——"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:411
 msgid "(gulp, deep breath)"
-msgstr ""
+msgstr "（スゥ、ハァ、スゥッ・・・）"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:423
 msgid "WAKE! ALARM! DEORAN HAS SLAIN THE KING!"
-msgstr ""
+msgstr "<b>起きろ！非常事態だ！Deoran が陛下を殺害したぞ！</b>"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:428
 msgid "What!?"
-msgstr ""
+msgstr "何だと！？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:434
 msgid ""
 "Garard truly is dead, and by the sword at that! Eldred was the last to "
 "enter..."
-msgstr ""
+msgstr "Garard 様がお亡くなりに・・・そして斬撃の痕が！最後に拝謁したのは Eldred 王子のはず・・・"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:438
@@ -6844,23 +6871,25 @@ msgid ""
 "his long years of exile! Only a heart shaped by hate and twisted by elves "
 "could commit such a foul deed!"
 msgstr ""
+"見よ！Deoran "
+"が陛下の天幕の入口に立っておる！父上が勝利を収めたまさにその絶頂に、奴は冷酷にも我が父を手に掛けたのだ！長年の閑職で募らせた私怨を晴らさんがために！憎しみに駆られ、エルフに弄ばれた者でなければ、かような悪行はできぬ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:442
 msgid "No! Eldred is—"
-msgstr ""
+msgstr "否！Eldred こそが——"
 
 #. [message]: speaker=eldred4
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:446
 msgid ""
 "Calamity! The ambassador always seemed so polite! How could he do this? How "
 "could we let him do this?!"
-msgstr ""
+msgstr "何たること！かの武官は常に礼節を重んじていたように見えたのだが！なにゆえにかようなことを？どうすれば防げたのだ！？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:450
 msgid "No! I—"
-msgstr ""
+msgstr "違う！私は——"
 
 #. [message]: speaker=eldred3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:454
@@ -6869,47 +6898,49 @@ msgid ""
 "have been biding his time, plotting his attack! And look, that outlaw of "
 "Delfador’s stands beside him, witness and accomplice to the crime!"
 msgstr ""
+"Deoran が陛下から疎まれていたのは周知のことだ。これまでずっと機会をうかがい、襲撃の計画を練っていたに違いない！それに、見ろ！Delfador "
+"の無法者が側にいるぞ！大罪の目撃者にして共犯者だ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:459
 msgid ""
 "No, no! $companion_name is not my accomplice— I mean, neither of us are "
 "accomplices— that is to say—"
-msgstr ""
+msgstr "いや、違う！$companion_name は共犯者ではない——いや、二人とも共犯ではなく——つまり、我らは——"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:468
 msgid ""
 "Ignore the killer’s murderous ramblings. Rally, soldiers of Wesnoth! Slay "
 "Deoran and avenge the king!"
-msgstr ""
+msgstr "殺害犯の醜い戯言に耳を貸すな！集え、Wesnoth の兵士たちよ！Deoran を討ち取り、王の仇を取るのだ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:500
 msgid ""
 "(aghast) Horrors below, Garard’s own son; what has happened to my beautiful "
 "kingdom? How—"
-msgstr ""
+msgstr "ああ、なんということだ、Garard 様の実のお子が・・・我が麗しき王国に何が起きている？一体なぜ——"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:504
 msgid ""
 "I don’t— what do I do? They all believe Eldred!? I’m not ready for a fight!"
-msgstr ""
+msgstr "私は——どうすればいい？皆、Eldred を信じているのか！？戦の準備などできていないぞ！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:509
 msgid ""
 "Listen boss, I’m not much for politics, but I know when to run and that’s "
 "now! We’ve got to get out of here!"
-msgstr ""
+msgstr "なあ旦那、俺は政治のことはよく分からねぇが、逃げ時だけはよく知ってる。それが今だよ！とにかくここからずらかろうぜ！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:510
 msgid ""
 "female^Listen boss, I’m not much for politics, but I know when to run and "
 "that’s now! We’ve got to get out of here!"
-msgstr ""
+msgstr "ねぇ旦那、アタシは政治のことはよく分からないけど、逃げ時だけはよく知ってるんだ。それが今だよ！とにかくここからずらかるわよ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:514
@@ -6918,6 +6949,8 @@ msgid ""
 "honest force left in Wesnoth, and he has no idea what has just transpired! "
 "Delfador must be warned."
 msgstr ""
+"あ——ああ、その通りだ！Garard 様が亡くなられた今、Wesnoth に唯一残されている、信頼に足る大軍を動かせるのは Delfador "
+"だけだ。彼はまだ事の次第を知らない！Delfador に報せなければ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:518
@@ -6926,13 +6959,16 @@ msgid ""
 "\n"
 "$companion_name, go, now! Slip away along the eastern road!"
 msgstr ""
+"運が良ければ、偽の情報に基づいた Delfador の強襲から Arand 様をお救いできるやもしれん。それが叶わずとも、Delfador の統率力があれば、Eldred の武力に対抗し得るだけの兵を集められるはずだ！\n"
+"\n"
+"$companion_name よ、行け、今すぐに！東の街道をすり抜けろ！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:529
 msgid ""
 "...hey, how come you’re not following? Don’t even think about sacrificing "
 "yourself because of “chivalry” or some other bunk."
-msgstr ""
+msgstr "・・・おい旦那、なんでついてこねぇんだよ？「騎士道」なんていうくだらないもんのために命を賭けるなんて、やめてくれよな！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:533
@@ -6941,6 +6977,9 @@ msgid ""
 "\n"
 "Even if I can but convince commanders to delay their support for the traitor prince, that will give Delfador and me much-needed time to gather gold before our next battle!"
 msgstr ""
+"そんな大層なものではない。Wesnoth 軍は今や私を謀叛人と信じ込んでるやもしれんが、そう簡単に彼らを見限ったりはできんのだ。敵陣を突破して、指揮官たちと対話することができれば、Eldred の真実を悟らせることができるはず——Garard 様の不遇な家族関係は公然の秘密だからな。\n"
+"\n"
+"たとえ、それが、彼らが裏切り者の王子へ臣従するのを遅らせることにしかならぬとしても、来たる戦いに必要な軍資金を集めるために、そのために Delfador と私が最も必要としている時間を稼ぐことにはなろう！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:539
@@ -6988,7 +7027,7 @@ msgstr ""
 msgid ""
 "Evacuate veteran units along the eastern road ($|escape_turns_remaining "
 "turns remaining)"
-msgstr ""
+msgstr "東の街道を使い、ベテランユニットを脱出させる（残り $|escape_turns_remaining ターン）"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:625
