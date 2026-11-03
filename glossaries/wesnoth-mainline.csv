@@ -804,8 +804,8 @@ Weldyn,noun,,false,Weldyn,Wesnoth国の首都。
 Wesfolk,noun,,false,Wesfolk,旧大陸から緑の島に渡ってきた人々。炎のルビーを持ってきた。
 Wesfolk war,noun,,false,Wesfolk戦争,WesfolkとIslefolkの戦争。最終的にIslefolkが勝利し、Wesfolkは緑の島の辺境へ追いやられた。
 Wesmere,noun,,false,Wesmere,エルフの評議会、Ka’lianが開かれる場所
-Wesnoth,noun,,false,Wesnoth,
-Wesnothian,noun,,false,Wesnoth人,基本的に人間族のことを指すが、Elensefarの住人や開拓民やアウトローなど、Wesnoth人でない人間もいる。
+Wesnoth,noun,,true,Wesnoth,
+Wesnothian,noun,,true,Wesnoth人,基本的に人間族のことを指すが、Elensefarの住人や開拓民やアウトローなど、Wesnoth人でない人間もいる。
 Whisper,noun,,false,ささやき,マルチプレイヤーの機能の一つ。特定のユーザーにのみメッセージを送る。
 Whitefire,noun,"January, name of month",false,白炎,１月。白炎の月
 Wild Steppe,noun,,false,野生草原,極北の東に広がる草原
@@ -1333,7 +1333,7 @@ data directory ,noun,,false,データディレクトリ,"ゲームデータデ�
 wesnoth --data-path で表示される。"
 dwarves ,noun,,false,ドワーフ,ドワーフ、ドワーフ族
 userdata directory ,noun,,false,ユーザーデータディレクトリ,user data directory の表記ゆれ
-wesnoth ,noun,,false,wesnoth,"コマンド名。
+wesnoth,noun,,true,wesnoth,"コマンド名。
 Battle for Wesnoth ターン制ファンタジー戦略ゲーム"
 Winds of Fate,noun,,true,運命の風,メインラインキャンペーンの１つ。wof
 Wing,noun,,false,翼,"""Winds of Fate"" のチーム名に用いられる。

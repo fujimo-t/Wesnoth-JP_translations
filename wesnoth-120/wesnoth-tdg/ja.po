@@ -6376,7 +6376,7 @@ msgstr ""
 msgid ""
 "I want every one of those traitors dead! Return with Arand’s head— his HEAD!"
 " Or don’t return at all. Do you understand!?"
-msgstr "裏切り者には須らく死を！Arand の首を持ち帰るのだ——あ奴の首をな！さもなくば帰還すること能わず。分かったか！？"
+msgstr "裏切り者には須らく死を！Arand の首を持ち帰るのだ——あやつの首をな！さもなくば帰還すること能わず。分かったか！？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:461
@@ -6898,7 +6898,7 @@ msgid ""
 "have been biding his time, plotting his attack! And look, that outlaw of "
 "Delfador’s stands beside him, witness and accomplice to the crime!"
 msgstr ""
-"Deoran が陛下から疎まれていたのは周知のことだ。これまでずっと機会をうかがい、襲撃の計画を練っていたに違いない！それに、見ろ！Delfador "
+"Deoran が陛下から疎まれていたのは周知のことだ。これまでずっと機会を窺い、襲撃の計画を練っていたに違いない！それに、見ろ！Delfador "
 "の無法者が側にいるぞ！大罪の目撃者にして共犯者だ！"
 
 #. [message]: speaker=Deoran
@@ -6986,7 +6986,7 @@ msgstr ""
 msgid ""
 "<i>Defeating enemy leaders will increase your starting gold in the next "
 "scenario.</i>"
-msgstr ""
+msgstr "敵のリーダーを倒すと、次のシナリオ開始時のゴールドが増加します。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:543
@@ -6996,23 +6996,25 @@ msgid ""
 "the trees. But the more support I can garner now, the better our position "
 "will be in the future!"
 msgstr ""
+"万策尽きたとなれば、私は森を抜けて逃げる。我が愛馬はエルフ馬の血統——森の中でその俊足に追いつける馬は Wesnoth "
+"にはおらぬ。だが、今ここで少しでも多くの支持を得られれば、その分だけ我らの展望は開けるのだ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:547
 msgid ""
 "Now make haste, and godspeed! You must reunite with Delfador; I will send "
 "what soldiers I can spare after you!"
-msgstr ""
+msgstr "さあ急げ、無事を祈っておるぞ！必ずや Delfador と合流するのだ。そちらに回せる限りの兵たちには、皆お前の後を追わせよう！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:555
 msgid "Avenge the king! Don’t let them escape!"
-msgstr ""
+msgstr "王の仇を！奴らを逃がすな！"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:596
 msgid "$gold_pickup gold"
-msgstr ""
+msgstr "$gold_pickup ゴールド"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:611
@@ -7020,6 +7022,8 @@ msgid ""
 "Defeat as many enemy leaders as possible before Deoran is defeated\n"
 "    <i>(each defeated leader yields bonus gold in the next scenario)</i>"
 msgstr ""
+"Deoran が敗北する前に、一人でも多くの敵リーダーを倒す\n"
+"（敵リーダーを一人倒す毎に、次のシナリオのボーナスゴールドが増加）"
 
 #. [objective]: condition=win
 #. $|escape_turns_remaining is probably between 0 and 10
@@ -7032,14 +7036,14 @@ msgstr "東の街道を使い、ベテランユニットを脱出させる（残
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:625
 msgid "When an enemy leader is defeated, their remaining soldiers will flee."
-msgstr ""
+msgstr "敵リーダーを倒すと、その配下の兵士は離散します。"
 
 #. [note]: description=<b>
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:629
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1089
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1244
 msgid "This is the second-to-last scenario."
-msgstr ""
+msgstr "次のシナリオが最終シナリオとなります。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:656
@@ -7048,6 +7052,9 @@ msgid ""
 "\n"
 "You should evacuate enough veterans to have a strong recall list next scenario, but also defeat enough enemy leaders so that you’ll have gold for recalling."
 msgstr ""
+"東へ脱出させたユニットは次のシナリオで召還できるようになりますが、脱出できなかったユニットは、離散や戦死により、失われます——召還リストに残っているユニットも同様です！なお、東への脱出口が開いているのは、第 7 ターン終了時までです。\n"
+"\n"
+"次のシナリオでの召還リストを強力にするために、十分なベテランユニットを退避させつつ、可能な限り敵リーダーを倒して、召還に必要となるゴールドの確保にも努めましょう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:685
@@ -7055,18 +7062,20 @@ msgid ""
 "Fleeing too quickly will only seal my guilt in the eyes of Wesnoth’s "
 "commanders. I do not intend to run until I have no other choice!"
 msgstr ""
+"早々に逃げ出せば、Wesnoth "
+"の将校たちの目には、後ろ暗いことがあるからに違いないと映るだけだ。他の手がなくなるまでは、おめおめと引き下がるわけにはいかぬ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:699
 msgid ""
 "I hear orc-drums approaching the eastern road! Any more who wish to flee — "
 "now is your last chance."
-msgstr ""
+msgstr "東の街道から、オークの進軍ドラムが聞こえてきた！他に脱出を望む者がいるなら——いまこの時を決して逃すな！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:704
 msgid "I hear orc-drums approaching the eastern road! Our time runs short."
-msgstr ""
+msgstr "東の街道から、オークの進軍ドラムが聞こえてきた！もはや猶予はない！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:730
@@ -7075,12 +7084,14 @@ msgid ""
 "You will now start the next scenario with $bonus_gold total gold (plus "
 "$s11_carryover carryover from Delfador)"
 msgstr ""
+"次のシナリオは、合計 $bonus_gold ゴールドのボーナスに、Delfador の持ち越し $s11_carryover "
+"ゴールドを加えて開始されます"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:735
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1108
 msgid "You will now start the next scenario with $bonus_gold total gold!"
-msgstr ""
+msgstr "次のシナリオは、合計 $bonus_gold ゴールドで開始されます！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:751
@@ -7089,13 +7100,15 @@ msgid ""
 " and buying time is good enough. And now that this keep is ours, I can "
 "recruit more soldiers to aid in the fight."
 msgstr ""
+"指揮官を一人倒したぞ。こちらの陣営に引き入れられればと期待していたが、Eldred "
+"の力を削ぎ、時間を稼げただけでも良しとしよう。主塔を押さえたことで、戦力の補充が可能になったしな。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:756
 msgid ""
 "One leader is defeated. I had hoped to gain a new ally, but depriving Eldred"
 " and buying time is good enough."
-msgstr ""
+msgstr "指揮官を一人倒したぞ。こちらの陣営に引き入れられればと期待していたが、Eldred の力を削ぎ、時間を稼げただけでも良しとしよう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:761
@@ -7104,6 +7117,7 @@ msgid ""
 "Eldred later, but if I evacuate too many I will be too weak to fight "
 "effectively here!"
 msgstr ""
+"さて、どうすべきか——兵たちを東へ退避させれば、後に Eldred と戦う際の戦力となるが、あまり多くを逃がせば、ここが手薄になって、思うように戦えぬ。"
 
 #. [message]
 #. tell the player that this isn't the entirety of Wesnoth’s army. Even if the
@@ -7114,26 +7128,28 @@ msgid ""
 "Deoran’s putting up a real fight! But even if he defeats me, he’ll never get"
 " back into Wesnoth — we still have soldiers encamped on the southern shore."
 msgstr ""
+"Deoran め、さすがに手強いな！だが、たとえ私を倒したところで、奴が Wesnoth "
+"に戻ることなどあり得ん——南岸には、まだ我が軍が布陣しているからな！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:785
 msgid ""
 "So much ill will... The captains of old would have died for their king."
-msgstr ""
+msgstr "これほどの悪意とは・・・かつての将校たちは、王のために命を捧げたものだが。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:789
 msgid ""
 "Perhaps it is not a coincidence that so many of the old guard fell in battle"
 " against the orcs."
-msgstr ""
+msgstr "ひょっとすると、古参の兵の多くがオークとの戦いで命を落としたのも、偶然ではないのかも知れぬな。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:801
 msgid ""
 "You are defeated, mage! Lend me your ear and hear the truth about Garard’s "
 "death! ’twas not I who struck the blow, but Prince Eldred!"
-msgstr ""
+msgstr "勝負はついたぞ、魔導士！私の言葉に耳を傾け、Garard 王の死の真相を聞くのだ！王を手にかけたのは私ではない、Eldred 王子なのだ！"
 
 #. [message]: speaker=unit
 #. said by a male Red Mage or Silver Mage
@@ -7144,25 +7160,28 @@ msgid ""
 "up warmongering until we were all dead; at least this way maybe I can get "
 "back to Alduin in one piece!"
 msgstr ""
+"私とて愚かではない、Deoran。Asheviere "
+"が息子をどう育てたかという噂くらい、私の耳にも入っている。だがこれで良かったのではないか？Garard "
+"は我らが死に絶えるまで、戦に取り憑かれていただろう。少なくとも、これで私は無事に Alduin に戻れるかもしれん！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:816
 msgid ""
 "You care so little for the affairs of Wesnoth? Then go; lead your magi home,"
 " and trouble the mainland no more."
-msgstr ""
+msgstr "それほどまでに Wesnoth への関心が薄いと申すか？ならば去れ。配下の魔道士たちとともに故郷へ帰り、二度と本土を乱すな！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:822
 msgid ""
 "You care so little for the affairs of Wesnoth? Then go; return home to "
 "Alduin, and trouble the mainland no more."
-msgstr ""
+msgstr "それほどまでに Wesnoth への関心が薄いと申すか？ならば去れ。Alduin へ帰り、二度と本土を乱すな！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:843
 msgid "You—"
-msgstr ""
+msgstr "貴公は——"
 
 #. [message]: speaker=unit
 #. said by a male Shock Trooper
@@ -7172,6 +7191,8 @@ msgid ""
 "officer in his lousy war. I always wanted him dead, and I’m glad someone "
 "finally built up the courage to do it."
 msgstr ""
+"説教なら無用だ。Garard "
+"は私を優雅な暮らしから引きずり出し、くだらん戦争の将校に据えやがった。私はずっと奴の死を願っていた。誰がやったにしろ、勇気を出して奴を殺してくれたおかげで、私はむしろ喜んでいるのだ。"
 
 #. [message]: speaker=unit
 #. said by a male Shock Trooper
@@ -7181,6 +7202,8 @@ msgid ""
 "I hear, Garard was a pretty lousy father and husband too. Now am I free to "
 "go, or not?"
 msgstr ""
+"殺したくば殺すがいい。だが、私が王子の行いを非難することなど絶対にないぞ。私が聞き及ぶところでは、Garard "
+"は父としても夫としても最低な男だったそうではないか。で、私は行ってよいのか？それとも駄目か？"
 
 #. [message]: speaker=unit
 #. said by a male Shock Trooper
@@ -7188,14 +7211,14 @@ msgstr ""
 msgid ""
 "That’s what I thought. Now get out of my way — my men and I are going back "
 "home to Weldyn."
-msgstr ""
+msgstr "やはりな。では、道をあけてくれ——部下を連れて、Weldyn の家に帰らせてもらう。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:881
 msgid ""
 "Colonel! You’re a man of experience, and a man of wisdom. Do you not care "
 "for your king? Do you truly believe that it was by my hand he fell?"
-msgstr ""
+msgstr "大佐！貴公は経験も見識も兼備しているはずではないか。陛下への忠義を失くしたのか？誠に私が陛下を亡き者にしたと考えているのか？"
 
 #. [message]: speaker=unit
 #. said by a male General
@@ -7204,6 +7227,8 @@ msgid ""
 "I cared for Garard, but I care even more for the soldiers and common folk of"
 " Wesnoth, folk who have just been plunged into civil war."
 msgstr ""
+"Garard "
+"様への忠義は変わりませぬ。ですが、それ以上に我が兵や民草が気がかりなのです。突如として放り込まれた内戦から、彼らを守ってやらねばならぬのです。"
 
 #. [message]: speaker=unit
 #. said by a male General
@@ -7213,6 +7238,8 @@ msgid ""
 "commander to end the fighting as swiftly as possible. And that means "
 "crushing your revolt."
 msgstr ""
+"手を下したのがあなたであろうと Eldred "
+"殿下であろうと、一刻も早くこの戦いを終わらせることこそが指揮官たる私の責務。そしてそれは、あなたの反乱を鎮圧することを意味するのです。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:895
@@ -7221,6 +7248,7 @@ msgid ""
 "on the throne? Sometimes we must fight not just for the people of today, but"
 " for the people who will come after."
 msgstr ""
+"哀れな愚か者め・・・身内を殺めた者が玉座に就けば、いかなる惨劇が生まれるか想像できぬか？我らは今日の民のためだけではなく、後の世の民のためにも戦わねばならぬ時があるのだ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:899
