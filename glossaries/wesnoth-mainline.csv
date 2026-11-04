@@ -1409,7 +1409,7 @@ Galdren,noun,,false,Galdren,星読み(seer)。東部侵略に名前だけ登場
 Listra,noun,,false,Listra,地名。Great Riverより北にある場所。東部侵略で登場
 Dolburras,noun,,false,Dolburras,東部侵略の登場人物。ドワーフ
 Yannic,noun,,false,Yannic,東部侵略の登場人物。クラン所属
-Whitefang,noun,,false,Whitefang,オークの氏族の名前。「闇へ堕ちて」と「東部侵略」で登場
+Whitefang||Whitefangs,noun,,false,Whitefang,オークの氏族の名前。「闇へ堕ちて」と「東部侵略」で登場
 High Advisor,noun,,false,高位相談役,東部侵略の Dacyn の役職名。王に助言を行う立場
 Gaennell,noun,,false,Gaennell,東部侵略の登場人物
 silver order,noun,,false,銀の教団,詳細は不明。とりあえず「銀の教団」と訳しておく。
