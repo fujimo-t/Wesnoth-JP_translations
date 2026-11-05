@@ -7717,6 +7717,7 @@ msgid ""
 "Oh seer, what I would give for another chance! I obeyed my friend, and in "
 "doing so betrayed him! And now there is nothing left."
 msgstr ""
+"ああ予言者よ、何を差し出せば、やり直させてくれるのか！私は我が友の命に従い、そうすることで、その友自身を裏切る結果を招いたのだ！今は、何も残されてはいない・・・"
 
 #. [message]: speaker=Methor
 #. "no need to be so glum" is what Delfador says in S01
@@ -7724,20 +7725,20 @@ msgstr ""
 msgid ""
 "Delfador, I have found you at last! “Nothing left?” There’s no need to be so"
 " glum."
-msgstr ""
+msgstr "Delfador、ようやく見つけたぞ！「何も残されていない」だと？そう陰気な顔をするものではない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:173
 msgid ""
 "Master!? I’d no idea you survived the coup! But you come far too late. I "
 "fear it’s all already over."
-msgstr ""
+msgstr "マスター！？あの叛乱を生き延びておられたとは！ですが、来るのが遅すぎました。もう全てが終わったのです。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:178
 msgid ""
 "I heard your earlier words to the horselord. Do not think of giving up!"
-msgstr ""
+msgstr "騎兵隊長と交わしていた先刻の言葉を聞いたぞ。諦めようなどと考えるものではない！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:182
@@ -7746,6 +7747,7 @@ msgid ""
 " your master, from your king. Now the darkness rings close, and at last you "
 "are alone — even I have grown old, and can speak for you no longer."
 msgstr ""
+"かつてわしが育てた少年は、常に誰かの承認を求めておったな。同輩から、師から、そして王からの。だが、周囲を闇に取り囲まれた今この時、ついに独りで立つべき時が訪れたということなのだ——老いたこのわしでは、もはやお前の後ろ盾となることはできん。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:186
@@ -7754,17 +7756,20 @@ msgid ""
 "young student; a hanger-on fawning at the feet of his betters? Or are you "
 "Delfador the Great, no-one’s servant and his own man! CHOOSE, apprentice!"
 msgstr ""
+"決断の時は来たれり。今こそ問う、Delfador "
+"よ、お前は何者だ？名も無き者か？無気力で未熟なままの学徒か？上の者の足元にすがるだけの取り巻きか？それとも誰の下僕でもなく、己の意志で立ち上がる「偉大なる"
+" Delfador」なのか！選べ、我が弟子よ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:190
 msgid "Look, Methor, it’s not as easy as saying a few words..."
-msgstr ""
+msgstr "ですが、Methor、口で言うほど容易いことではないのです・・・"
 
 #. [message]: speaker=$horselord_id
 #. said by a male Horseman-line or Cavalryman-line unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:212
 msgid "Well? Shall we fight?"
-msgstr ""
+msgstr "それで？戦うのですかな？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:222
@@ -7773,6 +7778,8 @@ msgid ""
 "exposed. This time, we need no king nor country to guide our hand. I know "
 "what is right, and I will make it so."
 msgstr ""
+"戦うぞ！逆賊 Eldred "
+"は行軍中だ。なればこそ、隙もあろう。この戦、我らの手を導く王も国も無用である。何が正義か、私には分かっておる。後はそれを実行するのみ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:226
@@ -7781,16 +7788,18 @@ msgid ""
 "treachery. Whether it takes one year or a hundred, I <b><i>will</i></b> see "
 "the throne of Wesnoth restored."
 msgstr ""
+"斥候たちよ、私の印章を受け取れ！そして、Eldred の背信行為を Wesnoth 全土に触れ回るのだ。たとえ百年かかろうとも、必ずや Wesnoth "
+"の玉座を正して見せる！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:230
 msgid "The rest of you, make ready! We march to kill the king."
-msgstr ""
+msgstr "残りの者は覚悟を決めよ！我らは王を討つべく進軍するのだ！"
 
 #. [scenario]: id=14_Long_Live_the_Queen
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:19
 msgid "Long Live the Queen"
-msgstr ""
+msgstr "女王よとこしえなれ"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:38
@@ -7829,6 +7838,9 @@ msgid ""
 "swear fealty. Your seeker spell was excellent, Delfador; we’ve been able to "
 "find and intercept Eldred before he could turn anyone else to his cause."
 msgstr ""
+"見よ、あの長い隊列を！王子は——いや王と呼ぶべきか——Dan’Tonk "
+"の長官を臣従させた折に、さらに兵を増強したに違いない。見事な標定術だったな、Delfador よ。Eldred "
+"がこれ以上、他の者を味方に引き入れる前に、こうして捕捉して邀撃することができたのだからな。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:440
@@ -7836,6 +7848,7 @@ msgid ""
 "Boss, how’s we supposed to fight that many!? Even if we could, what about "
 "Queen Asheviere back in Weldyn?"
 msgstr ""
+"旦那、あんな大軍相手にどうやって戦うっていうんだい！？首尾よく倒せたとしたって、Weldyn に残っている女王の Asheviere はどうすんのさ？"
 
 #. [message]: speaker=$horselord_id
 #. said by a male Horseman-line or Cavalryman-line unit
@@ -7847,6 +7860,8 @@ msgid ""
 "remaining lords of the city are loyal only to her! Eldred may be king, but "
 "Asheviere holds the reins."
 msgstr ""
+"確かに！噂では、あの女は宮廷の半分を殺し、残りの半分は買収したのだという。王都に残る領主どもは、あの女に臣従しているに違いない！Eldred "
+"は王なのかも知れんが、その手綱を握っているのは Asheviere だ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:450
