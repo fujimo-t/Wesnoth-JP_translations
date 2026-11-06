@@ -7629,7 +7629,7 @@ msgstr "Eldred 王の治世がとこしえならんことを！"
 #. [message]: id=$speaker3_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1515
 msgid "Long live the king!"
-msgstr "とこしえなれ、Eldred 王！"
+msgstr "国王よ永遠なれ！"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1523
@@ -7756,7 +7756,7 @@ msgid ""
 "young student; a hanger-on fawning at the feet of his betters? Or are you "
 "Delfador the Great, no-one’s servant and his own man! CHOOSE, apprentice!"
 msgstr ""
-"決断の時は来たれり。今こそ問う、Delfador "
+"決断の時が来たのだ。今こそ問う、Delfador "
 "よ、お前は何者だ？名も無き者か？無気力で未熟なままの学徒か？上の者の足元にすがるだけの取り巻きか？それとも誰の下僕でもなく、己の意志で立ち上がる「偉大なる"
 " Delfador」なのか！選べ、我が弟子よ！"
 
@@ -7799,7 +7799,7 @@ msgstr "残りの者は覚悟を決めよ！我らは王を討つべく進軍す
 #. [scenario]: id=14_Long_Live_the_Queen
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:19
 msgid "Long Live the Queen"
-msgstr "女王よとこしえなれ"
+msgstr "女王よ永遠なれ"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:38
@@ -7869,6 +7869,8 @@ msgid ""
 "We don’t have to fight the entire army or deal with Weldyn. The capital is "
 "too well-defended for us to sack outright — Eldred is the objective here."
 msgstr ""
+"大軍とまともにやり合う必要も、Weldyn を相手にする必要もない。王都の防御は極めて堅固で、正面から落とすことなど到底できん——狙うは Eldred "
+"ただ一人でよいのだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:454
@@ -7878,16 +7880,20 @@ msgid ""
 "now — can prove to the watchers that this coup is not yet over; that justice"
 " and honor and hope still live in Wesnoth! That’s our goal today."
 msgstr ""
+"Garard 陛下の死の真相が広まれば、我らに賛同する勢力が結集し、Weldyn "
+"を解放するのみならず、それ以上のことを成し遂げることも期待できよう。だが、それも今ここで Eldred "
+"を止められればこその話だ——事の成り行きを静観している者たちに、この叛乱が完了しておらず、正義と名誉、そして希望とが Wesnoth "
+"にはまだ息づいているということを証明せねばならぬ！それこそが目下の目標なのだ。"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:459
 msgid "Look sharp, I think they’ve spotted us!"
-msgstr ""
+msgstr "気をつけろ！向こうもこっちに気づいたみたいだ！"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:460
 msgid "female^Look sharp, I think they’ve spotted us!"
-msgstr ""
+msgstr "気をつけな！向こうもこっちに気づいたみたいだよ！"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:468
@@ -7896,6 +7902,8 @@ msgid ""
 "has-been! ’fraid you’re not as popular with Mother and me as you were with "
 "old Garard."
 msgstr ""
+"Delfador か、よく来たな！前時代の遺物が顔を出す頃合いかと考えていたところだ！あいにくだが、母上と私は、 Garard "
+"のようにはお前を歓待するつもりはないぞ。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:472
@@ -7904,6 +7912,7 @@ msgid ""
 "surrender now, disband your little rebel rabble, and we can tell the men it "
 "was all a big misunderstanding."
 msgstr ""
+"この私に刃向かうなど無駄というものだ、老魔術師よ。だが、命が惜しくば、まだ遅くはない——今すぐ降伏し、反乱ごっこをやめるのだ。さすれば、すべては大きな誤解だったのだと皆に説明してやろう。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:476
@@ -7912,6 +7921,7 @@ msgid ""
 " old title back! “Delfador the Great”, High Advisor to the Crown — don’t you"
 " agree that has a nice ring to it?"
 msgstr ""
+"ただ杖を置き、腕を広げて私を迎え入れればよい。かつての称号を再び名乗ることも許そう！偉大なる Delfador、王室最高顧問——いい肩書きじゃないか。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:480
@@ -7920,13 +7930,14 @@ msgid ""
 "prince! Enough blood has been spilled on your behalf; stop this madness and "
 "give up the throne, or I shall make you."
 msgstr ""
+"左様な甘言に惑わされるほど、今の私は愚かではないぞ、半人前の王子よ！既に十分な血が、お前の野望のために流された。かような狂気の沙汰はこれきりにして、直ちに玉座を退くがよい。さもなくば、この私が引きずり下ろすまでだ。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:484
 msgid ""
 "Oh no, I don’t think so. You forget you’re speaking to your king, old man. "
 "Soldiers, attack! ATTACK!"
-msgstr ""
+msgstr "ふむ、意見が合わぬな。王に対する口の利き方さえも忘れた老いぼれめが。兵たちよ、かかれ！かかれーっ！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:494
@@ -7941,13 +7952,16 @@ msgid ""
 "he would have wanted? His kingdom turned against itself, his townships "
 "pillaged by orcs? He had hope; a future for Wesnoth! A future for you!"
 msgstr ""
+"Eldred "
+"よ、お前の父上と私が固い絆で結ばれていたことを知らぬはずはあるまい。これが父上の望んだことか？王国内部で相争い、街や村がオークどもに荒らされることを望んでいたとでも？否、あの御方は未来を見据えていたのだ！Wesnoth"
+" の未来を！お前のための未来を！"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:518
 msgid ""
 "A future for me? I can count on one hand the times the old tyrant had "
 "anything kind to say about me."
-msgstr ""
+msgstr "私の未来だと？あの老暴君が私に優しい言葉をかけたことなど、片手で数えるほどしかない！"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:522
@@ -7955,6 +7969,7 @@ msgid ""
 "I wasn’t going to wait around to be disinherited, or worse. It was always "
 "going to be him or me — I just beat him to the finish."
 msgstr ""
+"廃嫡ならまだしも、それ以上の仕打ちを受けるのを大人しく待つことなど、できるはずがない。いずれは、あいつか私のどちらかが死ぬしかなかったのだ——ゆえに、私が先手を打ったまで。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:526
@@ -7963,6 +7978,8 @@ msgid ""
 "your mind, Eldred. Garard was harsh; I cannot deny that. But you’re a fool "
 "if you think he ever felt anything but love for you."
 msgstr ""
+"愚か者め。お前の心に根を張った狂気と議論するつもりはない、Eldred。Garard "
+"様が厳しい父親であったことは事実だ。だが、あの御方がお前に抱いていた感情が、愛情以外の何物でもないと気付かぬというのなら、やはりお前は救いようのない愚か者だ。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:533
@@ -8278,12 +8295,12 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:31
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:45
 msgid "staff"
-msgstr ""
+msgstr "杖"
 
 #. [unit_type]: id=Delfador L2, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L2.cfg:8
 msgid "Red Mage"
-msgstr ""
+msgstr "赤魔術師"
 
 #. [unit_type]: id=Delfador L2, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L2.cfg:12
@@ -8296,7 +8313,7 @@ msgstr ""
 #. [unit_type]: id=Delfador L3, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L3.cfg:8
 msgid "Arch Mage"
-msgstr ""
+msgstr "熟練魔術師"
 
 #. [unit_type]: id=Delfador L3, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L3.cfg:12
@@ -8309,7 +8326,7 @@ msgstr ""
 #. [unit_type]: id=Delfador L4, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L4.cfg:8
 msgid "Great Mage"
-msgstr ""
+msgstr "大魔術師"
 
 #. [unit_type]: id=Delfador L4, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L4.cfg:12
@@ -8616,7 +8633,7 @@ msgstr "槍"
 #. [attack]: type=pierce
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:54
 msgid "throwing spear"
-msgstr ""
+msgstr "投槍"
 
 #. [message]: speaker={UNIT}
 #: data/campaigns/The_Deceivers_Gambit/utils/macros.cfg:502
@@ -8657,7 +8674,7 @@ msgstr "次のターンでこのユニットは死にます。"
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:366
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1764
 msgid "summoner"
-msgstr ""
+msgstr "召喚者"
 
 #. [leadership]: id=summoner
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:367
@@ -8792,7 +8809,7 @@ msgstr "呪文詠唱"
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2560
 msgid "Max XP!"
-msgstr ""
+msgstr "最大 XP！"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2572
