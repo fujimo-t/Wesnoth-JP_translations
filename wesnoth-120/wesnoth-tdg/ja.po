@@ -7756,7 +7756,7 @@ msgid ""
 "young student; a hanger-on fawning at the feet of his betters? Or are you "
 "Delfador the Great, no-one’s servant and his own man! CHOOSE, apprentice!"
 msgstr ""
-"決断の時が来たのだ。今こそ問う、Delfador "
+"決断の時が来たのだ。Delfador "
 "よ、お前は何者だ？名も無き者か？無気力で未熟なままの学徒か？上の者の足元にすがるだけの取り巻きか？それとも誰の下僕でもなく、己の意志で立ち上がる「偉大なる"
 " Delfador」なのか！選べ、我が弟子よ！"
 
@@ -7969,7 +7969,7 @@ msgid ""
 "I wasn’t going to wait around to be disinherited, or worse. It was always "
 "going to be him or me — I just beat him to the finish."
 msgstr ""
-"廃嫡ならまだしも、それ以上の仕打ちを受けるのを大人しく待つことなど、できるはずがない。いずれは、あいつか私のどちらかが死ぬしかなかったのだ——ゆえに、私が先手を打ったまで。"
+"廃嫡ならまだしも、それ以上の仕打ちを受けるのを大人しく待つことなど、できるはずがない。いずれは、あいつか私のどちらかが死ぬしかなかったのだ——だから、先に殺っただけのこと。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:526
@@ -7978,8 +7978,8 @@ msgid ""
 "your mind, Eldred. Garard was harsh; I cannot deny that. But you’re a fool "
 "if you think he ever felt anything but love for you."
 msgstr ""
-"愚か者め。お前の心に根を張った狂気と議論するつもりはない、Eldred。Garard "
-"様が厳しい父親であったことは事実だ。だが、あの御方がお前に抱いていた感情が、愛情以外の何物でもないと気付かぬというのなら、やはりお前は救いようのない愚か者だ。"
+"愚か者め。お前の心に根を張っている狂気と議論するつもりはない、Eldred。Garard "
+"様が厳しい父親であったことは事実だ。だが、その根底にあったものが、お前に対する愛情以外の何物でもなかったと気付かぬというのなら、やはりお前は救いようのない愚か者だ。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:533
@@ -7987,6 +7987,7 @@ msgid ""
 "I’m no fool, Delfador. Day and night, my parents fought. Whether said in "
 "truth or in anger, there are some things my father can never take back."
 msgstr ""
+"私は愚かではないぞ、Delfador。昼夜を問わず、あいつと母上は口論をしていた。それが本心であれ、怒りに任せたものであれ、あの男が吐き出した言葉の中には、到底許しがたいものがあるのだ。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:537
@@ -7995,6 +7996,7 @@ msgid ""
 " either. I know, believe me. But she’s the snake who’s made me king, and "
 "that’s good enough."
 msgstr ""
+"それに、私が母上に幻想を抱いているなどとは思わぬことだ。あの女が毒蛇であることなど、先刻承知の上なんだよ。だが、私を王にしてくれた毒蛇だ。それだけで十分なのだ。"
 
 #. [message]: speaker=Eldred
 #. this refers to the events of S05 The Deceiver and S06 Ring of Swords
@@ -8004,6 +8006,8 @@ msgid ""
 "early days of the war, she betrayed his plans to the Whitefangs; fled to the"
 " orcs while they surrounded you and him both."
 msgstr ""
+"言っておくが、母上が Garard を陥れようとしたのは、これが初めてではない。開戦当初のことだ。母上はあの男の作戦を Whitefang "
+"に漏らし、お前ら二人が包囲されている隙を突いて、オークどもの元へ走ったのだよ。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:553
@@ -8012,6 +8016,8 @@ msgid ""
 " the orcs. My childhood would have been so different if things had "
 "succeeded..."
 msgstr ""
+"お前と Deoran が母上を奪還し、Lionel が戦って Garard "
+"をオークの包囲から救い出したのは、もちろん言うまでもないだろうがな。あれが成功していれば、私の幼少期はまるで違うものになっていただろうに・・・"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:565
@@ -8020,6 +8026,8 @@ msgid ""
 "hopeless fights, are you — you bested Malal, escaped the frozen north, "
 "scattered our saurians."
 msgstr ""
+"驚いたぞ、お前がまだ諦めていないとはな、魔道士！もっとも、お前は勝ち目のない戦いには慣れているのだったな—— Malal "
+"を打ち破り、凍てつく北方から脱出し、我らのトカゲどもを蹴散らしてきたのだからな。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:569
@@ -8030,13 +8038,16 @@ msgid ""
 "the saurians and orcs into working together, getting Lionel sent away, "
 "pitting Garard against Arand..."
 msgstr ""
+"Malal は頭の切れる男だった。実に狡猾で、執念深くもあった。Garard がなぜ Malal "
+"の怒りを買ったのかは、母上しか知らんが、ともかく、あの二人はあらゆる手管を用いて、Garard "
+"を殺し、その名声を地に落とそうと画策していたのだ。トカゲとオークを操って共闘させ、Lionel を遠ざけ、Garard と Arand を相争わせ・・・"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:573
 msgid ""
 "Delfador, you weren’t supposed to survive Malal. You weren’t supposed to "
 "survive <i><b>any</b></i> of that."
-msgstr ""
+msgstr "Delfador、お前が Malal から生きて逃れるはずはなかったのだ。いや、どの戦いにおいても、お前が生き延びるはずはなかったのだよ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:577
@@ -8045,25 +8056,27 @@ msgid ""
 "listened to Deoran, would that I had understood the seer! Had I been but a "
 "little wiser, so many lives might yet have been saved."
 msgstr ""
+"もっと多くの者が共に生き延びられればよかったのだ、Eldred。Deoran "
+"の忠告に耳を傾けておれば、予言者の言葉を正しく理解できておれば！私があとほんの少しでも賢明であったなら、どれほど多くの命が救われていたか・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:581
 msgid ""
 "I can never atone for the lives I cost, but I can yet honor them through my "
 "actions. And right now, honoring them means stopping you."
-msgstr ""
+msgstr "私のせいで失われた命を贖うことなど到底できぬが、これからの行動によって報いることはできる。そして、それは今まさに、お前を止めることなのだ！"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:627
 msgid "NO!"
-msgstr ""
+msgstr "くそっ！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:631
 msgid ""
 "It’s over, Eldred. Down on your knees, now! The rest of you; get back! BACK,"
 " or you’ll have to find yet another king!"
-msgstr ""
+msgstr "終わりだ、Eldred。ひざまずけ、今すぐに！他の者は下がれ！下がるのだ！さもなくば、次の王を探さねばならぬ事態が生じるぞ！"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:635
@@ -8072,6 +8085,8 @@ msgid ""
 " conjurer. No, I prepared for this. After my failed attack on Arand, I "
 "took... precautions."
 msgstr ""
+"ここまで来て、しくじるなど・・・まして、三流の奇術師の手にかかって終わるなど！いや、こんな時のための備えがある。Arand "
+"襲撃が不首尾に終わった後、手を打っておいた・・・これが。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:639
@@ -8080,6 +8095,9 @@ msgid ""
 "\n"
 "You like magic so much? Once I drink from Jevyan’s Cup, I’ll have enough magic to turn you all to dust!"
 msgstr ""
+"この秘薬は、旧大陸からはるばる渡ってきたものらしいぞ、Delfador。Malal がなかなか手放さなくて、随分苦労させられた。\n"
+"\n"
+"お前は魔法が好きだろう？この「Jevyan の杯」を飲み干せば、お前たちを全て塵にできるほどの魔力が、我がものとなるのだ！"
 
 #. [message]: speaker=Delfador
 #. liches are skeletal; they don't have blood. This is a consumable artifact
@@ -8087,14 +8105,14 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:646
 msgid ""
 "Is that— are you holding <i>lich’s blood</i>!? How— Put it down, Eldred!"
-msgstr ""
+msgstr "それは、まさか——お前が手にしているのは「リッチの血」か！？一体どうやって・・・それを置くのだ、Eldred！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:650
 msgid ""
 "Whatever you do, don’t you dare drink it! We have no idea what will happen! "
 "Don’t you dare, Eldred! ELDRED!"
-msgstr ""
+msgstr "何があろうと、絶対にそれを口にしてはならん！何が起こるか、予想もつかんのだぞ！やめろ、Eldred！ELDRED！！"
 
 #. [unit]: id=MiddleEldred, type=King Eldred # use a new ID so events don't
 #. interfere
