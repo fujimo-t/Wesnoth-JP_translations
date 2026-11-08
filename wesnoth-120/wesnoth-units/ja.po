@@ -1,5 +1,6 @@
 # Translators:
 # RatArmy, 2026
+# h22, 2026
 # 
 msgid ""
 msgstr ""
@@ -7,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
 "PO-Revision-Date: 2026-03-28 19:10+0000\n"
-"Last-Translator: RatArmy, 2026\n"
+"Last-Translator: h22, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5803,7 +5804,7 @@ msgstr ""
 #. [unit_type]: id=Raven, race=raven
 #: data/core/units/monsters/Raven.cfg:4
 msgid "Raven"
-msgstr "カラス"
+msgstr "ワタリガラス"
 
 #. [unit_type]: id=Raven, race=raven
 #: data/core/units/monsters/Raven.cfg:18
@@ -5814,7 +5815,7 @@ msgid ""
 "vivacious behavior ties them to the legacy of battle and its consequences "
 "for the living, rather than rot and the finality of the tomb."
 msgstr ""
-"カラス（Raven）たちが軍隊を追いかけるのは、戦争の果実としてのゴミや骸骨にありつくのが目的です。それが理由でカラスたちは、死、戦争、運命といった言葉と結び付けられることがしばしばです。通常は彼らが降霊術と関係あるとは思われていません。彼らの厚かましくも陽気な振る舞いは、腐敗とか、お墓の持つ終末感よりもむしろ、戦争の遺産や、生き続けることとの因果関係と結び付けられることが多いからです。"
+"ワタリガラス（Raven）たちが軍隊を追いかけるのは、戦争の果実としてのゴミや骸骨にありつくのが目的です。それが理由でワタリガラスたちは、死、戦争、運命といった言葉と結び付けられることがしばしばです。通常は彼らが降霊術と関係あるとは思われていません。彼らの厚かましくも陽気な振る舞いは、腐敗とか、お墓の持つ終末感よりもむしろ、戦争の遺産や、生き続けることとの因果関係と結び付けられることが多いからです。"
 
 #. [unit_type]: id=War Harbinger, race=raven
 #: data/core/units/monsters/Raven_Harbinger.cfg:4
@@ -5832,7 +5833,7 @@ msgid ""
 msgstr ""
 "戦争の先触れ者（War Harbinger）\n"
 "\n"
-"カラスたちが軍隊を追いかけるのは、戦争の果実としてのゴミや骸骨にありつくのが目的です。このことが、黒い鳥たちは争い事に結びつく超自然的な力の使者だ、という言い伝えの元になっているのです。カラスの中で大きな者たちの一部は、むき出しの飾りを身につけて、騒々しい鳴き声を発する群れを率いたりもしますが、それこそが戦争が差し迫っている兆候なのです。"
+"ワタリガラスたちが軍隊を追いかけるのは、戦争の果実としてのゴミや骸骨にありつくのが目的です。このことが、黒い鳥たちは争い事に結びつく超自然的な力の使者だ、という言い伝えの元になっているのです。ワタリガラスの中で大きな者たちの一部は、むき出しの飾りを身につけて、騒々しい鳴き声を発する群れを率いたりもしますが、それこそが戦争が差し迫っている兆候なのです。"
 
 #. [unit_type]: id=Dark Omen, race=raven
 #: data/core/units/monsters/Raven_Omen.cfg:4
@@ -5849,7 +5850,7 @@ msgid ""
 msgstr ""
 "暗黒の予言者（Dark Omen）\n"
 "\n"
-"カラスたちが軍隊を追いかけるのは、戦争の果実としてのゴミや骸骨にありつくのが目的です。このことが、黒い鳥たちは争い事に結びつく超自然的な力の使者だ、という言い伝えの元になっているのです。一部のカラスが見せるその異常な能力は、その発想を裏付けるものでしかありません。"
+"ワタリガラスたちが軍隊を追いかけるのは、戦争の果実としてのゴミや骸骨にありつくのが目的です。このことが、黒い鳥たちは争い事に結びつく超自然的な力の使者だ、という言い伝えの元になっているのです。一部のワタリガラスが見せるその異常な能力は、その発想を裏付けるものでしかありません。"
 
 #. [unit_type]: id=Roc, race=monster
 #: data/core/units/monsters/Roc.cfg:4

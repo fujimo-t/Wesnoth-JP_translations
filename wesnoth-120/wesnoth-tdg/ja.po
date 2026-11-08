@@ -230,64 +230,64 @@ msgstr "シナリオ 8：霧中の怪物"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
 msgid "Complete <i>Omaranth</i> before turns run out."
-msgstr ""
+msgstr "『Omaranth』を制限ターン内にクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
 msgid "Scenario 9: Sapper"
-msgstr ""
+msgstr "シナリオ 9：工兵"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
 msgid "Command four ghosts at once in <i>Houses of the Dead</i>."
-msgstr ""
+msgstr "『死者の館』において、同時に４体のゴーストを従える。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
 msgid "Scenario 10: Army of the Dead"
-msgstr ""
+msgstr "シナリオ 10：死者の軍団"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:35
 msgid "Complete <i>Clan Blackcrest</i> in 10 turns or less."
-msgstr ""
+msgstr "『Blackcrest の氏族』を 10 ターン以内にクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:35
 msgid "Scenario 11: Combined Arms"
-msgstr ""
+msgstr "シナリオ 11：混成部隊"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
 msgid "Destroy all three enemy keeps in <i>The Traitor</i>."
-msgstr ""
+msgstr "『逆賊』において、敵の3つの主塔をすべて破壊する。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
 msgid "Scenario 12: Scorched Earth"
-msgstr ""
+msgstr "シナリオ 12：焦土"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
 msgid "Defeat all enemy leaders in <i>Revelry, Revisited</i>."
-msgstr ""
+msgstr "『宴の後』において、敵のリーダーをすべて倒す。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
 msgid "Scenario 13: Stand Fast"
-msgstr ""
+msgstr "シナリオ 13：不退転"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:38
 msgid ""
 "Complete the first phase of <i>Long Live the Queen</i> without moving "
 "Delfador."
-msgstr ""
+msgstr "『女王よ永遠なれ』の最初のフェーズを、Delfador を移動させずにクリアする。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:38
 msgid "Scenario 14: Armchair General"
-msgstr ""
+msgstr "シナリオ 14：安楽椅子将軍"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:7
 msgid "Attack:"
@@ -299,7 +299,7 @@ msgstr "詠唱："
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:9
 msgid "Passive:"
-msgstr ""
+msgstr "常時効果："
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:20
 msgid "Magic Missile"
@@ -308,7 +308,7 @@ msgstr "魔弾"
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:22
 msgid ""
 "Ranged 7x3 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
-msgstr ""
+msgstr "遠隔攻撃 7x3「火炎」「<ref dst='weaponspecial_magical'>魔法</ref>」"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:29
 msgid "Shield"
@@ -319,6 +319,8 @@ msgid ""
 "Spend <span color='#00bbe6' style='italic'>8 XP</span> to gain an additional <i>20% terrain defense</i> (chance to evade) until the start\n"
 "          of your next turn or until cancelled."
 msgstr ""
+"<span color='#00bbe6' style='italic'>8 XP</span> "
+"を消費して、次の自ターン開始時か解呪されるまで、「地形効果（回避率）」を <i>20%</i> 増加させる。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:39
 msgid "Panacea"
@@ -329,6 +331,9 @@ msgid ""
 "Spend <span color='#00bbe6' style='italic'>8xp</span> to fully heal the lowest-health adjacent human ally, and increase its\n"
 "          attacks, strikes, and damage by its level. <span color='#dd0000' weight='bold'>Next turn, it dies.</span>"
 msgstr ""
+"<span color='#00bbe6' style='italic'>8xp</span> を消費して、隣接する最も HP "
+"の低い人間の味方を全快させ、そのレベル分だけ攻撃数・攻撃回数・ダメージを増加させる。<span color='#dd0000' "
+"weight='bold'>次ターンで、そのユニットは死亡する。</span>"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:49
 msgid "Animate Mud"
@@ -339,8 +344,9 @@ msgid ""
 "Learn to recruit <i><ref dst='unit_Mudcrawler'>Mudcrawlers</ref></i>. Mudcrawlers gain +100% damage and XP\n"
 "               while adjacent to you, but dissolve at the end of each scenario."
 msgstr ""
-"<b><ref dst='unit_Mudcrawler'>マッドクロウラー</ref></b>を雇用できるようになる。\n"
-"　　　　　　マッドクロウラーはあなたに隣接している間、与えるダメージと XP が 100% 加算されるが、各シナリオの終了時に消滅する。"
+"<b><ref "
+"dst='unit_Mudcrawler'>マッドクロウラー</ref></b>を雇用できるようになる。マッドクロウラーは術者に隣接している間、敵に与えるダメージと"
+" XP が 100% 加算されるが、各シナリオの終了時に消滅する。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:63
 msgid "Chill Touch"
@@ -351,6 +357,7 @@ msgid ""
 "Melee 6x3 cold, <i><ref dst='weaponspecial_slow'>slows</ref></i>. Replaces "
 "your default melee attack."
 msgstr ""
+"近接攻撃 6×3 「冷気」「<ref dst='weaponspecial_slow'>遅化</ref>」。デフォルトの近接攻撃と置き換わる。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:72
 msgid "Levitate"
@@ -362,6 +369,8 @@ msgid ""
 " and the <i><ref dst='ability_skirmisher'>skirmisher</ref></i> ability until"
 " the start of your next turn or until cancelled."
 msgstr ""
+"<span color='#00bbe6' style='italic'>4 XP</span> を消費して、「飛行」と「<ref "
+"dst='ability_skirmisher'>散兵</ref>」の能力を獲得し、次の自ターン開始時か解呪されるまで持続する。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:82
 msgid "Find Familiar"
@@ -372,6 +381,8 @@ msgid ""
 "Begin each scenario with your trusty pet <i><ref dst='unit_Raven'>Raven</ref></i>.\n"
 "               Your familiar’s level and XP persist across scenarios, but reset if it dies."
 msgstr ""
+"忠実なる従者の「<ref dst='unit_Raven'>ワタリガラス</ref>」と共に各シナリオを開始する。\n"
+"使い魔のレベルと XP はシナリオをまたいで維持されるが、死亡した場合はリセットされる。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:91
 msgid "Mnemonic"
@@ -379,7 +390,7 @@ msgstr "記憶術"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:93
 msgid "Whenever an adjacent ally gains XP, you gain the same amount of XP."
-msgstr ""
+msgstr "隣接する味方が XP を獲得するたびに、術者も同量の XP を獲得する。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:105
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:171
@@ -390,7 +401,7 @@ msgstr "ファイアボール"
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:107
 msgid ""
 "Ranged 8x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
-msgstr ""
+msgstr "遠隔攻撃 8x4「火炎」「<ref dst='weaponspecial_magical'>魔法</ref>」"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:114
 msgid "Siphon"
@@ -401,6 +412,8 @@ msgid ""
 "Ranged 8x4 arcane, <i><ref dst='weaponspecial_magical'>magical</ref></i> and"
 " <i><ref dst='weaponspecial_drains'>drains</ref></i>."
 msgstr ""
+"遠隔攻撃 8x4「秘術」「<ref dst='weaponspecial_magical'>魔法</ref>」「<ref "
+"dst='weaponspecial_drains'>生命吸収</ref>」"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:123
 msgid "Blizzard"
@@ -413,6 +426,9 @@ msgid ""
 "dst='weaponspecial_slows'>slow</ref></i> enemy units and freeze terrain in a"
 " 3-hex radius."
 msgstr ""
+"<span color='#00bbe6' style='italic'>16 XP</span> と<span color='#c06a61' "
+"style='italic'>攻撃の機会</span>を消費して、半径 3 ヘクス以内の敵ユニットを<ref "
+"dst='weaponspecial_slows'>遅化</ref>状態にし、地形を凍結させる。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:133
 msgid "Counterspell"
@@ -423,6 +439,9 @@ msgid ""
 "Spend <span color='#00bbe6' style='italic'>16 XP</span> to <i>disallow <ref dst='weaponspecial_magical'>magical</ref> attacks</i> in a 3-hex radius, until cancelled.\n"
 "          Disables Delfador’s spells, but not his passive skills."
 msgstr ""
+"<span color='#00bbe6' style='italic'>16 XP</span> を消費して、解呪されるまで半径 3 "
+"ヘクス内での<ref dst='weaponspecial_magical'>魔法</ref>攻撃を無効化する。Delfador "
+"の詠唱は使用不能になるが、常時効果は無効化されない。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:143
 msgid "Polymorph"
@@ -433,20 +452,26 @@ msgid ""
 "Transform into a <ref dst='unit_Frost Stoat Poly'>stoat</ref> (<span color='#00bbe6' style='italic'>1 XP</span>), <ref dst='unit_Cave Bear Poly'>bear</ref> (<span color='#00bbe6' style='italic'>8 XP</span>), <ref dst='unit_Giant Crab'>crab</ref> (<span color='#00bbe6' style='italic'>16 XP</span>), or <ref dst='unit_Roc'>roc</ref> (<span color='#00bbe6' style='italic'>32 XP</span>). Lasts until cancelled.\n"
 "           Replaces Delfador’s attacks, spells, and passives, but does not affect hitpoints."
 msgstr ""
+"<ref dst='unit_Frost Stoat Poly'>氷オコジョ</ref>（<span color='#00bbe6' "
+"style='italic'>1 XP</span>）、<ref dst='unit_Cave Bear Poly'>洞窟熊</ref>（<span "
+"color='#00bbe6' style='italic'>8 XP</span>）、<ref dst='unit_Giant "
+"Crab'>巨大蟹</ref>（<span color='#00bbe6' style='italic'>16 XP</span>）、<ref "
+"dst='unit_Roc'>ロック鳥</ref>（<span color='#00bbe6' style='italic'>32 "
+"XP</span>）のいずれかに変身する。解呪されるまで持続。Delfador の攻撃・呪文・常時効果を置き換えるが、HP には影響しない。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:157
 msgid "Glamour"
-msgstr ""
+msgstr "魅了"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:159
 msgid ""
 "Gain the <i><ref dst='ability_leadership'>leadership</ref></i> ability."
-msgstr ""
+msgstr "「<ref dst='ability_leadership'>統率</ref>」の能力を得る。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:173
 msgid ""
 "Ranged 12x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
-msgstr ""
+msgstr "遠隔攻撃 12x4「火炎」「<ref dst='weaponspecial_magical'>魔法</ref>」"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:180
 msgid "Dancing Daggers"
@@ -455,11 +480,11 @@ msgstr "剣の舞"
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:182
 msgid ""
 "Ranged 5x8 blade, <i><ref dst='weaponspecial_backstab'>backstab</ref></i>"
-msgstr ""
+msgstr "遠隔攻撃 5x8「斬撃」「<ref dst='weaponspecial_backstab'>奇襲</ref>」"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:189
 msgid "Enthrall"
-msgstr ""
+msgstr "幻惑"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:191
 msgid ""
@@ -467,16 +492,22 @@ msgid ""
 "          Enemies in a 2-hex radius suffer a -10% penalty to both their terrain defense\n"
 "          (chance to evade) and chance to hit (except for magical attacks). Lasts until cancelled."
 msgstr ""
+"<span color='#00bbe6' style='italic'>48 XP</span> と<span color='#c06a61' "
+"style='italic'>攻撃の機会</span>を消費して、幻術により、威厳あふれるドレークへと姿を変える。半径 2 "
+"ヘクス以内の敵は、地形効果（回避率）と命中率（魔法攻撃を除く）の両方に -10% のペナルティを受ける。解呪されるまで持続する。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:199
 msgid "Animate Fire"
-msgstr "火の守護者召喚"
+msgstr "炎の守護者召喚"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:201
 msgid ""
 "Learn to recruit <i><ref dst='unit_Fire Guardian'>Fire Guardians</ref></i>. Fire Guardians gain +100% damage and XP\n"
 "               while adjacent to you, but dissipate at the end of each scenario."
 msgstr ""
+"<ref dst='unit_Fire "
+"Guardian'>炎の守護者</ref>を雇用できるようになる。炎の守護者は術者に隣接している間、敵に与えるダメージと XP が 100% "
+"加算されるが、各シナリオの終了時に消滅する。"
 
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:208
@@ -489,42 +520,51 @@ msgstr "絶命回避"
 msgid ""
 "Whenever one of your human soldiers dies, they are instead returned safely "
 "to your recall list."
-msgstr ""
+msgstr "味方の人間兵が死亡した際、絶命を回避して召還リストに登載される。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:224
 msgid ""
 "Ranged 17x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
-msgstr ""
+msgstr "遠隔攻撃 17x4「火炎」「<ref dst='weaponspecial_magical'>魔法</ref>」"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:231
 msgid "Chain Lightning"
-msgstr ""
+msgstr "連鎖雷撃"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:233
 msgid ""
 "Ranged 14x3 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>. This attack can be used multiple times on offense, but\n"
 "              consecutive uses strike one fewer time."
 msgstr ""
+"遠隔攻撃 14x3 「火炎」「<ref "
+"dst='weaponspecial_magical'>魔法</ref>」。攻撃時に複数回使用できるが、連続で使用するごとに攻撃回数が 1 "
+"回ずつ減少する。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:240
 msgid "Time Dilation"
-msgstr ""
+msgstr "時の歪み"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:242
 msgid ""
 "Spend <span color='#00bbe6' style='italic'>48 XP</span> to grant yourself and all allies double movement and a second attack this turn.\n"
 "          When this turn ends, affected units become <ref dst='weaponspecial_slows'>slowed</ref>."
 msgstr ""
+"<span color='#00bbe6' style='italic'>48 XP</span> "
+"を消費して、このターン中、術者とすべての味方の移動力と攻撃の機会を２倍にする。このターンが終了すると、対象となったユニットは「<ref "
+"dst='weaponspecial_slows'>遅化</ref>」状態となる。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:250
 msgid "Cataclysm"
-msgstr ""
+msgstr "天変地異"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:252
 msgid ""
 "Spend <span color='#00bbe6' style='italic'>99 XP</span> and <span color='#c06a61' style='italic'>your attack</span> to blast everything in a 5-hex radius. Units (except Delfador) will be reduced\n"
 "          to 1 HP. Dries water, melts snow, burns forest, and levels castles/villages."
 msgstr ""
+"<span color='#00bbe6' style='italic'>99 XP</span>と<span color='#c06a61' "
+"style='italic'>攻撃の機会</span>を消費して、半径 5 ヘクス以内のすべてを吹き飛ばし、Delfador を除くユニットの HP が"
+" 1 となる。水を干上がらせ、雪を溶かし、森を焼き払い、城や村を更地にする。"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:49
@@ -552,6 +592,10 @@ msgid ""
 "<span size='small'><i>Delfador knows many useful spells, and will learn more as he levels-up automatically throughout the campaign. Delfador does not use XP to level-up. Instead,\n"
 "Delfador uses XP to cast certain spells. If you select spells that cost XP, <b>double- or right-click on Delfador to cast them</b>. You can only cast 1 spell per turn.</i></span>"
 msgstr ""
+"<span size='small'>Delfador "
+"は既に多くの有用な魔法を習得しており、キャンペーン中の自動的なレベルアップに応じて、さらに多くの魔法を習得していきます。レベルアップには XP "
+"を消費しませんが、特定の呪文の使用に XP を消費し、<b>Delfador "
+"をダブルクリックまたは右クリックすることで詠唱が可能になります</b>。呪文の詠唱は 1 ターンに 1 回のみ可能です。</span>"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:57
@@ -582,7 +626,7 @@ msgstr "後で選択する"
 msgid ""
 "dazed: This unit is dazed. It suffers a -10% penalty to both its defense and"
 " chance to hit (except for magical attacks)."
-msgstr ""
+msgstr "眼痛：このユニットは目がくらんでいます。回避率と命中率の両方に -10% のペナルティを受けます（魔法攻撃は除く）。"
 
 #. [scenario]: id=00_Graduation
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:6
@@ -651,6 +695,8 @@ msgid ""
 "challenge even for experienced players! If you’re new to Wesnoth, I strongly"
 " suggest trying a lower difficulty."
 msgstr ""
+"注意：難易度「絶望的」は、熟練のプレイヤーにとっても戦慄するほどの難関となるよう設計されています！Wesnoth "
+"のプレイが初めての方は、より低い難易度を選択されることを強くお勧めします。"
 
 #. [message]
 #. notice that appears at the beginning of the scenario if you select Hard
@@ -661,6 +707,8 @@ msgid ""
 "experienced players! If you’re new to Wesnoth, you may want to try a lower "
 "difficulty."
 msgstr ""
+"注意：難易度「難しい」は、熟練のプレイヤーにとっても厳しい難関となるよう設計されています！Wesnoth "
+"のプレイが初めての方は、より低い難易度を選択されることをお勧めします。"
 
 #. [message]: speaker=Methor
 #. the fire wraiths are not visible yet. Delfador is about to appear on the
@@ -992,7 +1040,7 @@ msgstr "もう着いたかな？"
 msgid ""
 "Nearer than the last time you asked, yet further than we will be the next. "
 "Really apprentice, would it kill you to learn a proper seeker spell?"
-msgstr "前回お前が尋ねた時よりは近く、次に尋ねる時よりは遠い。まったく、まともな標定術を覚えたら死ぬとでも言うのか？見習いよ。"
+msgstr "前回お前が尋ねた時よりは近く、次に尋ねる時よりは遠い。まったく、まともな探知魔法を覚えたら死ぬとでも言うのか？見習いよ。"
 
 #. [message]: speaker=Delfador
 #. Delfador has never met King Garard II, but rather idolizes him
@@ -1180,12 +1228,12 @@ msgstr "走れ！沼地まで逃げろ！"
 #. [scenario]: id=01_Stirrings_of_War
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:495
 msgid "Noooo, $unit.name!"
-msgstr ""
+msgstr "そんなぁぁぁ、 $unit.name が！"
 
 #. [scenario]: id=01_Stirrings_of_War
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:496
 msgid "Flee, flee! $unit.name’s dead!"
-msgstr ""
+msgstr "逃げろ、逃げろ！$unit.name が死んだぞ！"
 
 #. [message]: speaker=Ozgob
 #. said in response to goblins running away from the fight
@@ -2155,7 +2203,7 @@ msgstr "気をつけろ！森の中に獣がいるぞ！"
 msgid ""
 "No magic more unusual than a fireball, Delfador. We don’t want to appear "
 "threatening."
-msgstr ""
+msgstr "ファイアボール以外の珍しい魔法は使うな、Delfador。警戒されたくないのだ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:411
@@ -2298,6 +2346,8 @@ msgid ""
 "of my own ilk, yet still I hope to return to Lintanir once my war-duty is "
 "done."
 msgstr ""
+"実のところ、再び参陣して同胞と行動を共にできることを待ち望んでいることは否定できないが、それでもなお、軍務を完遂次第、Lintanir "
+"へ帰還したいと願っている。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:579
@@ -2589,7 +2639,7 @@ msgstr ""
 msgid ""
 "Spend 4 XP to gain flight and the skirmisher ability until the start of your"
 " next turn or until cancelled."
-msgstr ""
+msgstr "4 XP を消費して、「飛行」と「散兵」の能力を獲得し、次の自ターン開始時か解呪されるまで持続する。"
 
 #. [message]
 #. pale spy meaning Asheviere. Referencing Asheviere resolving to kill Garard,
@@ -2614,7 +2664,7 @@ msgstr "仄暗き沼地が浮かび上がる。金の袋と密猟者、鏡と煙
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1785
 msgid ""
 "Spend 16 XP to disallow magical attacks in a 3-hex radius, until cancelled."
-msgstr ""
+msgstr "16 XP を消費して、解呪されるまで半径 3 ヘクス内での魔法攻撃を無効化する。"
 
 #. [message]
 #. referencing the civil war when Asheviere takes power
@@ -3163,7 +3213,7 @@ msgstr "絶対にやってやる！ Wesnoth のために！"
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:548
 msgid "Fail to rescue Asheviere before turns run out"
-msgstr "規定のターンが終了するまでに Asheviere の救出ができない"
+msgstr "制限ターン内に Asheviere の救出ができない"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:551
@@ -3968,19 +4018,19 @@ msgstr "Saurgrath の遺跡"
 #. [trait]: id=aged2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:89
 msgid "aged"
-msgstr ""
+msgstr "老化"
 
 #. [trait]: id=aged2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:90
 msgid "female^aged"
-msgstr ""
+msgstr "老化"
 
 #. [trait]: id=aged2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:91
 msgid ""
 "Units with the <italic>text='aged'</italic> trait have 8 hitpoints less and "
 "suffer from a 1 point decrease in movement and damage."
-msgstr ""
+msgstr "「老化」の特性を持つユニットは、HP が 8 ポイント減少し、移動力と敵に与えるダメージがそれぞれ 1 ポイント減少する。"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:108
@@ -5877,6 +5927,9 @@ msgid ""
 "South: Tath\n"
 "North:<span strikethrough='true'> Dwarven Doors </span>"
 msgstr ""
+"Abezの浅瀬へようこそ\n"
+"南：Tath\n"
+"北：<span strikethrough='true'>ドワーフの戸口</span>"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:609
@@ -6568,7 +6621,7 @@ msgstr "初めて実戦に臨んだ折りに立っていたのは、あの辺り
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:504
 msgid ""
 "Welcome to Garard’s Wold, last civilized town north of the Great River."
-msgstr "「Garard 高原」へようこそ。「大いなる川」以北で最果ての街。"
+msgstr "Garard 高原へようこそ。大いなる川以北で最果ての街。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:526
@@ -7839,7 +7892,7 @@ msgid ""
 "find and intercept Eldred before he could turn anyone else to his cause."
 msgstr ""
 "見よ、あの長い隊列を！王子は——いや王と呼ぶべきか——Dan’Tonk "
-"の長官を臣従させた折に、さらに兵を増強したに違いない。見事な標定術だったな、Delfador よ。Eldred "
+"の長官を臣従させた折に、さらに兵を増強したに違いない。見事な探知魔法だったな、Delfador よ。Eldred "
 "がこれ以上、他の者を味方に引き入れる前に、こうして捕捉して邀撃することができたのだからな。"
 
 #. [message]: speaker=$companion_id
@@ -8135,42 +8188,42 @@ msgstr "Eldred"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:821
 msgid "Finally, I understand."
-msgstr ""
+msgstr "ついに、私は理解した。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:825
 msgid "I can make the pain all go away. I can make everything better again."
-msgstr ""
+msgstr "この痛みは完全に消し去ることができる。すべてを作り直すことが可能なのだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:830
 msgid "...you can?"
-msgstr ""
+msgstr "・・・できるというのか？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:847
 msgid "I just need to kill everyone else first."
-msgstr ""
+msgstr "まずは、他の者を全て殺しさえすればいいのだ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:886
 msgid "Everything is so clear now. I see the past; the future."
-msgstr ""
+msgstr "今や全てが明らかとなった。私には見える。過去も。未来も。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:890
 msgid "Your eyes were clouded. You could not tell the truth from the lie."
-msgstr ""
+msgstr "お前の目は曇っていた。真と偽の区別さえもできなかった。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:896
 msgid "You still can’t, can you?"
-msgstr ""
+msgstr "今もなお、出来ぬのであろう？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1141
 msgid "Give up."
-msgstr ""
+msgstr "諦めろ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1280
@@ -8178,23 +8231,24 @@ msgid ""
 "Your achievements are undone. Your king is dead. The ghosts of the past will"
 " always haunt you, Delfador war-mage."
 msgstr ""
+"お前の成したことは、全てが無に帰した。お前の王は死んだのだ。過去の亡霊が、片時も休まずにお前を苛み続けるだろう、戦闘魔術師 Delfador よ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1379
 msgid "No."
-msgstr ""
+msgstr "無駄だ。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1426
 msgid "You really still don’t understand, do you?"
-msgstr ""
+msgstr "お前は本当に、まだ分からぬようだな？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1448
 msgid ""
 "You had your chance to change fate. Your revelation came too late. The "
 "future is already written."
-msgstr ""
+msgstr "運命を変える機会はお前にもあった。だが、お前はみすみす見逃してきたのだ。もはや未来を書き換えることは出来ぬ。"
 
 #. [message]: speaker=narrator
 #. prophecy callback
@@ -8202,17 +8256,17 @@ msgstr ""
 msgid ""
 "You have no title, no country, no king. You are a failure. Alone, you are "
 "nothing."
-msgstr ""
+msgstr "称号もなく、国もなく、王もない。お前は負けたのだ。孤独で、何者でもない。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1534
 msgid "Nothing? I am Delfador."
-msgstr ""
+msgstr "何者でもないだと？我こそは Delfador。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1538
 msgid "And you are dust."
-msgstr ""
+msgstr "そしてお前は塵となる。"
 
 #. [message]: speaker=narrator
 #. 13 kings is made-up, because 13 is an unlucky number. 12 non-Eldred kings
@@ -8225,6 +8279,9 @@ msgid ""
 "\n"
 "With him ends the story of the sons of Haldric; that unbroken line of kings stretching five hundred years back to the Green Isle itself."
 msgstr ""
+"かくして、Wesnoth 第１３代国王 Eldred は滅び去った。\n"
+"\n"
+"その最期とともに、Haldric の息子たちの物語も幕を閉じる。５００年の長きに渡り、途切れることなく永々と続いてきた、緑の島にまで遡る王統の物語が。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1565
@@ -8233,18 +8290,20 @@ msgid ""
 " army, but reinforcements from Weldyn eventually repulse the beleaguered "
 "rebels. Neither side wins a decisive military victory."
 msgstr ""
+"疲弊した Delfador であったが、Eldred から Asheviere へと引き継がれた軍勢を相手に奮戦した。しかし、Weldyn "
+"からの増援により、反乱軍は次第に追い詰められ、後退を余儀なくされた。双方とも決定的な勝利を収めるには至っていない。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1569
 msgid ""
 "As word spreads of the kings’ deaths, a terrible foreboding seems to settle "
 "over the Wesnothian countryside."
-msgstr ""
+msgstr "二人の王の死が伝わるにつれ、重苦しい空気が Wesnoth の全土に広がっていった。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1573
 msgid "After all, the civil war has only just begun..."
-msgstr ""
+msgstr "Wesnoth の争乱は、まだ始まったばかりなのだ・・・"
 
 #. [unit_type]: id=Cave Entrance, race=mechanical
 #: data/campaigns/The_Deceivers_Gambit/units/Cave_Entrance.cfg:5
@@ -8513,6 +8572,7 @@ msgid ""
 "interesting feature is their water spit, which is far more noxious than that"
 " of their smaller cousins."
 msgstr ""
+"巨大蟹は普通のカニと変わらぬ姿をしているが、とにかく巨大である。そのハサミは馬の脚よりも大きく、甲羅は並の鎧よりも分厚い。だが最も特徴的なのは吐き出す水であり、小型の近縁種が吐くものよりも遥かに有害である。"
 
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:70

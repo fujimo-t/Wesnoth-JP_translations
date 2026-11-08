@@ -6,6 +6,7 @@
 # 
 # Translators:
 # RatArmy, 2026
+# h22, 2026
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
 "PO-Revision-Date: 2026-03-28 19:10+0000\n"
-"Last-Translator: RatArmy, 2026\n"
+"Last-Translator: h22, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5192,17 +5193,17 @@ msgstr ""
 #. [race]: id=raven
 #: data/core/units.cfg:337
 msgid "race^Raven"
-msgstr "カラス"
+msgstr "ワタリガラス"
 
 #. [race]: id=raven
 #: data/core/units.cfg:338
 msgid "race+female^Raven"
-msgstr "カラス"
+msgstr "ワタリガラス"
 
 #. [race]: id=raven
 #: data/core/units.cfg:339
 msgid "race^Ravens"
-msgstr "カラス"
+msgstr "ワタリガラス"
 
 #. [race]: id=raven
 #: data/core/units.cfg:340
@@ -5213,11 +5214,11 @@ msgid ""
 "\n"
 "As intelligent scavengers, ravens do not need war dead to survive. Some farmers struggle to keep ravens away from freshly sown seeds, but others are happy to have them around as sentries."
 msgstr ""
-"カラス（Raven）は一般的な腐肉食動物で、獲物のお零れをもらうためにしばしば狩人や肉食動物に強力します。グリフォンや猛禽類のような強力な嘴や鉤爪はカラスにはありませんが、その知性とアドバンテージの認識能力は脅威となります。\n"
+"ワタリガラス（Raven）は一般的な腐肉食動物で、獲物のお零れをもらうためにしばしば狩人や肉食動物に強力します。グリフォンや猛禽類のような強力な嘴や鉤爪はワタリガラスにはありませんが、その知性とアドバンテージの認識能力は脅威となります。\n"
 "\n"
-"戦乱の後に死体や負傷者はカラスの獲物となり、敗者の陣営にとってはカラスはやっかいな存在となりますが、一部の勝者はカラスを戦場の栄典とみなします。この観点から暴力と物量を特徴とするオークと人間はカラスと継続的な共生関係を持っています。そのため、カラスは戦争に関するおとぎ話、たとえ話や迷信にキャラクターとして登場します。\n"
+"戦乱の後に死体や負傷者はカラスの獲物となり、敗者の陣営にとってはワタリガラスはやっかいな存在となりますが、一部の勝者はワタリガラスを戦場の栄典とみなします。この観点から暴力と物量を特徴とするオークと人間はワタリガラスと継続的な共生関係を持っています。そのため、ワタリガラスは戦争に関するおとぎ話、たとえ話や迷信にキャラクターとして登場します。\n"
 "\n"
-"知的な腐肉食動物であるため、カラスは戦場を生き延びる必要はありません。一部の農家は植えた作物からカラスを追い払おうと足掻いていますが、他のものたちは衛兵の周囲にいるカラスを見つけると喜びます。"
+"知的な腐肉食動物であるため、ワタリガラスは戦場を生き延びる必要はありません。一部の農家は植えた作物からカラスを追い払おうと足掻いていますが、他のものたちは衛兵の周囲にいるワタリガラスを見つけると喜びます。"
 
 #. [race]: id=troll
 #: data/core/units.cfg:351
