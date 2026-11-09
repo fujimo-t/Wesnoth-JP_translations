@@ -6542,7 +6542,7 @@ msgstr "Aelyn"
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:284
 msgid "Fall back! Hold the walls, protect the fort!"
-msgstr ""
+msgstr "後退せよ！城壁を死守し、砦を護るのだ！"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:364
@@ -6773,7 +6773,7 @@ msgstr "宴の後"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:45
 msgid "Deoran’s Company"
-msgstr ""
+msgstr "Deoran 陣営"
 
 #. [scenario]: id=13_Revelry_Revisited
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:80
@@ -6793,7 +6793,7 @@ msgstr "Gwido 卿"
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:160
 msgid "I’ve pillaged $gold_pickup gold from Eldred’s treasury!"
-msgstr ""
+msgstr "Eldred の軍資金から $gold_pickup ゴールドを奪ったぞ！"
 
 #. [message]: speaker=$companion_id
 #. [message]: speaker=Deoran
@@ -7271,7 +7271,7 @@ msgstr "やはりな。では、道をあけてくれ——部下を連れて、
 msgid ""
 "Colonel! You’re a man of experience, and a man of wisdom. Do you not care "
 "for your king? Do you truly believe that it was by my hand he fell?"
-msgstr "大佐！貴公は経験も見識も兼備しているはずではないか。陛下への忠義を失くしたのか？誠に私が陛下を亡き者にしたと考えているのか？"
+msgstr "隊長！貴公は経験も見識も兼備しているはずではないか。陛下への忠義を失くしたのか？誠に私が陛下を亡き者にしたと考えているのか？"
 
 #. [message]: speaker=unit
 #. said by a male General
@@ -7857,29 +7857,29 @@ msgstr "女王よ永遠なれ"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:38
 msgid "Delfador’s Rebels"
-msgstr ""
+msgstr "Delfador の反乱軍"
 
 #. [side]: type=Orcish Slurbow
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:173
 msgid "Foxtail Outriders"
-msgstr ""
+msgstr "Foxtail の先遣隊"
 
 #. [side]: type=Orcish Warlord
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:193
 msgid "Blackcrest Outriders"
-msgstr ""
+msgstr "Blackcrest 先遣隊"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:410
 msgid "No! Methor... Don’t die!"
-msgstr ""
+msgstr "そんな！Methor ・・・死なないでください！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:414
 msgid ""
 "Delfador, my sweet, wonderful apprentice... I couldn’t be more proud of "
 "you..."
-msgstr ""
+msgstr "Delfador、我が最高の愛弟子よ・・・お前をどれほど誇りに思っていることか・・・"
 
 #. [message]: speaker=Methor
 #. callback to S01 where Methor complains about Delfador not learning a seeker
@@ -8308,14 +8308,14 @@ msgstr "Wesnoth の争乱は、まだ始まったばかりなのだ・・・"
 #. [unit_type]: id=Cave Entrance, race=mechanical
 #: data/campaigns/The_Deceivers_Gambit/units/Cave_Entrance.cfg:5
 msgid "Cave Entrance"
-msgstr ""
+msgstr "洞窟の入口"
 
 #. [unit_type]: id=Cave Entrance, race=mechanical
 #: data/campaigns/The_Deceivers_Gambit/units/Cave_Entrance.cfg:15
 msgid ""
 "A crudely hewn passage into the earth, propped open by ageing wooden "
 "supports."
-msgstr ""
+msgstr "地下へと続く荒削りな通路。古びた木製の支柱で支えられている。"
 
 #. [unit_type]: id=Prince of Wesnoth, race=human, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Arand.cfg:4
@@ -8327,17 +8327,17 @@ msgstr "Wesnoth の王子"
 msgid ""
 "Brothers of a ruling king are traditionally titled ‘Prince’ and bequeathed "
 "wide swathes of land to rule."
-msgstr ""
+msgstr "在位中の王の兄弟には、伝統的に「王子」の称号が与えられ、広大な領地の統治権が授けられる。"
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Arand.cfg:29
 msgid "broadsword"
-msgstr ""
+msgstr "ブロードソード"
 
 #. [unit_type]: id=Queen, race=human, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Asheviere.cfg:4
 msgid "Queen"
-msgstr ""
+msgstr "王妃"
 
 #. [unit_type]: id=Queen, race=human, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Asheviere.cfg:14
@@ -8346,11 +8346,14 @@ msgid ""
 "\n"
 "Nevertheless, even when she does not share political and military power with the king, a queen can still take part in the kingdom’s internal politics, both by influencing the royal court and through her kinship with the royal family."
 msgstr ""
+"指導者として大きな影響力を持つ王妃もいますが、多くは単なる社交の伴侶としての役割にとどまります。\n"
+"\n"
+"しかしながら、王と直接政治や軍事の権力を共有していない場合であっても、王妃は宮廷への影響力や王家との血縁関係を通じて、王国の内政に関与することがあり得ます。"
 
 #. [unit_type]: id=Delfador L1, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L1.cfg:8
 msgid "Mage"
-msgstr ""
+msgstr "魔術師"
 
 #. [unit_type]: id=Delfador L1, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L1.cfg:12
@@ -8361,6 +8364,11 @@ msgid ""
 "\n"
 "Physically frail, and lacking familiarity with combat, magi do possess certain arts which are of great utility in battle."
 msgstr ""
+"人間は自らが暮らす世界の仕組みについて、しばしば思いを巡らせてきました。中には、単なる気晴らしの物思いにとどめず、それを生涯の事業に据えようと試みる者もいます。魔術師の称号に値する者は皆、少なくとも10年の歳月を研究に費やし、常人とは一線を画す知識を蓄積しています。読み書きできる者すら稀な世界において、叡智の探究に身を捧げたこれらの男女は異彩を放つ存在です。その出身者は、野心的な貴族の子弟や、知性とは無縁の肉体労働から逃れようとした人々で占められています。\n"
+"\n"
+"皮肉なことに、その膨大な知識と、それを閉鎖的な集団で独占している現状を鑑みると、魔術師たちの共同体がその気になりさえすれば社会を支配することすら可能でしょう。しかしながら、彼らが真に希求するのは金でも権力でもありません。魔術の探究をそうした目的のための手段とみなす者は、究極の真理に至るに必要な信念を欠いていることが多いのです。\n"
+"\n"
+"肉体的には虚弱で、実戦にも疎いですが、魔術師は戦場において極めて有用な幾つかの術を備えています。"
 
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L1.cfg:31
@@ -8386,6 +8394,9 @@ msgid ""
 "\n"
 "Though physically frail, and untrained as warriors, the ‘Red Magi’ have a number of tricks up their sleeves, including the gouts of fire which may have cemented their colloquial name."
 msgstr ""
+"見習い期間を無事に修了すると、魔術師は茶色いローブを脱ぎ、一人前の証である朱色のマントを授けられます。しかし、この衣替えの持つ意義は庶民には伝わっておらず、彼らは一人前の魔術師を誤って「赤魔術師」と呼んでいます。同様に、「赤」という色も、何もない空間から炎を生み出す能力を象徴していると誤解されがちです。その術は疑いなく有用ではあるものの、魔術師自身にとっては、苦心して得た知識の品のない応用に過ぎないとみなされています。\n"
+"\n"
+"肉体的には虚弱で、戦士としての訓練も受けていませんが、「赤魔術師」たちは、その通称の定着に一役買ったであろう猛火の術をはじめ、幾つもの秘術を懐に潜ませています。"
 
 #. [unit_type]: id=Delfador L3, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L3.cfg:8
@@ -8399,6 +8410,9 @@ msgid ""
 "\n"
 "Though not trained for any sort of combat, if need arises an Arch Mage can unleash the full power of their art, something which is not to be taken lightly."
 msgstr ""
+"「熟練魔術師」の称号は、伝統的に生涯にわたる研究と、それに相応しい業績を上げた者にのみ与えられます。熟練魔術師の多くは、教育の職に就くか、彼らの知恵の価値を認める賢明な者たちの助言者として雇用されます。多くは裕福な後援者に身を寄せており、時折求められる秘術の披露や助言を除けば、些事に煩わされることなく自らの研究に専念できるため、双方にとって利益のある関係となっています。人類が有する知識体系の大半、即ち、科学、哲学、そして世界全体に美をもたらす芸術は、ここから生み出されているのです。\n"
+"\n"
+"実戦の訓練こそ受けていないものの、いざとなれば熟練魔術師はその術の力を解き放つことができ、その威力は決して侮るべきではありません。"
 
 #. [unit_type]: id=Delfador L4, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L4.cfg:8
@@ -8412,18 +8426,21 @@ msgid ""
 "\n"
 "Though they are not warriors, by any means, the application of their art to combat is something that often causes other soldiers to stand aside in awe."
 msgstr ""
+"「大魔術師」の称号は、候補として名が挙がるだけでも、その時代における生ける伝説と呼ばれるに等しく、街の触れ役たちもこの称号を安易に口にしないよう、慎重さを叩き込まれているほどです。称号に値する功績か否かは、時代を代表する魔術師たちの評議会によって厳重に審議され、過半数の得票を得て初めて授与されます。いずれにせよ、大魔術師の栄誉に正式に推挙されるほどの人物は、疑いなく魔術の達人であり、同輩の追随を許さない領域へと至っています。\n"
+"\n"
+"彼らはあらゆる意味で戦士とは異なりますが、戦闘において見せるその術の冴えは、他の兵士たちに畏怖の念を抱かせ、後退させるほどです。"
 
 #. [unit_type]: id=Veteran Cavalier, race=human, description=<i>
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:8
 msgid "Veteran Cavalier"
-msgstr ""
+msgstr "歴戦の精鋭竜騎士"
 
 #. [unit_type]: id=Veteran Cavalier, race=human, description=<i>
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:12
 msgid ""
 "Deoran rides an elvish horse, and has better movement and defense in forest "
 "than do most mounted human units."
-msgstr ""
+msgstr "Deoran はエルフ馬に騎乗しており、一般的な人間の騎馬ユニットより、森林での移動力と回避率が優れています。"
 
 #. [unit_type]: id=Veteran Cavalier, race=human, description=<i>
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:14
@@ -8433,6 +8450,8 @@ msgid ""
 "nations, these diplomats excel at negotiation and leadership, and have the "
 "authority to broker treaties on behalf of the throne."
 msgstr ""
+"思慮深く優秀な高官は、やがて大使の位に昇進し、Wesnoth "
+"の公式な特使となります。遠方の異国に駐在することが多いこれらの外交官は、交渉力と統率力に秀で、王に代わって条約を結ぶ権限を持っています。"
 
 #. [unit_type]: id=Veteran Cavalier, race=human, description=<i>
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:16
@@ -8443,6 +8462,7 @@ msgid ""
 "military skill, these captains are undeterred by even the most overwhelming "
 "opposition."
 msgstr ""
+"国難の折には、第一線を退いた指揮官たちが再びランスを手に取り、祖国のために戦うよう召集されることがあります。市民生活の中で見識を深めつつも、かつての優れた武芸を保持している彼らは、どれほど圧倒的な敵を前にしても決して怯むことはありません。"
 
 #. [attack]: type=pierce
 #. [attack]
@@ -8470,7 +8490,7 @@ msgstr "クロスボウ"
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Prince.cfg:4
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Unarmed.cfg:4
 msgid "Crown Prince"
-msgstr ""
+msgstr "王太子"
 
 #. [unit_type]: id=King Eldred, race=human, gender=male
 #. [unit_type]: id=Crown Prince, race=human, gender=male
@@ -8486,6 +8506,7 @@ msgid ""
 "specialization involves both javelins and swordplay, each weapon covering "
 "the weaknesses of the other."
 msgstr ""
+"王位継承順位の筆頭である王太子は、国王に万一の事態が生じた際に備え、いつでも指揮を執れるよう準備しておかなければなりません。彼ら王家の後継者は、幼少期から多様な戦闘スタイルを訓練され、適性を示した武器のすべてにおいて、その腕前を磨きます。一風変わった専門化の一例として、投げ槍と剣術の双方を組み合わせるスタイルがあり、それぞれの武器が互いの弱点を補い合っています。"
 
 #. [attack]: type=arcane # arcane is mediocre vs Delfador, but strong vs his
 #. summons
@@ -8518,6 +8539,7 @@ msgid ""
 "terrifying sight for opposing infantry, and is often enough to break right "
 "through a defensive line."
 msgstr ""
+"国王たちは武芸を厳しく訓練されます。それは必要に迫られての場合もありますが、多くは先祖たちが戦争で財を成した時代の伝統によるものです。戦闘において、国王は速度よりも力強さを重視して育てられた軍馬に跨り、剣とランスを振るいます。騎兵隊による突撃の先頭に立つ王族の姿は、対峙する歩兵にとって恐ろしい脅威となり、防衛線を一気に突破してしまうことも少なくありません。"
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:26
@@ -8528,7 +8550,7 @@ msgstr "長剣"
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Cave_Bear.cfg:11
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Cave_Bear.cfg:20
 msgid "consume"
-msgstr ""
+msgstr "捕食"
 
 #. [dummy]: id=consume
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Cave_Bear.cfg:12
@@ -8537,6 +8559,7 @@ msgid ""
 "This unit regains <span color='#00FF00'>30%</span> of its maximum hitpoints "
 "whenever it kills a living unit."
 msgstr ""
+"このユニットは生身のユニットを撃破した際、自身の最大 HP の <span color='#00FF00'>30%</span> を回復します。"
 
 #. [unit_type]: id=Eyestalk, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:4
@@ -8557,7 +8580,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:31
 msgid "gaze"
-msgstr ""
+msgstr "視線"
 
 #. [unit_type]: id=Giant Crab, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:4
@@ -8577,7 +8600,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:70
 msgid "spit"
-msgstr ""
+msgstr "噴流"
 
 #. [unit_type]: id=Silverback, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:8
@@ -8592,6 +8615,8 @@ msgid ""
 "the eldest of these creatures are said to possess the strength of a dozen "
 "men."
 msgstr ""
+"類人猿の中で最も巨大な存在がシルバーバックであり、その特徴的な背中の毛色からそう呼ばれています。オーガよりも小柄ですが、遥かに筋骨たくましく、最も年長な個体は"
+" 12 人の男に匹敵する腕力を有すると言われています。"
 
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:31
@@ -8601,7 +8626,7 @@ msgstr "拳"
 #. [unit_type]: id=Orcish Adept, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Adept.cfg:5
 msgid "Orcish Adept"
-msgstr ""
+msgstr "オークの見習い術士"
 
 #. [unit_type]: id=Orcish Adept, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Adept.cfg:24
@@ -8610,6 +8635,9 @@ msgid ""
 "\n"
 "Although physically frail compared to other orcs this shamanistic art makes even a freshly trained Adept a force to be reckoned with on the battlefield."
 msgstr ""
+"霊的な資質を持つ女性のオークは、オークの魔術の道へと導かれることがあります。「見習い術士（Adept）」と呼ばれるこれらの訓練を受け始めたオークは、生と死を分かつ呪術的な力に対して、不可思議な影響力を獲得します。この術を自身の内に向けた場合、ほとんどの魔法に対して高い耐性をもたらします。一方、外の敵へと向けた場合、相手から生命力を吸い取るという恐ろしい力を発揮します。\n"
+"\n"
+"他のオークに比べて肉体的には虚弱であるものの、このシャーマンの術により、訓練を終えたばかりの見習いであっても戦場で決して軽視できない脅威となります。"
 
 #. [attack]: type=arcane
 #. [object]
@@ -8632,6 +8660,9 @@ msgid ""
 "\n"
 "Orcish Shamans are rare exceptions to this rule. Respected among clans and seen as a trustworthy and neutral party, Shamans serve as guardians of orcish wisdom, and advisors in times of crisis — not something orcs tend to otherwise tolerate. By the time an Adept is recognized as a fully-fledged Shaman, she has committed to memory much of the orcs’ collective oral tradition. This much-practiced wisdom has many applications, not least of which is their improved ability to draw life from their foes during battle."
 msgstr ""
+"知性を持つ種族の例に漏れず、オークもまた自らが生きる世界の成り立ちについて思いを巡らせることがあります。取り留めのない思索の域を超えて探究しようとする者もいますが、巨大なオークの氏族が見せる、好戦的で遊牧的な生活様式は学術的な研究には適しておらず、稀に現れる学究肌のオークは例外なく、より好戦的な同胞によって殺されるか奴隷にされてしまいます。\n"
+"\n"
+"オークのシャーマンは、この掟における極めて珍しい例外です。氏族間で尊敬を集め、信頼できる中立的な存在とみなされているシャーマンは、オークの英知の守護者、そして危機の際の助言者としての役割を果たします——本来、オークが他者からの助言を許容することはまずありません。見習い術士（Adept）が一人前のシャーマンとして認められる頃には、彼女はオーク全体の口承伝承の多くを暗記しています。培われたこの英知は多岐にわたる用途を持ち、戦闘中に敵から生命力を吸い取る能力の向上もその一つです。"
 
 #. [unit_type]: id=Orcish Sorceress, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:5
@@ -8645,21 +8676,24 @@ msgid ""
 "\n"
 "The greatest of these elders make up the Great Council, which may arbitrate the many conflicts that arise between clans of their argumentative brethren. Having practiced their mystical art to perfection, these aged orcs are held in the highest respect across the various clans."
 msgstr ""
+"オークは潜在的には人間と同じくらいの寿命を秘めていることもありますが、その寿命を全うできる個体はごく僅かです。一般的なオークは、戦争または同族の手によって命を落とすため、僅か 20 年から 30 年ほどしか生きられないからです。主要なオーク氏族の日々の抗争から孤立して暮らすシャーマンのみが、一般に高齢に達するまで生き永らえることができます。\n"
+"\n"
+"これら長老の中でも特に優れた者たちが「大評議会」を構成し、争いの絶えない同胞氏族間で生じる数々の紛争を調停します。神秘の術を完璧の域まで極めたこれらの老齢のオークは、様々な氏族を通じて最高の尊敬を集めています。"
 
 #. [attack]: type=arcane
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:40
 msgid "sap"
-msgstr ""
+msgstr "生命搾取"
 
 #. [unit_type]: id=Beacon, race=mechanical
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Beacon.cfg:5
 msgid "Beacon"
-msgstr ""
+msgstr "狼煙台"
 
 #. [unit_type]: id=Saurian Devotee, race=lizard, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:23
 msgid "Saurian Devotee"
-msgstr ""
+msgstr "トカゲの信徒"
 
 #. [unit_type]: id=Saurian Devotee, race=lizard, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:37
@@ -8668,6 +8702,7 @@ msgid ""
 "Devotees. Although they still lack the strength of Augurs and Prophets, they"
 " can still use their abilities to defend their clan in times of need."
 msgstr ""
+"呪術に強い関心を持つ若いトカゲは、信徒として訓練を受けます。占い師や預言者ほどの力はまだ備えていませんが、いざという時には、その能力を発揮して氏族を守ることができます。"
 
 #. [attack]: type=cold
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:54
@@ -8688,11 +8723,14 @@ msgid ""
 "older, they will quickly learn to fend for themselves and become fully grown"
 " adults by the age of three."
 msgstr ""
+"これらの若いトカゲは生後 1 "
+"年未満であり、あまりに無力で虚弱なため、狩りや戦闘を行うことができません。比較的成長した個体は一族内で幾つかの基礎的な雑務をこなすこともありますが、戦闘においては依然として無防備です。成長するにつれて、自分自身の身を守る術を急速に覚え、3"
+" 歳になる頃には立派な成体となります。"
 
 #. [unit_type]: id=Saurian Spike, race=lizard, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:23
 msgid "Saurian Spike"
-msgstr ""
+msgstr "トカゲの槍使い"
 
 #. [unit_type]: id=Saurian Spike, race=lizard, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:37
@@ -8702,6 +8740,7 @@ msgid ""
 " small animals, but are still unprepared for a true battle, fighting only on"
 " the most dire occasions."
 msgstr ""
+"これらの若いトカゲは、まだ槍の扱いを学んでいる最中であり、年長者たちのような技量には達していません。小動物を狩る程度の技術は備えていますが、本格的な戦闘への備えはまだできておらず、真に切迫した状況においてのみ戦いに加わります。"
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:45
@@ -8721,12 +8760,12 @@ msgstr "クァー！"
 #. [message]: speaker={UNIT}
 #: data/campaigns/The_Deceivers_Gambit/utils/macros.cfg:511
 msgid "Glob glob glob."
-msgstr ""
+msgstr "ゴボ ゴボ ゴボ。"
 
 #. [message]: speaker={UNIT}
 #: data/campaigns/The_Deceivers_Gambit/utils/macros.cfg:520
 msgid "Fsss crackle hiss."
-msgstr ""
+msgstr "フシュー パチッ シュー。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:80
@@ -8736,7 +8775,7 @@ msgstr "魔弾"
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:239
 msgid "No Target"
-msgstr ""
+msgstr "対象なし"
 
 #. [dummy]: id=panacea
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:286
@@ -8762,6 +8801,9 @@ msgid ""
 "\n"
 "Recruited elementals dissipate at the end of each scenario."
 msgstr ""
+"このユニットは熟練した召喚者です。隣接する友軍の精霊は敵に与えるダメージが 100% 増加し、獲得経験値も 100% 増加します。\n"
+"\n"
+"雇用した精霊は、各シナリオの終了時に消滅します。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:457
@@ -8795,17 +8837,17 @@ msgstr "記憶術"
 #. [dummy]: id=mnemonic
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:666
 msgid "Whenever an adjacent ally gains xp, you gain the same amount of xp."
-msgstr ""
+msgstr "隣接する味方が XP を獲得するたびに、術者も同量の XP を獲得する。"
 
 #. [disable]: id=skill_counterspell
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1053
 msgid "counterspelled"
-msgstr ""
+msgstr "呪文無効化"
 
 #. [disable]: id=skill_counterspell
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1054
 msgid "Counterspell is nullifying this magical attack."
-msgstr ""
+msgstr "「結界」により、この魔法攻撃は無効化されています。"
 
 #. [message]: speaker=Delfador
 #. Delfador has just cast his Counterspell spell. Magical attacks (including
@@ -8818,13 +8860,14 @@ msgid ""
 "They called me crazy, but I always knew I could figure out a way to block "
 "magic! I just needed to copy what I— the fake I— did during that prophecy."
 msgstr ""
+"皆は私を狂人扱いしたが、魔法を遮断する方法を編み出せるはずだと、ずっと考えていた！あの予言の中で、自分が——いや、偽の私が——やったことを真似れば良かっただけのことだ。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1322
 msgid ""
 "My polymorph spell has ended over impassable terrain! I‘m falling to my "
 "death!"
-msgstr ""
+msgstr "変化の魔法がマズいところで切れてしまった！死んでしまう！"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1418
@@ -8834,50 +8877,50 @@ msgstr "剣の舞"
 #. [chance_to_hit]: id=skill_illusion
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1488
 msgid "accuracy:"
-msgstr ""
+msgstr "命中："
 
 #. [message]: speaker=unit
 #. Delfador is magically disguised as a drake, and has just case a fireball
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1625
 msgid "Taste drakefire!"
-msgstr ""
+msgstr "ドレークの炎を味わえ！"
 
 #. [message]: speaker=Delfador
 #. Delfador has just saved a unit from lethal damage with the Contingency
 #. spell
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1841
 msgid "I’ve got you! You can thank my old master for inventing this spell."
-msgstr ""
+msgstr "助けてやったぞ！この呪文を編み出してくれた私の恩師に感謝するんだな。"
 
 #. [message]: speaker=Methor
 #. Methor is probably not here right now to say this line, but he might be
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1846
 msgid "Well, somebody had to! And you’re welcome!"
-msgstr ""
+msgstr "まあ、誰かがやらねばならんかったからの！礼には及ばぬ！"
 
 #. [object]: type=fire
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1906
 msgid "lightning"
-msgstr "稲妻"
+msgstr "雷撃"
 
 #. [dummy]: id=chain
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1916
 msgid "chain"
-msgstr ""
+msgstr "連撃"
 
 #. [dummy]: id=chain
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1917
 msgid ""
 "This attack can be used multiple times on offense, but consecutive uses "
 "strike one fewer time."
-msgstr ""
+msgstr "この攻撃は攻撃時に複数回使用できますが、連続で使用するごとに攻撃回数が 1 回少なくなります。"
 
 #. [message]: speaker=$speaker_id
 #. Delfador has just cast his cataclysm spell, dealing heavy damage in a large
 #. radius and destroying trees/villages/castles
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2232
 msgid "Dear lords of light, what demon has come upon us?!"
-msgstr ""
+msgstr "光の神々よ、なんという悪魔が舞い降りてきたのだ！？"
 
 #. [set_menu_item]: id=TDG_spellcasting
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2522
@@ -8951,7 +8994,7 @@ msgstr "Maddock卿"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:174
 msgid "Colonel Dommel"
-msgstr ""
+msgstr "Dommel 隊長"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:186
 msgid "Kestrel"
@@ -8973,63 +9016,63 @@ msgstr "嫌だ、こんなところで終わるわけにはいかない！なす
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:575
 msgid "No! Magic, why have you failed me..."
-msgstr ""
+msgstr "そんな！魔術よ、なぜ私を見放すのだ・・・"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:586
 msgid "If only I had been a little wiser..."
-msgstr ""
+msgstr "あと少しだけでも私に智慧があれば・・・"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:598
 msgid "War, pain, death... I tried so hard to change things..."
-msgstr ""
+msgstr "戦、苦しみ、そして死・・・運命を変えようと、あれほど必死に抗ったというのに・・・"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:610
 msgid "I have failed my kingdom and my duty..."
-msgstr ""
+msgstr "我が王国と己の責務を全うできぬとは・・・"
 
 #. [message]: speaker=Garard
 #. reference to Shakespeare's Richard III
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:622
 msgid "A horse! A horse! My kingdom for a horse..."
-msgstr ""
+msgstr "馬だ！馬を引け！馬一頭に我が王国をくれてやる・・・"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:632
 msgid "It’s finally over..."
-msgstr ""
+msgstr "ようやく終わりか・・・"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:642
 msgid "Blasted orcs..."
-msgstr ""
+msgstr "忌々しいオークどもめ・・・"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:654
 msgid "Nobody can cheat death forever..."
-msgstr ""
+msgstr "誰であれ、死から永遠に逃れ続けることはできぬ・・・"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:665
 msgid "Deoran, I never had a chance to tell you—"
-msgstr ""
+msgstr "Deoran、あなたにずっと伝えたかったことが——"
 
 #. [message]: speaker=Lynyan
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:680
 msgid "Boss, I ain’t feelin’ too hot..."
-msgstr ""
+msgstr "旦那、どうも具合が悪いみたいだ・・・"
 
 #. [message]: speaker=Lynyan
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:685
 msgid "I ain’t feelin’ too hot..."
-msgstr ""
+msgstr "どうも具合が悪いみたいだ・・・"
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:696
 msgid "I shoulda never left my swamp..."
-msgstr ""
+msgstr "沼地を出るんじゃなかったぜ・・・"
 
 #. [message]: speaker=Kaylan
 #. since he reappears in HttT's blackwater port, he can't die here.
@@ -9037,4 +9080,4 @@ msgstr ""
 msgid ""
 "I am grievously injured; I can be of no further aid in your quest. Fight on "
 "without me, Delfador!"
-msgstr ""
+msgstr "深手を負ってしまった。もはやこれ以上お力になることはできませぬ。私のことは構わず、戦い続けてください、Delfador 様！"
