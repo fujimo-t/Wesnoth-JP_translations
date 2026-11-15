@@ -5,9 +5,9 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# RatArmy, 2026
 # tamanegi, 2026
 # h22, 2026
+# RatArmy, 2026
 # 
 #, fuzzy
 msgid ""
@@ -16,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
 "PO-Revision-Date: 2026-03-28 19:10+0000\n"
-"Last-Translator: h22, 2026\n"
+"Last-Translator: RatArmy, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/wesnoth-jp/teams/60513/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -261,7 +261,7 @@ msgstr "綺麗な石畳"
 #. [terrain_type]: id=road_desert
 #: data/core/terrain.cfg:274
 msgid "Gravel"
-msgstr ""
+msgstr "砂利"
 
 #. [terrain_type]: id=stone_path
 #: data/core/terrain.cfg:284
@@ -791,6 +791,7 @@ msgid ""
 "fungus are wanted, ‘Tb’ is a mushroom base terrain, which can be used with "
 "or without ‘^Tf’ on top."
 msgstr ""
+"オーバーレイ「^Uf」と「^Ufi」は非推奨です。他の地形の上にオーバーレイが表示されるにも関わらず、移動と回避はキノコ地形として計算され、下にある地形が無視されるからです。推奨される移行先は「^Tf」と「^Tfi」で、それらは見た目は同じですがグラフィック通りに計算が行われます。純粋なキノコ地形として計算されるヘクスが必要な場合には、「Tb」を使用してください。これはキノコのベース地形であり、その上に「^Tf」があるかどうかを問わず使用することができます。"
 
 #. [terrain_type]: id=fungus_grove_old
 #. [terrain_type]: id=fungus_beam_old
@@ -2150,26 +2151,26 @@ msgstr "次のヒントを表示します"
 #. [button]: id=toggle_tip_panel
 #: data/gui/themes/celes/dialogs/title_screen.cfg:215
 msgid "Tip of the Day"
-msgstr ""
+msgstr "今日のヒント"
 
 #. [button]: id=toggle_tip_panel
 #. [toggle_button]: id=show_tips
 #: data/gui/themes/celes/dialogs/title_screen.cfg:216
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:223
 msgid "Show tip of the day"
-msgstr ""
+msgstr "今日のヒントを表示"
 
 #. [button]: id=about
 #: data/gui/themes/celes/dialogs/title_screen.cfg:229
 #: data/gui/themes/default/dialogs/title_screen.cfg:472
 msgid "About"
-msgstr ""
+msgstr "このゲームについて"
 
 #. [button]: id=about
 #: data/gui/themes/celes/dialogs/title_screen.cfg:230
 #: data/gui/themes/default/dialogs/title_screen.cfg:473
 msgid "General information about Battle for Wesnoth"
-msgstr ""
+msgstr "Battle for Wesnoth の概略"
 
 #. [button]: id=language
 #. [label]
@@ -2320,7 +2321,7 @@ msgstr "ヘルプ"
 #. [grid]
 #: data/gui/themes/celes/dialogs/title_screen.cfg:297
 msgid "Visit the in-game help"
-msgstr ""
+msgstr "ゲーム内ヘルプを開きます"
 
 #. [grid]
 #. [button]: id=cancel
@@ -2355,7 +2356,7 @@ msgstr "コピー"
 #. in the default Lato font
 #: data/gui/themes/celes/widgets/button_success.cfg:269
 msgid "page^<b><span font_family='DejaVu Sans'>✔</span> Copied</b>"
-msgstr ""
+msgstr "<b><span font_family='DejaVu Sans'>✔</span> コピー完了</b>"
 
 #. [button]: id=click_dismiss
 #. [button]: id=ok
@@ -2859,7 +2860,7 @@ msgstr "防御側"
 #. This one is the page title, shown in bold.
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:208
 msgid "campaign_landing^Welcome to Wesnoth v1.20"
-msgstr ""
+msgstr "Wesnoth v1.20 へようこそ"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:210
@@ -2871,13 +2872,16 @@ msgid ""
 "style='italic'>Heir to the Throne</span>. The intended way to learn both the"
 " story and the game mechanics is to play the campaigns in that order."
 msgstr ""
+"<b>もしあなたが Wesnoth 初心者なら</b>、ストーリーを<span color='#e1e119' "
+"style='italic'>南部防衛隊</span>から左のリストの順番にプレイし、半世紀後の<span color='#e1e119' "
+"style='italic'>王位継承者</span>で締めくくりましょう。ストーリーとゲームのメカニズムの両方を学ぶには、この順番でキャンペーンをプレイするのがおすすめです。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:212
 msgid ""
 "campaign_landing^<b>If you’re a returning player</b>, you’ll notice a number"
 " of changes since v1.18:"
-msgstr ""
+msgstr "<b>もしあなたが Wesnoth 経験者であれば</b>、v1.18 から以下の変化があることに気付くでしょう："
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:214
@@ -2887,6 +2891,9 @@ msgid ""
 "awarding Konrad unique recruits, companions, or items. The original campaign"
 " is still available as <i>Heir to the Throne, Classic</i>."
 msgstr ""
+"<span color='#e1e119' style='italic'>王位継承者</span>は 33 "
+"の分岐シナリオを持つオープンワールドとなり、それぞれの道筋ではユニークな雇用リストと仲間、アイテムが Konrad "
+"に贈られます。以前のキャンペーンも<i>王位継承者クラシック</i>としてプレイ可能です。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:216
@@ -2897,6 +2904,9 @@ msgid ""
 " orcs of the north. Choose between 23 magic spells as you bear witness to "
 "the rise of a tyrant."
 msgstr ""
+"<i>Delfador の回顧録</i>が<span color='#e1e119' "
+"style='italic'>逆賊の奸計</span>に置き換わりました。北の獰猛なオークと対峙するため、Alduin "
+"の岸辺から王城へ向かう若き魔術師の足跡を辿りましょう。23 の魔法の呪文から選択を行い、暴君の台頭を目撃しましょう。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:218
@@ -5874,12 +5884,12 @@ msgstr "ターン開始時の自動移動を無効にします"
 #. [toggle_button]: id=show_turn_dialog
 #: data/gui/themes/default/dialogs/preferences/01_general.cfg:114
 msgid "Turn prompt"
-msgstr ""
+msgstr "ターンプロンプト"
 
 #. [toggle_button]: id=show_turn_dialog
 #: data/gui/themes/default/dialogs/preferences/01_general.cfg:115
 msgid "Display a prompt at the beginning of your turn"
-msgstr ""
+msgstr "あなたのターン開始時にプロンプトを表示します"
 
 #. [toggle_button]: id=whiteboard_on_start
 #: data/gui/themes/default/dialogs/preferences/01_general.cfg:128
@@ -6090,7 +6100,7 @@ msgstr "画面のリフレッシュレートとレンダリングを同期させ
 #. [label]
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:152
 msgid "In-game theme:"
-msgstr ""
+msgstr "ゲーム内テーマ："
 
 #. [menu_button]: id=choose_theme
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:165
@@ -6102,14 +6112,14 @@ msgstr "ゲーム画面でのインターフェースのテーマを変更しま
 #. [label]
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:176
 msgid "UI theme:"
-msgstr ""
+msgstr "UI テーマ："
 
 #. [menu_button]: id=choose_gui2_theme
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:192
 msgid ""
 "Change the UI (GUI2) theme. Additional themes may be provided by community-"
 "made add-ons"
-msgstr ""
+msgstr "UI (GUI2) のテーマを変更します。追加のテーマはコミュニティー製のアドオンによって提供されるかもしれません。"
 
 #. [button]: id=apply
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:201
@@ -6119,7 +6129,7 @@ msgstr ""
 #. [toggle_button]: id=show_tips
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:224
 msgid "Show gameplay tips on the main menu"
-msgstr ""
+msgstr "メインメニュー上にゲームプレイのヒントを表示します"
 
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:236
@@ -6211,22 +6221,22 @@ msgstr ""
 #. [button]: id=custom_orb_color
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:423
 msgid "Customize orb colors"
-msgstr ""
+msgstr "宝珠の色のカスタマイズ"
 
 #. [button]: id=custom_orb_color
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:425
 msgid "Change the appearance of the unit movement status indicators"
-msgstr ""
+msgstr "ユニット移動ステータスの表示をカスタマイズします"
 
 #. [button]: id=custom_reach_map
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:438
 msgid "Customize reach map"
-msgstr ""
+msgstr "リーチマップのカスタマイズ"
 
 #. [button]: id=custom_reach_map
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:439
 msgid "Change the appearance of the unit movement UI overlay"
-msgstr ""
+msgstr "ユニット移動 UI オーバーレイの表示をカスタマイズします。"
 
 #. [tab]
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:498
@@ -6421,22 +6431,22 @@ msgstr "友人またはブロック指定したプレイヤーはいません。
 #. [label]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:101
 msgid "Reach Map Options"
-msgstr ""
+msgstr "リーチマップのオプション"
 
 #. [label]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:112
 msgid "Highlight Color"
-msgstr ""
+msgstr "ハイライトカラー"
 
 #. [label]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:130
 msgid "Enemy Highlight Color"
-msgstr ""
+msgstr "敵のハイライトカラー"
 
 #. [grid]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:142
 msgid "Border Opacity:"
-msgstr ""
+msgstr "境界の不透明度："
 
 #. [grid]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:144

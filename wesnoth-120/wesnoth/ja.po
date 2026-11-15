@@ -7499,7 +7499,7 @@ msgstr "終了しますか？"
 
 #: src/reports.cpp:196
 msgid "Type:"
-msgstr ""
+msgstr "種類："
 
 #: src/reports.cpp:200
 msgid "Special Notes:"
@@ -7507,7 +7507,7 @@ msgstr "特記事項："
 
 #: src/reports.cpp:224
 msgid "Race:"
-msgstr ""
+msgstr "種族："
 
 #: src/reports.cpp:243
 msgid "Side: <b>$side_name</b> ($color_name)"
@@ -7515,11 +7515,11 @@ msgstr "陣営：<b>$side_name</b>（$color_name） "
 
 #: src/reports.cpp:321
 msgid "Trait:"
-msgstr ""
+msgstr "特性："
 
 #: src/reports.cpp:344
 msgid "invisible:"
-msgstr ""
+msgstr "不可視："
 
 #: src/reports.cpp:345
 msgid "This unit is invisible. It cannot be seen or attacked by enemy units."
@@ -7527,7 +7527,7 @@ msgstr "このユニットは目に見えません。敵のユニットから発
 
 #: src/reports.cpp:348
 msgid "slowed:"
-msgstr ""
+msgstr "遅化："
 
 #: src/reports.cpp:349
 msgid ""
@@ -7537,7 +7537,7 @@ msgstr "このユニットは動きが鈍くなっています。攻撃時には
 
 #: src/reports.cpp:352
 msgid "poisoned:"
-msgstr ""
+msgstr "毒："
 
 #: src/reports.cpp:353
 msgid ""
@@ -7551,7 +7551,7 @@ msgstr ""
 
 #: src/reports.cpp:356
 msgid "petrified:"
-msgstr ""
+msgstr "石化："
 
 #: src/reports.cpp:357
 msgid "This unit has been petrified. It may not move or attack."
@@ -7559,7 +7559,7 @@ msgstr "このユニットは石化しています。移動や攻撃はできま
 
 #: src/reports.cpp:360
 msgid "unhealable:"
-msgstr ""
+msgstr "回復不能："
 
 #: src/reports.cpp:361
 msgid ""
@@ -8333,7 +8333,7 @@ msgstr "このユニットを雇用するにはゴールドが足りません。
 
 #: src/units/helper.cpp:195
 msgid "The $unit_type is not available to recruit."
-msgstr ""
+msgstr "$unit_type は雇用できません。"
 
 #: src/units/types.cpp:785 src/units/types.cpp:793
 msgid "female^lawful"
@@ -8369,11 +8369,11 @@ msgstr "薄明"
 
 #: src/units/unit.cpp:364
 msgid "This unit cannot be dismissed."
-msgstr ""
+msgstr "このユニットは解雇できません。"
 
 #: src/units/unit.cpp:762
 msgid "This unit is a leader and cannot be dismissed."
-msgstr ""
+msgstr "このユニットはリーダーであり、解雇できません。"
 
 #: src/units/unit.cpp:2018
 msgid "$attack_list|: $effect_description"
