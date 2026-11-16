@@ -2904,9 +2904,9 @@ msgid ""
 " orcs of the north. Choose between 23 magic spells as you bear witness to "
 "the rise of a tyrant."
 msgstr ""
-"<i>Delfador の回顧録</i>が<span color='#e1e119' "
-"style='italic'>逆賊の奸計</span>に置き換わりました。北の獰猛なオークと対峙するため、Alduin "
-"の岸辺から王城へ向かう若き魔術師の足跡を辿りましょう。23 の魔法の呪文から選択を行い、暴君の台頭を目撃しましょう。"
+"<span color='#e1e119' style='italic'>逆賊の奸計</span>によって<i>Delfador "
+"の回顧録</i>が置き換えられました。北の獰猛なオークと対峙するため、Alduin の岸辺から王城へ向かう若き魔術師の足跡を辿りましょう。23 "
+"の魔法の呪文から選択を行い、暴君の台頭を目撃しましょう。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:218
@@ -2915,6 +2915,8 @@ msgid ""
 " our first troll campaign. Lead the Golden Flame Tribe out from the bowels "
 "of Irdya and up to the surface world — but beware what awaits you there."
 msgstr ""
+"<span color='#e1e119' style='italic'>夜明けの黄昏</span>はトロルが主役となる初のキャンペーンです。Irdya"
+" の奥深くから地表世界へ黄金の炎部族を導きましょう。ただし、そこに待ち構えるものに気をつけねばなりません。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:220
@@ -2924,6 +2926,8 @@ msgid ""
 "town on the Bay of Pearls. When corsairs strike, the villagers must join "
 "forces with the local merfolk and take the fight to the pirates."
 msgstr ""
+"<span color='#e1e119' "
+"style='italic'>真珠と海賊</span>は新しい初心者向けキャンペーンで、真珠の入り江にある穏やかな漁村が舞台となります。海賊の襲撃を受けて、村人たちは近隣のマーフォークと協力し海賊と戦います。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:222
@@ -2934,6 +2938,9 @@ msgid ""
 "original tutorial is still available as part of <i>Heir to the Throne, "
 "Classic</i>."
 msgstr ""
+"<span color='#e1e119' "
+"style='italic'>南部防衛隊</span>には大幅な改訂が行われ、<i>戦闘訓練</i>チュートリアルを置き換えることになりました。Delfador"
+" の指導に郷愁を感じるならば、<i>王位継承者クラシック</i>の一部としてかつてのチュートリアルをプレイすることができます。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:224
@@ -2943,6 +2950,8 @@ msgid ""
 "AI, a new Thunderer advancement, a redesign of <i>High Pass</i>, and the re-"
 "addition of the formerly removed <i>Mages and Drakes</i>."
 msgstr ""
+"<span color='#e1e119' style='italic'>Thursagan の鎚</span>にはストーリーの調整、敵 AI "
+"の改善、雷撃兵の新たなレベルアップ先、<i>峠道</i>の再デザイン、かつて削除された<i>魔術師とドレーク</i>の復活が実施され、キャンペーン全体が強化されています。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:226
@@ -2953,13 +2962,15 @@ msgid ""
 "and dialogue sequences were changed for better continuity with other "
 "campaigns."
 msgstr ""
+"<span color='#e1e119' style='italic'>運命の風</span>では雇用コストの低減、野生動物の発生条件や AI "
+"の再デザイン、キャンペーン半ばの戦闘の大規模化によってバランス調整が行われました。いくつかのキャラクターと会話は、他のキャンペーンとの繋がりが改善するように変更されています。"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:228
 msgid ""
 "campaign_landing^For a full list of changes, consult our official changelog "
 "at https://www.wesnoth.org/start/1.20/"
-msgstr ""
+msgstr "すべての変更点については、公式チェンジログを参照してください： https://www.wesnoth.org/start/1.20/"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:249
@@ -2970,6 +2981,8 @@ msgid ""
 "multiplayer maps, additional media and various other content! Be sure to "
 "give it a try!"
 msgstr ""
+"メインラインキャンペーンに加えて、Wesnoth "
+"では他のプレイヤーによって制作されたアドオンコンテンツが増加し続けており、アドオンサーバーから取得することができます。アドオンにはシングルもしくはマルチプレイヤーのキャンペーンだけでなく、マルチプレイヤーマップ、追加のメディアや様々なコンテンツが存在します！忘れずにトライしてみましょう！"
 
 #. [label]
 #. "more than 15" gives a little leeway to add or remove one without changing
@@ -3019,59 +3032,59 @@ msgstr "概ねストーリー上のイベントの順"
 #. [multimenu_button]: id=filter_completion
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:329
 msgid "Filter by campaign completion status"
-msgstr ""
+msgstr "キャンペーンクリアのステータスでフィルターする"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:332
 msgid "Not Completed"
-msgstr ""
+msgstr "未クリア"
 
 #. [option]
 #. campaigns which the player hasn't beaten, rather than campaigns which the
 #. author hasn't finished writing
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:334
 msgid "Show campaigns not completed by player"
-msgstr ""
+msgstr "プレイヤーによってクリアされていないキャンペーンを表示"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:338
 msgid "Completed: Bronze"
-msgstr ""
+msgstr "クリア：銅"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:339
 msgid "Show campaigns completed at easiest difficulty"
-msgstr ""
+msgstr "最も簡単な難易度でクリアされたキャンペーンを表示"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:343
 msgid "Completed: Silver"
-msgstr ""
+msgstr "クリア：銀"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:344
 msgid "Show campaigns completed at intermediate difficulties"
-msgstr ""
+msgstr "中間の難易度でクリアされたキャンペーンを表示"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:348
 msgid "Completed: Gold"
-msgstr ""
+msgstr "クリア：金"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:349
 msgid "Show campaigns completed at hardest difficulty"
-msgstr ""
+msgstr "最も難しい難易度でクリアされたキャンペーンを表示"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:353
 msgid "Completed: All"
-msgstr ""
+msgstr "クリア：すべて"
 
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:354
 msgid "Show completed campaigns"
-msgstr ""
+msgstr "クリアされたキャンペーンを表示"
 
 #. [label]
 #. [label]: id=mods_header
@@ -3857,74 +3870,74 @@ msgstr "なし"
 #. [button]: id=load_unit_type
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:180
 msgid "Load Unit Type"
-msgstr ""
+msgstr "ユニットの種類を読込"
 
 #. [grid]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:214
 msgid "Unit Image:"
-msgstr ""
+msgstr "ユニット画像："
 
 #. [grid]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:216
 msgid "Portrait:"
-msgstr ""
+msgstr "ポートレート："
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:227
 msgid "Level:"
-msgstr ""
+msgstr "レベル："
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:252
 #: data/gui/themes/default/dialogs/mp_join_game.cfg:197
 #: data/gui/themes/default/dialogs/mp_staging.cfg:200
 msgid "Gender:"
-msgstr ""
+msgstr "性別："
 
 #. [row]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:260
 msgid "gender^Male"
-msgstr ""
+msgstr "男性"
 
 #. [row]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:261
 msgid "gender^Female"
-msgstr ""
+msgstr "女性"
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:276
 msgid "Advances to:"
-msgstr ""
+msgstr "レベルアップ先："
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:302
 msgid "Race:"
-msgstr ""
+msgstr "種族："
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:355
 msgid "Alignment:"
-msgstr ""
+msgstr "アラインメント："
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:381
 msgid "HP:"
-msgstr ""
+msgstr "HP："
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:411
 msgid "XP:"
-msgstr ""
+msgstr "XP："
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:441
 msgid "Cost:"
-msgstr ""
+msgstr "コスト："
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:471
 msgid "Movement:"
-msgstr ""
+msgstr "移動："
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
@@ -4486,63 +4499,63 @@ msgstr "スクロール"
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:130
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Version:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>バージョン：</b>"
 
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:158
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Running on:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>実行環境：</b>"
 
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:187
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Architecture:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>アーキテクチャ：</b>"
 
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:215
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Homepage:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>ホームページ：</b>"
 
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:247
 msgid "<span font_family='DejaVu Sans'>✦</span> <b>Wiki:</b>"
-msgstr ""
+msgstr "<span font_family='DejaVu Sans'>✦</span> <b>Wiki：</b>"
 
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:287
 msgid ""
 "<i><span font_family='DejaVu Sans'>➤</span> Copy a full report here:</i>"
-msgstr ""
+msgstr "<i><span font_family='DejaVu Sans'>➤</span>全リポートのコピー：</i>"
 
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:307
 msgid ""
 "<i><span font_family='DejaVu Sans'>➤</span> Report an issue or request a "
 "feature:</i>"
-msgstr ""
+msgstr "<i><span font_family='DejaVu Sans'>➤</span>問題の報告または機能のリクエスト：</i>"
 
 #. [button]: id=issue
 #: data/gui/themes/default/dialogs/game_version.cfg:320
 msgid "Report Issue"
-msgstr ""
+msgstr "問題の報告"
 
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:329
 msgid "<i><span font_family='DejaVu Sans'>➤</span> View Game Manual:</i>"
-msgstr ""
+msgstr "<i><span font_family='DejaVu Sans'>➤</span> ゲームマニュアルの表示：</i>"
 
 #. [button]: id=view_manual
 #. button to open the game manual in the platform's browser.
 #: data/gui/themes/default/dialogs/game_version.cfg:342
 msgid "View Manual"
-msgstr ""
+msgstr "マニュアルの表示"
 
 #. [label]
 #: data/gui/themes/default/dialogs/game_version.cfg:350
 msgid ""
 "<i><span font_family='DejaVu Sans'>➤</span> Re-open the version migrator "
 "dialog:</i>"
-msgstr ""
+msgstr "<i><span font_family='DejaVu Sans'>➤</span>バージョン移行ダイアログの再表示：</i>"
 
 #. [button]: id=run_migrator
 #. button to open the version migration dialog manually to re-migrate add-ons
@@ -4660,7 +4673,7 @@ msgstr "寄付"
 #. [label]: id=description
 #: data/gui/themes/default/dialogs/game_version.cfg:852
 msgid "An open source, turn-based strategy game with a high fantasy theme."
-msgstr ""
+msgstr "オープンソースの、ハイファンタジーをテーマとしたターン制戦略ゲーム。"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [tab]
@@ -4697,7 +4710,7 @@ msgstr "クレジット"
 #. [button]: id=license
 #: data/gui/themes/default/dialogs/game_version.cfg:980
 msgid "License"
-msgstr ""
+msgstr "ライセンス"
 
 #. [label]
 #: data/gui/themes/default/dialogs/gamestate_inspector.cfg:16
@@ -4867,7 +4880,7 @@ msgstr "参加するにはパスワードが必要です"
 #. [button]: id=delete_preset
 #: data/gui/themes/default/dialogs/lobby_main.cfg:305
 msgid "Delete this preset"
-msgstr ""
+msgstr "このプリセットを削除"
 
 #. [toggle_button]: id=filter_vacant_slots
 #: data/gui/themes/default/dialogs/lobby_main.cfg:477
@@ -7423,7 +7436,7 @@ msgstr ""
 msgid ""
 "This file is outside Wesnoth’s data dirs. Do you wish to copy it into your "
 "add-on?"
-msgstr ""
+msgstr "このファイルは Wesnoth のデータディレクトリの外にあります。あなたのアドオンの中にコピーしますか？"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:178
 msgid "Core"
