@@ -8898,7 +8898,7 @@ msgstr "名前をつけてマップを保存"
 
 #: src/hotkey/hotkey_command.cpp:187
 msgid "Convert To Scenario"
-msgstr ""
+msgstr "シナリオへ変換"
 
 #: src/hotkey/hotkey_command.cpp:188
 msgid "Save Scenario As"
