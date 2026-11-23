@@ -7693,11 +7693,11 @@ msgstr ""
 
 #: src/reports.cpp:920
 msgid "Weapon range:"
-msgstr ""
+msgstr "武器の射程："
 
 #: src/reports.cpp:921
 msgid "Damage type:"
-msgstr ""
+msgstr "ダメージ型："
 
 #: src/reports.cpp:922
 msgid "Damage versus:"
@@ -7715,7 +7715,7 @@ msgstr[0] ""
 
 #: src/reports.cpp:1048 src/reports.cpp:1088
 msgid "Weapon special:"
-msgstr ""
+msgstr "特殊武器："
 
 #: src/reports.cpp:1165
 msgid "weapon^None"

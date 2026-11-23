@@ -7429,7 +7429,7 @@ msgstr ""
 #: src/gui/dialogs/editor/custom_tod.cpp:171
 #: src/gui/dialogs/editor/edit_unit.cpp:295
 msgid "Choose File"
-msgstr ""
+msgstr "ファイルの選択"
 
 #: src/gui/dialogs/editor/custom_tod.cpp:182
 #: src/gui/dialogs/editor/edit_unit.cpp:306
@@ -7485,7 +7485,7 @@ msgstr "メディア"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:189
 msgid "Theme"
-msgstr ""
+msgstr "テーマ"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:190
 msgid "Other"
@@ -7513,7 +7513,7 @@ msgstr "地形変更"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:402
 msgid "The icon’s file size is too large"
-msgstr ""
+msgstr "アイコンファイルのサイズが大き過ぎます"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:404
 msgid "No validation errors"
@@ -7529,35 +7529,35 @@ msgstr "アイコンの選択"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:180
 msgid "scout"
-msgstr ""
+msgstr "scout"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:181
 msgid "fighter"
-msgstr ""
+msgstr "fighter"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:182
 msgid "archer"
-msgstr ""
+msgstr "archer"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:183
 msgid "mixed fighter"
-msgstr ""
+msgstr "mixed fighter"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:184
 msgid "healer"
-msgstr ""
+msgstr "healer"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:927
 msgid "Unsaved changes will be lost. Do you want to leave?"
-msgstr ""
+msgstr "保存されていない変更は失われます。移動しますか？"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:946
 msgid "Unit type saved."
-msgstr ""
+msgstr "ユニット種類が保存されました。"
 
 #: src/gui/dialogs/editor/generator_settings.cpp:38
 msgid "$count/1000 tiles"
-msgstr ""
+msgstr "$count/1000 タイル"
 
 #: src/gui/dialogs/editor/generator_settings.cpp:43
 msgid "Coastal"
@@ -7577,15 +7577,15 @@ msgstr "ファイル探索"
 
 #: src/gui/dialogs/file_dialog.cpp:191
 msgid "enter filename"
-msgstr ""
+msgstr "ファイル名を入力"
 
 #: src/gui/dialogs/file_dialog.cpp:201
 msgid "invalid extension (use $extensions)"
-msgstr ""
+msgstr "無効な拡張子（$extensions を使ってください）"
 
 #: src/gui/dialogs/file_dialog.cpp:208
 msgid "filename contains whitespace"
-msgstr ""
+msgstr "ファイル名が空白を含んでいます"
 
 #: src/gui/dialogs/file_dialog.cpp:237
 msgid "Open"
@@ -7593,7 +7593,7 @@ msgstr "開く"
 
 #: src/gui/dialogs/file_dialog.cpp:313
 msgid "Opening files is not supported, contact your packager"
-msgstr ""
+msgstr "開こうとしたファイルはサポートされていません。パッケージャーに連絡してください。"
 
 #: src/gui/dialogs/file_dialog.cpp:370
 msgid "The file already exists. Do you wish to overwrite it?"
@@ -7864,7 +7864,7 @@ msgstr "ロビーデータをダウンロード中"
 
 #: src/gui/dialogs/lua_interpreter.cpp:628
 msgid "The lua console can only be used in debug mode! (Run ‘:debug’ first)"
-msgstr ""
+msgstr "Lua コンソールはデバッグモードでのみ使用できます！（まず「:debug」を実行してください）"
 
 #: src/gui/dialogs/lua_interpreter.cpp:629
 msgid "lua console"
@@ -7872,13 +7872,13 @@ msgstr "Luaコンソール"
 
 #: src/gui/dialogs/migrate_version_selection.cpp:47
 msgid "No Other Version Found"
-msgstr ""
+msgstr "他のバージョンが見つかりません"
 
 #: src/gui/dialogs/migrate_version_selection.cpp:47
 msgid ""
 "This would import settings from a previous version of Wesnoth, but no other "
 "version was found on this device"
-msgstr ""
+msgstr "以前のバージョンの Wesnoth から設定をインポートできますが、このデバイス上には他のバージョンが見つかりませんでした。"
 
 #: src/gui/dialogs/multiplayer/faction_select.cpp:200
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:499
@@ -7899,6 +7899,7 @@ msgid ""
 " incompatible with your version. You might wish to suggest that the host’s "
 "add-ons be updated."
 msgstr ""
+"ホストがあなたよりも古く互換性の無いバージョンのアドオンを使用しているため、このゲームには参加できません。ホストにアドオンの更新をお願いするといいかもしれません。"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:192
 msgid "Missing User-made Content"
@@ -7963,7 +7964,7 @@ msgstr "ロビー"
 #: src/gui/dialogs/multiplayer/lobby.cpp:988
 msgid ""
 "This game doesn’t allow observers. Observe using moderator rights anyway?"
-msgstr ""
+msgstr "このゲームは観戦を許可していません。それを理解した上で、管理者権限で観戦しますか？"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:999
 msgid ""
@@ -8016,11 +8017,11 @@ msgstr "ランダムマップ"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:167
 msgid "Scenario not found: "
-msgstr ""
+msgstr "シナリオが見つかりません："
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:237
 msgid "Modification(s) not found: "
-msgstr ""
+msgstr "Mod が見つかりません："
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:294
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:295
@@ -8096,11 +8097,11 @@ msgstr "ゲーム"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:81
 msgid "Hotkey(s): $bindings"
-msgstr ""
+msgstr "ホットキー：$bindings"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:308
 msgid "Invalid Color"
-msgstr ""
+msgstr "無効な色"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:516
 msgid "Waiting for players to choose factions..."
@@ -8245,7 +8246,7 @@ msgstr "ユニット名を変更"
 
 #: src/gui/dialogs/units_dialog.cpp:281
 msgid "This unit requires no upkeep."
-msgstr ""
+msgstr "このユニットは維持費を必要としません。"
 
 #: src/gui/dialogs/units_dialog.cpp:282 src/gui/dialogs/units_dialog.cpp:287
 #: src/gui/dialogs/units_dialog.cpp:292
@@ -8334,7 +8335,7 @@ msgstr "サーバーからアドオンを削除します"
 #. TRANSLATORS: This is the new chat text indicator
 #: src/gui/widgets/chatbox.cpp:95
 msgid "NEW"
-msgstr ""
+msgstr "NEW"
 
 #: src/gui/widgets/chatbox.cpp:298
 msgid "whisper to $receiver"
@@ -8354,7 +8355,7 @@ msgstr ""
 
 #: src/gui/widgets/helper.cpp:147
 msgid "Mandatory widget ‘$id’ hasn't been defined."
-msgstr ""
+msgstr "必須 widget 「 $id 」が定義されていません。"
 
 #: src/gui/widgets/label.cpp:137 src/gui/widgets/multiline_text.cpp:429
 msgid "Open link?"
@@ -8367,7 +8368,7 @@ msgstr "リンクをコピーしました！"
 #: src/gui/widgets/listbox.cpp:696 src/gui/widgets/multi_page.cpp:224
 msgid ""
 "‘list_data’ must have the same number of columns as the ‘list_definition’."
-msgstr ""
+msgstr "「list_data」は「list_definition」と同じ数の行を持つ必要があります。"
 
 #: src/gui/widgets/listbox.cpp:731 src/gui/widgets/scrollbar_panel.cpp:86
 msgid "No list defined."
@@ -8375,7 +8376,7 @@ msgstr "listが定義されていません。"
 
 #: src/gui/widgets/listbox.cpp:736
 msgid "A ‘list_definition’ should contain one row."
-msgstr ""
+msgstr "「list_definition」は 1 列を含む必要があります。"
 
 #: src/gui/widgets/multi_page.cpp:200
 msgid "No page defined."
@@ -8385,7 +8386,7 @@ msgstr "pageが定義されていません。"
 msgid ""
 "Opening links is not supported, contact your packager. Link URL has been "
 "copied to the clipboard."
-msgstr ""
+msgstr "リンクのオープンがサポートされていません。パッケージャーに連絡してください。リンクURLをクリップボードにコピーしました。"
 
 #: src/gui/widgets/multimenu_button.cpp:171
 msgid "multimenu^All Selected"
@@ -8602,7 +8603,7 @@ msgstr "選択/移動/攻撃"
 
 #: src/hotkey/hotkey_command.cpp:84
 msgid "Touch Hex"
-msgstr ""
+msgstr "へクスをタッチ"
 
 #: src/hotkey/hotkey_command.cpp:85
 msgid "Animate Map"
@@ -8682,7 +8683,7 @@ msgstr "マップを保存"
 
 #: src/hotkey/hotkey_command.cpp:110
 msgid "Load Turn..."
-msgstr ""
+msgstr "指定ターンから再開"
 
 #: src/hotkey/hotkey_command.cpp:112
 msgid "Repeat Recruit"
@@ -8734,7 +8735,7 @@ msgstr "ユニットを殺す（デバッグモード）"
 
 #: src/hotkey/hotkey_command.cpp:126
 msgid "Teleport Unit (Debug!)"
-msgstr ""
+msgstr "ユニットのテレポート（デバッグ！）"
 
 #: src/hotkey/hotkey_command.cpp:128
 msgid "Objectives"
@@ -8874,7 +8875,7 @@ msgstr "ローカルタイムを指定する"
 
 #: src/hotkey/hotkey_command.cpp:178
 msgid "New Unit Type"
-msgstr ""
+msgstr "ユニット種類の新規作成"
 
 #: src/hotkey/hotkey_command.cpp:180
 msgid "Time Schedule Editor"
@@ -8890,7 +8891,7 @@ msgstr "新規シナリオ"
 
 #: src/hotkey/hotkey_command.cpp:184
 msgid "Load Map/Scenario"
-msgstr ""
+msgstr "マップ／シナリオの読込"
 
 #: src/hotkey/hotkey_command.cpp:186
 msgid "Save Map As"
@@ -9239,11 +9240,11 @@ msgstr "アドオン ID の変更"
 
 #: src/hotkey/hotkey_command.cpp:279
 msgid "Select active Add-on"
-msgstr ""
+msgstr "有効なアドオンの選択"
 
 #: src/hotkey/hotkey_command.cpp:280
 msgid "Open Add-on folder"
-msgstr ""
+msgstr "アドオンフォルダを開く"
 
 #: src/hotkey/hotkey_command.cpp:283
 msgid "Edit Side"
@@ -9307,7 +9308,7 @@ msgstr "言語の変更"
 
 #: src/hotkey/hotkey_command.cpp:301
 msgid "Start Game (MP)"
-msgstr ""
+msgstr "ゲームの開始（MP）"
 
 #: src/hotkey/hotkey_command.cpp:302
 msgid "Refresh WML"
