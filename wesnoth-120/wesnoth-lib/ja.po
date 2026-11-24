@@ -8421,7 +8421,7 @@ msgstr "widget が定義されていません。"
 
 #: src/gui/widgets/slider.cpp:356
 msgid "The number of value_labels and values don’t match."
-msgstr ""
+msgstr "value_labels と values の数が合いません。"
 
 #: src/gui/widgets/stacked_widget.cpp:242
 msgid "No stack layers defined."
@@ -8433,7 +8433,7 @@ msgstr "helptipがあるのにtooltipの無いwidgetが見つかりました。"
 
 #: src/gui/widgets/tab_container.cpp:172
 msgid "No grid defined for tab container control"
-msgstr ""
+msgstr "タブコンテナのコントロールにグリッドが定義されていません。"
 
 #: src/gui/widgets/tree_view.cpp:289
 msgid "No nodes defined for a tree view."
@@ -8441,7 +8441,7 @@ msgstr "tree viewのためのnodeが定義されていません。"
 
 #: src/gui/widgets/tree_view.cpp:319
 msgid "[node]id ‘root’ is reserved for the implementation."
-msgstr ""
+msgstr "[node]id「root」は実装のために予約されています。"
 
 #: src/gui/widgets/tree_view_node.cpp:57
 msgid "Unknown builder id for tree view node."
@@ -8457,16 +8457,16 @@ msgstr "（攻撃時 / 防御時）"
 
 #: src/gui/widgets/unit_preview_pane.cpp:220
 msgid "Remaining: $left/$max"
-msgstr ""
+msgstr "残り：$left/$max"
 
 #: src/gui/widgets/unit_preview_pane.cpp:223
 msgid "This unit can attack multiple times per turn."
-msgstr ""
+msgstr "このユニットは 1 ターンに複数回攻撃できます。"
 
 #: src/gui/widgets/unit_preview_pane.cpp:275
 msgid "uses $num attack"
 msgid_plural "uses $num attacks"
-msgstr[0] ""
+msgstr[0] "$num 回攻撃を使用"
 
 #: src/gui/widgets/unit_preview_pane.cpp:318
 #: src/gui/widgets/unit_preview_pane.cpp:349
@@ -8507,15 +8507,15 @@ msgstr "能力"
 
 #: src/gui/widgets/window.cpp:287
 msgid "Linked ‘$id’ group has multiple definitions."
-msgstr ""
+msgstr "「 $id 」に結び付けられたグループに重複する定義があります。"
 
 #: src/gui/widgets/window.cpp:884
 msgid "Click dismiss needs a ‘click_dismiss’ or ‘ok’ button."
-msgstr ""
+msgstr "Click dismissには「 click_dismiss 」または「 ok 」ボタンが必要です。"
 
 #: src/gui/widgets/window.cpp:909 src/gui/widgets/window.cpp:945
 msgid "Failed to show a dialog, which doesn’t fit on the screen."
-msgstr ""
+msgstr "画面に合わないため、ダイアログの表示に失敗しました。"
 
 #: src/hotkey/hotkey_command.cpp:52
 msgid "Saved Games"
